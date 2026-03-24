@@ -12,7 +12,7 @@ export default async function TeamsPage() {
 
   const { data: teams } = await supabase
     .from("teams")
-    .select("id, slug, name, name_ja, short_name, region")
+    .select("id, slug, name, name_ja, short_name, region, logo_url")
     .eq("is_active", true)
     .order("name");
 

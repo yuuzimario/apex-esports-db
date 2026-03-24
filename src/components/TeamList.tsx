@@ -11,6 +11,7 @@ type Team = {
   name_ja?: string | null;
   short_name?: string | null;
   region?: string | null;
+  logo_url?: string | null;
 };
 
 type Region = "APAC_N" | "APAC_S" | "NA" | "EMEA";
@@ -55,9 +56,17 @@ export function TeamList({ teams }: { teams: Team[] }) {
             className="bg-gray-900 rounded-xl p-5 hover:bg-gray-800 transition-colors border border-gray-800 hover:border-gray-700"
           >
             <div className="flex items-center gap-4">
-              <div className="w-14 h-14 rounded-lg bg-gray-700 flex items-center justify-center text-xl font-bold text-gray-400 shrink-0">
-                {team.short_name || team.name.substring(0, 2).toUpperCase()}
-              </div>
+              {team.logo_url ? (
+                <img
+                  src={team.logo_url}
+                  alt={team.name}
+                  className="w-14 h-14 rounded-lg bg-gray-700 object-contain p-1 shrink-0"
+                />
+              ) : (
+                <div className="w-14 h-14 rounded-lg bg-gray-700 flex items-center justify-center text-xl font-bold text-gray-400 shrink-0">
+                  {team.short_name || team.name.substring(0, 2).toUpperCase()}
+                </div>
+              )}
               <div className="min-w-0">
                 <p className="font-bold text-white truncate">{team.name}</p>
                 {team.name_ja && (
