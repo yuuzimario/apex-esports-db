@@ -1,0 +1,75 @@
+{
+  "common": {
+    "siteName": "APEX Esports DB",
+    "siteDescription": "Player, team, and tournament database for APEX Legends competitive scene",
+    "home": "Home",
+    "players": "Players",
+    "teams": "Teams",
+    "tournaments": "Tournaments",
+    "news": "News",
+    "about": "About",
+    "search": "Search",
+    "language": "Language",
+    "unofficial": "This is an unofficial fan site, not affiliated with EA or Respawn.",
+    "dataCredit": "Data sourced from Liquipedia, licensed under CC BY-SA 3.0"
+  },
+  "home": {
+    "hero": "APEX Legends Esports Database",
+    "heroSub": "Track players, teams, and tournament results in real-time",
+    "latestResults": "Latest Tournament Results",
+    "recentNews": "Recent News",
+    "upcomingTournaments": "Upcoming Tournaments",
+    "viewAll": "View All"
+  },
+  "players": {
+    "title": "Players",
+    "filterByRegion": "Filter by Region",
+    "filterByTeam": "Filter by Team",
+    "allRegions": "All Regions",
+    "active": "Active",
+    "inactive": "Retired",
+    "profile": "Profile",
+    "teamHistory": "Team History",
+    "devices": "Devices & Setup",
+    "tournamentResults": "Tournament Results",
+    "noDeviceInfo": "No device information available yet"
+  },
+  "teams": {
+    "title": "Teams",
+    "roster": "Roster",
+    "rosterHistory": "Roster Changes",
+    "results": "Tournament Results",
+    "region": "Region",
+    "founded": "Founded"
+  },
+  "tournaments": {
+    "title": "Tournaments",
+    "ongoing": "Ongoing",
+    "upcoming": "Upcoming",
+    "completed": "Completed",
+    "standings": "Standings",
+    "matchResults": "Match Results",
+    "prizePool": "Prize Pool",
+    "placement": "Place",
+    "points": "Points",
+    "kills": "Kills",
+    "team": "Team",
+    "match": "Match"
+  },
+  "regions": {
+    "APAC_N": "APAC North",
+    "APAC_S": "APAC South",
+    "NA": "North America",
+    "EMEA": "EMEA",
+    "GLOBAL": "Global"
+  },
+  "devices": {
+    "mouse": "Mouse",
+    "keyboard": "Keyboard",
+    "headset": "Headset",
+    "monitor": "Monitor",
+    "mousepad": "Mousepad",
+    "controller": "Controller",
+    "buyOnAmazon": "Buy on Amazon"
+  }
+}

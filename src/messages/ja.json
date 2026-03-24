@@ -1,0 +1,75 @@
+{
+  "common": {
+    "siteName": "APEX Esports DB",
+    "siteDescription": "APEX Legends競技シーンの選手・チーム・大会データベース",
+    "home": "ホーム",
+    "players": "選手",
+    "teams": "チーム",
+    "tournaments": "大会",
+    "news": "ニュース",
+    "about": "このサイトについて",
+    "search": "検索",
+    "language": "言語",
+    "unofficial": "※非公式ファンサイトです。EA/Respawnとは関係ありません。",
+    "dataCredit": "Data sourced from Liquipedia, licensed under CC BY-SA 3.0"
+  },
+  "home": {
+    "hero": "APEX Legends 競技シーン データベース",
+    "heroSub": "選手・チーム・大会結果をリアルタイムで追跡",
+    "latestResults": "最新の大会結果",
+    "recentNews": "最新ニュース",
+    "upcomingTournaments": "今後の大会",
+    "viewAll": "すべて見る"
+  },
+  "players": {
+    "title": "選手一覧",
+    "filterByRegion": "リージョンで絞り込み",
+    "filterByTeam": "チームで絞り込み",
+    "allRegions": "すべてのリージョン",
+    "active": "現役",
+    "inactive": "引退",
+    "profile": "プロフィール",
+    "teamHistory": "所属チーム履歴",
+    "devices": "使用デバイス",
+    "tournamentResults": "大会成績",
+    "noDeviceInfo": "デバイス情報はまだ登録されていません"
+  },
+  "teams": {
+    "title": "チーム一覧",
+    "roster": "ロスター",
+    "rosterHistory": "ロスター変更履歴",
+    "results": "大会成績",
+    "region": "リージョン",
+    "founded": "設立"
+  },
+  "tournaments": {
+    "title": "大会一覧",
+    "ongoing": "開催中",
+    "upcoming": "今後",
+    "completed": "終了",
+    "standings": "順位表",
+    "matchResults": "マッチ結果",
+    "prizePool": "賞金総額",
+    "placement": "順位",
+    "points": "ポイント",
+    "kills": "キル",
+    "team": "チーム",
+    "match": "マッチ"
+  },
+  "regions": {
+    "APAC_N": "APAC North",
+    "APAC_S": "APAC South",
+    "NA": "North America",
+    "EMEA": "EMEA",
+    "GLOBAL": "グローバル"
+  },
+  "devices": {
+    "mouse": "マウス",
+    "keyboard": "キーボード",
+    "headset": "ヘッドセット",
+    "monitor": "モニター",
+    "mousepad": "マウスパッド",
+    "controller": "コントローラー",
+    "buyOnAmazon": "Amazonで見る"
+  }
+}
