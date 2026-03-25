@@ -35,7 +35,7 @@ export default async function TeamDetailPage({
 
   if (!team) notFound();
 
-  // 現在のロスター（ALGS公式APIソース優先、なければ全ソース）
+  // 現在のロスター（ALGS公式APIソースが3人以上あれば優先、なければ全ソース）
   const { data: algsRoster } = await supabase
     .from("team_rosters")
     .select("*, players(id, slug, ign, real_name_ja, role, nationality)")
@@ -45,8 +45,8 @@ export default async function TeamDetailPage({
     .order("joined_at");
 
   let currentRoster = algsRoster;
-  if (!algsRoster || algsRoster.length === 0) {
-    // ALGS APIデータがなければ全ソースから取得（歴史的チーム等）
+  if (!algsRoster || algsRoster.length < 3) {
+    // ALGS APIデータが不完全（3人未満）なら全ソースから取得
     const { data: allRoster } = await supabase
       .from("team_rosters")
       .select("*, players(id, slug, ign, real_name_ja, role, nationality)")
