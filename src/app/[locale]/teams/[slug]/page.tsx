@@ -63,9 +63,17 @@ export default async function TeamDetailPage({
       {/* チームヘッダー */}
       <div className="bg-gray-900 rounded-xl p-6 mb-6 border border-gray-800">
         <div className="flex items-center gap-4 mb-4">
-          <div className="w-20 h-20 rounded-lg bg-gray-700 flex items-center justify-center text-2xl font-bold text-gray-400">
-            {team.short_name || team.name.substring(0, 3).toUpperCase()}
-          </div>
+          {team.logo_url ? (
+            <img
+              src={team.logo_url}
+              alt={team.name}
+              className="w-20 h-20 rounded-lg bg-gray-700 object-contain p-1 shrink-0"
+            />
+          ) : (
+            <div className="w-20 h-20 rounded-lg bg-gray-700 flex items-center justify-center text-2xl font-bold text-gray-400 shrink-0">
+              {team.short_name || team.name.substring(0, 3).toUpperCase()}
+            </div>
+          )}
           <div>
             <h1 className="text-3xl font-bold">{team.name}</h1>
             {team.name_ja && (

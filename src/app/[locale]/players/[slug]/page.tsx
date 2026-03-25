@@ -138,10 +138,18 @@ export default async function PlayerDetailPage({
                 className="bg-gray-900 rounded-lg p-4 border border-gray-800 flex items-center justify-between"
               >
                 <div className="flex items-center gap-3">
-                  <div className="w-10 h-10 bg-gray-700 rounded flex items-center justify-center text-sm font-bold text-gray-400">
-                    {(roster.teams as { short_name?: string; name: string })?.short_name ||
-                      (roster.teams as { name: string })?.name?.substring(0, 2).toUpperCase()}
-                  </div>
+                  {(roster.teams as { logo_url?: string | null })?.logo_url ? (
+                    <img
+                      src={(roster.teams as { logo_url: string }).logo_url}
+                      alt={(roster.teams as { name: string })?.name}
+                      className="w-10 h-10 rounded bg-gray-700 object-contain p-0.5 shrink-0"
+                    />
+                  ) : (
+                    <div className="w-10 h-10 bg-gray-700 rounded flex items-center justify-center text-sm font-bold text-gray-400 shrink-0">
+                      {(roster.teams as { short_name?: string; name: string })?.short_name ||
+                        (roster.teams as { name: string })?.name?.substring(0, 2).toUpperCase()}
+                    </div>
+                  )}
                   <div>
                     <Link
                       href={`/teams/${(roster.teams as { slug: string })?.slug}`}
