@@ -1,8 +1,9 @@
 "use client";
 
-import { useState } from "react";
+import { useSearchParams, useRouter, usePathname } from "next/navigation";
 import { useTranslations } from "next-intl";
 import { Link } from "@/i18n/navigation";
+import { useCallback } from "react";
 
 type Team = {
   id: string;
@@ -16,18 +17,41 @@ type Team = {
 
 type Region = "APAC_N" | "APAC_S" | "NA" | "EMEA";
 
+const VALID_REGIONS: Region[] = ["APAC_N", "APAC_S", "NA", "EMEA"];
+
 export function TeamList({ teams }: { teams: Team[] }) {
-  const [selected, setSelected] = useState<Region | null>(null);
+  const searchParams = useSearchParams();
+  const router = useRouter();
+  const pathname = usePathname();
   const t = useTranslations("players");
   const tr = useTranslations("regions");
 
-  const regions: Region[] = ["APAC_N", "APAC_S", "NA", "EMEA"];
+  const regionParam = searchParams.get("region");
+  const selected: Region | null =
+    regionParam && VALID_REGIONS.includes(regionParam as Region)
+      ? (regionParam as Region)
+      : null;
+
+  const setSelected = useCallback(
+    (region: Region | null) => {
+      const params = new URLSearchParams(searchParams.toString());
+      if (region) {
+        params.set("region", region);
+      } else {
+        params.delete("region");
+      }
+      const qs = params.toString();
+      router.replace(`${pathname}${qs ? `?${qs}` : ""}`, { scroll: false });
+    },
+    [searchParams, router, pathname]
+  );
+
   const filtered = selected ? teams.filter((t) => t.region === selected) : teams;
 
   return (
     <>
       <div className="flex gap-2 mb-6 flex-wrap">
-        {regions.map((r) => (
+        {VALID_REGIONS.map((r) => (
           <button
             key={r}
             onClick={() => setSelected(selected === r ? null : r)}
