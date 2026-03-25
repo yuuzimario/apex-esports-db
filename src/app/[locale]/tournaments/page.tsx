@@ -43,9 +43,9 @@ export default async function TournamentsPage() {
           </span>
         </div>
         {tournament.name_ja && (
-          <p className="text-sm text-gray-400 mb-2">{tournament.name_ja}</p>
+          <p className="text-sm text-white mb-2">{tournament.name_ja}</p>
         )}
-        <div className="flex flex-wrap gap-3 text-xs text-gray-500">
+        <div className="flex flex-wrap gap-3 text-xs text-white">
           {tournament.region && (
             <span>{tr(tournament.region as "APAC_N" | "APAC_S" | "NA" | "EMEA" | "GLOBAL")}</span>
           )}

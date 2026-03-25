@@ -77,7 +77,7 @@ export default async function TeamDetailPage({
           <div>
             <h1 className="text-3xl font-bold">{team.name}</h1>
             {team.name_ja && (
-              <p className="text-gray-400">{team.name_ja}</p>
+              <p className="text-white">{team.name_ja}</p>
             )}
           </div>
         </div>
@@ -120,7 +120,7 @@ export default async function TeamDetailPage({
         </div>
 
         {team.bio_ja && (
-          <p className="text-gray-400 text-sm mt-4 leading-relaxed">
+          <p className="text-white text-sm mt-4 leading-relaxed">
             {team.bio_ja}
           </p>
         )}
@@ -147,13 +147,13 @@ export default async function TeamDetailPage({
                     <div>
                       <p className="font-medium text-white">{player.ign}</p>
                       {player.real_name_ja && (
-                        <p className="text-xs text-gray-500">
+                        <p className="text-xs text-white">
                           {player.real_name_ja}
                         </p>
                       )}
                     </div>
                   </div>
-                  <div className="text-xs text-gray-500">
+                  <div className="text-xs text-white">
                     {member.role && <span>{member.role}</span>}
                   </div>
                 </Link>
@@ -174,7 +174,7 @@ export default async function TeamDetailPage({
           <div className="bg-gray-900 rounded-xl border border-gray-800 overflow-hidden">
             <table className="w-full text-sm">
               <thead>
-                <tr className="border-b border-gray-800 text-gray-500">
+                <tr className="border-b border-gray-800 text-white">
                   <th className="text-left p-3">大会</th>
                   <th className="text-center p-3">順位</th>
                   <th className="text-center p-3">Pts</th>
@@ -210,10 +210,10 @@ export default async function TeamDetailPage({
                           #{result.placement}
                         </span>
                       </td>
-                      <td className="text-center p-3 text-gray-400">
+                      <td className="text-center p-3 text-white">
                         {result.total_points ?? "-"}
                       </td>
-                      <td className="text-center p-3 text-gray-400">
+                      <td className="text-center p-3 text-white">
                         {result.total_kills ?? "-"}
                       </td>
                     </tr>
@@ -248,7 +248,7 @@ export default async function TeamDetailPage({
                   >
                     {player.ign}
                   </Link>
-                  <span className="text-gray-500">
+                  <span className="text-white">
                     {member.joined_at} ~ {member.left_at}
                   </span>
                 </div>

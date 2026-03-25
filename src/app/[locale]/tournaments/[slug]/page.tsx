@@ -68,10 +68,10 @@ export default async function TournamentDetailPage({
           </span>
         </div>
         {tournament.name_ja && (
-          <p className="text-gray-400 mb-4">{tournament.name_ja}</p>
+          <p className="text-white mb-4">{tournament.name_ja}</p>
         )}
 
-        <div className="flex flex-wrap gap-4 text-sm text-gray-400">
+        <div className="flex flex-wrap gap-4 text-sm text-white">
           {tournament.region && (
             <span>
               {tr(tournament.region as "APAC_N" | "APAC_S" | "NA" | "EMEA" | "GLOBAL")}
@@ -105,7 +105,7 @@ export default async function TournamentDetailPage({
           <div className="bg-gray-900 rounded-xl border border-gray-800 overflow-hidden">
             <table className="w-full text-sm">
               <thead>
-                <tr className="border-b border-gray-800 text-gray-500">
+                <tr className="border-b border-gray-800 text-white">
                   <th className="text-center p-3 w-16">{t("placement")}</th>
                   <th className="text-left p-3">{t("team")}</th>
                   <th className="text-center p-3">{t("points")}</th>
@@ -131,7 +131,7 @@ export default async function TournamentDetailPage({
                                 ? "text-gray-300 font-bold"
                                 : result.placement === 3
                                   ? "text-orange-400 font-bold"
-                                  : "text-gray-400"
+                                  : "text-white"
                           }
                         >
                           #{result.placement}
@@ -145,13 +145,13 @@ export default async function TournamentDetailPage({
                           {team?.name}
                         </Link>
                       </td>
-                      <td className="text-center p-3 text-gray-400">
+                      <td className="text-center p-3 text-white">
                         {result.total_points ?? "-"}
                       </td>
-                      <td className="text-center p-3 text-gray-400">
+                      <td className="text-center p-3 text-white">
                         {result.total_kills ?? "-"}
                       </td>
-                      <td className="text-center p-3 text-gray-400">
+                      <td className="text-center p-3 text-white">
                         {result.games_played ?? "-"}
                       </td>
                       <td className="text-right p-3 text-yellow-500">

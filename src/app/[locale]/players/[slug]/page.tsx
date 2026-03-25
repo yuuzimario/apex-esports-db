@@ -61,10 +61,10 @@ export default async function PlayerDetailPage({
           <div>
             <h1 className="text-3xl font-bold">{player.ign}</h1>
             {player.real_name_ja && (
-              <p className="text-gray-400">{player.real_name_ja}</p>
+              <p className="text-white">{player.real_name_ja}</p>
             )}
             {player.real_name && player.real_name !== player.real_name_ja && (
-              <p className="text-gray-500 text-sm">{player.real_name}</p>
+              <p className="text-white text-sm">{player.real_name}</p>
             )}
           </div>
         </div>
@@ -121,7 +121,7 @@ export default async function PlayerDetailPage({
 
         {/* Bio */}
         {player.bio_ja && (
-          <p className="text-gray-400 text-sm mt-4 leading-relaxed">
+          <p className="text-white text-sm mt-4 leading-relaxed">
             {player.bio_ja}
           </p>
         )}
@@ -158,11 +158,11 @@ export default async function PlayerDetailPage({
                       {(roster.teams as { name: string })?.name}
                     </Link>
                     {roster.role && (
-                      <p className="text-xs text-gray-500">{roster.role}</p>
+                      <p className="text-xs text-white">{roster.role}</p>
                     )}
                   </div>
                 </div>
-                <div className="text-xs text-gray-500 text-right">
+                <div className="text-xs text-white text-right">
                   <p>{roster.joined_at}</p>
                   {roster.left_at && <p>~ {roster.left_at}</p>}
                 </div>
@@ -208,7 +208,7 @@ export default async function PlayerDetailPage({
                       <p className="text-sm font-bold text-white leading-tight">
                         {device.brand}
                       </p>
-                      <p className="text-sm text-gray-300 leading-tight">
+                      <p className="text-sm text-white leading-tight">
                         {device.model}
                       </p>
                     </div>
