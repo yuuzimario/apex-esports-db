@@ -128,7 +128,7 @@ export default async function TournamentDetailPage({
                             result.placement === 1
                               ? "text-yellow-400 font-bold text-lg"
                               : result.placement === 2
-                                ? "text-gray-300 font-bold"
+                                ? "text-gray-200 font-bold"
                                 : result.placement === 3
                                   ? "text-orange-400 font-bold"
                                   : "text-white"

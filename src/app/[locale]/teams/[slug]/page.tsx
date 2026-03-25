@@ -35,13 +35,26 @@ export default async function TeamDetailPage({
 
   if (!team) notFound();
 
-  // 現在のロスター
-  const { data: currentRoster } = await supabase
+  // 現在のロスター（ALGS公式APIソース優先、なければ全ソース）
+  const { data: algsRoster } = await supabase
     .from("team_rosters")
     .select("*, players(id, slug, ign, real_name_ja, role, nationality)")
     .eq("team_id", team.id)
     .is("left_at", null)
+    .like("source_url", "%algs%")
     .order("joined_at");
+
+  let currentRoster = algsRoster;
+  if (!algsRoster || algsRoster.length === 0) {
+    // ALGS APIデータがなければ全ソースから取得（歴史的チーム等）
+    const { data: allRoster } = await supabase
+      .from("team_rosters")
+      .select("*, players(id, slug, ign, real_name_ja, role, nationality)")
+      .eq("team_id", team.id)
+      .is("left_at", null)
+      .order("joined_at");
+    currentRoster = allRoster;
+  }
 
   // ロスター変更履歴
   const { data: rosterHistory } = await supabase
@@ -204,7 +217,7 @@ export default async function TeamDetailPage({
                               ? "text-yellow-400 font-bold"
                               : result.placement <= 3
                                 ? "text-orange-400 font-bold"
-                                : ""
+                                : "text-white"
                           }
                         >
                           #{result.placement}
