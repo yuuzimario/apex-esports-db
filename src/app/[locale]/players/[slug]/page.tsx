@@ -180,6 +180,7 @@ export default async function PlayerDetailPage({
       <section>
         <h2 className="text-xl font-bold mb-4">{t("devices")}</h2>
         {devices && devices.length > 0 ? (
+          <p className="text-xs text-gray-500 mb-3">{t("deviceDisclaimer")}</p>
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-3">
             {devices.map((device) => {
               const categoryIcons: Record<string, string> = {

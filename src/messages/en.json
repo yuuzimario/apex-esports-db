@@ -32,7 +32,8 @@
     "teamHistory": "Team History",
     "devices": "Devices & Setup",
     "tournamentResults": "Tournament Results",
-    "noDeviceInfo": "No device information available yet"
+    "noDeviceInfo": "No device information available yet",
+    "deviceDisclaimer": "Device information may not be up to date. Data sourced from Liquipedia and player streams."
   },
   "teams": {
     "title": "Teams",

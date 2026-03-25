@@ -32,7 +32,8 @@
     "teamHistory": "所属チーム履歴",
     "devices": "使用デバイス",
     "tournamentResults": "大会成績",
-    "noDeviceInfo": "デバイス情報はまだ登録されていません"
+    "noDeviceInfo": "デバイス情報はまだ登録されていません",
+    "deviceDisclaimer": "※デバイス情報は最新でない場合があります。情報はLiquipediaおよび選手の配信から収集しています。"
   },
   "teams": {
     "title": "チーム一覧",
