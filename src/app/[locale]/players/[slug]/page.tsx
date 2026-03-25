@@ -181,29 +181,51 @@ export default async function PlayerDetailPage({
         <h2 className="text-xl font-bold mb-4">{t("devices")}</h2>
         {devices && devices.length > 0 ? (
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-3">
-            {devices.map((device) => (
-              <div
-                key={device.id}
-                className="bg-gray-900 rounded-lg p-4 border border-gray-800"
-              >
-                <p className="text-xs text-gray-500 mb-1">
-                  {td(device.category as "mouse" | "keyboard" | "headset" | "monitor" | "mousepad" | "controller")}
-                </p>
-                <p className="font-medium">
-                  {device.brand} {device.model}
-                </p>
-                {device.amazon_url_ja && (
-                  <a
-                    href={device.amazon_url_ja}
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="text-yellow-500 hover:text-yellow-400 text-xs mt-2 inline-block"
-                  >
-                    {td("buyOnAmazon")} →
-                  </a>
-                )}
-              </div>
-            ))}
+            {devices.map((device) => {
+              const categoryIcons: Record<string, string> = {
+                mouse: "🖱️",
+                keyboard: "⌨️",
+                headset: "🎧",
+                monitor: "🖥️",
+                mousepad: "🟫",
+                controller: "🎮",
+              };
+              const icon = categoryIcons[device.category] || "🔧";
+              return (
+                <div
+                  key={device.id}
+                  className="bg-gray-900 rounded-lg border border-gray-800 overflow-hidden"
+                >
+                  <div className="flex items-start gap-3 p-4">
+                    <div className="w-12 h-12 rounded-lg bg-gray-800 flex items-center justify-center text-2xl shrink-0">
+                      {icon}
+                    </div>
+                    <div className="min-w-0 flex-1">
+                      <p className="text-xs text-gray-500 mb-0.5">
+                        {td(device.category as "mouse" | "keyboard" | "headset" | "monitor" | "mousepad" | "controller")}
+                      </p>
+                      <p className="text-sm font-bold text-white leading-tight">
+                        {device.brand}
+                      </p>
+                      <p className="text-sm text-gray-300 leading-tight">
+                        {device.model}
+                      </p>
+                    </div>
+                  </div>
+                  {device.amazon_url_ja && (
+                    <a
+                      href={device.amazon_url_ja}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="flex items-center justify-center gap-1.5 bg-amber-600 hover:bg-amber-500 text-white text-sm font-medium py-2 px-4 transition-colors"
+                    >
+                      {td("buyOnAmazon")}
+                      <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14" /></svg>
+                    </a>
+                  )}
+                </div>
+              );
+            })}
           </div>
         ) : (
           <div className="bg-gray-900 rounded-lg p-6 text-center text-gray-500 text-sm">
