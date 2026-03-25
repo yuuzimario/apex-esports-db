@@ -26,14 +26,6 @@ export function PlayerList({ players }: { players: Player[] }) {
   return (
     <>
       <div className="flex gap-2 mb-6 flex-wrap">
-        <button
-          onClick={() => setSelected(null)}
-          className={`px-3 py-1 rounded-full text-sm font-medium transition-colors ${
-            selected === null ? "bg-red-600 text-white" : "bg-gray-800 hover:bg-gray-700 text-gray-300"
-          }`}
-        >
-          {t("allRegions")}
-        </button>
         {regions.map((r) => (
           <button
             key={r}
@@ -45,6 +37,14 @@ export function PlayerList({ players }: { players: Player[] }) {
             {tr(r)}
           </button>
         ))}
+        <button
+          onClick={() => setSelected(null)}
+          className={`px-3 py-1 rounded-full text-sm font-medium transition-colors ${
+            selected === null ? "bg-red-600 text-white" : "bg-gray-800 hover:bg-gray-700 text-gray-300"
+          }`}
+        >
+          {t("allRegions")}
+        </button>
       </div>
 
       <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
