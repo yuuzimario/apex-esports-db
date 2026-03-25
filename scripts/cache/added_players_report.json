@@ -1,0 +1,6971 @@
+{
+  "total_candidates": 3411,
+  "added": 931,
+  "players": [
+    {
+      "ign": "Darkside",
+      "teams": [
+        "Danish",
+        "Bearclaw Gaming",
+        "MPIRE",
+        "Villainous",
+        "LEAVENOWITNESS",
+        "DRAGONS"
+      ],
+      "transfers": 24
+    },
+    {
+      "ign": "Bellkun",
+      "teams": [
+        "Bearclaw Gaming",
+        "ONIC Esports"
+      ],
+      "transfers": 23
+    },
+    {
+      "ign": "Caffezin",
+      "teams": [
+        "Legion Gaming",
+        "LICS ONIRIA",
+        "made in heaven",
+        "Boogie Boarders",
+        "orgless and hungry"
+      ],
+      "transfers": 22
+    },
+    {
+      "ign": "Urban",
+      "teams": [
+        "Nessy",
+        "Stay Healthy",
+        "Passion",
+        "made in heaven",
+        "Team Burger",
+        "Virtus.pro"
+      ],
+      "transfers": 20
+    },
+    {
+      "ign": "KzyyX",
+      "teams": [
+        "grape soda"
+      ],
+      "transfers": 18
+    },
+    {
+      "ign": "Hill",
+      "teams": [
+        "Team Intel"
+      ],
+      "transfers": 18
+    },
+    {
+      "ign": "Lou",
+      "teams": [
+        "Complexity",
+        "Disguised",
+        "Dno",
+        "Virtus.pro",
+        "Sentinels"
+      ],
+      "transfers": 18
+    },
+    {
+      "ign": "Yudu",
+      "teams": [
+        "Meteor"
+      ],
+      "transfers": 18
+    },
+    {
+      "ign": "JackCute",
+      "teams": [
+        "Lightning Unicorn",
+        "EVOS",
+        "Tom Yum Kung",
+        "No Surrender"
+      ],
+      "transfers": 18
+    },
+    {
+      "ign": "deep_learning_F",
+      "teams": [
+        "kinotrope gaming",
+        "GHS Professional",
+        "GROWGaming"
+      ],
+      "transfers": 18
+    },
+    {
+      "ign": "InZaneyy",
+      "teams": [
+        "Danish",
+        "MPIRE",
+        "Villainous",
+        "LEAVENOWITNESS",
+        "DRAGONS"
+      ],
+      "transfers": 18
+    },
+    {
+      "ign": "Graceful",
+      "teams": [
+        "Element 6",
+        "Nessy"
+      ],
+      "transfers": 17
+    },
+    {
+      "ign": "EzFlash",
+      "teams": [
+        "Kakkoii",
+        "Twisted Minds",
+        "Primis Komanda",
+        "team mango",
+        "HEROEZ"
+      ],
+      "transfers": 17
+    },
+    {
+      "ign": "Stalizy",
+      "teams": [
+        "K1CK"
+      ],
+      "transfers": 17
+    },
+    {
+      "ign": "Noiises",
+      "teams": [
+        "Nessy",
+        "Team Nemesis"
+      ],
+      "transfers": 16
+    },
+    {
+      "ign": "Pandxrz",
+      "teams": [
+        "Moist Esports",
+        "FaZe Clan",
+        "Team Intel",
+        "Stallions",
+        "FURIA"
+      ],
+      "transfers": 16
+    },
+    {
+      "ign": "Bigzzy",
+      "teams": [
+        "grape soda"
+      ],
+      "transfers": 16
+    },
+    {
+      "ign": "Jamren",
+      "teams": [
+        "MDY Black"
+      ],
+      "transfers": 16
+    },
+    {
+      "ign": "BeiBei",
+      "teams": [
+        "Monster"
+      ],
+      "transfers": 16
+    },
+    {
+      "ign": "Azazel",
+      "teams": [
+        "LEAVENOWITNESS",
+        "DRAGONS"
+      ],
+      "transfers": 16
+    },
+    {
+      "ign": "th0rfinnnnn",
+      "teams": [
+        "Danish",
+        "2r1c",
+        "EXO Clan",
+        "9Lies Esports"
+      ],
+      "transfers": 16
+    },
+    {
+      "ign": "Mereelj",
+      "teams": [
+        "Passion",
+        "F9 Eicar"
+      ],
+      "transfers": 16
+    },
+    {
+      "ign": "SAIBER",
+      "teams": [
+        "inside the ring"
+      ],
+      "transfers": 15
+    },
+    {
+      "ign": "Bronzey",
+      "teams": [
+        "Disguised",
+        "100 Thieves",
+        "The Dojo"
+      ],
+      "transfers": 15
+    },
+    {
+      "ign": "Clone",
+      "teams": [
+        "TAKE FLYTE",
+        "Team Nemesis"
+      ],
+      "transfers": 15
+    },
+    {
+      "ign": "Maestrojefe",
+      "teams": [
+        "LEAVENOWITNESS"
+      ],
+      "transfers": 15
+    },
+    {
+      "ign": "M4KKUR0",
+      "teams": [
+        "EVOS",
+        "Ronin",
+        "EXO Clan",
+        "Element 6",
+        "New Esports"
+      ],
+      "transfers": 15
+    },
+    {
+      "ign": "1tappy",
+      "teams": [
+        "kinotrope gaming",
+        "GHS Professional",
+        "REJECT"
+      ],
+      "transfers": 15
+    },
+    {
+      "ign": "Stompez",
+      "teams": [
+        "Unreal Nightmare"
+      ],
+      "transfers": 15
+    },
+    {
+      "ign": "xDesk23",
+      "teams": [
+        "Boogie Boarders",
+        "made in heaven",
+        "K1CK"
+      ],
+      "transfers": 15
+    },
+    {
+      "ign": "Talmadge",
+      "teams": [
+        "o7",
+        "Passion",
+        "ENVY",
+        "Ethernal",
+        "gonext esports",
+        "TSM"
+      ],
+      "transfers": 15
+    },
+    {
+      "ign": "Sunset",
+      "teams": [
+        "MetaTensei",
+        "ZETA DIVISION",
+        "Aurora Gaming",
+        "Gaimin Gladiators",
+        "Fire Beavers",
+        "AURORA"
+      ],
+      "transfers": 14
+    },
+    {
+      "ign": "JungHee",
+      "teams": [
+        "CrazyRaccoon",
+        "REJECT"
+      ],
+      "transfers": 14
+    },
+    {
+      "ign": "AlpaN",
+      "teams": [
+        "GHS Professional",
+        "unlimit",
+        "VG",
+        "GHS BoooM",
+        "HAO"
+      ],
+      "transfers": 14
+    },
+    {
+      "ign": "eziiie",
+      "teams": [
+        "TAKE FLYTE"
+      ],
+      "transfers": 14
+    },
+    {
+      "ign": "Vor3z",
+      "teams": [
+        "kinotrope gaming",
+        "CrazyRaccoon",
+        "enter force.36"
+      ],
+      "transfers": 14
+    },
+    {
+      "ign": "Voltic",
+      "teams": [
+        "Pioneers",
+        "Sentinels",
+        "MPIRE"
+      ],
+      "transfers": 14
+    },
+    {
+      "ign": "XiaoKai",
+      "teams": [
+        "Dreamfire",
+        "MDY Black",
+        "vk gaming"
+      ],
+      "transfers": 13
+    },
+    {
+      "ign": "Rogerboger",
+      "teams": [
+        "New Esports"
+      ],
+      "transfers": 13
+    },
+    {
+      "ign": "DcTzr",
+      "teams": [
+        "Ethernal",
+        "gonext esports"
+      ],
+      "transfers": 13
+    },
+    {
+      "ign": "Dezignful",
+      "teams": [
+        "Disguised",
+        "100 Thieves",
+        "The Dojo"
+      ],
+      "transfers": 13
+    },
+    {
+      "ign": "Lalab4ng",
+      "teams": [
+        "Lightning Unicorn",
+        "Green Stego"
+      ],
+      "transfers": 13
+    },
+    {
+      "ign": "ManDi",
+      "teams": [
+        "CrazyRaccoon",
+        "REJECT"
+      ],
+      "transfers": 13
+    },
+    {
+      "ign": "Tosh1",
+      "teams": [
+        "Northeption"
+      ],
+      "transfers": 13
+    },
+    {
+      "ign": "Pinky",
+      "teams": [
+        "GHS Professional",
+        "BABO",
+        "trinity"
+      ],
+      "transfers": 13
+    },
+    {
+      "ign": "Dan",
+      "teams": [
+        "FaZe Clan",
+        "SpaceStation Gaming",
+        "DeeSports",
+        "NRG Esports"
+      ],
+      "transfers": 13
+    },
+    {
+      "ign": "Stressado",
+      "teams": [
+        "team liquid",
+        "DRAGONS"
+      ],
+      "transfers": 13
+    },
+    {
+      "ign": "Sven",
+      "teams": [
+        "Dreamfire",
+        "TheHorde",
+        "Aurora Gaming",
+        "Meteor",
+        "SUPERNOVA",
+        "Luminosity Gaming",
+        "NRG Esports"
+      ],
+      "transfers": 13
+    },
+    {
+      "ign": "kanata",
+      "teams": [
+        "Activist",
+        "HAO"
+      ],
+      "transfers": 13
+    },
+    {
+      "ign": "ibuo",
+      "teams": [
+        "TEQWING"
+      ],
+      "transfers": 13
+    },
+    {
+      "ign": "Lemon",
+      "teams": [
+        "GROWGaming"
+      ],
+      "transfers": 13
+    },
+    {
+      "ign": "Luxford",
+      "teams": [
+        "Complexity",
+        "Team Orchid"
+      ],
+      "transfers": 13
+    },
+    {
+      "ign": "YungHongKong",
+      "teams": [
+        "Danish",
+        "MPIRE",
+        "EXO Clan",
+        "YungBlackRicky",
+        "team mango"
+      ],
+      "transfers": 13
+    },
+    {
+      "ign": "GURAN34",
+      "teams": [
+        "GHS Professional",
+        "RRX",
+        "O2esports",
+        "BABO",
+        "DOSUKOI Impact"
+      ],
+      "transfers": 13
+    },
+    {
+      "ign": "HTPHarold",
+      "teams": [
+        "Natus Vincere"
+      ],
+      "transfers": 12
+    },
+    {
+      "ign": "Onmuu",
+      "teams": [
+        "Pioneers",
+        "100 Thieves"
+      ],
+      "transfers": 12
+    },
+    {
+      "ign": "tur0gh-",
+      "teams": [
+        "Blacklist International",
+        "2r1c",
+        "orgless and hungry",
+        "Ethernal"
+      ],
+      "transfers": 12
+    },
+    {
+      "ign": "maydeelol",
+      "teams": [
+        "Nessy"
+      ],
+      "transfers": 12
+    },
+    {
+      "ign": "JIGEN",
+      "teams": [
+        "ZETA DIVISION"
+      ],
+      "transfers": 12
+    },
+    {
+      "ign": "Sty1e",
+      "teams": [
+        "CrazyRaccoon",
+        "REALIZE"
+      ],
+      "transfers": 12
+    },
+    {
+      "ign": "Zipman",
+      "teams": [
+        "kinotrope gaming",
+        "SCARZ"
+      ],
+      "transfers": 12
+    },
+    {
+      "ign": "pkmk",
+      "teams": [
+        "CYBERCATS",
+        "Gaimin Gladiators",
+        "Aurora Gaming",
+        "Redragon"
+      ],
+      "transfers": 12
+    },
+    {
+      "ign": "AhnuG",
+      "teams": [
+        "GHS BoooM"
+      ],
+      "transfers": 12
+    },
+    {
+      "ign": "TeQ",
+      "teams": [
+        "Sentinels",
+        "FURIA"
+      ],
+      "transfers": 12
+    },
+    {
+      "ign": "Rkn",
+      "teams": [
+        "Sentinels",
+        "OMiT"
+      ],
+      "transfers": 12
+    },
+    {
+      "ign": "MatsuTasu",
+      "teams": [
+        "GHS Professional",
+        "REIGNITE",
+        "FNATIC"
+      ],
+      "transfers": 12
+    },
+    {
+      "ign": "Zillach",
+      "teams": [
+        "LEAVENOWITNESS",
+        "DRAGONS"
+      ],
+      "transfers": 12
+    },
+    {
+      "ign": "VJEIX",
+      "teams": [
+        "2r1c",
+        "New Esports",
+        "Acend"
+      ],
+      "transfers": 12
+    },
+    {
+      "ign": "kazakh_boi",
+      "teams": [
+        "Aurora Gaming",
+        "Redragon"
+      ],
+      "transfers": 12
+    },
+    {
+      "ign": "Darkii",
+      "teams": [
+        "Zero Tenacity",
+        "Blacklist International",
+        "K1CK",
+        "gonext esports",
+        "2r1c"
+      ],
+      "transfers": 12
+    },
+    {
+      "ign": "B1N",
+      "teams": [
+        "LEAVENOWITNESS"
+      ],
+      "transfers": 12
+    },
+    {
+      "ign": "Mosh",
+      "teams": [
+        "GROWGaming",
+        "Arneb",
+        "Soleil Gaming",
+        "kinotrope club"
+      ],
+      "transfers": 12
+    },
+    {
+      "ign": "Dizzy_pw",
+      "teams": [
+        "CrazyRaccoon",
+        "NOEZ FOXX",
+        "RRX",
+        "REIGNITE",
+        "FNATIC"
+      ],
+      "transfers": 12
+    },
+    {
+      "ign": "coldjyn",
+      "teams": [
+        "Alliance",
+        "Sentinels",
+        "Cloud9"
+      ],
+      "transfers": 12
+    },
+    {
+      "ign": "KingMSG",
+      "teams": [
+        "MDY Black",
+        "Lonely Let Gone",
+        "Barbeque",
+        "WeiBo Gaming"
+      ],
+      "transfers": 12
+    },
+    {
+      "ign": "Cabbagest",
+      "teams": [
+        "REDRams",
+        "Meteor"
+      ],
+      "transfers": 11
+    },
+    {
+      "ign": "pyradice",
+      "teams": [
+        "Bearclaw Gaming"
+      ],
+      "transfers": 11
+    },
+    {
+      "ign": "Sickks",
+      "teams": [
+        "Team Intel",
+        "100 Thieves",
+        "Moist Esports"
+      ],
+      "transfers": 11
+    },
+    {
+      "ign": "xKiRiNo",
+      "teams": [
+        "O2esports"
+      ],
+      "transfers": 11
+    },
+    {
+      "ign": "Kouhia",
+      "teams": [
+        "orgless and hungry",
+        "Natus Vincere"
+      ],
+      "transfers": 11
+    },
+    {
+      "ign": "Frexs",
+      "teams": [
+        "FaZe Clan",
+        "SpaceStation Gaming",
+        "NRG Esports"
+      ],
+      "transfers": 11
+    },
+    {
+      "ign": "UltimateNoob",
+      "teams": [
+        "grape soda"
+      ],
+      "transfers": 11
+    },
+    {
+      "ign": "Chr1s878",
+      "teams": [
+        "deep cross gaming",
+        "StinkyB"
+      ],
+      "transfers": 11
+    },
+    {
+      "ign": "LosJin",
+      "teams": [
+        "GROWGaming",
+        "CrazyRaccoon"
+      ],
+      "transfers": 11
+    },
+    {
+      "ign": "EMILIAZII",
+      "teams": [
+        "outside",
+        "Iron Blood Gaming",
+        "inside the ring"
+      ],
+      "transfers": 11
+    },
+    {
+      "ign": "scuwry",
+      "teams": [
+        "100 Thieves",
+        "Stallions"
+      ],
+      "transfers": 11
+    },
+    {
+      "ign": "ZeroNothing",
+      "teams": [
+        "Passion",
+        "Alliance",
+        "MOUZ",
+        "Forbidden Gaming"
+      ],
+      "transfers": 11
+    },
+    {
+      "ign": "Wrugb",
+      "teams": [
+        "Natus Vincere",
+        "Luminosity Gaming",
+        "Aurora Gaming"
+      ],
+      "transfers": 11
+    },
+    {
+      "ign": "IScaraI",
+      "teams": [
+        "Ronin",
+        "EVOS",
+        "New Esports"
+      ],
+      "transfers": 11
+    },
+    {
+      "ign": "nightyz",
+      "teams": [
+        "Alliance",
+        "K1CK"
+      ],
+      "transfers": 11
+    },
+    {
+      "ign": "Funk",
+      "teams": [
+        "Legion Gaming",
+        "ZETA DIVISION"
+      ],
+      "transfers": 11
+    },
+    {
+      "ign": "Boring",
+      "teams": [
+        "WeiBo Gaming",
+        "Luminosity Gaming",
+        "KeepGoing"
+      ],
+      "transfers": 11
+    },
+    {
+      "ign": "Horizxon",
+      "teams": [
+        "orgless and hungry",
+        "Passion",
+        "Team Nemesis",
+        "Guild Esports"
+      ],
+      "transfers": 11
+    },
+    {
+      "ign": "Rakiiii",
+      "teams": [
+        "source gaming",
+        "ONIC Esports",
+        "EXO Clan",
+        "Boogie Boarders"
+      ],
+      "transfers": 11
+    },
+    {
+      "ign": "roki",
+      "teams": [
+        "GROWGaming",
+        "Meteor"
+      ],
+      "transfers": 11
+    },
+    {
+      "ign": "Psykho",
+      "teams": [
+        "roc esports",
+        "Bearclaw Gaming"
+      ],
+      "transfers": 11
+    },
+    {
+      "ign": "Slayers",
+      "teams": [
+        "Pioneers",
+        "Element 6",
+        "EXO Clan",
+        "Stay Healthy"
+      ],
+      "transfers": 11
+    },
+    {
+      "ign": "BleachiM",
+      "teams": [
+        "2r1c",
+        "HEROEZ"
+      ],
+      "transfers": 11
+    },
+    {
+      "ign": "Colo",
+      "teams": [
+        "Danish",
+        "EXO Clan",
+        "Team Burger",
+        "Vexed Gaming",
+        "Ethernal",
+        "Stallions"
+      ],
+      "transfers": 11
+    },
+    {
+      "ign": "Archery",
+      "teams": [
+        "O2esports",
+        "Soleil Gaming"
+      ],
+      "transfers": 11
+    },
+    {
+      "ign": "Tax",
+      "teams": [
+        "made in heaven"
+      ],
+      "transfers": 11
+    },
+    {
+      "ign": "Luc1fuge",
+      "teams": [
+        "Dreamfire",
+        "EDward Gaming"
+      ],
+      "transfers": 11
+    },
+    {
+      "ign": "w1nter",
+      "teams": [
+        "Lonely Let Gone"
+      ],
+      "transfers": 10
+    },
+    {
+      "ign": "Maliwan",
+      "teams": [
+        "Aurora Gaming",
+        "AURORA"
+      ],
+      "transfers": 10
+    },
+    {
+      "ign": "Zipeth",
+      "teams": [
+        "K1CK"
+      ],
+      "transfers": 10
+    },
+    {
+      "ign": "cleaveee",
+      "teams": [
+        "Aurora Gaming",
+        "CYBERCATS",
+        "AURORA"
+      ],
+      "transfers": 10
+    },
+    {
+      "ign": "AvadoN",
+      "teams": [
+        "Dory",
+        "Meteor"
+      ],
+      "transfers": 10
+    },
+    {
+      "ign": "Otogi",
+      "teams": [
+        "DOSUKOI Impact",
+        "FENNEL"
+      ],
+      "transfers": 10
+    },
+    {
+      "ign": "Jaro",
+      "teams": [
+        "Iron Blood Gaming",
+        "EXO Clan",
+        "Team Burger",
+        "Moist Esports"
+      ],
+      "transfers": 10
+    },
+    {
+      "ign": "Xabby",
+      "teams": [
+        "inside the ring"
+      ],
+      "transfers": 10
+    },
+    {
+      "ign": "ahn2e",
+      "teams": [
+        "REJECT",
+        "enter force.36"
+      ],
+      "transfers": 10
+    },
+    {
+      "ign": "retzi",
+      "teams": [
+        "Sentinels",
+        "Stallions"
+      ],
+      "transfers": 10
+    },
+    {
+      "ign": "Alelu",
+      "teams": [
+        "unlimit",
+        "FENNEL"
+      ],
+      "transfers": 10
+    },
+    {
+      "ign": "NutsuruSama",
+      "teams": [
+        "EVOS"
+      ],
+      "transfers": 10
+    },
+    {
+      "ign": "Gerovic12",
+      "teams": [
+        "Element 6",
+        "SCARZ",
+        "2r1c"
+      ],
+      "transfers": 10
+    },
+    {
+      "ign": "FeiJu",
+      "teams": [
+        "MDY Black"
+      ],
+      "transfers": 10
+    },
+    {
+      "ign": "CloNeZERA",
+      "teams": [
+        "K1CK"
+      ],
+      "transfers": 10
+    },
+    {
+      "ign": "ImpulsiveDream",
+      "teams": [
+        "Team Intel"
+      ],
+      "transfers": 10
+    },
+    {
+      "ign": "KenTunG",
+      "teams": [
+        "vk gaming"
+      ],
+      "transfers": 10
+    },
+    {
+      "ign": "AndyJax",
+      "teams": [
+        "Team Nemesis"
+      ],
+      "transfers": 10
+    },
+    {
+      "ign": "yL",
+      "teams": [
+        "Meteor"
+      ],
+      "transfers": 10
+    },
+    {
+      "ign": "SangJoon",
+      "teams": [
+        "CrazyRaccoon",
+        "REJECT",
+        "REALIZE"
+      ],
+      "transfers": 10
+    },
+    {
+      "ign": "Fubuki",
+      "teams": [
+        "O2esports"
+      ],
+      "transfers": 10
+    },
+    {
+      "ign": "tomorow",
+      "teams": [
+        "REALIZE"
+      ],
+      "transfers": 10
+    },
+    {
+      "ign": "Jacky1",
+      "teams": [
+        "Dreamfire",
+        "shadow3690"
+      ],
+      "transfers": 10
+    },
+    {
+      "ign": "NevvtonX",
+      "teams": [
+        "kinotrope gaming",
+        "O2esports",
+        "Activist",
+        "HAO"
+      ],
+      "transfers": 10
+    },
+    {
+      "ign": "Bavis",
+      "teams": [
+        "Danish",
+        "EXO Clan",
+        "Nessy"
+      ],
+      "transfers": 10
+    },
+    {
+      "ign": "Anaya",
+      "teams": [
+        "GHS Professional",
+        "GROWGaming",
+        "TEQWING"
+      ],
+      "transfers": 10
+    },
+    {
+      "ign": "BlackRoad",
+      "teams": [
+        "Cupid Esports",
+        "HAVOC",
+        "YungBlackRicky"
+      ],
+      "transfers": 10
+    },
+    {
+      "ign": "Taka",
+      "teams": [
+        "Setouchi Sparks",
+        "GROWGaming",
+        "REALIZE"
+      ],
+      "transfers": 10
+    },
+    {
+      "ign": "Vooshii",
+      "teams": [
+        "ONIC Esports",
+        "SPS",
+        "infinite"
+      ],
+      "transfers": 10
+    },
+    {
+      "ign": "brtus_o",
+      "teams": [
+        "LEAVENOWITNESS",
+        "DRAGONS"
+      ],
+      "transfers": 10
+    },
+    {
+      "ign": "Yukoi",
+      "teams": [
+        "QOR Gaming",
+        "DXAEsports"
+      ],
+      "transfers": 10
+    },
+    {
+      "ign": "Fuhhnq",
+      "teams": [
+        "Complexity",
+        "Stallions",
+        "team liquid",
+        "Gaimin Gladiators",
+        "Luminosity Gaming"
+      ],
+      "transfers": 10
+    },
+    {
+      "ign": "TreeCleaner",
+      "teams": [
+        "KeepGoing"
+      ],
+      "transfers": 10
+    },
+    {
+      "ign": "Aooout",
+      "teams": [
+        "BABO"
+      ],
+      "transfers": 10
+    },
+    {
+      "ign": "BunnyH0p",
+      "teams": [
+        "grape soda",
+        "Primis Komanda"
+      ],
+      "transfers": 9
+    },
+    {
+      "ign": "SUNSERIES",
+      "teams": [
+        "Bearclaw Gaming"
+      ],
+      "transfers": 9
+    },
+    {
+      "ign": "Ruabbe",
+      "teams": [
+        "Alliance"
+      ],
+      "transfers": 9
+    },
+    {
+      "ign": "kawase",
+      "teams": [
+        "CrazyRaccoon",
+        "FENNEL"
+      ],
+      "transfers": 9
+    },
+    {
+      "ign": "SudetakiN",
+      "teams": [
+        "REIGNITE",
+        "ZETA DIVISION"
+      ],
+      "transfers": 9
+    },
+    {
+      "ign": "mrhackulo",
+      "teams": [
+        "XSET",
+        "FURIA"
+      ],
+      "transfers": 9
+    },
+    {
+      "ign": "Mainy",
+      "teams": [
+        "CrazyRaccoon"
+      ],
+      "transfers": 9
+    },
+    {
+      "ign": "Fury",
+      "teams": [
+        "the vicious"
+      ],
+      "transfers": 9
+    },
+    {
+      "ign": "hodsic",
+      "teams": [
+        "Twisted Minds",
+        "XSET",
+        "Stallions",
+        "team liquid",
+        "NRG Esports"
+      ],
+      "transfers": 9
+    },
+    {
+      "ign": "Minseong",
+      "teams": [
+        "REJECT"
+      ],
+      "transfers": 9
+    },
+    {
+      "ign": "Badoli",
+      "teams": [
+        "orgless and hungry"
+      ],
+      "transfers": 9
+    },
+    {
+      "ign": "iShiny",
+      "teams": [
+        "Complexity",
+        "Cloud9",
+        "NRG Esports"
+      ],
+      "transfers": 9
+    },
+    {
+      "ign": "t23tatsu",
+      "teams": [
+        "kinotrope gaming",
+        "REIGNITE",
+        "ZETA DIVISION"
+      ],
+      "transfers": 9
+    },
+    {
+      "ign": "Clane",
+      "teams": [
+        "XSET"
+      ],
+      "transfers": 9
+    },
+    {
+      "ign": "Senzz",
+      "teams": [
+        "New Esports",
+        "Acend"
+      ],
+      "transfers": 9
+    },
+    {
+      "ign": "KIMCZU",
+      "teams": [
+        "SJP2",
+        "K1CK"
+      ],
+      "transfers": 9
+    },
+    {
+      "ign": "Loopy",
+      "teams": [
+        "OpTic Gaming",
+        "Element 6",
+        "Vexed Gaming"
+      ],
+      "transfers": 9
+    },
+    {
+      "ign": "RONN1E",
+      "teams": [
+        "Alliance"
+      ],
+      "transfers": 9
+    },
+    {
+      "ign": "Orca",
+      "teams": [
+        "REDRams"
+      ],
+      "transfers": 9
+    },
+    {
+      "ign": "WreXu",
+      "teams": [
+        "HEROEZ"
+      ],
+      "transfers": 9
+    },
+    {
+      "ign": "clawz",
+      "teams": [
+        "Natus Vincere",
+        "Fire Beavers",
+        "Aurora Gaming",
+        "ZIPLINE MAFIA"
+      ],
+      "transfers": 9
+    },
+    {
+      "ign": "MiraTongue",
+      "teams": [
+        "DOSUKOI Impact",
+        "Northeption"
+      ],
+      "transfers": 9
+    },
+    {
+      "ign": "Buxtz",
+      "teams": [
+        "Villainous"
+      ],
+      "transfers": 9
+    },
+    {
+      "ign": "Accentiii",
+      "teams": [
+        "Phoenix Legacy"
+      ],
+      "transfers": 9
+    },
+    {
+      "ign": "Tolkien",
+      "teams": [
+        "Legion Gaming",
+        "gonext esports"
+      ],
+      "transfers": 9
+    },
+    {
+      "ign": "AlphaDraft",
+      "teams": [
+        "Phoenix Legacy"
+      ],
+      "transfers": 9
+    },
+    {
+      "ign": "Fussy",
+      "teams": [
+        "ONIC Esports",
+        "Boogie Boarders",
+        "Moist Esports"
+      ],
+      "transfers": 9
+    },
+    {
+      "ign": "Re1qz",
+      "teams": [
+        "STRIDERZ"
+      ],
+      "transfers": 9
+    },
+    {
+      "ign": "Amphy",
+      "teams": [
+        "Element 6",
+        "ninjas in pyjamas",
+        "o7"
+      ],
+      "transfers": 9
+    },
+    {
+      "ign": "Wey",
+      "teams": [
+        "Tom Yum Kung",
+        "Team Burger",
+        "Virtus.pro"
+      ],
+      "transfers": 9
+    },
+    {
+      "ign": "Mesuko",
+      "teams": [
+        "Stay Healthy"
+      ],
+      "transfers": 9
+    },
+    {
+      "ign": "senoxe",
+      "teams": [
+        "Sentinels",
+        "Disguised",
+        "Dno"
+      ],
+      "transfers": 9
+    },
+    {
+      "ign": "Dutch",
+      "teams": [
+        "Team Orchid",
+        "Gaimin Gladiators",
+        "Nessy",
+        "Hotdog Mafia"
+      ],
+      "transfers": 9
+    },
+    {
+      "ign": "Chik1s",
+      "teams": [
+        "Villainous"
+      ],
+      "transfers": 9
+    },
+    {
+      "ign": "zkYuTa",
+      "teams": [
+        "Soleil Gaming",
+        "tie"
+      ],
+      "transfers": 9
+    },
+    {
+      "ign": "zona",
+      "teams": [
+        "Annex eSports",
+        "MPIRE",
+        "Team RRQ",
+        "TEMPR",
+        "DRAGONS"
+      ],
+      "transfers": 9
+    },
+    {
+      "ign": "FenDiiLYZ",
+      "teams": [
+        "grape soda"
+      ],
+      "transfers": 8
+    },
+    {
+      "ign": "Snip3down",
+      "teams": [
+        "FaZe Clan",
+        "ENVY",
+        "TSM"
+      ],
+      "transfers": 8
+    },
+    {
+      "ign": "RANCHES",
+      "teams": [
+        "Aurora Gaming",
+        "CYBERCATS",
+        "AURORA"
+      ],
+      "transfers": 8
+    },
+    {
+      "ign": "Stanyyy",
+      "teams": [
+        "Aurora Gaming"
+      ],
+      "transfers": 8
+    },
+    {
+      "ign": "P1NKI",
+      "teams": [
+        "sbi e-sports"
+      ],
+      "transfers": 8
+    },
+    {
+      "ign": "Shusty",
+      "teams": [
+        "inside the ring"
+      ],
+      "transfers": 8
+    },
+    {
+      "ign": "Cyian",
+      "teams": [
+        "TEQWING"
+      ],
+      "transfers": 8
+    },
+    {
+      "ign": "LEEYUN",
+      "teams": [
+        "GHS Professional",
+        "IGZIST",
+        "Northeption",
+        "HAO"
+      ],
+      "transfers": 8
+    },
+    {
+      "ign": "xaniya",
+      "teams": [
+        "CYBERCATS",
+        "Luminosity Gaming",
+        "Redragon"
+      ],
+      "transfers": 8
+    },
+    {
+      "ign": "sigluss",
+      "teams": [
+        "tie"
+      ],
+      "transfers": 8
+    },
+    {
+      "ign": "tenorin",
+      "teams": [
+        "GROWGaming"
+      ],
+      "transfers": 8
+    },
+    {
+      "ign": "holoac",
+      "teams": [
+        "O2esports",
+        "Meteor"
+      ],
+      "transfers": 8
+    },
+    {
+      "ign": "THaless",
+      "teams": [
+        "Oryn Esports"
+      ],
+      "transfers": 8
+    },
+    {
+      "ign": "Hesiko",
+      "teams": [
+        "FENNEL"
+      ],
+      "transfers": 8
+    },
+    {
+      "ign": "hikuman",
+      "teams": [
+        "sbi e-sports",
+        "REDRams"
+      ],
+      "transfers": 8
+    },
+    {
+      "ign": "Pistillo",
+      "teams": [
+        "team liquid",
+        "Luminosity Gaming",
+        "legacy (mexican team)"
+      ],
+      "transfers": 8
+    },
+    {
+      "ign": "Noxi",
+      "teams": [
+        "STRIDERZ"
+      ],
+      "transfers": 8
+    },
+    {
+      "ign": "null",
+      "teams": [
+        "Acend"
+      ],
+      "transfers": 8
+    },
+    {
+      "ign": "PlayerK",
+      "teams": [
+        "Iron Blood Gaming",
+        "EXO Clan"
+      ],
+      "transfers": 8
+    },
+    {
+      "ign": "Reptar",
+      "teams": [
+        "Complexity",
+        "NRG Esports"
+      ],
+      "transfers": 8
+    },
+    {
+      "ign": "Taru",
+      "teams": [
+        "Soleil Gaming"
+      ],
+      "transfers": 8
+    },
+    {
+      "ign": "Reedz",
+      "teams": [
+        "Oblivion"
+      ],
+      "transfers": 8
+    },
+    {
+      "ign": "Whisper",
+      "teams": [
+        "CrazyRaccoon"
+      ],
+      "transfers": 8
+    },
+    {
+      "ign": "Yoroi",
+      "teams": [
+        "gonext esports"
+      ],
+      "transfers": 8
+    },
+    {
+      "ign": "MobiuS",
+      "teams": [
+        "MDY Black"
+      ],
+      "transfers": 8
+    },
+    {
+      "ign": "Teddy",
+      "teams": [
+        "MDY Black"
+      ],
+      "transfers": 8
+    },
+    {
+      "ign": "keep star",
+      "teams": [
+        "Oryn Esports",
+        "LICS ONIRIA"
+      ],
+      "transfers": 8
+    },
+    {
+      "ign": "Tzuyu1st",
+      "teams": [
+        "O2esports",
+        "sbi e-sports"
+      ],
+      "transfers": 8
+    },
+    {
+      "ign": "IEJace",
+      "teams": [
+        "Pioneers",
+        "EXO Clan",
+        "Stay Healthy"
+      ],
+      "transfers": 8
+    },
+    {
+      "ign": "Atinum",
+      "teams": [
+        "gonext esports",
+        "Stay Healthy"
+      ],
+      "transfers": 8
+    },
+    {
+      "ign": "TAKEO",
+      "teams": [
+        "GHS Professional"
+      ],
+      "transfers": 8
+    },
+    {
+      "ign": "watage",
+      "teams": [
+        "O2esports",
+        "Setouchi Sparks",
+        "TEQWING"
+      ],
+      "transfers": 8
+    },
+    {
+      "ign": "Datch",
+      "teams": [
+        "REDRams",
+        "Meteor"
+      ],
+      "transfers": 8
+    },
+    {
+      "ign": "WaitIamTrash",
+      "teams": [
+        "No Surrender",
+        "Stay Healthy"
+      ],
+      "transfers": 8
+    },
+    {
+      "ign": "RubyKaster",
+      "teams": [
+        "Oblivion",
+        "Legion Gaming",
+        "Stallions"
+      ],
+      "transfers": 8
+    },
+    {
+      "ign": "catsonluna",
+      "teams": [
+        "Hotdog Mafia",
+        "TEMPR",
+        "Stallions"
+      ],
+      "transfers": 8
+    },
+    {
+      "ign": "Luminous",
+      "teams": [
+        "O2esports",
+        "TEQWING"
+      ],
+      "transfers": 8
+    },
+    {
+      "ign": "liemek",
+      "teams": [
+        "K1CK"
+      ],
+      "transfers": 7
+    },
+    {
+      "ign": "Leon",
+      "teams": [
+        "SCARZ",
+        "HAO"
+      ],
+      "transfers": 7
+    },
+    {
+      "ign": "Mania",
+      "teams": [
+        "Legion Gaming"
+      ],
+      "transfers": 7
+    },
+    {
+      "ign": "uruca",
+      "teams": [
+        "CrazyRaccoon"
+      ],
+      "transfers": 7
+    },
+    {
+      "ign": "ShivFPS",
+      "teams": [
+        "Luminosity Gaming"
+      ],
+      "transfers": 7
+    },
+    {
+      "ign": "Xenial",
+      "teams": [
+        "Sentinels",
+        "SpaceStation Gaming"
+      ],
+      "transfers": 7
+    },
+    {
+      "ign": "H1yaA",
+      "teams": [
+        "Alliance",
+        "REALIZE"
+      ],
+      "transfers": 7
+    },
+    {
+      "ign": "Amaazz",
+      "teams": [
+        "Passion"
+      ],
+      "transfers": 7
+    },
+    {
+      "ign": "Shadez",
+      "teams": [
+        "SGB"
+      ],
+      "transfers": 7
+    },
+    {
+      "ign": "Noiz",
+      "teams": [
+        "REJECT"
+      ],
+      "transfers": 7
+    },
+    {
+      "ign": "jelliedcorn",
+      "teams": [
+        "SJP2",
+        "Ethernal",
+        "New Esports",
+        "Vexed Gaming"
+      ],
+      "transfers": 7
+    },
+    {
+      "ign": "Xron",
+      "teams": [
+        "Natus Vincere",
+        "Luminosity Gaming"
+      ],
+      "transfers": 7
+    },
+    {
+      "ign": "Taylor",
+      "teams": [
+        "Virtus.pro"
+      ],
+      "transfers": 7
+    },
+    {
+      "ign": "NiceWigg",
+      "teams": [
+        "100 Thieves"
+      ],
+      "transfers": 7
+    },
+    {
+      "ign": "Legitlolly",
+      "teams": [
+        "Phoenix Legacy"
+      ],
+      "transfers": 7
+    },
+    {
+      "ign": "D4rk",
+      "teams": [
+        "Bearclaw Gaming",
+        "Team Nemesis"
+      ],
+      "transfers": 7
+    },
+    {
+      "ign": "Muffins",
+      "teams": [
+        "Complexity"
+      ],
+      "transfers": 7
+    },
+    {
+      "ign": "S1Naq",
+      "teams": [
+        "O2esports"
+      ],
+      "transfers": 7
+    },
+    {
+      "ign": "PinoNolR",
+      "teams": [
+        "Soleil Gaming"
+      ],
+      "transfers": 7
+    },
+    {
+      "ign": "CacaLL",
+      "teams": [
+        "Dreamfire"
+      ],
+      "transfers": 7
+    },
+    {
+      "ign": "OWO",
+      "teams": [
+        "StinkyB"
+      ],
+      "transfers": 7
+    },
+    {
+      "ign": "HisWattson",
+      "teams": [
+        "FURIA"
+      ],
+      "transfers": 7
+    },
+    {
+      "ign": "Gutbuster",
+      "teams": [
+        "Passion",
+        "Natus Vincere",
+        "ninjas in pyjamas"
+      ],
+      "transfers": 7
+    },
+    {
+      "ign": "Japa",
+      "teams": [
+        "K1CK"
+      ],
+      "transfers": 7
+    },
+    {
+      "ign": "Sleep",
+      "teams": [
+        "DRAGONS"
+      ],
+      "transfers": 7
+    },
+    {
+      "ign": "JR",
+      "teams": [
+        "XNY",
+        "Dreamfire",
+        "JD GAMING",
+        "source gaming",
+        "Cupid Esports"
+      ],
+      "transfers": 7
+    },
+    {
+      "ign": "tiltedwinnie",
+      "teams": [
+        "team liquid",
+        "NRG Esports",
+        "Guild Esports"
+      ],
+      "transfers": 7
+    },
+    {
+      "ign": "XiaoL1n",
+      "teams": [
+        "MDY Black",
+        "vk gaming"
+      ],
+      "transfers": 7
+    },
+    {
+      "ign": "shadi",
+      "teams": [
+        "ONIC Esports",
+        "Boogie Boarders"
+      ],
+      "transfers": 7
+    },
+    {
+      "ign": "zz",
+      "teams": [
+        "Pioneers",
+        "FaZe Clan",
+        "Team Falcons",
+        "DarkZero Esports"
+      ],
+      "transfers": 7
+    },
+    {
+      "ign": "Orioles",
+      "teams": [
+        "Sentinels"
+      ],
+      "transfers": 7
+    },
+    {
+      "ign": "MinguDesu",
+      "teams": [
+        "Tom Yum Kung",
+        "No Surrender"
+      ],
+      "transfers": 7
+    },
+    {
+      "ign": "SyanaMu",
+      "teams": [
+        "Activist",
+        "STRIDERZ"
+      ],
+      "transfers": 7
+    },
+    {
+      "ign": "RJ",
+      "teams": [
+        "Pioneers",
+        "TEMPR"
+      ],
+      "transfers": 7
+    },
+    {
+      "ign": "Donsonnn",
+      "teams": [
+        "team mango",
+        "DXAEsports"
+      ],
+      "transfers": 7
+    },
+    {
+      "ign": "Mqty",
+      "teams": [
+        "STRIDERZ",
+        "Meteor"
+      ],
+      "transfers": 7
+    },
+    {
+      "ign": "OuOKh",
+      "teams": [
+        "Luminosity Gaming",
+        "KeepGoing"
+      ],
+      "transfers": 7
+    },
+    {
+      "ign": "hrk",
+      "teams": [
+        "Pulverex",
+        "Northeption",
+        "NOEZ FOXX"
+      ],
+      "transfers": 7
+    },
+    {
+      "ign": "Kyri",
+      "teams": [
+        "Phoenix Legacy"
+      ],
+      "transfers": 7
+    },
+    {
+      "ign": "M4XY",
+      "teams": [
+        "Ethernal",
+        "made in heaven",
+        "gonext esports"
+      ],
+      "transfers": 7
+    },
+    {
+      "ign": "jayHANZO",
+      "teams": [
+        "Ronin",
+        "9Lies Esports"
+      ],
+      "transfers": 7
+    },
+    {
+      "ign": "BeiBeiS",
+      "teams": [
+        "MDY Black",
+        "Vcan"
+      ],
+      "transfers": 7
+    },
+    {
+      "ign": "VVrapping",
+      "teams": [
+        "Team Inferno"
+      ],
+      "transfers": 7
+    },
+    {
+      "ign": "iknivezi",
+      "teams": [
+        "QOR Gaming",
+        "source gaming",
+        "Veneno"
+      ],
+      "transfers": 7
+    },
+    {
+      "ign": "NIKO215",
+      "teams": [
+        "SOTEN",
+        "GROWGaming"
+      ],
+      "transfers": 7
+    },
+    {
+      "ign": "Zaratass",
+      "teams": [
+        "Bearclaw Gaming"
+      ],
+      "transfers": 6
+    },
+    {
+      "ign": "Ace",
+      "teams": [
+        "Northeption",
+        "SCARZ"
+      ],
+      "transfers": 6
+    },
+    {
+      "ign": "lyric",
+      "teams": [
+        "XSET",
+        "The Dojo"
+      ],
+      "transfers": 6
+    },
+    {
+      "ign": "Crust",
+      "teams": [
+        "Sentinels",
+        "Dno"
+      ],
+      "transfers": 6
+    },
+    {
+      "ign": "Yus",
+      "teams": [
+        "Dreamfire"
+      ],
+      "transfers": 6
+    },
+    {
+      "ign": "Dexyuku",
+      "teams": [
+        "FENNEL"
+      ],
+      "transfers": 6
+    },
+    {
+      "ign": "Okie",
+      "teams": [
+        "inside the ring"
+      ],
+      "transfers": 6
+    },
+    {
+      "ign": "Sadyama",
+      "teams": [
+        "Aurora Gaming"
+      ],
+      "transfers": 6
+    },
+    {
+      "ign": "rpr",
+      "teams": [
+        "kinotrope gaming",
+        "SCARZ"
+      ],
+      "transfers": 6
+    },
+    {
+      "ign": "maff",
+      "teams": [
+        "kinotrope gaming",
+        "REJECT"
+      ],
+      "transfers": 6
+    },
+    {
+      "ign": "Pjeh",
+      "teams": [
+        "Alliance",
+        "Virtus.pro"
+      ],
+      "transfers": 6
+    },
+    {
+      "ign": "Pettyboss",
+      "teams": [
+        "Team Intel"
+      ],
+      "transfers": 6
+    },
+    {
+      "ign": "Wasuo",
+      "teams": [
+        "sbi e-sports"
+      ],
+      "transfers": 6
+    },
+    {
+      "ign": "HaRu",
+      "teams": [
+        "sbi e-sports"
+      ],
+      "transfers": 6
+    },
+    {
+      "ign": "Claraphi",
+      "teams": [
+        "XSET",
+        "SpaceStation Gaming"
+      ],
+      "transfers": 6
+    },
+    {
+      "ign": "Mimu",
+      "teams": [
+        "Passion",
+        "Alliance"
+      ],
+      "transfers": 6
+    },
+    {
+      "ign": "Chambers",
+      "teams": [
+        "EXO Clan"
+      ],
+      "transfers": 6
+    },
+    {
+      "ign": "Exens",
+      "teams": [
+        "Luminosity Gaming"
+      ],
+      "transfers": 6
+    },
+    {
+      "ign": "Esdesu",
+      "teams": [
+        "Luminosity Gaming"
+      ],
+      "transfers": 6
+    },
+    {
+      "ign": "Aves",
+      "teams": [
+        "Dno"
+      ],
+      "transfers": 6
+    },
+    {
+      "ign": "Rolders",
+      "teams": [
+        "Dno"
+      ],
+      "transfers": 6
+    },
+    {
+      "ign": "Zecas",
+      "teams": [
+        "HAO"
+      ],
+      "transfers": 6
+    },
+    {
+      "ign": "ShunMi",
+      "teams": [
+        "Pulverex",
+        "REIGNITE"
+      ],
+      "transfers": 6
+    },
+    {
+      "ign": "ErycYoo",
+      "teams": [
+        "StinkyB"
+      ],
+      "transfers": 6
+    },
+    {
+      "ign": "gucci",
+      "teams": [
+        "TEQWING"
+      ],
+      "transfers": 6
+    },
+    {
+      "ign": "PirruS",
+      "teams": [
+        "LEAVENOWITNESS"
+      ],
+      "transfers": 6
+    },
+    {
+      "ign": "Neo",
+      "teams": [
+        "ORB GARDEN"
+      ],
+      "transfers": 6
+    },
+    {
+      "ign": "Braver",
+      "teams": [
+        "Setouchi Sparks",
+        "REALIZE"
+      ],
+      "transfers": 6
+    },
+    {
+      "ign": "PVPX",
+      "teams": [
+        "DarkZero Esports",
+        "Cloud9",
+        "FURIA"
+      ],
+      "transfers": 6
+    },
+    {
+      "ign": "yubn",
+      "teams": [
+        "MPIRE"
+      ],
+      "transfers": 6
+    },
+    {
+      "ign": "Rudenayyyyy",
+      "teams": [
+        "Bearclaw Gaming",
+        "FIZ6 Gaming"
+      ],
+      "transfers": 6
+    },
+    {
+      "ign": "Kano",
+      "teams": [
+        "Alliance"
+      ],
+      "transfers": 6
+    },
+    {
+      "ign": "YunD",
+      "teams": [
+        "CrazyRaccoon",
+        "enter force.36"
+      ],
+      "transfers": 6
+    },
+    {
+      "ign": "WrathLk",
+      "teams": [
+        "HEROEZ"
+      ],
+      "transfers": 6
+    },
+    {
+      "ign": "MeXiouSx",
+      "teams": [
+        "ONIC Esports"
+      ],
+      "transfers": 6
+    },
+    {
+      "ign": "t3nshy",
+      "teams": [
+        "HEROEZ"
+      ],
+      "transfers": 6
+    },
+    {
+      "ign": "PlushkaHDD",
+      "teams": [
+        "ZIPLINE MAFIA",
+        "Redragon"
+      ],
+      "transfers": 6
+    },
+    {
+      "ign": "Kuku",
+      "teams": [
+        "Luminosity Gaming"
+      ],
+      "transfers": 6
+    },
+    {
+      "ign": "IBUZOSQN",
+      "teams": [
+        "GROWGaming"
+      ],
+      "transfers": 6
+    },
+    {
+      "ign": "Lewda",
+      "teams": [
+        "Complexity"
+      ],
+      "transfers": 6
+    },
+    {
+      "ign": "Axell",
+      "teams": [
+        "kinotrope gaming"
+      ],
+      "transfers": 6
+    },
+    {
+      "ign": "KillMeTe",
+      "teams": [
+        "Lightning Unicorn"
+      ],
+      "transfers": 6
+    },
+    {
+      "ign": "Beam",
+      "teams": [
+        "Soleil Gaming"
+      ],
+      "transfers": 6
+    },
+    {
+      "ign": "Neazul",
+      "teams": [
+        "team liquid",
+        "Luminosity Gaming",
+        "legacy (mexican team)"
+      ],
+      "transfers": 6
+    },
+    {
+      "ign": "Egoist222",
+      "teams": [
+        "sbi e-sports",
+        "ORB GARDEN"
+      ],
+      "transfers": 6
+    },
+    {
+      "ign": "AimbotP",
+      "teams": [
+        "infinite"
+      ],
+      "transfers": 6
+    },
+    {
+      "ign": "Buegy",
+      "teams": [
+        "Guild Esports",
+        "Primis Komanda"
+      ],
+      "transfers": 6
+    },
+    {
+      "ign": "Crxsadxr",
+      "teams": [
+        "ONIC Esports",
+        "Primis Komanda"
+      ],
+      "transfers": 6
+    },
+    {
+      "ign": "renatricky",
+      "teams": [
+        "LEAVENOWITNESS"
+      ],
+      "transfers": 6
+    },
+    {
+      "ign": "Hyugo",
+      "teams": [
+        "Setouchi Sparks"
+      ],
+      "transfers": 6
+    },
+    {
+      "ign": "Jukes",
+      "teams": [
+        "Redragon"
+      ],
+      "transfers": 6
+    },
+    {
+      "ign": "Akimboh",
+      "teams": [
+        "Oblivion"
+      ],
+      "transfers": 6
+    },
+    {
+      "ign": "yPwdin",
+      "teams": [
+        "LEAVENOWITNESS"
+      ],
+      "transfers": 6
+    },
+    {
+      "ign": "Zhouzhou",
+      "teams": [
+        "Dreamfire",
+        "shadow3690"
+      ],
+      "transfers": 6
+    },
+    {
+      "ign": "Yuhang",
+      "teams": [
+        "shadow3690",
+        "Luminosity Gaming"
+      ],
+      "transfers": 6
+    },
+    {
+      "ign": "Wandz",
+      "teams": [
+        "LEAVENOWITNESS"
+      ],
+      "transfers": 6
+    },
+    {
+      "ign": "Rokhea",
+      "teams": [
+        "Ethernal"
+      ],
+      "transfers": 6
+    },
+    {
+      "ign": "Naoki",
+      "teams": [
+        "GHS Professional",
+        "GHS BoooM",
+        "unlimit"
+      ],
+      "transfers": 6
+    },
+    {
+      "ign": "TryHardThor",
+      "teams": [
+        "EXO Clan",
+        "ATLAS"
+      ],
+      "transfers": 6
+    },
+    {
+      "ign": "AochasoN",
+      "teams": [
+        "O2esports",
+        "Meteor"
+      ],
+      "transfers": 6
+    },
+    {
+      "ign": "Zeddo",
+      "teams": [
+        "Element 6"
+      ],
+      "transfers": 6
+    },
+    {
+      "ign": "Sorawiz",
+      "teams": [
+        "Pioneers",
+        "9Lies Esports"
+      ],
+      "transfers": 6
+    },
+    {
+      "ign": "PaPa",
+      "teams": [
+        "MDY Black",
+        "Luminosity Gaming"
+      ],
+      "transfers": 6
+    },
+    {
+      "ign": "Catch",
+      "teams": [
+        "EXO Clan"
+      ],
+      "transfers": 6
+    },
+    {
+      "ign": "pucaa",
+      "teams": [
+        "Oryn Esports",
+        "LICS ONIRIA"
+      ],
+      "transfers": 6
+    },
+    {
+      "ign": "MatsuTash",
+      "teams": [
+        "RRX",
+        "REIGNITE",
+        "Arneb"
+      ],
+      "transfers": 6
+    },
+    {
+      "ign": "Mari",
+      "teams": [
+        "Team Inferno"
+      ],
+      "transfers": 6
+    },
+    {
+      "ign": "YliSilta",
+      "teams": [
+        "orgless and hungry"
+      ],
+      "transfers": 5
+    },
+    {
+      "ign": "Cpt",
+      "teams": [
+        "CrazyRaccoon"
+      ],
+      "transfers": 5
+    },
+    {
+      "ign": "Mondo",
+      "teams": [
+        "CrazyRaccoon"
+      ],
+      "transfers": 5
+    },
+    {
+      "ign": "Android Dream",
+      "teams": [
+        "Luminosity Gaming"
+      ],
+      "transfers": 5
+    },
+    {
+      "ign": "iPN",
+      "teams": [
+        "Alliance"
+      ],
+      "transfers": 5
+    },
+    {
+      "ign": "Magpie",
+      "teams": [
+        "STRIDERZ"
+      ],
+      "transfers": 5
+    },
+    {
+      "ign": "Edah",
+      "teams": [
+        "Alliance"
+      ],
+      "transfers": 5
+    },
+    {
+      "ign": "Sunday",
+      "teams": [
+        "CrazyRaccoon"
+      ],
+      "transfers": 5
+    },
+    {
+      "ign": "rondon",
+      "teams": [
+        "New Esports"
+      ],
+      "transfers": 5
+    },
+    {
+      "ign": "AZu",
+      "teams": [
+        "MDY Black",
+        "vk gaming"
+      ],
+      "transfers": 5
+    },
+    {
+      "ign": "kaloq",
+      "teams": [
+        "Northeption"
+      ],
+      "transfers": 5
+    },
+    {
+      "ign": "LittleArif",
+      "teams": [
+        "Primis Komanda"
+      ],
+      "transfers": 5
+    },
+    {
+      "ign": "muhhn",
+      "teams": [
+        "Ethernal",
+        "Vexed Gaming"
+      ],
+      "transfers": 5
+    },
+    {
+      "ign": "Xeratricky",
+      "teams": [
+        "FaZe Clan",
+        "FURIA"
+      ],
+      "transfers": 5
+    },
+    {
+      "ign": "Sineska",
+      "teams": [
+        "Element 6",
+        "EXO Clan"
+      ],
+      "transfers": 5
+    },
+    {
+      "ign": "rudenay",
+      "teams": [
+        "Bearclaw Gaming"
+      ],
+      "transfers": 5
+    },
+    {
+      "ign": "GGEZ_Deep",
+      "teams": [
+        "StinkyB"
+      ],
+      "transfers": 5
+    },
+    {
+      "ign": "sweetdreams",
+      "teams": [
+        "Luminosity Gaming",
+        "NRG Esports"
+      ],
+      "transfers": 5
+    },
+    {
+      "ign": "ogo_pr1vet",
+      "teams": [
+        "Aurora Gaming"
+      ],
+      "transfers": 5
+    },
+    {
+      "ign": "Mamba",
+      "teams": [
+        "LEAVENOWITNESS"
+      ],
+      "transfers": 5
+    },
+    {
+      "ign": "SeNa",
+      "teams": [
+        "REALIZE"
+      ],
+      "transfers": 5
+    },
+    {
+      "ign": "Leogri3x6",
+      "teams": [
+        "Gaimin Gladiators"
+      ],
+      "transfers": 5
+    },
+    {
+      "ign": "Mumyou",
+      "teams": [
+        "REDRams"
+      ],
+      "transfers": 5
+    },
+    {
+      "ign": "Icy",
+      "teams": [
+        "source gaming"
+      ],
+      "transfers": 5
+    },
+    {
+      "ign": "Flinzar",
+      "teams": [
+        "Team Intel"
+      ],
+      "transfers": 5
+    },
+    {
+      "ign": "Yc",
+      "teams": [
+        "source gaming",
+        "JD GAMING",
+        "XNY"
+      ],
+      "transfers": 5
+    },
+    {
+      "ign": "CallSpades",
+      "teams": [
+        "TEMPR",
+        "source gaming"
+      ],
+      "transfers": 5
+    },
+    {
+      "ign": "4rmy",
+      "teams": [
+        "Pulverex",
+        "sbi e-sports",
+        "SCARZ"
+      ],
+      "transfers": 5
+    },
+    {
+      "ign": "Hizzy",
+      "teams": [
+        "StinkyB"
+      ],
+      "transfers": 5
+    },
+    {
+      "ign": "rowbbeN",
+      "teams": [
+        "SPS",
+        "Team Nemesis",
+        "HEROEZ"
+      ],
+      "transfers": 5
+    },
+    {
+      "ign": "Vulcan300",
+      "teams": [
+        "REDRams",
+        "TEQWING"
+      ],
+      "transfers": 5
+    },
+    {
+      "ign": "Honjo",
+      "teams": [
+        "kinotrope gaming",
+        "GROWGaming"
+      ],
+      "transfers": 5
+    },
+    {
+      "ign": "JoJo3y",
+      "teams": [
+        "MDY Black"
+      ],
+      "transfers": 5
+    },
+    {
+      "ign": "Taunty",
+      "teams": [
+        "Sentinels",
+        "MPIRE"
+      ],
+      "transfers": 5
+    },
+    {
+      "ign": "Snoop",
+      "teams": [
+        "DXAEsports"
+      ],
+      "transfers": 5
+    },
+    {
+      "ign": "Liivaii",
+      "teams": [
+        "SPS",
+        "infinite"
+      ],
+      "transfers": 5
+    },
+    {
+      "ign": "Jimo",
+      "teams": [
+        "LEAVENOWITNESS"
+      ],
+      "transfers": 5
+    },
+    {
+      "ign": "Arkology",
+      "teams": [
+        "Oblivion",
+        "MPIRE"
+      ],
+      "transfers": 5
+    },
+    {
+      "ign": "Sum1yoshii",
+      "teams": [
+        "kinotrope gaming"
+      ],
+      "transfers": 5
+    },
+    {
+      "ign": "shidnkai",
+      "teams": [
+        "SPS",
+        "infinite"
+      ],
+      "transfers": 5
+    },
+    {
+      "ign": "AugustDream",
+      "teams": [
+        "MDY Black"
+      ],
+      "transfers": 5
+    },
+    {
+      "ign": "Rchwert",
+      "teams": [
+        "Barbeque",
+        "KeepGoing"
+      ],
+      "transfers": 5
+    },
+    {
+      "ign": "Smallfish",
+      "teams": [
+        "remarkable team",
+        "Luminosity Gaming"
+      ],
+      "transfers": 5
+    },
+    {
+      "ign": "XinHai",
+      "teams": [
+        "wolves esports"
+      ],
+      "transfers": 5
+    },
+    {
+      "ign": "TANPOPO",
+      "teams": [
+        "O2esports",
+        "Setouchi Sparks"
+      ],
+      "transfers": 5
+    },
+    {
+      "ign": "Solstice",
+      "teams": [
+        "WLG"
+      ],
+      "transfers": 5
+    },
+    {
+      "ign": "XiaMan",
+      "teams": [
+        "MDY Black"
+      ],
+      "transfers": 5
+    },
+    {
+      "ign": "Cloaked",
+      "teams": [
+        "Pioneers",
+        "TEMPR"
+      ],
+      "transfers": 5
+    },
+    {
+      "ign": "Xq",
+      "teams": [
+        "WeiBo Gaming"
+      ],
+      "transfers": 5
+    },
+    {
+      "ign": "Rileymekinac",
+      "teams": [
+        "Sentinels",
+        "MPIRE"
+      ],
+      "transfers": 5
+    },
+    {
+      "ign": "Lumdum",
+      "teams": [
+        "FaZe Clan",
+        "made in heaven"
+      ],
+      "transfers": 5
+    },
+    {
+      "ign": "Bursty",
+      "teams": [
+        "MPIRE",
+        "pixel lumina",
+        "Forbidden Gaming"
+      ],
+      "transfers": 5
+    },
+    {
+      "ign": "7ne",
+      "teams": [
+        "RRX",
+        "SOTEN",
+        "REIGNITE"
+      ],
+      "transfers": 5
+    },
+    {
+      "ign": "sherb",
+      "teams": [
+        "Danish",
+        "MPIRE",
+        "Team WaR"
+      ],
+      "transfers": 5
+    },
+    {
+      "ign": "bouncyblue",
+      "teams": [
+        "Stallions"
+      ],
+      "transfers": 5
+    },
+    {
+      "ign": "Gqzeln",
+      "teams": [
+        "SOTEN",
+        "Dory"
+      ],
+      "transfers": 5
+    },
+    {
+      "ign": "Nyanmerry",
+      "teams": [
+        "REJECT"
+      ],
+      "transfers": 5
+    },
+    {
+      "ign": "Esteves33",
+      "teams": [
+        "Natus Vincere",
+        "gonext esports",
+        "Aurora Gaming"
+      ],
+      "transfers": 5
+    },
+    {
+      "ign": "sh00k",
+      "teams": [
+        "TEMPR",
+        "Unreal Nightmare"
+      ],
+      "transfers": 5
+    },
+    {
+      "ign": "crumbs",
+      "teams": [
+        "Bearclaw Gaming",
+        "YungBlackRicky",
+        "team mango"
+      ],
+      "transfers": 5
+    },
+    {
+      "ign": "Patiphan",
+      "teams": [
+        "Tom Yum Kung",
+        "No Surrender"
+      ],
+      "transfers": 5
+    },
+    {
+      "ign": "Raen",
+      "teams": [
+        "Annex eSports",
+        "Team Inferno"
+      ],
+      "transfers": 5
+    },
+    {
+      "ign": "sirsay",
+      "teams": [
+        "Pioneers",
+        "FYR Strays",
+        "9Lies Esports"
+      ],
+      "transfers": 5
+    },
+    {
+      "ign": "Fia",
+      "teams": [
+        "Soleil Gaming",
+        "REDRams",
+        "white grim reaper"
+      ],
+      "transfers": 5
+    },
+    {
+      "ign": "jyasintereta",
+      "teams": [
+        "GROWGaming",
+        "white grim reaper"
+      ],
+      "transfers": 5
+    },
+    {
+      "ign": "Nakahiro",
+      "teams": [
+        "REJECT"
+      ],
+      "transfers": 4
+    },
+    {
+      "ign": "Lowley",
+      "teams": [
+        "Alliance"
+      ],
+      "transfers": 4
+    },
+    {
+      "ign": "Teenage",
+      "teams": [
+        "Team Intel"
+      ],
+      "transfers": 4
+    },
+    {
+      "ign": "Nesh",
+      "teams": [
+        "Natus Vincere"
+      ],
+      "transfers": 4
+    },
+    {
+      "ign": "Galatorix",
+      "teams": [
+        "ZETA DIVISION"
+      ],
+      "transfers": 4
+    },
+    {
+      "ign": "Kozay",
+      "teams": [
+        "ZETA DIVISION"
+      ],
+      "transfers": 4
+    },
+    {
+      "ign": "Spica",
+      "teams": [
+        "Northeption"
+      ],
+      "transfers": 4
+    },
+    {
+      "ign": "ShaKa_bo",
+      "teams": [
+        "FENNEL"
+      ],
+      "transfers": 4
+    },
+    {
+      "ign": "Rumad",
+      "teams": [
+        "SCARZ"
+      ],
+      "transfers": 4
+    },
+    {
+      "ign": "uzagiii",
+      "teams": [
+        "Northeption"
+      ],
+      "transfers": 4
+    },
+    {
+      "ign": "ShibuyaHAL",
+      "teams": [
+        "TSM"
+      ],
+      "transfers": 4
+    },
+    {
+      "ign": "Lelia",
+      "teams": [
+        "sbi e-sports"
+      ],
+      "transfers": 4
+    },
+    {
+      "ign": "Karaaju",
+      "teams": [
+        "GHS Professional"
+      ],
+      "transfers": 4
+    },
+    {
+      "ign": "HusKers",
+      "teams": [
+        "Luminosity Gaming",
+        "NRG Esports"
+      ],
+      "transfers": 4
+    },
+    {
+      "ign": "Jiepai",
+      "teams": [
+        "vk gaming"
+      ],
+      "transfers": 4
+    },
+    {
+      "ign": "KinokoGenji",
+      "teams": [
+        "GHS Professional",
+        "GHS BoooM"
+      ],
+      "transfers": 4
+    },
+    {
+      "ign": "Fyzu",
+      "teams": [
+        "Natus Vincere"
+      ],
+      "transfers": 4
+    },
+    {
+      "ign": "godcia",
+      "teams": [
+        "New Esports"
+      ],
+      "transfers": 4
+    },
+    {
+      "ign": "kassssa",
+      "teams": [
+        "MDY Black",
+        "vk gaming"
+      ],
+      "transfers": 4
+    },
+    {
+      "ign": "Jacuu",
+      "teams": [
+        "Phoenix Legacy",
+        "K1CK"
+      ],
+      "transfers": 4
+    },
+    {
+      "ign": "Cruze",
+      "teams": [
+        "DeeSports"
+      ],
+      "transfers": 4
+    },
+    {
+      "ign": "Jubjibbib",
+      "teams": [
+        "Bearclaw Gaming"
+      ],
+      "transfers": 4
+    },
+    {
+      "ign": "tycoonyx",
+      "teams": [
+        "New Esports"
+      ],
+      "transfers": 4
+    },
+    {
+      "ign": "ZMB",
+      "teams": [
+        "Team Nemesis"
+      ],
+      "transfers": 4
+    },
+    {
+      "ign": "Gobble",
+      "teams": [
+        "MPIRE"
+      ],
+      "transfers": 4
+    },
+    {
+      "ign": "chamggaeguk",
+      "teams": [
+        "Northeption"
+      ],
+      "transfers": 4
+    },
+    {
+      "ign": "RETEQ",
+      "teams": [
+        "Team Inferno"
+      ],
+      "transfers": 4
+    },
+    {
+      "ign": "fankong",
+      "teams": [
+        "WeiBo Gaming"
+      ],
+      "transfers": 4
+    },
+    {
+      "ign": "Unlimited",
+      "teams": [
+        "Team Inferno"
+      ],
+      "transfers": 4
+    },
+    {
+      "ign": "Barroth",
+      "teams": [
+        "Team Inferno"
+      ],
+      "transfers": 4
+    },
+    {
+      "ign": "Mulvana",
+      "teams": [
+        "Alliance",
+        "men of culture"
+      ],
+      "transfers": 4
+    },
+    {
+      "ign": "Daltoosh",
+      "teams": [
+        "OpTic Gaming",
+        "TSM"
+      ],
+      "transfers": 4
+    },
+    {
+      "ign": "NiteNite",
+      "teams": [
+        "LEAVENOWITNESS"
+      ],
+      "transfers": 4
+    },
+    {
+      "ign": "WisdoM",
+      "teams": [
+        "TEQWING"
+      ],
+      "transfers": 4
+    },
+    {
+      "ign": "Rossoful",
+      "teams": [
+        "TEQWING"
+      ],
+      "transfers": 4
+    },
+    {
+      "ign": "Natsukawa",
+      "teams": [
+        "IGZIST"
+      ],
+      "transfers": 4
+    },
+    {
+      "ign": "NaG1kA",
+      "teams": [
+        "Soleil Gaming"
+      ],
+      "transfers": 4
+    },
+    {
+      "ign": "Piggy",
+      "teams": [
+        "EXO Clan"
+      ],
+      "transfers": 4
+    },
+    {
+      "ign": "IhateCoward",
+      "teams": [
+        "MDY Black"
+      ],
+      "transfers": 4
+    },
+    {
+      "ign": "Yuppy",
+      "teams": [
+        "O2esports"
+      ],
+      "transfers": 4
+    },
+    {
+      "ign": "arimakishka",
+      "teams": [
+        "Redragon"
+      ],
+      "transfers": 4
+    },
+    {
+      "ign": "LinBobo",
+      "teams": [
+        "Dreamfire",
+        "Alliance"
+      ],
+      "transfers": 4
+    },
+    {
+      "ign": "JamesFearless",
+      "teams": [
+        "Team Intel"
+      ],
+      "transfers": 4
+    },
+    {
+      "ign": "Jomacs",
+      "teams": [
+        "LEAVENOWITNESS"
+      ],
+      "transfers": 4
+    },
+    {
+      "ign": "Nomoney",
+      "teams": [
+        "O2esports"
+      ],
+      "transfers": 4
+    },
+    {
+      "ign": "banana",
+      "teams": [
+        "SGB"
+      ],
+      "transfers": 4
+    },
+    {
+      "ign": "Raizy",
+      "teams": [
+        "EXO Clan",
+        "vk gaming"
+      ],
+      "transfers": 4
+    },
+    {
+      "ign": "H8sak",
+      "teams": [
+        "kinotrope gaming",
+        "HAO"
+      ],
+      "transfers": 4
+    },
+    {
+      "ign": "Yiran",
+      "teams": [
+        "Vcan"
+      ],
+      "transfers": 4
+    },
+    {
+      "ign": "Melltage",
+      "teams": [
+        "DOSUKOI Impact"
+      ],
+      "transfers": 4
+    },
+    {
+      "ign": "G0_Zh",
+      "teams": [
+        "Redragon"
+      ],
+      "transfers": 4
+    },
+    {
+      "ign": "Su2tap",
+      "teams": [
+        "MDY Black"
+      ],
+      "transfers": 4
+    },
+    {
+      "ign": "JET",
+      "teams": [
+        "Team Intel"
+      ],
+      "transfers": 4
+    },
+    {
+      "ign": "M1kod4yo",
+      "teams": [
+        "Pulverex"
+      ],
+      "transfers": 4
+    },
+    {
+      "ign": "NANA",
+      "teams": [
+        "O2esports"
+      ],
+      "transfers": 4
+    },
+    {
+      "ign": "infamous",
+      "teams": [
+        "kinotrope gaming"
+      ],
+      "transfers": 4
+    },
+    {
+      "ign": "Jeloan",
+      "teams": [
+        "Stallions"
+      ],
+      "transfers": 4
+    },
+    {
+      "ign": "ThisSwiftness",
+      "teams": [
+        "CCG"
+      ],
+      "transfers": 4
+    },
+    {
+      "ign": "LiNkzr",
+      "teams": [
+        "Stay Healthy"
+      ],
+      "transfers": 4
+    },
+    {
+      "ign": "Moku",
+      "teams": [
+        "MDY Black"
+      ],
+      "transfers": 4
+    },
+    {
+      "ign": "Avexys",
+      "teams": [
+        "MPIRE"
+      ],
+      "transfers": 4
+    },
+    {
+      "ign": "Klemmy",
+      "teams": [
+        "HEROEZ"
+      ],
+      "transfers": 4
+    },
+    {
+      "ign": "Faco",
+      "teams": [
+        "HEROEZ"
+      ],
+      "transfers": 4
+    },
+    {
+      "ign": "NiA56",
+      "teams": [
+        "MPIRE",
+        "source gaming"
+      ],
+      "transfers": 4
+    },
+    {
+      "ign": "Dijai",
+      "teams": [
+        "KILLER WHALES"
+      ],
+      "transfers": 4
+    },
+    {
+      "ign": "Nurge",
+      "teams": [
+        "gonext esports"
+      ],
+      "transfers": 4
+    },
+    {
+      "ign": "Niikoluas",
+      "teams": [
+        "DXAEsports"
+      ],
+      "transfers": 4
+    },
+    {
+      "ign": "JoyconSweet",
+      "teams": [
+        "GROWGaming"
+      ],
+      "transfers": 4
+    },
+    {
+      "ign": "THONNE",
+      "teams": [
+        "SPS",
+        "Stay Healthy"
+      ],
+      "transfers": 4
+    },
+    {
+      "ign": "Bible",
+      "teams": [
+        "Vcan",
+        "KeepGoing"
+      ],
+      "transfers": 4
+    },
+    {
+      "ign": "Doctoena",
+      "teams": [
+        "MPIRE"
+      ],
+      "transfers": 4
+    },
+    {
+      "ign": "Selka",
+      "teams": [
+        "KeepGoing"
+      ],
+      "transfers": 4
+    },
+    {
+      "ign": "Agoscialfa",
+      "teams": [
+        "DRAGONS"
+      ],
+      "transfers": 4
+    },
+    {
+      "ign": "LxxYun",
+      "teams": [
+        "GHS Professional",
+        "HAO"
+      ],
+      "transfers": 4
+    },
+    {
+      "ign": "nene",
+      "teams": [
+        "ORB GARDEN"
+      ],
+      "transfers": 4
+    },
+    {
+      "ign": "N1ght",
+      "teams": [
+        "ORB GARDEN"
+      ],
+      "transfers": 4
+    },
+    {
+      "ign": "Dexican",
+      "teams": [
+        "TEMPR",
+        "MPIRE"
+      ],
+      "transfers": 4
+    },
+    {
+      "ign": "Saber",
+      "teams": [
+        "made in heaven"
+      ],
+      "transfers": 4
+    },
+    {
+      "ign": "SamuraiSky",
+      "teams": [
+        "Phoenix Legacy"
+      ],
+      "transfers": 4
+    },
+    {
+      "ign": "Falcons",
+      "teams": [
+        "Pioneers",
+        "Stay Healthy"
+      ],
+      "transfers": 4
+    },
+    {
+      "ign": "FFx BaByLoNs",
+      "teams": [
+        "F9 Eicar"
+      ],
+      "transfers": 4
+    },
+    {
+      "ign": "Atori",
+      "teams": [
+        "Setouchi Sparks",
+        "TEQWING"
+      ],
+      "transfers": 4
+    },
+    {
+      "ign": "Plexez",
+      "teams": [
+        "Legion Gaming",
+        "Forbidden Gaming"
+      ],
+      "transfers": 4
+    },
+    {
+      "ign": "Favorite",
+      "teams": [
+        "Phoenix Legacy"
+      ],
+      "transfers": 4
+    },
+    {
+      "ign": "Shuhei Yamato",
+      "teams": [
+        "ZETA DIVISION",
+        "FNATIC",
+        "Meteor"
+      ],
+      "transfers": 4
+    },
+    {
+      "ign": "Sentinel",
+      "teams": [
+        "Team Nemesis"
+      ],
+      "transfers": 4
+    },
+    {
+      "ign": "bany",
+      "teams": [
+        "ORB GARDEN"
+      ],
+      "transfers": 4
+    },
+    {
+      "ign": "odango",
+      "teams": [
+        "RRX",
+        "DOSUKOI Impact"
+      ],
+      "transfers": 4
+    },
+    {
+      "ign": "Siebakk",
+      "teams": [
+        "SJP2",
+        "K1CK"
+      ],
+      "transfers": 3
+    },
+    {
+      "ign": "Supponponsuke",
+      "teams": [
+        "REJECT"
+      ],
+      "transfers": 3
+    },
+    {
+      "ign": "Am4zeZ",
+      "teams": [
+        "Northeption"
+      ],
+      "transfers": 3
+    },
+    {
+      "ign": "Rogue",
+      "teams": [
+        "team liquid",
+        "NRG Esports"
+      ],
+      "transfers": 3
+    },
+    {
+      "ign": "Mohr",
+      "teams": [
+        "NRG Esports"
+      ],
+      "transfers": 3
+    },
+    {
+      "ign": "aceu",
+      "teams": [
+        "Sentinels",
+        "NRG Esports"
+      ],
+      "transfers": 3
+    },
+    {
+      "ign": "Matrixx",
+      "teams": [
+        "K1CK"
+      ],
+      "transfers": 3
+    },
+    {
+      "ign": "Takkayan",
+      "teams": [
+        "Primis Komanda"
+      ],
+      "transfers": 3
+    },
+    {
+      "ign": "Nokokopuffs",
+      "teams": [
+        "TSM"
+      ],
+      "transfers": 3
+    },
+    {
+      "ign": "Anbu",
+      "teams": [
+        "Bearclaw Gaming"
+      ],
+      "transfers": 3
+    },
+    {
+      "ign": "Oziko",
+      "teams": [
+        "Northeption"
+      ],
+      "transfers": 3
+    },
+    {
+      "ign": "CarryRubick",
+      "teams": [
+        "Redragon"
+      ],
+      "transfers": 3
+    },
+    {
+      "ign": "Leia",
+      "teams": [
+        "REIGNITE"
+      ],
+      "transfers": 3
+    },
+    {
+      "ign": "Hatsume",
+      "teams": [
+        "FENNEL"
+      ],
+      "transfers": 3
+    },
+    {
+      "ign": "Casper",
+      "teams": [
+        "team liquid"
+      ],
+      "transfers": 3
+    },
+    {
+      "ign": "omega",
+      "teams": [
+        "Legion Gaming"
+      ],
+      "transfers": 3
+    },
+    {
+      "ign": "ApexSQL",
+      "teams": [
+        "inside the ring"
+      ],
+      "transfers": 3
+    },
+    {
+      "ign": "Rios",
+      "teams": [
+        "Team Inferno"
+      ],
+      "transfers": 3
+    },
+    {
+      "ign": "Ozisan",
+      "teams": [
+        "SCARZ"
+      ],
+      "transfers": 3
+    },
+    {
+      "ign": "babynikki",
+      "teams": [
+        "NRG Esports"
+      ],
+      "transfers": 3
+    },
+    {
+      "ign": "TimmyBeng",
+      "teams": [
+        "Meraki"
+      ],
+      "transfers": 3
+    },
+    {
+      "ign": "Apryze",
+      "teams": [
+        "Complexity",
+        "NRG Esports"
+      ],
+      "transfers": 3
+    },
+    {
+      "ign": "JayceeTower",
+      "teams": [
+        "LEAVENOWITNESS"
+      ],
+      "transfers": 3
+    },
+    {
+      "ign": "Zarlox",
+      "teams": [
+        "TEQWING"
+      ],
+      "transfers": 3
+    },
+    {
+      "ign": "kizitora",
+      "teams": [
+        "O2esports"
+      ],
+      "transfers": 3
+    },
+    {
+      "ign": "JOJO",
+      "teams": [
+        "O2esports"
+      ],
+      "transfers": 3
+    },
+    {
+      "ign": "ni6ear",
+      "teams": [
+        "O2esports"
+      ],
+      "transfers": 3
+    },
+    {
+      "ign": "Reyzyyy",
+      "teams": [
+        "Northeption"
+      ],
+      "transfers": 3
+    },
+    {
+      "ign": "Of Importance",
+      "teams": [
+        "Phoenix Legacy"
+      ],
+      "transfers": 3
+    },
+    {
+      "ign": "mitarasi",
+      "teams": [
+        "sbi e-sports",
+        "Meteor"
+      ],
+      "transfers": 3
+    },
+    {
+      "ign": "hARTLY",
+      "teams": [
+        "ZIPLINE MAFIA"
+      ],
+      "transfers": 3
+    },
+    {
+      "ign": "NICKMERCS",
+      "teams": [
+        "FaZe Clan"
+      ],
+      "transfers": 3
+    },
+    {
+      "ign": "ButterCookie",
+      "teams": [
+        "REALIZE"
+      ],
+      "transfers": 3
+    },
+    {
+      "ign": "xWrathLk",
+      "teams": [
+        "HEROEZ",
+        "Team Nemesis"
+      ],
+      "transfers": 3
+    },
+    {
+      "ign": "WeThePeople1",
+      "teams": [
+        "Luminosity Gaming"
+      ],
+      "transfers": 3
+    },
+    {
+      "ign": "vRement",
+      "teams": [
+        "Element 6",
+        "EXO Clan"
+      ],
+      "transfers": 3
+    },
+    {
+      "ign": "Bardo",
+      "teams": [
+        "Team Nemesis"
+      ],
+      "transfers": 3
+    },
+    {
+      "ign": "zRXMz",
+      "teams": [
+        "outside"
+      ],
+      "transfers": 3
+    },
+    {
+      "ign": "Tyutyu",
+      "teams": [
+        "REALIZE"
+      ],
+      "transfers": 3
+    },
+    {
+      "ign": "pOkiz",
+      "teams": [
+        "FURIA"
+      ],
+      "transfers": 3
+    },
+    {
+      "ign": "dtto.",
+      "teams": [
+        "SCARZ",
+        "REJECT"
+      ],
+      "transfers": 3
+    },
+    {
+      "ign": "GACHISEIYA",
+      "teams": [
+        "sbi e-sports"
+      ],
+      "transfers": 3
+    },
+    {
+      "ign": "Kungshun",
+      "teams": [
+        "StinkyB"
+      ],
+      "transfers": 3
+    },
+    {
+      "ign": "Doncat",
+      "teams": [
+        "StinkyB"
+      ],
+      "transfers": 3
+    },
+    {
+      "ign": "Wh1te",
+      "teams": [
+        "Aurora Gaming",
+        "AURORA"
+      ],
+      "transfers": 3
+    },
+    {
+      "ign": "SlurpeeG",
+      "teams": [
+        "FaZe Clan"
+      ],
+      "transfers": 3
+    },
+    {
+      "ign": "SIN",
+      "teams": [
+        "O2esports"
+      ],
+      "transfers": 3
+    },
+    {
+      "ign": "Privacy",
+      "teams": [
+        "DarkZero Esports",
+        "Team Falcons"
+      ],
+      "transfers": 3
+    },
+    {
+      "ign": "GuhRL",
+      "teams": [
+        "SUPERNOVA"
+      ],
+      "transfers": 3
+    },
+    {
+      "ign": "Padawan",
+      "teams": [
+        "Team Nemesis"
+      ],
+      "transfers": 3
+    },
+    {
+      "ign": "Weep",
+      "teams": [
+        "Acend"
+      ],
+      "transfers": 3
+    },
+    {
+      "ign": "L9u2",
+      "teams": [
+        "shadow3690"
+      ],
+      "transfers": 3
+    },
+    {
+      "ign": "Lanxi",
+      "teams": [
+        "KeepGoing"
+      ],
+      "transfers": 3
+    },
+    {
+      "ign": "Eisbaerchen",
+      "teams": [
+        "Phoenix Legacy"
+      ],
+      "transfers": 3
+    },
+    {
+      "ign": "Koba",
+      "teams": [
+        "kinotrope gaming",
+        "O2esports"
+      ],
+      "transfers": 3
+    },
+    {
+      "ign": "JUDA",
+      "teams": [
+        "O2esports"
+      ],
+      "transfers": 3
+    },
+    {
+      "ign": "Sunny",
+      "teams": [
+        "Soleil Gaming"
+      ],
+      "transfers": 3
+    },
+    {
+      "ign": "Lvvy",
+      "teams": [
+        "WeiBo Gaming"
+      ],
+      "transfers": 3
+    },
+    {
+      "ign": "H4ya",
+      "teams": [
+        "Soleil Gaming"
+      ],
+      "transfers": 3
+    },
+    {
+      "ign": "AnibalJz",
+      "teams": [
+        "LICS ONIRIA"
+      ],
+      "transfers": 3
+    },
+    {
+      "ign": "ZhouS",
+      "teams": [
+        "shadow3690"
+      ],
+      "transfers": 3
+    },
+    {
+      "ign": "kunkyon",
+      "teams": [
+        "SOTEN",
+        "REALIZE"
+      ],
+      "transfers": 3
+    },
+    {
+      "ign": "Mythh",
+      "teams": [
+        "WLG"
+      ],
+      "transfers": 3
+    },
+    {
+      "ign": "tripz",
+      "teams": [
+        "TEMPR"
+      ],
+      "transfers": 3
+    },
+    {
+      "ign": "Lockeht",
+      "teams": [
+        "Meraki",
+        "DXAEsports"
+      ],
+      "transfers": 3
+    },
+    {
+      "ign": "iHateTheWorld",
+      "teams": [
+        "Dreamfire",
+        "wolves esports"
+      ],
+      "transfers": 3
+    },
+    {
+      "ign": "Weiyu",
+      "teams": [
+        "wolves esports"
+      ],
+      "transfers": 3
+    },
+    {
+      "ign": "ice7",
+      "teams": [
+        "MetaTensei"
+      ],
+      "transfers": 3
+    },
+    {
+      "ign": "yuri",
+      "teams": [
+        "Arneb"
+      ],
+      "transfers": 3
+    },
+    {
+      "ign": "Camzy",
+      "teams": [
+        "WLG"
+      ],
+      "transfers": 3
+    },
+    {
+      "ign": "Rye",
+      "teams": [
+        "REDRams",
+        "STRIDERZ"
+      ],
+      "transfers": 3
+    },
+    {
+      "ign": "mileena",
+      "teams": [
+        "Meraki"
+      ],
+      "transfers": 3
+    },
+    {
+      "ign": "Koron",
+      "teams": [
+        "Activist"
+      ],
+      "transfers": 3
+    },
+    {
+      "ign": "Luxr",
+      "teams": [
+        "TAKE FLYTE"
+      ],
+      "transfers": 3
+    },
+    {
+      "ign": "Kiriren",
+      "teams": [
+        "TEQWING"
+      ],
+      "transfers": 3
+    },
+    {
+      "ign": "Balvarine",
+      "teams": [
+        "Crazy Thieves",
+        "100 Thieves"
+      ],
+      "transfers": 3
+    },
+    {
+      "ign": "Nome",
+      "teams": [
+        "Oryn Esports"
+      ],
+      "transfers": 3
+    },
+    {
+      "ign": "Renzalations",
+      "teams": [
+        "Pioneers"
+      ],
+      "transfers": 3
+    },
+    {
+      "ign": "Shohei",
+      "teams": [
+        "syrale",
+        "trinity",
+        "BABO"
+      ],
+      "transfers": 3
+    },
+    {
+      "ign": "Koro",
+      "teams": [
+        "Meraki",
+        "QOR Gaming"
+      ],
+      "transfers": 3
+    },
+    {
+      "ign": "Cqnty",
+      "teams": [
+        "kinotrope club"
+      ],
+      "transfers": 3
+    },
+    {
+      "ign": "YANAGI",
+      "teams": [
+        "kinotrope club"
+      ],
+      "transfers": 3
+    },
+    {
+      "ign": "Vixeria",
+      "teams": [
+        "team mango"
+      ],
+      "transfers": 3
+    },
+    {
+      "ign": "Lark",
+      "teams": [
+        "HAO"
+      ],
+      "transfers": 3
+    },
+    {
+      "ign": "Savior",
+      "teams": [
+        "Dreamfire"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "GOTAHAVEYO",
+      "teams": [
+        "Dreamfire"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "niwatori",
+      "teams": [
+        "REJECT"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "zako3",
+      "teams": [
+        "REJECT"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "myanchu",
+      "teams": [
+        "REJECT"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "kiyo",
+      "teams": [
+        "Vexed Gaming"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "Dovolzark",
+      "teams": [
+        "Northeption"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "alkaliion",
+      "teams": [
+        "SCARZ"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "SSLCK",
+      "teams": [
+        "SpaceStation Gaming"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "peesh",
+      "teams": [
+        "Sentinels"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "JamejyS",
+      "teams": [
+        "inside the ring"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "D4ntalion",
+      "teams": [
+        "GHS Professional"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "nightravenswing",
+      "teams": [
+        "NRG Esports"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "ArTiXeNN",
+      "teams": [
+        "Phoenix Legacy"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "Zazukee",
+      "teams": [
+        "Phoenix Legacy"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "dethseiya",
+      "teams": [
+        "FENNEL"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "cYpheR",
+      "teams": [
+        "Natus Vincere"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "Lupins",
+      "teams": [
+        "Meteor"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "GorillaLeN",
+      "teams": [
+        "Northeption"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "DespaiR",
+      "teams": [
+        "FENNEL"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "Mallikaz",
+      "teams": [
+        "inside the ring"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "ThePlayer_K",
+      "teams": [
+        "EXO Clan"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "Brasilian",
+      "teams": [
+        "Meteor"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "Xeon",
+      "teams": [
+        "Luminosity Gaming"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "Kabigon",
+      "teams": [
+        "ORB GARDEN"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "Hori",
+      "teams": [
+        "ORB GARDEN"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "Rukia",
+      "teams": [
+        "ORB GARDEN"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "iMoonDx",
+      "teams": [
+        "LEAVENOWITNESS"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "Heeeiii",
+      "teams": [
+        "Primis Komanda"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "cheeky",
+      "teams": [
+        "sbi e-sports"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "Janey",
+      "teams": [
+        "TSM"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "FiLLFiLLFeeL",
+      "teams": [
+        "Team Inferno"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "SmotGrid",
+      "teams": [
+        "Team Inferno"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "Along",
+      "teams": [
+        "Dreamfire"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "Moose",
+      "teams": [
+        "Luminosity Gaming"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "ACEKTM7",
+      "teams": [
+        "Alliance"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "BadBootyWorld",
+      "teams": [
+        "Team Inferno"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "FIR3IV",
+      "teams": [
+        "Team Inferno"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "ClaraATwork",
+      "teams": [
+        "Complexity"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "Yorozuya Nico",
+      "teams": [
+        "REIGNITE"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "SickZerR",
+      "teams": [
+        "Team Nemesis"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "Sgong",
+      "teams": [
+        "Northeption"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "Aono",
+      "teams": [
+        "MDY Black"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "Hisofu",
+      "teams": [
+        "Redragon"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "MISTERARTHER",
+      "teams": [
+        "Phoenix Legacy"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "D_Ghetta",
+      "teams": [
+        "Phoenix Legacy"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "I_l_1DA",
+      "teams": [
+        "Northeption"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "Minustempo",
+      "teams": [
+        "TSM"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "Moohnee",
+      "teams": [
+        "Team Intel"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "VickyPalami",
+      "teams": [
+        "Complexity"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "Sealion",
+      "teams": [
+        "FURIA"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "Vitamin3d",
+      "teams": [
+        "TEQWING"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "Silta",
+      "teams": [
+        "orgless and hungry",
+        "Guild Esports"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "CloverWzy",
+      "teams": [
+        "EXO Clan"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "Gildersons",
+      "teams": [
+        "team liquid",
+        "NRG Esports"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "Flanker",
+      "teams": [
+        "team liquid"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "HansCarlito",
+      "teams": [
+        "Element 6"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "Kraftyy",
+      "teams": [
+        "TSM"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "Shinzz",
+      "teams": [
+        "Fire Beavers",
+        "Aurora Gaming"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "Ban",
+      "teams": [
+        "O2esports"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "yuukun33",
+      "teams": [
+        "O2esports"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "Nix",
+      "teams": [
+        "Alliance"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "imPotqtq",
+      "teams": [
+        "sbi e-sports"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "Straw",
+      "teams": [
+        "Team Nemesis"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "HenJ1",
+      "teams": [
+        "Vcan"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "IPirrus",
+      "teams": [
+        "LEAVENOWITNESS"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "obo",
+      "teams": [
+        "CrazyRaccoon",
+        "ZETA DIVISION"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "iiWaRRiioR",
+      "teams": [
+        "Team Inferno"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "MadMorona",
+      "teams": [
+        "Element 6",
+        "EXO Clan"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "RAMBO",
+      "teams": [
+        "Team Intel"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "IcyRvR",
+      "teams": [
+        "Team Intel"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "KakuniAimerH",
+      "teams": [
+        "REALIZE"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "SPYGEA",
+      "teams": [
+        "FNATIC"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "gh9sty",
+      "teams": [
+        "K1CK"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "ikakun",
+      "teams": [
+        "KoikeGaming"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "mutsuki",
+      "teams": [
+        "KoikeGaming"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "gatAYA",
+      "teams": [
+        "KoikeGaming"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "Exodus",
+      "teams": [
+        "EXO Clan"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "WiEN",
+      "teams": [
+        "O2esports"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "TiffaJessi",
+      "teams": [
+        "team liquid"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "Dragon",
+      "teams": [
+        "XSET"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "Sovereign",
+      "teams": [
+        "XSET",
+        "NRG Esports"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "Crazyface",
+      "teams": [
+        "Natus Vincere",
+        "Bleed Esports"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "Vanglorioso",
+      "teams": [
+        "K1CK"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "tr1ckst33r",
+      "teams": [
+        "SPS"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "Я А К І",
+      "teams": [
+        "SPS"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "dr1p",
+      "teams": [
+        "CrazyRaccoon"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "HiitsTyler",
+      "teams": [
+        "Team Inferno"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "LoganReap",
+      "teams": [
+        "Team Inferno"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "Adept",
+      "teams": [
+        "Team Inferno"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "Baazeh",
+      "teams": [
+        "source gaming"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "Nyanky",
+      "teams": [
+        "O2esports"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "Donfinity",
+      "teams": [
+        "Team Inferno"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "Chalas",
+      "teams": [
+        "MPIRE"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "CLANKBOT",
+      "teams": [
+        "MPIRE"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "Nelsinho",
+      "teams": [
+        "Sentinels"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "Nangua",
+      "teams": [
+        "XNY"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "Uru48r",
+      "teams": [
+        "Setouchi Sparks"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "ActuallyCryptic",
+      "teams": [
+        "Team Inferno"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "Myth",
+      "teams": [
+        "Team Inferno"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "Brasidian",
+      "teams": [
+        "Meteor"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "Killhungry",
+      "teams": [
+        "Ethernal",
+        "gonext esports"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "Mouselax",
+      "teams": [
+        "outside"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "Goon",
+      "teams": [
+        "Team Inferno"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "Reptilian",
+      "teams": [
+        "Team Inferno"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "Paxey",
+      "teams": [
+        "Team Inferno"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "Saaewo",
+      "teams": [
+        "SPS"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "Pina",
+      "teams": [
+        "Phoenix Legacy"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "ZiXuan",
+      "teams": [
+        "Vcan"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "totobei",
+      "teams": [
+        "Setouchi Sparks"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "AQi",
+      "teams": [
+        "Vcan"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "Mikey",
+      "teams": [
+        "Vcan"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "Pakael",
+      "teams": [
+        "Pulverex"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "mirin",
+      "teams": [
+        "Soleil Gaming"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "Turtle",
+      "teams": [
+        "remarkable team"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "Mistak3r",
+      "teams": [
+        "remarkable team"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "Famas",
+      "teams": [
+        "tie"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "Zod1ac",
+      "teams": [
+        "Forbidden Gaming"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "akuma",
+      "teams": [
+        "shadow3690"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "v4s",
+      "teams": [
+        "made in heaven"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "MrRomacka",
+      "teams": [
+        "CYBERCATS"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "11exed",
+      "teams": [
+        "DeeSports"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "DooM",
+      "teams": [
+        "DeeSports"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "Awope",
+      "teams": [
+        "9Lies Esports"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "DieNastied",
+      "teams": [
+        "9Lies Esports"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "Lazurr",
+      "teams": [
+        "9Lies Esports"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "A1exph",
+      "teams": [
+        "Aurora Gaming",
+        "AURORA"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "Caprah",
+      "teams": [
+        "Dno"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "iJackmc",
+      "teams": [
+        "EXO Clan"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "P4DAWAN",
+      "teams": [
+        "Phoenix Legacy"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "ilonda",
+      "teams": [
+        "Element 6",
+        "EXO Clan"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "YoloFPS",
+      "teams": [
+        "shadow3690"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "Bing",
+      "teams": [
+        "shadow3690"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "Redact",
+      "teams": [
+        "HEROEZ"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "Kabutomusi",
+      "teams": [
+        "O2esports"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "silentHNL",
+      "teams": [
+        "MPIRE"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "R1sk7",
+      "teams": [
+        "remarkable team"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "Mibles",
+      "teams": [
+        "Stay Healthy"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "BloomDion",
+      "teams": [
+        "source gaming"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "jtripz",
+      "teams": [
+        "TEMPR"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "KL",
+      "teams": [
+        "Legion Gaming"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "Screeper",
+      "teams": [
+        "Legion Gaming"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "AoHaru",
+      "teams": [
+        "REALIZE"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "951",
+      "teams": [
+        "vk gaming"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "Luluhome",
+      "teams": [
+        "Barbeque"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "BigBrotherPanda",
+      "teams": [
+        "HAVOC"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "Ev913",
+      "teams": [
+        "Lonely Let Gone"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "Tao",
+      "teams": [
+        "Lonely Let Gone"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "RakaFaka",
+      "teams": [
+        "9Lies Esports"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "wifi 0",
+      "teams": [
+        "MPIRE"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "Jaspah",
+      "teams": [
+        "Bearclaw Gaming"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "f0rest",
+      "teams": [
+        "Nessy"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "like",
+      "teams": [
+        "MetaTensei"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "JuicyMcGoozy",
+      "teams": [
+        "Legion Gaming"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "MeV",
+      "teams": [
+        "Soleil Gaming"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "SOMA",
+      "teams": [
+        "Soleil Gaming"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "Hasamiotoko",
+      "teams": [
+        "Dreamfire"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "Acszn",
+      "teams": [
+        "Twerkaholics"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "Roflyanich",
+      "teams": [
+        "Aurora Gaming"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "StoneyAU",
+      "teams": [
+        "source gaming"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "Sze",
+      "teams": [
+        "shadow3690"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "ItzTesta",
+      "teams": [
+        "DeeSports"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "Kaido",
+      "teams": [
+        "DeeSports"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "Spooky",
+      "teams": [
+        "DeeSports"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "Rabbit",
+      "teams": [
+        "shadow3690"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "nevex",
+      "teams": [
+        "Redragon"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "Moon",
+      "teams": [
+        "CrazyRaccoon"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "rCeeJay",
+      "teams": [
+        "Meraki"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "Swarkst3r",
+      "teams": [
+        "Meraki"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "Aria",
+      "teams": [
+        "Meraki"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "Greek",
+      "teams": [
+        "Complexity"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "BadSniper",
+      "teams": [
+        "Team Nemesis"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "InSaNe",
+      "teams": [
+        "Phoenix Legacy"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "qoja",
+      "teams": [
+        "Phoenix Legacy"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "Exotiicuh",
+      "teams": [
+        "Team Inferno"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "ACEBGremz",
+      "teams": [
+        "Team Inferno"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "tyokkaorimaster9",
+      "teams": [
+        "Dory"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "Akwaintance",
+      "teams": [
+        "DXAEsports"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "Suprxmee_",
+      "teams": [
+        "Team Nemesis"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "Zambugs",
+      "teams": [
+        "outside"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "TimWbb",
+      "teams": [
+        "wolves esports"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "Rickstabxby",
+      "teams": [
+        "YungBlackRicky"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "Simsy",
+      "teams": [
+        "YungBlackRicky"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "Lexxen",
+      "teams": [
+        "Meraki"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "arztyy",
+      "teams": [
+        "ZIPLINE MAFIA"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "certified thembo",
+      "teams": [
+        "Villainous"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "r1k0",
+      "teams": [
+        "WLG"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "xoticx",
+      "teams": [
+        "WLG"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "Templex",
+      "teams": [
+        "Green Stego",
+        "gen.g esports"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "rename",
+      "teams": [
+        "ZIPLINE MAFIA"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "CADwarrior",
+      "teams": [
+        "Team Orchid"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "P1cklesz",
+      "teams": [
+        "CCG"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "Gloriaiaia",
+      "teams": [
+        "Barbeque"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "r2jc",
+      "teams": [
+        "WLG"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "Redbakk",
+      "teams": [
+        "WLG"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "Zoven",
+      "teams": [
+        "Team Nemesis"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "keniru",
+      "teams": [
+        "Legion Gaming"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "Pagy",
+      "teams": [
+        "Phoenix Legacy"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "Ar3s",
+      "teams": [
+        "Phoenix Legacy"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "Piltzy",
+      "teams": [
+        "Meraki"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "wzChico",
+      "teams": [
+        "TAKE FLYTE"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "PashaFloop",
+      "teams": [
+        "ZIPLINE MAFIA"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "Elysian",
+      "teams": [
+        "KeepGoing"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "reo4004",
+      "teams": [
+        "KoikeGaming"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "bark",
+      "teams": [
+        "KoikeGaming"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "Rimuffy",
+      "teams": [
+        "KoikeGaming"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "XiaoP",
+      "teams": [
+        "SUPERNOVA"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "Vanni",
+      "teams": [
+        "CCG"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "Burke",
+      "teams": [
+        "FUSION"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "iknivez",
+      "teams": [
+        "QOR Gaming",
+        "source gaming",
+        "Veneno"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "tyche",
+      "teams": [
+        "DeeSports"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "henryojlk",
+      "teams": [
+        "Sentinels",
+        "TAKE FLYTE"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "jyona",
+      "teams": [
+        "TEQWING"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "WolveZ",
+      "teams": [
+        "Zero Tenacity"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "Johwny",
+      "teams": [
+        "Zero Tenacity"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "froggy",
+      "teams": [
+        "Arneb"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "obecalp",
+      "teams": [
+        "KeepGoing"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "EzyOzz",
+      "teams": [
+        "Rukus",
+        "source gaming"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "bakrryboo",
+      "teams": [
+        "Rukus",
+        "source gaming"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "Rawtu",
+      "teams": [
+        "Rukus",
+        "source gaming"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "takuma",
+      "teams": [
+        "MetaTensei"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "yutaku7796",
+      "teams": [
+        "MetaTensei"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "Ss11",
+      "teams": [
+        "CYBERCATS"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "kkrDAMADAO",
+      "teams": [
+        "kinotrope gaming",
+        "kinotrope club"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "NomoneyXI",
+      "teams": [
+        "NOEZ FOXX"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "Envi",
+      "teams": [
+        "Stay Healthy"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "Ju1cy_o",
+      "teams": [
+        "Stay Healthy"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "hagrid",
+      "teams": [
+        "DXAEsports"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "sat",
+      "teams": [
+        "Stay Healthy"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "Achi",
+      "teams": [
+        "StinkyB"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "tbone28926",
+      "teams": [
+        "Meraki"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "Skux",
+      "teams": [
+        "Meraki"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "AyanaMeMy",
+      "teams": [
+        "HAO"
+      ],
+      "transfers": 2
+    },
+    {
+      "ign": "Payne",
+      "teams": [
+        "Sentinels"
+      ],
+      "transfers": 1
+    },
+    {
+      "ign": "Skiin",
+      "teams": [
+        "Vexed Gaming"
+      ],
+      "transfers": 1
+    },
+    {
+      "ign": "Zer0OCE",
+      "teams": [
+        "EXO Clan"
+      ],
+      "transfers": 1
+    },
+    {
+      "ign": "Sharky3415",
+      "teams": [
+        "EXO Clan"
+      ],
+      "transfers": 1
+    },
+    {
+      "ign": "Legend Graham",
+      "teams": [
+        "wolves esports"
+      ],
+      "transfers": 1
+    },
+    {
+      "ign": "Mickey",
+      "teams": [
+        "wolves esports"
+      ],
+      "transfers": 1
+    },
+    {
+      "ign": "Pitki",
+      "teams": [
+        "wolves esports"
+      ],
+      "transfers": 1
+    },
+    {
+      "ign": "Furen",
+      "teams": [
+        "SJP2"
+      ],
+      "transfers": 1
+    },
+    {
+      "ign": "JTB",
+      "teams": [
+        "Vexed Gaming"
+      ],
+      "transfers": 1
+    },
+    {
+      "ign": "DrSodium",
+      "teams": [
+        "Vexed Gaming"
+      ],
+      "transfers": 1
+    },
+    {
+      "ign": "Gabeismon",
+      "teams": [
+        "Complexity"
+      ],
+      "transfers": 1
+    },
+    {
+      "ign": "Bahn",
+      "teams": [
+        "Alliance"
+      ],
+      "transfers": 1
+    },
+    {
+      "ign": "Frvnkie",
+      "teams": [
+        "Alliance"
+      ],
+      "transfers": 1
+    },
+    {
+      "ign": "Logicly",
+      "teams": [
+        "SpaceStation Gaming"
+      ],
+      "transfers": 1
+    },
+    {
+      "ign": "bird",
+      "teams": [
+        "SpaceStation Gaming"
+      ],
+      "transfers": 1
+    },
+    {
+      "ign": "Gigz",
+      "teams": [
+        "100 Thieves"
+      ],
+      "transfers": 1
+    },
+    {
+      "ign": "zombs",
+      "teams": [
+        "Sentinels"
+      ],
+      "transfers": 1
+    },
+    {
+      "ign": "iPN_k0u",
+      "teams": [
+        "Alliance"
+      ],
+      "transfers": 1
+    },
+    {
+      "ign": "Meerko",
+      "teams": [
+        "Complexity"
+      ],
+      "transfers": 1
+    },
+    {
+      "ign": "Miss_P",
+      "teams": [
+        "EXO Clan"
+      ],
+      "transfers": 1
+    },
+    {
+      "ign": "Aniemal",
+      "teams": [
+        "Complexity"
+      ],
+      "transfers": 1
+    },
+    {
+      "ign": "CamlMath",
+      "teams": [
+        "REIGNITE"
+      ],
+      "transfers": 1
+    },
+    {
+      "ign": "Wokka",
+      "teams": [
+        "CrazyRaccoon"
+      ],
+      "transfers": 1
+    },
+    {
+      "ign": "Reco",
+      "teams": [
+        "EXO Clan"
+      ],
+      "transfers": 1
+    },
+    {
+      "ign": "Illidan",
+      "teams": [
+        "Fire Beavers"
+      ],
+      "transfers": 1
+    },
+    {
+      "ign": "Quen",
+      "teams": [
+        "FENNEL"
+      ],
+      "transfers": 1
+    },
+    {
+      "ign": "Pandxz",
+      "teams": [
+        "Moist Esports"
+      ],
+      "transfers": 1
+    },
+    {
+      "ign": "cybercrater",
+      "teams": [
+        "LEAVENOWITNESS"
+      ],
+      "transfers": 1
+    },
+    {
+      "ign": "Kaa2a",
+      "teams": [
+        "MDY Black"
+      ],
+      "transfers": 1
+    },
+    {
+      "ign": "Muffin",
+      "teams": [
+        "NRG Esports"
+      ],
+      "transfers": 1
+    },
+    {
+      "ign": "SenpaiiNate",
+      "teams": [
+        "Team Inferno"
+      ],
+      "transfers": 1
+    },
+    {
+      "ign": "Bankza",
+      "teams": [
+        "Bearclaw Gaming"
+      ],
+      "transfers": 1
+    },
+    {
+      "ign": "k4sen",
+      "teams": [
+        "ZETA DIVISION"
+      ],
+      "transfers": 1
+    },
+    {
+      "ign": "robbeN",
+      "teams": [
+        "Team Nemesis"
+      ],
+      "transfers": 1
+    },
+    {
+      "ign": "Renazera",
+      "teams": [
+        "LEAVENOWITNESS"
+      ],
+      "transfers": 1
+    },
+    {
+      "ign": "Ninjayla",
+      "teams": [
+        "Complexity"
+      ],
+      "transfers": 1
+    },
+    {
+      "ign": "Decypher",
+      "teams": [
+        "Alliance"
+      ],
+      "transfers": 1
+    },
+    {
+      "ign": "Proj3ct",
+      "teams": [
+        "Vexed Gaming"
+      ],
+      "transfers": 1
+    },
+    {
+      "ign": "Amatsuki",
+      "teams": [
+        "CrazyRaccoon"
+      ],
+      "transfers": 1
+    },
+    {
+      "ign": "Cali",
+      "teams": [
+        "team liquid"
+      ],
+      "transfers": 1
+    },
+    {
+      "ign": "Incubus",
+      "teams": [
+        "LEAVENOWITNESS"
+      ],
+      "transfers": 1
+    },
+    {
+      "ign": "VirtuousBXR",
+      "teams": [
+        "LEAVENOWITNESS"
+      ],
+      "transfers": 1
+    },
+    {
+      "ign": "Acie",
+      "teams": [
+        "team liquid"
+      ],
+      "transfers": 1
+    },
+    {
+      "ign": "FLAME",
+      "teams": [
+        "Meteor"
+      ],
+      "transfers": 1
+    },
+    {
+      "ign": "Low5",
+      "teams": [
+        "ZETA DIVISION"
+      ],
+      "transfers": 1
+    },
+    {
+      "ign": "kinako",
+      "teams": [
+        "CrazyRaccoon"
+      ],
+      "transfers": 1
+    },
+    {
+      "ign": "2eggie18X‎",
+      "teams": [
+        "inside the ring"
+      ],
+      "transfers": 1
+    },
+    {
+      "ign": "YamatoN",
+      "teams": [
+        "REJECT"
+      ],
+      "transfers": 1
+    },
+    {
+      "ign": "kiiti",
+      "teams": [
+        "Meteor"
+      ],
+      "transfers": 1
+    },
+    {
+      "ign": "TannerSlays",
+      "teams": [
+        "TSM"
+      ],
+      "transfers": 1
+    },
+    {
+      "ign": "OBH",
+      "teams": [
+        "Alliance"
+      ],
+      "transfers": 1
+    },
+    {
+      "ign": "Illecara",
+      "teams": [
+        "LEAVENOWITNESS"
+      ],
+      "transfers": 1
+    },
+    {
+      "ign": "thekine",
+      "teams": [
+        "SCARZ"
+      ],
+      "transfers": 1
+    },
+    {
+      "ign": "gachiseiyaa",
+      "teams": [
+        "sbi e-sports"
+      ],
+      "transfers": 1
+    },
+    {
+      "ign": "こば",
+      "teams": [
+        "kinotrope gaming"
+      ],
+      "transfers": 1
+    },
+    {
+      "ign": "Kuromame",
+      "teams": [
+        "kinotrope gaming"
+      ],
+      "transfers": 1
+    },
+    {
+      "ign": "みるねぇ",
+      "teams": [
+        "kinotrope gaming"
+      ],
+      "transfers": 1
+    },
+    {
+      "ign": "myjp",
+      "teams": [
+        "Meteor"
+      ],
+      "transfers": 1
+    },
+    {
+      "ign": "BigSusu",
+      "teams": [
+        "Vcan"
+      ],
+      "transfers": 1
+    },
+    {
+      "ign": "Crylix",
+      "teams": [
+        "TSM"
+      ],
+      "transfers": 1
+    },
+    {
+      "ign": "Restya",
+      "teams": [
+        "StinkyB"
+      ],
+      "transfers": 1
+    },
+    {
+      "ign": "FruitJuices",
+      "teams": [
+        "FURIA"
+      ],
+      "transfers": 1
+    },
+    {
+      "ign": "ayex",
+      "teams": [
+        "FURIA"
+      ],
+      "transfers": 1
+    },
+    {
+      "ign": "lunabeans99",
+      "teams": [
+        "LEAVENOWITNESS"
+      ],
+      "transfers": 1
+    },
+    {
+      "ign": "Chef P.",
+      "teams": [
+        "Alliance"
+      ],
+      "transfers": 1
+    },
+    {
+      "ign": "Cyphers",
+      "teams": [
+        "Alliance"
+      ],
+      "transfers": 1
+    },
+    {
+      "ign": "yo-yo-jack",
+      "teams": [
+        "Soleil Gaming"
+      ],
+      "transfers": 1
+    },
+    {
+      "ign": "LuluLuvely",
+      "teams": [
+        "NRG Esports"
+      ],
+      "transfers": 1
+    },
+    {
+      "ign": "Imp",
+      "teams": [
+        "Phoenix Legacy"
+      ],
+      "transfers": 1
+    },
+    {
+      "ign": "Qianniao",
+      "teams": [
+        "XNY"
+      ],
+      "transfers": 1
+    },
+    {
+      "ign": "ShiShi",
+      "teams": [
+        "HEROEZ"
+      ],
+      "transfers": 1
+    },
+    {
+      "ign": "NatiNunez",
+      "teams": [
+        "FURIA"
+      ],
+      "transfers": 1
+    },
+    {
+      "ign": "Ambush",
+      "teams": [
+        "team liquid"
+      ],
+      "transfers": 1
+    },
+    {
+      "ign": "Agony",
+      "teams": [
+        "source gaming"
+      ],
+      "transfers": 1
+    },
+    {
+      "ign": "Plutoh",
+      "teams": [
+        "Team Inferno"
+      ],
+      "transfers": 1
+    },
+    {
+      "ign": "Shogun",
+      "teams": [
+        "Team Inferno"
+      ],
+      "transfers": 1
+    },
+    {
+      "ign": "Viss",
+      "teams": [
+        "TSM"
+      ],
+      "transfers": 1
+    },
+    {
+      "ign": "Vec1or",
+      "teams": [
+        "Redragon"
+      ],
+      "transfers": 1
+    },
+    {
+      "ign": "御空しお",
+      "teams": [
+        "HAO"
+      ],
+      "transfers": 1
+    },
+    {
+      "ign": "Xantsuki",
+      "teams": [
+        "Team Inferno"
+      ],
+      "transfers": 1
+    },
+    {
+      "ign": "Kaochun",
+      "teams": [
+        "Setouchi Sparks"
+      ],
+      "transfers": 1
+    },
+    {
+      "ign": "Frosty Vyper",
+      "teams": [
+        "LEAVENOWITNESS"
+      ],
+      "transfers": 1
+    },
+    {
+      "ign": "Bocker",
+      "teams": [
+        "LEAVENOWITNESS"
+      ],
+      "transfers": 1
+    },
+    {
+      "ign": "Ebbs",
+      "teams": [
+        "LEAVENOWITNESS"
+      ],
+      "transfers": 1
+    },
+    {
+      "ign": "KangZ1",
+      "teams": [
+        "MDY Black"
+      ],
+      "transfers": 1
+    },
+    {
+      "ign": "Etelya",
+      "teams": [
+        "remarkable team"
+      ],
+      "transfers": 1
+    },
+    {
+      "ign": "NanaShou",
+      "teams": [
+        "remarkable team"
+      ],
+      "transfers": 1
+    },
+    {
+      "ign": "3DShiro",
+      "teams": [
+        "FURIA"
+      ],
+      "transfers": 1
+    },
+    {
+      "ign": "QingHulu",
+      "teams": [
+        "XNY"
+      ],
+      "transfers": 1
+    },
+    {
+      "ign": "Saika Ijyu",
+      "teams": [
+        "O2esports"
+      ],
+      "transfers": 1
+    },
+    {
+      "ign": "JuyZi",
+      "teams": [
+        "Element 6"
+      ],
+      "transfers": 1
+    },
+    {
+      "ign": "KeanuJ",
+      "teams": [
+        "Element 6"
+      ],
+      "transfers": 1
+    },
+    {
+      "ign": "akkuGER",
+      "teams": [
+        "Forbidden Gaming"
+      ],
+      "transfers": 1
+    },
+    {
+      "ign": "HeatLifer",
+      "teams": [
+        "Team Burger"
+      ],
+      "transfers": 1
+    },
+    {
+      "ign": "EndsZer0",
+      "teams": [
+        "Dreamfire"
+      ],
+      "transfers": 1
+    },
+    {
+      "ign": "YU",
+      "teams": [
+        "Meteor"
+      ],
+      "transfers": 1
+    },
+    {
+      "ign": "Genos",
+      "teams": [
+        "SGB"
+      ],
+      "transfers": 1
+    },
+    {
+      "ign": "9bongo",
+      "teams": [
+        "Ethernal"
+      ],
+      "transfers": 1
+    },
+    {
+      "ign": "BigzzyX",
+      "teams": [
+        "Barbeque"
+      ],
+      "transfers": 1
+    },
+    {
+      "ign": "Tkm",
+      "teams": [
+        "MetaTensei"
+      ],
+      "transfers": 1
+    },
+    {
+      "ign": "yutaku",
+      "teams": [
+        "MetaTensei"
+      ],
+      "transfers": 1
+    },
+    {
+      "ign": "Chrono",
+      "teams": [
+        "9Lies Esports"
+      ],
+      "transfers": 1
+    },
+    {
+      "ign": "bongo",
+      "teams": [
+        "Ethernal"
+      ],
+      "transfers": 1
+    },
+    {
+      "ign": "Yurariman",
+      "teams": [
+        "GHS BoooM"
+      ],
+      "transfers": 1
+    },
+    {
+      "ign": "sherbert",
+      "teams": [
+        "Danish"
+      ],
+      "transfers": 1
+    },
+    {
+      "ign": "Kiskq",
+      "teams": [
+        "SOTEN"
+      ],
+      "transfers": 1
+    },
+    {
+      "ign": "Akamein",
+      "teams": [
+        "tie"
+      ],
+      "transfers": 1
+    },
+    {
+      "ign": "Alpine",
+      "teams": [
+        "Team Falcons"
+      ],
+      "transfers": 1
+    },
+    {
+      "ign": "Civ:A",
+      "teams": [
+        "tie"
+      ],
+      "transfers": 1
+    },
+    {
+      "ign": "VeGuc",
+      "teams": [
+        "Team Inferno"
+      ],
+      "transfers": 1
+    },
+    {
+      "ign": "MattGallo",
+      "teams": [
+        "Team Inferno"
+      ],
+      "transfers": 1
+    },
+    {
+      "ign": "Kouchan",
+      "teams": [
+        "Dory"
+      ],
+      "transfers": 1
+    },
+    {
+      "ign": "Rost3",
+      "teams": [
+        "O2esports"
+      ],
+      "transfers": 1
+    },
+    {
+      "ign": "Ranran",
+      "teams": [
+        "shadow3690"
+      ],
+      "transfers": 1
+    },
+    {
+      "ign": "sweterflyer",
+      "teams": [
+        "Phoenix Legacy"
+      ],
+      "transfers": 1
+    },
+    {
+      "ign": "Ends",
+      "teams": [
+        "Dreamfire",
+        "EDward Gaming"
+      ],
+      "transfers": 1
+    },
+    {
+      "ign": "Weduh",
+      "teams": [
+        "EXO Clan"
+      ],
+      "transfers": 1
+    },
+    {
+      "ign": "Ryobe",
+      "teams": [
+        "EXO Clan"
+      ],
+      "transfers": 1
+    },
+    {
+      "ign": "aneqiii",
+      "teams": [
+        "TAKE FLYTE"
+      ],
+      "transfers": 1
+    },
+    {
+      "ign": "PabloMinecraft2011",
+      "teams": [
+        "TAKE FLYTE"
+      ],
+      "transfers": 1
+    },
+    {
+      "ign": "Zeus",
+      "teams": [
+        "KILLER WHALES"
+      ],
+      "transfers": 1
+    },
+    {
+      "ign": "Tyzxh",
+      "teams": [
+        "WLG"
+      ],
+      "transfers": 1
+    },
+    {
+      "ign": "Deek",
+      "teams": [
+        "Pioneers"
+      ],
+      "transfers": 1
+    },
+    {
+      "ign": "Halneyyy",
+      "teams": [
+        "TEQWING"
+      ],
+      "transfers": 1
+    },
+    {
+      "ign": "KOBESPORTS",
+      "teams": [
+        "SOTEN"
+      ],
+      "transfers": 1
+    },
+    {
+      "ign": "Dalia",
+      "teams": [
+        "white grim reaper"
+      ],
+      "transfers": 1
+    },
+    {
+      "ign": "LEO",
+      "teams": [
+        "CrazyRaccoon"
+      ],
+      "transfers": 1
+    },
+    {
+      "ign": "Tsuki no yaya",
+      "teams": [
+        "SUPERNOVA"
+      ],
+      "transfers": 1
+    },
+    {
+      "ign": "Feral",
+      "teams": [
+        "No Surrender"
+      ],
+      "transfers": 1
+    },
+    {
+      "ign": "Jigs",
+      "teams": [
+        "No Surrender"
+      ],
+      "transfers": 1
+    },
+    {
+      "ign": "Bushumaru",
+      "teams": [
+        "Dreadnoughtus."
+      ],
+      "transfers": 1
+    },
+    {
+      "ign": "A0U0I",
+      "teams": [
+        "JD GAMING",
+        "XNY"
+      ],
+      "transfers": 1
+    },
+    {
+      "ign": "sweterflayer",
+      "teams": [
+        "Phoenix Legacy"
+      ],
+      "transfers": 1
+    },
+    {
+      "ign": "H1nanyamu",
+      "teams": [
+        "white grim reaper"
+      ],
+      "transfers": 1
+    },
+    {
+      "ign": "inori",
+      "teams": [
+        "white grim reaper"
+      ],
+      "transfers": 1
+    },
+    {
+      "ign": "VeryCheekyIndeed",
+      "teams": [
+        "FIZ6 Gaming"
+      ],
+      "transfers": 1
+    },
+    {
+      "ign": "Honeypie_XD",
+      "teams": [
+        "Tom Yum Kung"
+      ],
+      "transfers": 1
+    },
+    {
+      "ign": "DANMADAO",
+      "teams": [
+        "kinotrope gaming",
+        "kinotrope club"
+      ],
+      "transfers": 1
+    },
+    {
+      "ign": "Obito",
+      "teams": [
+        "MDY Black"
+      ],
+      "transfers": 1
+    },
+    {
+      "ign": "peekgod",
+      "teams": [
+        "Cupid Esports",
+        "XNY"
+      ],
+      "transfers": 1
+    }
+  ]
+}

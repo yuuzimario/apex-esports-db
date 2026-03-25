@@ -166,7 +166,7 @@ export default async function TournamentDetailPage({
             </table>
           </div>
         ) : (
-          <div className="bg-gray-900 rounded-lg p-6 text-center text-gray-500 text-sm">
+          <div className="bg-gray-900 rounded-lg p-6 text-center text-gray-400 text-sm">
             データなし
           </div>
         )}

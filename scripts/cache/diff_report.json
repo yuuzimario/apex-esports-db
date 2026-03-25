@@ -1,0 +1,4563 @@
+{
+  "generated_at": "2026-03-26T00:02:33.558942",
+  "new_teams": [
+    {
+      "name": "MeiDuiYaoBYD",
+      "region": "APAC_S"
+    },
+    {
+      "name": "PXX",
+      "region": "APAC_S"
+    },
+    {
+      "name": "Relove DCG",
+      "region": "APAC_S"
+    },
+    {
+      "name": "S8UL",
+      "region": "APAC_S"
+    },
+    {
+      "name": "Team RRQ",
+      "region": "APAC_S"
+    },
+    {
+      "name": "AURORA",
+      "region": "EMEA"
+    },
+    {
+      "name": "ECLIPSE NEEVEPRO",
+      "region": "EMEA"
+    },
+    {
+      "name": "GoNext",
+      "region": "EMEA"
+    },
+    {
+      "name": "MakeEuGreatAgain",
+      "region": "EMEA"
+    },
+    {
+      "name": "SUPERNOVA",
+      "region": "EMEA"
+    },
+    {
+      "name": "LEGACY",
+      "region": "NA"
+    }
+  ],
+  "new_players": [
+    {
+      "ign": "0waRy",
+      "team": "BLACK Sheeps",
+      "region": "APAC_N"
+    },
+    {
+      "ign": "chikochandao",
+      "team": "BLACK Sheeps",
+      "region": "APAC_N"
+    },
+    {
+      "ign": "MUSCLE",
+      "team": "Dory",
+      "region": "APAC_N"
+    },
+    {
+      "ign": "bushmaru",
+      "team": "DreadNoughtus",
+      "region": "APAC_N"
+    },
+    {
+      "ign": "aWesomeGuy",
+      "team": "ENTER FORCE.36",
+      "region": "APAC_N"
+    },
+    {
+      "ign": "sumiyoshi",
+      "team": "FENNEL",
+      "region": "APAC_N"
+    },
+    {
+      "ign": "SYACHI",
+      "team": "FENNEL",
+      "region": "APAC_N"
+    },
+    {
+      "ign": "Yoshida",
+      "team": "FENNEL",
+      "region": "APAC_N"
+    },
+    {
+      "ign": "GuNBoY",
+      "team": "FNATIC",
+      "region": "APAC_N"
+    },
+    {
+      "ign": "GROWtaka",
+      "team": "GROW Gaming",
+      "region": "APAC_N"
+    },
+    {
+      "ign": "Lykq8don",
+      "team": "GROW Gaming",
+      "region": "APAC_N"
+    },
+    {
+      "ign": "TAKUMI",
+      "team": "GROW Gaming",
+      "region": "APAC_N"
+    },
+    {
+      "ign": "1ron",
+      "team": "KINOTROPE CLUB",
+      "region": "APAC_N"
+    },
+    {
+      "ign": "Dogma",
+      "team": "KINOTROPE gaming",
+      "region": "APAC_N"
+    },
+    {
+      "ign": "Kan0n",
+      "team": "KINOTROPE gaming",
+      "region": "APAC_N"
+    },
+    {
+      "ign": "Kontyan",
+      "team": "LawsonTicketXone",
+      "region": "APAC_N"
+    },
+    {
+      "ign": "Anemone",
+      "team": "Meteor",
+      "region": "APAC_N"
+    },
+    {
+      "ign": "Raygh",
+      "team": "NOEZ FOXX",
+      "region": "APAC_N"
+    },
+    {
+      "ign": "Fzr",
+      "team": "REALIZE",
+      "region": "APAC_N"
+    },
+    {
+      "ign": "Chanriyo",
+      "team": "REIGNITE",
+      "region": "APAC_N"
+    },
+    {
+      "ign": "ReyzyGG",
+      "team": "REIGNITE",
+      "region": "APAC_N"
+    },
+    {
+      "ign": "RC Axis",
+      "team": "REJECT",
+      "region": "APAC_N"
+    },
+    {
+      "ign": "RC Euriece",
+      "team": "REJECT",
+      "region": "APAC_N"
+    },
+    {
+      "ign": "wabu",
+      "team": "REJECT",
+      "region": "APAC_N"
+    },
+    {
+      "ign": "Assii",
+      "team": "RIDDLE ORDER",
+      "region": "APAC_N"
+    },
+    {
+      "ign": "Kamaneko",
+      "team": "RIDDLE ORDER",
+      "region": "APAC_N"
+    },
+    {
+      "ign": "tororo_tps",
+      "team": "RUA",
+      "region": "APAC_N"
+    },
+    {
+      "ign": "Mitarashi",
+      "team": "SBI e-Sports",
+      "region": "APAC_N"
+    },
+    {
+      "ign": "Taito",
+      "team": "SukiSukiScream",
+      "region": "APAC_N"
+    },
+    {
+      "ign": "IeNaGa27",
+      "team": "SYRALE",
+      "region": "APAC_N"
+    },
+    {
+      "ign": "Roise",
+      "team": "SYRALE",
+      "region": "APAC_N"
+    },
+    {
+      "ign": "L1ng",
+      "team": "TIE",
+      "region": "APAC_N"
+    },
+    {
+      "ign": "primelsky",
+      "team": "TriniTY",
+      "region": "APAC_N"
+    },
+    {
+      "ign": "shoh",
+      "team": "TriniTY",
+      "region": "APAC_N"
+    },
+    {
+      "ign": "PENGERION",
+      "team": "UNLIMIT",
+      "region": "APAC_N"
+    },
+    {
+      "ign": "Yona",
+      "team": "UNLIMIT",
+      "region": "APAC_N"
+    },
+    {
+      "ign": "MII",
+      "team": "WhiteGrimReaper",
+      "region": "APAC_N"
+    },
+    {
+      "ign": "Shynk",
+      "team": "WhiteGrimReaper",
+      "region": "APAC_N"
+    },
+    {
+      "ign": "Takuron",
+      "team": "ZETA DIVISION",
+      "region": "APAC_N"
+    },
+    {
+      "ign": "Yamato",
+      "team": "ZETA DIVISION",
+      "region": "APAC_N"
+    },
+    {
+      "ign": "15Years FengchunOvO",
+      "team": "2c1m",
+      "region": "APAC_S"
+    },
+    {
+      "ign": "hannzi",
+      "team": "Bearclaw Gaming",
+      "region": "APAC_S"
+    },
+    {
+      "ign": "W-L-A2",
+      "team": "Bearclaw Gaming",
+      "region": "APAC_S"
+    },
+    {
+      "ign": "5EEastyy",
+      "team": "black hole",
+      "region": "APAC_S"
+    },
+    {
+      "ign": "xxfps",
+      "team": "black hole",
+      "region": "APAC_S"
+    },
+    {
+      "ign": "ItsmeRaza",
+      "team": "Ctrl Alt Defeat",
+      "region": "APAC_S"
+    },
+    {
+      "ign": "GOPGAPz",
+      "team": "Dogred",
+      "region": "APAC_S"
+    },
+    {
+      "ign": "yanlys",
+      "team": "Dogred",
+      "region": "APAC_S"
+    },
+    {
+      "ign": "Zoffy",
+      "team": "Dreamfire",
+      "region": "APAC_S"
+    },
+    {
+      "ign": "OzWald",
+      "team": "FIZ6 Gaming",
+      "region": "APAC_S"
+    },
+    {
+      "ign": "TEMPPLEX",
+      "team": "GenG Esports",
+      "region": "APAC_S"
+    },
+    {
+      "ign": "DJCaTLInK",
+      "team": "GoaT",
+      "region": "APAC_S"
+    },
+    {
+      "ign": "Pandaz809",
+      "team": "Grape Soda",
+      "region": "APAC_S"
+    },
+    {
+      "ign": "Aphiatic",
+      "team": "HAVOC",
+      "region": "APAC_S"
+    },
+    {
+      "ign": "Sen",
+      "team": "HAVOC",
+      "region": "APAC_S"
+    },
+    {
+      "ign": "ApexVeeycy",
+      "team": "Kakkoii",
+      "region": "APAC_S"
+    },
+    {
+      "ign": "Sacto33",
+      "team": "MaMa Clubs",
+      "region": "APAC_S"
+    },
+    {
+      "ign": "Cumulonimbus",
+      "team": "MeiDuiYaoBYD",
+      "region": "APAC_S"
+    },
+    {
+      "ign": "YouL1ng",
+      "team": "MeiDuiYaoBYD",
+      "region": "APAC_S"
+    },
+    {
+      "ign": "LZH",
+      "team": "PXX",
+      "region": "APAC_S"
+    },
+    {
+      "ign": "Chris",
+      "team": "QWQ",
+      "region": "APAC_S"
+    },
+    {
+      "ign": "WWUUZZII",
+      "team": "QWQ",
+      "region": "APAC_S"
+    },
+    {
+      "ign": "CrownWish",
+      "team": "Relove DCG",
+      "region": "APAC_S"
+    },
+    {
+      "ign": "ShaoChieh",
+      "team": "Relove DCG",
+      "region": "APAC_S"
+    },
+    {
+      "ign": "Cav",
+      "team": "Remarkable Team",
+      "region": "APAC_S"
+    },
+    {
+      "ign": "Bastiaan0Z",
+      "team": "RENDANG",
+      "region": "APAC_S"
+    },
+    {
+      "ign": "laheemx_",
+      "team": "RENDANG",
+      "region": "APAC_S"
+    },
+    {
+      "ign": "Salvatorez",
+      "team": "RENDANG",
+      "region": "APAC_S"
+    },
+    {
+      "ign": "Rogers",
+      "team": "S8UL",
+      "region": "APAC_S"
+    },
+    {
+      "ign": "Panayie",
+      "team": "Team RRQ",
+      "region": "APAC_S"
+    },
+    {
+      "ign": "7rvz2",
+      "team": "TomYumKung",
+      "region": "APAC_S"
+    },
+    {
+      "ign": "Arm",
+      "team": "TomYumKung",
+      "region": "APAC_S"
+    },
+    {
+      "ign": "MiNGU",
+      "team": "TomYumKung",
+      "region": "APAC_S"
+    },
+    {
+      "ign": "Doommvpzszz",
+      "team": "UBI CILEMBU",
+      "region": "APAC_S"
+    },
+    {
+      "ign": "ReZumi2",
+      "team": "Veneno",
+      "region": "APAC_S"
+    },
+    {
+      "ign": "Kassa",
+      "team": "VK GAMING",
+      "region": "APAC_S"
+    },
+    {
+      "ign": "VITA",
+      "team": "VK GAMING",
+      "region": "APAC_S"
+    },
+    {
+      "ign": "000",
+      "team": "Wolves Esports",
+      "region": "APAC_S"
+    },
+    {
+      "ign": "TangBao",
+      "team": "Wolves Esports",
+      "region": "APAC_S"
+    },
+    {
+      "ign": "LivaiiApex",
+      "team": "3 MEN",
+      "region": "EMEA"
+    },
+    {
+      "ign": "Alliance Unlucky",
+      "team": "Alliance",
+      "region": "EMEA"
+    },
+    {
+      "ign": "Noth",
+      "team": "Alliance",
+      "region": "EMEA"
+    },
+    {
+      "ign": "Bowzey",
+      "team": "Citadel Gaming",
+      "region": "EMEA"
+    },
+    {
+      "ign": "1stagga",
+      "team": "DSK",
+      "region": "EMEA"
+    },
+    {
+      "ign": "Kolibrihh",
+      "team": "DSK",
+      "region": "EMEA"
+    },
+    {
+      "ign": "itsfujitora",
+      "team": "FUL",
+      "region": "EMEA"
+    },
+    {
+      "ign": "AfrO4E",
+      "team": "GaiminGladiators",
+      "region": "EMEA"
+    },
+    {
+      "ign": "ladypexi",
+      "team": "GaiminGladiators",
+      "region": "EMEA"
+    },
+    {
+      "ign": "BleahciM",
+      "team": "GoNext",
+      "region": "EMEA"
+    },
+    {
+      "ign": "Sanka",
+      "team": "Infinite",
+      "region": "EMEA"
+    },
+    {
+      "ign": "Tylerfps",
+      "team": "Made In Heaven",
+      "region": "EMEA"
+    },
+    {
+      "ign": "SirDel",
+      "team": "MakeEuGreatAgain",
+      "region": "EMEA"
+    },
+    {
+      "ign": "Maskellu",
+      "team": "MAMMA MIA",
+      "region": "EMEA"
+    },
+    {
+      "ign": "Shex",
+      "team": "MAMMA MIA",
+      "region": "EMEA"
+    },
+    {
+      "ign": "Caffe",
+      "team": "OrglessAndHungry",
+      "region": "EMEA"
+    },
+    {
+      "ign": "CalamityVX",
+      "team": "OrglessAndHungry",
+      "region": "EMEA"
+    },
+    {
+      "ign": "3TrixX",
+      "team": "Pixel Lumina",
+      "region": "EMEA"
+    },
+    {
+      "ign": "dsblf",
+      "team": "POT",
+      "region": "EMEA"
+    },
+    {
+      "ign": "ozzzus7",
+      "team": "POT",
+      "region": "EMEA"
+    },
+    {
+      "ign": "Sabz",
+      "team": "PRYANIKI",
+      "region": "EMEA"
+    },
+    {
+      "ign": "kylar04",
+      "team": "SJP2",
+      "region": "EMEA"
+    },
+    {
+      "ign": "Rainer Luckshot",
+      "team": "Stay Healthy",
+      "region": "EMEA"
+    },
+    {
+      "ign": "NINEimpulse",
+      "team": "SUPERNOVA",
+      "region": "EMEA"
+    },
+    {
+      "ign": "Liphnn",
+      "team": "UAV",
+      "region": "EMEA"
+    },
+    {
+      "ign": "CAD",
+      "team": "5STAR",
+      "region": "NA"
+    },
+    {
+      "ign": "Dig",
+      "team": "5STAR",
+      "region": "NA"
+    },
+    {
+      "ign": "Nihil",
+      "team": "Crazy Thieves",
+      "region": "NA"
+    },
+    {
+      "ign": "Stuhni",
+      "team": "Crazy Thieves",
+      "region": "NA"
+    },
+    {
+      "ign": "Djkilla",
+      "team": "DINOS",
+      "region": "NA"
+    },
+    {
+      "ign": "Jxmo",
+      "team": "DKK",
+      "region": "NA"
+    },
+    {
+      "ign": "daviswave",
+      "team": "Donut Shop",
+      "region": "NA"
+    },
+    {
+      "ign": "Hun7sman",
+      "team": "Donut Shop",
+      "region": "NA"
+    },
+    {
+      "ign": "TempestND",
+      "team": "Donut Shop",
+      "region": "NA"
+    },
+    {
+      "ign": "orange12111",
+      "team": "Free Thinkers",
+      "region": "NA"
+    },
+    {
+      "ign": "DadIsBored",
+      "team": "GAMBLERS",
+      "region": "NA"
+    },
+    {
+      "ign": "KIMCHI",
+      "team": "HUSS",
+      "region": "NA"
+    },
+    {
+      "ign": "jaguares1",
+      "team": "LEGACY",
+      "region": "NA"
+    },
+    {
+      "ign": "NMEgo",
+      "team": "LEGACY",
+      "region": "NA"
+    },
+    {
+      "ign": "Kapreme",
+      "team": "medium rare",
+      "region": "NA"
+    },
+    {
+      "ign": "Hoplodamus",
+      "team": "Men Of Culture",
+      "region": "NA"
+    },
+    {
+      "ign": "NunzioAD",
+      "team": "Men Of Culture",
+      "region": "NA"
+    },
+    {
+      "ign": "Codddy",
+      "team": "Nice Guys",
+      "region": "NA"
+    },
+    {
+      "ign": "Fayelarkspur",
+      "team": "Nice Guys",
+      "region": "NA"
+    },
+    {
+      "ign": "HambinOwO",
+      "team": "Nice Guys",
+      "region": "NA"
+    },
+    {
+      "ign": "RamBeau",
+      "team": "Nice Guys",
+      "region": "NA"
+    },
+    {
+      "ign": "cole",
+      "team": "NinjasinPyjamas",
+      "region": "NA"
+    },
+    {
+      "ign": "Raven",
+      "team": "NinjasinPyjamas",
+      "region": "NA"
+    },
+    {
+      "ign": "Duvy",
+      "team": "Purple Slushee",
+      "region": "NA"
+    },
+    {
+      "ign": "Melloh",
+      "team": "REVIVAL",
+      "region": "NA"
+    },
+    {
+      "ign": "Winnie",
+      "team": "ROC Esports",
+      "region": "NA"
+    },
+    {
+      "ign": "Eros",
+      "team": "S2",
+      "region": "NA"
+    },
+    {
+      "ign": "Zachmazer",
+      "team": "S2",
+      "region": "NA"
+    },
+    {
+      "ign": "Don",
+      "team": "ShopifyRebellion",
+      "region": "NA"
+    },
+    {
+      "ign": "liuq",
+      "team": "ShopifyRebellion",
+      "region": "NA"
+    },
+    {
+      "ign": "EvL999",
+      "team": "Source Gaming",
+      "region": "NA"
+    },
+    {
+      "ign": "oh Nocturnal",
+      "team": "Stallions",
+      "region": "NA"
+    },
+    {
+      "ign": "Draugr",
+      "team": "Team Falcons",
+      "region": "NA"
+    },
+    {
+      "ign": "FLCN Gild",
+      "team": "Team Falcons",
+      "region": "NA"
+    },
+    {
+      "ign": "FLCN ImperialHal",
+      "team": "Team Falcons",
+      "region": "NA"
+    },
+    {
+      "ign": "PanicApex",
+      "team": "Team Liquid",
+      "region": "NA"
+    },
+    {
+      "ign": "7Dyn",
+      "team": "THUGGETS",
+      "region": "NA"
+    },
+    {
+      "ign": "Twitch Fredstxr",
+      "team": "Zest Fest",
+      "region": "NA"
+    },
+    {
+      "ign": "WabiSabi",
+      "team": "Zest Fest",
+      "region": "NA"
+    }
+  ],
+  "roster_changes": [
+    {
+      "team": "BIG BOYS",
+      "region": "APAC_N",
+      "joined": [
+        "HammerDrill",
+        "Kogar4shi",
+        "Milim",
+        "Zatko"
+      ],
+      "left": []
+    },
+    {
+      "team": "BLACK Sheeps",
+      "region": "APAC_N",
+      "joined": [
+        "0waRy",
+        "788",
+        "chikochandao",
+        "KonPotq",
+        "TANO"
+      ],
+      "left": []
+    },
+    {
+      "team": "DeNeTars",
+      "region": "APAC_N",
+      "joined": [
+        "Deathtenys",
+        "Lantabi",
+        "Nemu",
+        "taniko"
+      ],
+      "left": []
+    },
+    {
+      "team": "Dory",
+      "region": "APAC_N",
+      "joined": [
+        "HIROMUNE",
+        "KatsuKing",
+        "MUSCLE",
+        "sho"
+      ],
+      "left": []
+    },
+    {
+      "team": "DreadNoughtus",
+      "region": "APAC_N",
+      "joined": [
+        "bushmaru",
+        "Duckz",
+        "jirozon666",
+        "yamatai"
+      ],
+      "left": []
+    },
+    {
+      "team": "ENTER FORCE.36",
+      "region": "APAC_N",
+      "joined": [
+        "Aimbot",
+        "aWesomeGuy",
+        "Cinap",
+        "Jusna",
+        "obly"
+      ],
+      "left": []
+    },
+    {
+      "team": "FENNEL",
+      "region": "APAC_N",
+      "joined": [
+        "14L0st",
+        "izzxxv",
+        "sumiyoshi",
+        "SYACHI",
+        "Yoshida"
+      ],
+      "left": []
+    },
+    {
+      "team": "FNATIC",
+      "region": "APAC_N",
+      "joined": [
+        "dizzy",
+        " Ein",
+        "GuNBoY",
+        "ILY",
+        "Kernel garcia"
+      ],
+      "left": []
+    },
+    {
+      "team": "GangRabbiT",
+      "region": "APAC_N",
+      "joined": [
+        "ImNaoki",
+        "S0chan",
+        "wayachang"
+      ],
+      "left": []
+    },
+    {
+      "team": "GROW Gaming",
+      "region": "APAC_N",
+      "joined": [
+        "GROWtaka",
+        "Lible Ace",
+        "Lykq8don",
+        "mo-mon",
+        "TAKUMI"
+      ],
+      "left": []
+    },
+    {
+      "team": "GUNSO",
+      "region": "APAC_N",
+      "joined": [
+        "mirytaya",
+        "OUZIA",
+        "TENTEN"
+      ],
+      "left": []
+    },
+    {
+      "team": "KINOTROPE CLUB",
+      "region": "APAC_N",
+      "joined": [
+        "1ron",
+        "astrofrogyy",
+        "chappy",
+        "DAMADAO",
+        "Moyashii 9"
+      ],
+      "left": []
+    },
+    {
+      "team": "KINOTROPE gaming",
+      "region": "APAC_N",
+      "joined": [
+        "Dogma",
+        "Kan0n",
+        "saku",
+        "YukaPEROdator"
+      ],
+      "left": []
+    },
+    {
+      "team": "LawsonTicketXone",
+      "region": "APAC_N",
+      "joined": [
+        "5CG",
+        "Kontyan",
+        "RIGHT",
+        "wqtagashi"
+      ],
+      "left": []
+    },
+    {
+      "team": "Meteor",
+      "region": "APAC_N",
+      "joined": [
+        "983kuma",
+        "Anemone",
+        "Kuroton",
+        "Maron"
+      ],
+      "left": []
+    },
+    {
+      "team": "NOEZ FOXX",
+      "region": "APAC_N",
+      "joined": [
+        "gavomk",
+        "kakigoori7",
+        "MiaK",
+        "Raygh"
+      ],
+      "left": []
+    },
+    {
+      "team": "REALIZE",
+      "region": "APAC_N",
+      "joined": [
+        "Fzr",
+        "inkya",
+        "simubo",
+        "SIZU"
+      ],
+      "left": []
+    },
+    {
+      "team": "REIGNITE",
+      "region": "APAC_N",
+      "joined": [
+        "Chanriyo",
+        "Lully",
+        "ReyzyGG",
+        "Taida"
+      ],
+      "left": []
+    },
+    {
+      "team": "REJECT",
+      "region": "APAC_N",
+      "joined": [
+        "4rufa",
+        "RC Axis",
+        "RC Euriece",
+        "wabu"
+      ],
+      "left": []
+    },
+    {
+      "team": "RIDDLE ORDER",
+      "region": "APAC_N",
+      "joined": [
+        "Acca",
+        "Assii",
+        "Kamaneko",
+        "Meltstera",
+        "NefuDoll"
+      ],
+      "left": []
+    },
+    {
+      "team": "RUA",
+      "region": "APAC_N",
+      "joined": [
+        "Amaki",
+        "Splash",
+        "tororo_tps",
+        "XimLynk"
+      ],
+      "left": []
+    },
+    {
+      "team": "SBI e-Sports",
+      "region": "APAC_N",
+      "joined": [
+        "egoist",
+        "karahate7",
+        "Mitarashi",
+        "VolzZ"
+      ],
+      "left": []
+    },
+    {
+      "team": "SukiSukiScream",
+      "region": "APAC_N",
+      "joined": [
+        "mido",
+        "Taito",
+        "Tommypocopants",
+        "Yuuki_MsR"
+      ],
+      "left": []
+    },
+    {
+      "team": "SYRALE",
+      "region": "APAC_N",
+      "joined": [
+        "Ail3iS",
+        "IeNaGa27",
+        "LEAH",
+        "Roise"
+      ],
+      "left": []
+    },
+    {
+      "team": "TIE",
+      "region": "APAC_N",
+      "joined": [
+        "Ftyan",
+        "L1ng",
+        "Pinotr",
+        "UmichanLoveti"
+      ],
+      "left": []
+    },
+    {
+      "team": "TriniTY",
+      "region": "APAC_N",
+      "joined": [
+        "Hunto",
+        "IGARASI",
+        "primelsky",
+        "Rowhai",
+        "shoh"
+      ],
+      "left": []
+    },
+    {
+      "team": "UNLIMIT",
+      "region": "APAC_N",
+      "joined": [
+        "Peace",
+        "PENGERION",
+        "Xtsuvi",
+        "Yona",
+        "Yulariman"
+      ],
+      "left": []
+    },
+    {
+      "team": "WGR NEO",
+      "region": "APAC_N",
+      "joined": [
+        "AQBAJAPAN",
+        "Gsnkryu",
+        "juxo"
+      ],
+      "left": []
+    },
+    {
+      "team": "WhiteGrimReaper",
+      "region": "APAC_N",
+      "joined": [
+        "MII",
+        "p1npxn",
+        "Rost",
+        "Shynk"
+      ],
+      "left": []
+    },
+    {
+      "team": "ZETA DIVISION",
+      "region": "APAC_N",
+      "joined": [
+        "mike",
+        "Satuki",
+        "Takuron",
+        "Yamato",
+        "YukaF"
+      ],
+      "left": []
+    },
+    {
+      "team": "2c1m",
+      "region": "APAC_S",
+      "joined": [
+        "15Years FengchunOvO"
+      ],
+      "left": [
+        "FengchunOvO"
+      ]
+    },
+    {
+      "team": "Bearclaw Gaming",
+      "region": "APAC_S",
+      "joined": [
+        "hannzi",
+        "W-L-A2"
+      ],
+      "left": [
+        "Walking L"
+      ]
+    },
+    {
+      "team": "black hole",
+      "region": "APAC_S",
+      "joined": [
+        "5EEastyy",
+        "xxfps"
+      ],
+      "left": [
+        "XX",
+        "Eastyy"
+      ]
+    },
+    {
+      "team": "Ctrl Alt Defeat",
+      "region": "APAC_S",
+      "joined": [
+        "ItsmeRaza"
+      ],
+      "left": [
+        "Raza"
+      ]
+    },
+    {
+      "team": "Dogred",
+      "region": "APAC_S",
+      "joined": [
+        "GOPGAPz",
+        "yanlys"
+      ],
+      "left": [
+        "G0PGAP"
+      ]
+    },
+    {
+      "team": "Dreamfire",
+      "region": "APAC_S",
+      "joined": [
+        "Zoffy"
+      ],
+      "left": []
+    },
+    {
+      "team": "FIZ6 Gaming",
+      "region": "APAC_S",
+      "joined": [
+        "OzWald"
+      ],
+      "left": []
+    },
+    {
+      "team": "GenG Esports",
+      "region": "APAC_S",
+      "joined": [
+        "TEMPPLEX"
+      ],
+      "left": []
+    },
+    {
+      "team": "GoaT",
+      "region": "APAC_S",
+      "joined": [
+        "DJCaTLInK"
+      ],
+      "left": []
+    },
+    {
+      "team": "Grape Soda",
+      "region": "APAC_S",
+      "joined": [
+        "Pandaz809"
+      ],
+      "left": []
+    },
+    {
+      "team": "HAVOC",
+      "region": "APAC_S",
+      "joined": [
+        "Aphiatic",
+        "Sen"
+      ],
+      "left": []
+    },
+    {
+      "team": "Kakkoii",
+      "region": "APAC_S",
+      "joined": [
+        "ApexVeeycy"
+      ],
+      "left": [
+        "veeycy"
+      ]
+    },
+    {
+      "team": "MaMa Clubs",
+      "region": "APAC_S",
+      "joined": [
+        "Sacto33"
+      ],
+      "left": [
+        "Sacto"
+      ]
+    },
+    {
+      "team": "MeiDuiYaoBYD",
+      "region": "APAC_S",
+      "joined": [
+        "Bieyun",
+        "Cumulonimbus",
+        "Nirvana",
+        "YouL1ng"
+      ],
+      "left": []
+    },
+    {
+      "team": "PXX",
+      "region": "APAC_S",
+      "joined": [
+        "LZH",
+        "Pite",
+        "xd",
+        "Xzz"
+      ],
+      "left": []
+    },
+    {
+      "team": "QWQ",
+      "region": "APAC_S",
+      "joined": [
+        "Chris",
+        "WWUUZZII"
+      ],
+      "left": [
+        "Wuzi",
+        "Akikov0"
+      ]
+    },
+    {
+      "team": "Relove DCG",
+      "region": "APAC_S",
+      "joined": [
+        "CrownWish",
+        "Lu1SaN",
+        "Roieee",
+        "ShaoChieh"
+      ],
+      "left": []
+    },
+    {
+      "team": "Remarkable Team",
+      "region": "APAC_S",
+      "joined": [
+        "Cav"
+      ],
+      "left": []
+    },
+    {
+      "team": "RENDANG",
+      "region": "APAC_S",
+      "joined": [
+        "Bastiaan0Z",
+        "laheemx_",
+        "Salvatorez"
+      ],
+      "left": [
+        "laheem",
+        "Bastiaan"
+      ]
+    },
+    {
+      "team": "S8UL",
+      "region": "APAC_S",
+      "joined": [
+        "Jesko",
+        "Legacy",
+        "Rogers",
+        "Sharky"
+      ],
+      "left": []
+    },
+    {
+      "team": "Team RRQ",
+      "region": "APAC_S",
+      "joined": [
+        "Metro",
+        "Panayie",
+        "Prycyy",
+        "STRAFINGFLAME"
+      ],
+      "left": []
+    },
+    {
+      "team": "TomYumKung",
+      "region": "APAC_S",
+      "joined": [
+        "7rvz2",
+        "Arm",
+        "MiNGU"
+      ],
+      "left": [
+        "yrvz",
+        "Honeypie"
+      ]
+    },
+    {
+      "team": "UBI CILEMBU",
+      "region": "APAC_S",
+      "joined": [
+        "Doommvpzszz"
+      ],
+      "left": [
+        "DoomMVP"
+      ]
+    },
+    {
+      "team": "Veneno",
+      "region": "APAC_S",
+      "joined": [
+        "ReZumi2"
+      ],
+      "left": []
+    },
+    {
+      "team": "VK GAMING",
+      "region": "APAC_S",
+      "joined": [
+        "Kassa",
+        "VITA"
+      ],
+      "left": [
+        "Kasssa"
+      ]
+    },
+    {
+      "team": "Wolves Esports",
+      "region": "APAC_S",
+      "joined": [
+        "000",
+        "TangBao"
+      ],
+      "left": [
+        "GuGu"
+      ]
+    },
+    {
+      "team": "3 MEN",
+      "region": "EMEA",
+      "joined": [
+        "LivaiiApex"
+      ],
+      "left": [
+        "Livaii"
+      ]
+    },
+    {
+      "team": "Alliance",
+      "region": "EMEA",
+      "joined": [
+        "Alliance Unlucky",
+        "Noth"
+      ],
+      "left": [
+        "Unlucky"
+      ]
+    },
+    {
+      "team": "AURORA",
+      "region": "EMEA",
+      "joined": [
+        "Effect",
+        "Hiarka",
+        "ojrein"
+      ],
+      "left": []
+    },
+    {
+      "team": "Citadel Gaming",
+      "region": "EMEA",
+      "joined": [
+        "Bowzey"
+      ],
+      "left": []
+    },
+    {
+      "team": "DSK",
+      "region": "EMEA",
+      "joined": [
+        "1stagga",
+        "Kolibrihh"
+      ],
+      "left": [
+        "stagga",
+        "Kolibri"
+      ]
+    },
+    {
+      "team": "ECLIPSE NEEVEPRO",
+      "region": "EMEA",
+      "joined": [
+        "K4SHERA",
+        "KiingZ",
+        "PostKiLL",
+        "rCatch"
+      ],
+      "left": []
+    },
+    {
+      "team": "FUL",
+      "region": "EMEA",
+      "joined": [
+        "itsfujitora"
+      ],
+      "left": []
+    },
+    {
+      "team": "GaiminGladiators",
+      "region": "EMEA",
+      "joined": [
+        "AfrO4E",
+        "ladypexi"
+      ],
+      "left": [
+        "Zaine"
+      ]
+    },
+    {
+      "team": "GoNext",
+      "region": "EMEA",
+      "joined": [
+        "BleahciM",
+        "IHenchman ",
+        "KIND4",
+        "lighT"
+      ],
+      "left": []
+    },
+    {
+      "team": "Infinite",
+      "region": "EMEA",
+      "joined": [
+        "Sanka"
+      ],
+      "left": []
+    },
+    {
+      "team": "Made In Heaven",
+      "region": "EMEA",
+      "joined": [
+        "Tylerfps"
+      ],
+      "left": [
+        "Tyler"
+      ]
+    },
+    {
+      "team": "MakeEuGreatAgain",
+      "region": "EMEA",
+      "joined": [
+        "Gnaske",
+        "Kyner",
+        "Nait",
+        "SirDel"
+      ],
+      "left": []
+    },
+    {
+      "team": "MAMMA MIA",
+      "region": "EMEA",
+      "joined": [
+        "Maskellu",
+        "Shex"
+      ],
+      "left": [
+        "Mask"
+      ]
+    },
+    {
+      "team": "OrglessAndHungry",
+      "region": "EMEA",
+      "joined": [
+        "Caffe",
+        "CalamityVX"
+      ],
+      "left": [
+        "Calamitous"
+      ]
+    },
+    {
+      "team": "Pixel Lumina",
+      "region": "EMEA",
+      "joined": [
+        "3TrixX"
+      ],
+      "left": [
+        "TrixX"
+      ]
+    },
+    {
+      "team": "POT",
+      "region": "EMEA",
+      "joined": [
+        "dsblf",
+        "ozzzus7"
+      ],
+      "left": [
+        "7ozzzus"
+      ]
+    },
+    {
+      "team": "PRYANIKI",
+      "region": "EMEA",
+      "joined": [
+        "Sabz"
+      ],
+      "left": []
+    },
+    {
+      "team": "SJP2",
+      "region": "EMEA",
+      "joined": [
+        "kylar04"
+      ],
+      "left": [
+        "kylar"
+      ]
+    },
+    {
+      "team": "Stay Healthy",
+      "region": "EMEA",
+      "joined": [
+        "Rainer Luckshot "
+      ],
+      "left": []
+    },
+    {
+      "team": "SUPERNOVA",
+      "region": "EMEA",
+      "joined": [
+        "Hardecki",
+        "Kazakh",
+        "NINEimpulse"
+      ],
+      "left": []
+    },
+    {
+      "team": "UAV",
+      "region": "EMEA",
+      "joined": [
+        "Liphnn"
+      ],
+      "left": []
+    },
+    {
+      "team": "5STAR",
+      "region": "NA",
+      "joined": [
+        "CAD",
+        "Dig"
+      ],
+      "left": [
+        "DIGVIBEZZ"
+      ]
+    },
+    {
+      "team": "Crazy Thieves",
+      "region": "NA",
+      "joined": [
+        "Nihil",
+        "Stuhni"
+      ],
+      "left": []
+    },
+    {
+      "team": "DINOS",
+      "region": "NA",
+      "joined": [
+        "Djkilla"
+      ],
+      "left": [
+        "djkilla05"
+      ]
+    },
+    {
+      "team": "DKK",
+      "region": "NA",
+      "joined": [
+        "Jxmo"
+      ],
+      "left": []
+    },
+    {
+      "team": "Donut Shop",
+      "region": "NA",
+      "joined": [
+        "daviswave",
+        "Hun7sman",
+        "TempestND"
+      ],
+      "left": [
+        "wave",
+        "Hun7smann",
+        "Tempest"
+      ]
+    },
+    {
+      "team": "Free Thinkers",
+      "region": "NA",
+      "joined": [
+        "orange12111"
+      ],
+      "left": [
+        "orange"
+      ]
+    },
+    {
+      "team": "GAMBLERS",
+      "region": "NA",
+      "joined": [
+        "DadIsBored"
+      ],
+      "left": []
+    },
+    {
+      "team": "HUSS",
+      "region": "NA",
+      "joined": [
+        "KIMCHI"
+      ],
+      "left": [
+        "KIMCHILEE"
+      ]
+    },
+    {
+      "team": "LEGACY",
+      "region": "NA",
+      "joined": [
+        "Gyozey",
+        "jaguares1",
+        "NMEgo",
+        "StryderEz",
+        "YanYa"
+      ],
+      "left": []
+    },
+    {
+      "team": "medium rare",
+      "region": "NA",
+      "joined": [
+        "Kapreme"
+      ],
+      "left": [
+        "Gent"
+      ]
+    },
+    {
+      "team": "Men Of Culture",
+      "region": "NA",
+      "joined": [
+        "Hoplodamus",
+        "NunzioAD"
+      ],
+      "left": []
+    },
+    {
+      "team": "Nice Guys",
+      "region": "NA",
+      "joined": [
+        "Codddy",
+        "Fayelarkspur",
+        "HambinOwO",
+        "RamBeau"
+      ],
+      "left": [
+        "Hambino",
+        "Cody"
+      ]
+    },
+    {
+      "team": "NinjasinPyjamas",
+      "region": "NA",
+      "joined": [
+        "cole",
+        "Raven"
+      ],
+      "left": [
+        "McLovin"
+      ]
+    },
+    {
+      "team": "Purple Slushee",
+      "region": "NA",
+      "joined": [
+        "Duvy"
+      ],
+      "left": []
+    },
+    {
+      "team": "REVIVAL",
+      "region": "NA",
+      "joined": [
+        "Melloh"
+      ],
+      "left": [
+        "Meddoh"
+      ]
+    },
+    {
+      "team": "ROC Esports",
+      "region": "NA",
+      "joined": [
+        "Winnie"
+      ],
+      "left": []
+    },
+    {
+      "team": "S2",
+      "region": "NA",
+      "joined": [
+        "Eros",
+        "Zachmazer"
+      ],
+      "left": [
+        "Zach"
+      ]
+    },
+    {
+      "team": "ShopifyRebellion",
+      "region": "NA",
+      "joined": [
+        "Don",
+        "liuq"
+      ],
+      "left": []
+    },
+    {
+      "team": "Source Gaming",
+      "region": "NA",
+      "joined": [
+        "EvL999"
+      ],
+      "left": []
+    },
+    {
+      "team": "Stallions",
+      "region": "NA",
+      "joined": [
+        "oh Nocturnal"
+      ],
+      "left": []
+    },
+    {
+      "team": "Team Falcons",
+      "region": "NA",
+      "joined": [
+        "Draugr",
+        "FLCN Gild",
+        "FLCN ImperialHal"
+      ],
+      "left": [
+        "ImperialHal",
+        "Gild"
+      ]
+    },
+    {
+      "team": "Team Liquid",
+      "region": "NA",
+      "joined": [
+        "Kapreme",
+        "PanicApex"
+      ],
+      "left": [
+        "Panic"
+      ]
+    },
+    {
+      "team": "THUGGETS",
+      "region": "NA",
+      "joined": [
+        "7Dyn"
+      ],
+      "left": [
+        "Dyn"
+      ]
+    },
+    {
+      "team": "Zest Fest",
+      "region": "NA",
+      "joined": [
+        "Twitch Fredstxr",
+        "WabiSabi"
+      ],
+      "left": [
+        "Fredstxr"
+      ]
+    }
+  ],
+  "sns_updates": [
+    {
+      "ign": "HammerDrill",
+      "updates": [
+        "twitter_url",
+        "twitch_url",
+        "youtube_url",
+        "liquipedia_url",
+        "profile_image_url",
+        "nationality",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "Kogar4shi",
+      "updates": [
+        "twitter_url",
+        "twitch_url",
+        "youtube_url",
+        "liquipedia_url",
+        "nationality",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "Milim",
+      "updates": [
+        "twitter_url",
+        "twitch_url",
+        "liquipedia_url",
+        "profile_image_url",
+        "nationality",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "788",
+      "updates": [
+        "twitter_url",
+        "twitch_url",
+        "youtube_url",
+        "profile_image_url",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "KonPotq",
+      "updates": [
+        "liquipedia_url",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "TANO",
+      "updates": [
+        "twitter_url",
+        "twitch_url",
+        "liquipedia_url",
+        "nationality",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "Deathtenys",
+      "updates": [
+        "twitter_url",
+        "twitch_url",
+        "youtube_url",
+        "liquipedia_url",
+        "nationality",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "Nemu",
+      "updates": [
+        "twitter_url",
+        "youtube_url",
+        "liquipedia_url",
+        "nationality",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "HIROMUNE",
+      "updates": [
+        "profile_image_url",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "KatsuKing",
+      "updates": [
+        "twitter_url",
+        "twitch_url",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "sho",
+      "updates": [
+        "profile_image_url",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "Duckz",
+      "updates": [
+        "twitter_url",
+        "twitch_url",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "jirozon666",
+      "updates": [
+        "profile_image_url",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "yamatai",
+      "updates": [
+        "profile_image_url",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "Aimbot",
+      "updates": [
+        "twitter_url",
+        "twitch_url",
+        "youtube_url",
+        "profile_image_url",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "Cinap",
+      "updates": [
+        "twitter_url",
+        "twitch_url",
+        "youtube_url",
+        "profile_image_url",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "Jusna",
+      "updates": [
+        "profile_image_url",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "obly",
+      "updates": [
+        "profile_image_url",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "14L0st",
+      "updates": [
+        "liquipedia_url",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "izzxxv",
+      "updates": [
+        "profile_image_url",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "Ein",
+      "updates": [
+        "twitter_url",
+        "twitch_url",
+        "youtube_url",
+        "profile_image_url",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "ILY",
+      "updates": [
+        "twitter_url",
+        "twitch_url",
+        "youtube_url",
+        "profile_image_url",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "Kernel garcia",
+      "updates": [
+        "twitter_url",
+        "twitch_url",
+        "liquipedia_url",
+        "profile_image_url",
+        "nationality",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "ImNaoki",
+      "updates": [
+        "liquipedia_url",
+        "profile_image_url",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "S0chan",
+      "updates": [
+        "twitter_url",
+        "twitch_url",
+        "youtube_url",
+        "liquipedia_url",
+        "profile_image_url",
+        "nationality",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "wayachang",
+      "updates": [
+        "profile_image_url",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "Lible Ace",
+      "updates": [
+        "twitter_url",
+        "twitch_url",
+        "liquipedia_url",
+        "profile_image_url",
+        "nationality",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "mo-mon",
+      "updates": [
+        "profile_image_url",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "OUZIA",
+      "updates": [
+        "liquipedia_url",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "TENTEN",
+      "updates": [
+        "liquipedia_url",
+        "profile_image_url",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "chappy",
+      "updates": [
+        "profile_image_url",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "Moyashii 9",
+      "updates": [
+        "twitter_url",
+        "twitch_url",
+        "liquipedia_url",
+        "profile_image_url",
+        "nationality",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "YukaPEROdator",
+      "updates": [
+        "twitter_url",
+        "twitch_url",
+        "youtube_url",
+        "liquipedia_url",
+        "profile_image_url",
+        "nationality",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "5CG",
+      "updates": [
+        "twitter_url",
+        "twitch_url",
+        "youtube_url",
+        "liquipedia_url",
+        "profile_image_url",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "RIGHT",
+      "updates": [
+        "profile_image_url",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "wqtagashi",
+      "updates": [
+        "profile_image_url",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "983kuma",
+      "updates": [
+        "twitter_url",
+        "twitch_url",
+        "youtube_url",
+        "liquipedia_url",
+        "profile_image_url",
+        "nationality",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "Kuroton",
+      "updates": [
+        "twitter_url",
+        "twitch_url",
+        "youtube_url",
+        "liquipedia_url",
+        "profile_image_url",
+        "nationality",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "Maron",
+      "updates": [
+        "twitter_url",
+        "twitch_url",
+        "youtube_url",
+        "liquipedia_url",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "gavomk",
+      "updates": [
+        "profile_image_url",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "kakigoori7",
+      "updates": [
+        "profile_image_url",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "MiaK",
+      "updates": [
+        "twitter_url",
+        "twitch_url",
+        "profile_image_url",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "inkya",
+      "updates": [
+        "profile_image_url",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "SIZU",
+      "updates": [
+        "twitter_url",
+        "twitch_url",
+        "youtube_url",
+        "liquipedia_url",
+        "profile_image_url",
+        "nationality",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "Lully",
+      "updates": [
+        "twitter_url",
+        "twitch_url",
+        "youtube_url",
+        "liquipedia_url",
+        "profile_image_url",
+        "nationality",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "Taida",
+      "updates": [
+        "twitter_url",
+        "twitch_url",
+        "youtube_url",
+        "liquipedia_url",
+        "profile_image_url",
+        "nationality",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "4rufa",
+      "updates": [
+        "twitter_url",
+        "twitch_url",
+        "youtube_url",
+        "liquipedia_url",
+        "profile_image_url",
+        "nationality",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "Acca",
+      "updates": [
+        "twitter_url",
+        "twitch_url",
+        "liquipedia_url",
+        "nationality",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "Meltstera",
+      "updates": [
+        "twitter_url",
+        "twitch_url",
+        "youtube_url",
+        "liquipedia_url",
+        "profile_image_url",
+        "nationality",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "NefuDoll",
+      "updates": [
+        "twitter_url",
+        "twitch_url",
+        "youtube_url",
+        "liquipedia_url",
+        "profile_image_url",
+        "nationality",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "Amaki",
+      "updates": [
+        "twitter_url",
+        "twitch_url",
+        "youtube_url",
+        "liquipedia_url",
+        "nationality",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "Splash",
+      "updates": [
+        "twitter_url",
+        "twitch_url",
+        "liquipedia_url",
+        "nationality",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "XimLynk",
+      "updates": [
+        "twitter_url",
+        "youtube_url",
+        "liquipedia_url",
+        "nationality",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "egoist",
+      "updates": [
+        "profile_image_url",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "VolzZ",
+      "updates": [
+        "profile_image_url",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "Tommypocopants",
+      "updates": [
+        "twitter_url",
+        "twitch_url",
+        "youtube_url",
+        "liquipedia_url",
+        "nationality",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "Ail3iS",
+      "updates": [
+        "twitter_url",
+        "twitch_url",
+        "liquipedia_url",
+        "profile_image_url",
+        "nationality",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "LEAH",
+      "updates": [
+        "twitter_url",
+        "twitch_url",
+        "liquipedia_url",
+        "nationality",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "Ftyan",
+      "updates": [
+        "profile_image_url",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "Pinotr",
+      "updates": [
+        "twitter_url",
+        "youtube_url",
+        "liquipedia_url",
+        "profile_image_url",
+        "nationality",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "UmichanLoveti",
+      "updates": [
+        "twitter_url",
+        "twitch_url",
+        "youtube_url",
+        "liquipedia_url",
+        "profile_image_url",
+        "nationality",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "Hunto",
+      "updates": [
+        "twitter_url",
+        "youtube_url",
+        "liquipedia_url",
+        "nationality",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "IGARASI",
+      "updates": [
+        "twitter_url",
+        "twitch_url",
+        "liquipedia_url",
+        "profile_image_url",
+        "nationality",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "Rowhai",
+      "updates": [
+        "twitter_url",
+        "youtube_url",
+        "liquipedia_url",
+        "profile_image_url",
+        "nationality",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "Peace",
+      "updates": [
+        "twitter_url",
+        "twitch_url",
+        "youtube_url",
+        "liquipedia_url",
+        "profile_image_url",
+        "nationality",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "Xtsuvi",
+      "updates": [
+        "twitter_url",
+        "twitch_url",
+        "youtube_url",
+        "liquipedia_url",
+        "profile_image_url",
+        "nationality",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "Yulariman",
+      "updates": [
+        "twitter_url",
+        "twitch_url",
+        "youtube_url",
+        "liquipedia_url",
+        "profile_image_url",
+        "nationality",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "AQBAJAPAN",
+      "updates": [
+        "twitter_url",
+        "twitch_url",
+        "youtube_url",
+        "liquipedia_url",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "Gsnkryu",
+      "updates": [
+        "twitter_url",
+        "twitch_url",
+        "youtube_url",
+        "liquipedia_url",
+        "profile_image_url",
+        "nationality",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "Rost",
+      "updates": [
+        "liquipedia_url",
+        "profile_image_url",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "mike",
+      "updates": [
+        "profile_image_url",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "Satuki",
+      "updates": [
+        "twitter_url",
+        "twitch_url",
+        "youtube_url",
+        "liquipedia_url",
+        "profile_image_url",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "YukaF",
+      "updates": [
+        "profile_image_url",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "Ggod",
+      "updates": [
+        "liquipedia_url",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "KuRong",
+      "updates": [
+        "liquipedia_url",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "Chisu",
+      "updates": [
+        "twitter_url",
+        "twitch_url",
+        "youtube_url",
+        "liquipedia_url",
+        "profile_image_url",
+        "nationality",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "SongYou",
+      "updates": [
+        "twitter_url",
+        "twitch_url",
+        "youtube_url",
+        "liquipedia_url",
+        "profile_image_url",
+        "nationality",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "Heckk",
+      "updates": [
+        "twitter_url",
+        "twitch_url",
+        "liquipedia_url",
+        "profile_image_url",
+        "nationality",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "Lymo",
+      "updates": [
+        "twitter_url",
+        "twitch_url",
+        "youtube_url",
+        "liquipedia_url",
+        "profile_image_url",
+        "nationality",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "Fehr",
+      "updates": [
+        "twitter_url",
+        "twitch_url",
+        "liquipedia_url",
+        "nationality",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "OKKKKKJOSHH",
+      "updates": [
+        "liquipedia_url",
+        "profile_image_url",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "FAFAFIF",
+      "updates": [
+        "profile_image_url",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "Killoposz",
+      "updates": [
+        "twitter_url",
+        "twitch_url",
+        "liquipedia_url",
+        "profile_image_url",
+        "nationality",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "3mz",
+      "updates": [
+        "profile_image_url",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "BoLin",
+      "updates": [
+        "twitch_url",
+        "youtube_url",
+        "liquipedia_url",
+        "profile_image_url",
+        "nationality",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "JonnyR",
+      "updates": [
+        "liquipedia_url",
+        "profile_image_url",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "Aviisan",
+      "updates": [
+        "twitter_url",
+        "twitch_url",
+        "youtube_url",
+        "liquipedia_url",
+        "nationality",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "SillyStepSis",
+      "updates": [
+        "twitter_url",
+        "twitch_url",
+        "youtube_url",
+        "liquipedia_url",
+        "profile_image_url",
+        "nationality",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "WitnessMe",
+      "updates": [
+        "liquipedia_url",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "ASIAZXD",
+      "updates": [
+        "twitter_url",
+        "twitch_url",
+        "liquipedia_url",
+        "profile_image_url",
+        "nationality",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "DEXTER",
+      "updates": [
+        "liquipedia_url",
+        "profile_image_url",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "Z1CKKY",
+      "updates": [
+        "twitter_url",
+        "twitch_url",
+        "liquipedia_url",
+        "profile_image_url",
+        "nationality",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "CAIGOU",
+      "updates": [
+        "liquipedia_url",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "Hinson",
+      "updates": [
+        "liquipedia_url",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "OWOWOWOWOWOOWO",
+      "updates": [
+        "liquipedia_url",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "Phr34k",
+      "updates": [
+        "profile_image_url",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "LowKey",
+      "updates": [
+        "twitter_url",
+        "twitch_url",
+        "liquipedia_url",
+        "profile_image_url",
+        "nationality",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "Niiko",
+      "updates": [
+        "liquipedia_url",
+        "profile_image_url",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "PlayerKay",
+      "updates": [
+        "twitter_url",
+        "twitch_url",
+        "liquipedia_url",
+        "profile_image_url",
+        "nationality",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "Lzoho",
+      "updates": [
+        "liquipedia_url",
+        "nationality",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "xKenn",
+      "updates": [
+        "profile_image_url",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "XoyoBda",
+      "updates": [
+        "twitter_url",
+        "twitch_url",
+        "liquipedia_url",
+        "profile_image_url",
+        "nationality",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "NEWKU",
+      "updates": [
+        "twitter_url",
+        "twitch_url",
+        "youtube_url",
+        "liquipedia_url",
+        "nationality",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "Peterseng6974",
+      "updates": [
+        "twitch_url",
+        "youtube_url",
+        "liquipedia_url",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "Pyrosama",
+      "updates": [
+        "twitch_url",
+        "liquipedia_url",
+        "nationality",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "Kisanss",
+      "updates": [
+        "twitter_url",
+        "twitch_url",
+        "youtube_url",
+        "liquipedia_url",
+        "profile_image_url",
+        "nationality",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "TracyDamn",
+      "updates": [
+        "twitch_url",
+        "youtube_url",
+        "liquipedia_url",
+        "nationality",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "Tu1rbo",
+      "updates": [
+        "liquipedia_url",
+        "profile_image_url",
+        "nationality",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "Bieyun",
+      "updates": [
+        "liquipedia_url",
+        "nationality",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "Nirvana",
+      "updates": [
+        "liquipedia_url",
+        "nationality",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "Ahao",
+      "updates": [
+        "liquipedia_url",
+        "profile_image_url",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "Normal",
+      "updates": [
+        "twitter_url",
+        "twitch_url",
+        "youtube_url",
+        "liquipedia_url",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "Tastingblood",
+      "updates": [
+        "twitch_url",
+        "liquipedia_url",
+        "profile_image_url",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "aflow",
+      "updates": [
+        "profile_image_url",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "Mosu",
+      "updates": [
+        "twitter_url",
+        "twitch_url",
+        "youtube_url",
+        "liquipedia_url",
+        "profile_image_url",
+        "nationality",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "noelsang",
+      "updates": [
+        "profile_image_url",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "Pite",
+      "updates": [
+        "liquipedia_url",
+        "profile_image_url",
+        "nationality",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "xd",
+      "updates": [
+        "profile_image_url",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "Xzz",
+      "updates": [
+        "liquipedia_url",
+        "profile_image_url",
+        "nationality",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "Menino",
+      "updates": [
+        "liquipedia_url",
+        "nationality",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "Lu1SaN",
+      "updates": [
+        "twitch_url",
+        "youtube_url",
+        "liquipedia_url",
+        "profile_image_url",
+        "nationality",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "Roieee",
+      "updates": [
+        "twitter_url",
+        "twitch_url",
+        "youtube_url",
+        "liquipedia_url",
+        "profile_image_url",
+        "nationality",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "ckkongbai",
+      "updates": [
+        "profile_image_url",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "Xiaolin",
+      "updates": [
+        "twitch_url",
+        "liquipedia_url",
+        "nationality",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "Ronin",
+      "updates": [
+        "twitter_url",
+        "twitch_url",
+        "youtube_url",
+        "liquipedia_url",
+        "profile_image_url",
+        "nationality",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "Jesko",
+      "updates": [
+        "twitter_url",
+        "twitch_url",
+        "liquipedia_url",
+        "profile_image_url",
+        "nationality",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "Legacy",
+      "updates": [
+        "twitter_url",
+        "twitch_url",
+        "liquipedia_url",
+        "profile_image_url",
+        "nationality",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "Sharky",
+      "updates": [
+        "twitter_url",
+        "twitch_url",
+        "profile_image_url",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "Metro",
+      "updates": [
+        "twitter_url",
+        "twitch_url",
+        "youtube_url",
+        "liquipedia_url",
+        "profile_image_url",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "Prycyy",
+      "updates": [
+        "twitter_url",
+        "twitch_url",
+        "youtube_url",
+        "profile_image_url",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "STRAFINGFLAME",
+      "updates": [
+        "profile_image_url",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "sato_kohai",
+      "updates": [
+        "profile_image_url",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "EzFlashKIDZ",
+      "updates": [
+        "liquipedia_url",
+        "profile_image_url",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "Xboltz7",
+      "updates": [
+        "twitter_url",
+        "youtube_url",
+        "liquipedia_url",
+        "nationality",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "R33P3S",
+      "updates": [
+        "twitter_url",
+        "liquipedia_url",
+        "profile_image_url",
+        "nationality",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "Razi",
+      "updates": [
+        "twitter_url",
+        "youtube_url",
+        "liquipedia_url",
+        "profile_image_url",
+        "nationality",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "Lqdud",
+      "updates": [
+        "profile_image_url",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "QQ",
+      "updates": [
+        "twitter_url",
+        "twitch_url",
+        "youtube_url",
+        "liquipedia_url",
+        "profile_image_url",
+        "nationality",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "CrazyCong",
+      "updates": [
+        "liquipedia_url",
+        "nationality",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "NONAME",
+      "updates": [
+        "profile_image_url",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "WenXx",
+      "updates": [
+        "liquipedia_url",
+        "nationality",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "BaByLoNs",
+      "updates": [
+        "liquipedia_url",
+        "profile_image_url",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "Temuchi",
+      "updates": [
+        "twitter_url",
+        "twitch_url",
+        "youtube_url",
+        "liquipedia_url",
+        "nationality",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "akku",
+      "updates": [
+        "profile_image_url",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "Effect",
+      "updates": [
+        "twitter_url",
+        "twitch_url",
+        "youtube_url",
+        "liquipedia_url",
+        "profile_image_url",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "Hiarka",
+      "updates": [
+        "twitter_url",
+        "twitch_url",
+        "youtube_url",
+        "liquipedia_url",
+        "profile_image_url",
+        "nationality",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "ojrein",
+      "updates": [
+        "profile_image_url",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "Faenex",
+      "updates": [
+        "twitter_url",
+        "twitch_url",
+        "liquipedia_url",
+        "profile_image_url",
+        "nationality",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "KSWINNIIE",
+      "updates": [
+        "twitter_url",
+        "twitch_url",
+        "liquipedia_url",
+        "profile_image_url",
+        "nationality",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "Mysi",
+      "updates": [
+        "twitter_url",
+        "twitch_url",
+        "liquipedia_url",
+        "profile_image_url",
+        "nationality",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "Artyco",
+      "updates": [
+        "twitter_url",
+        "twitch_url",
+        "liquipedia_url",
+        "profile_image_url",
+        "nationality",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "MaxStrafe",
+      "updates": [
+        "liquipedia_url",
+        "profile_image_url",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "Sanya",
+      "updates": [
+        "twitter_url",
+        "twitch_url",
+        "liquipedia_url",
+        "profile_image_url",
+        "nationality",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "kaishihaa",
+      "updates": [
+        "profile_image_url",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "RemixPowers",
+      "updates": [
+        "twitter_url",
+        "twitch_url",
+        "liquipedia_url",
+        "profile_image_url",
+        "nationality",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "Zuni",
+      "updates": [
+        "twitter_url",
+        "twitch_url",
+        "youtube_url",
+        "liquipedia_url",
+        "profile_image_url",
+        "nationality",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "tsuki",
+      "updates": [
+        "twitter_url",
+        "youtube_url",
+        "liquipedia_url",
+        "nationality",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "gdolphn",
+      "updates": [
+        "profile_image_url",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "K4SHERA",
+      "updates": [
+        "profile_image_url",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "KiingZ",
+      "updates": [
+        "twitter_url",
+        "twitch_url",
+        "liquipedia_url",
+        "profile_image_url",
+        "nationality",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "PostKiLL",
+      "updates": [
+        "twitter_url",
+        "twitch_url",
+        "youtube_url",
+        "liquipedia_url",
+        "profile_image_url",
+        "nationality",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "rCatch",
+      "updates": [
+        "profile_image_url",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "Beamzy",
+      "updates": [
+        "twitter_url",
+        "twitch_url",
+        "liquipedia_url",
+        "nationality",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "Kuro",
+      "updates": [
+        "twitter_url",
+        "twitch_url",
+        "liquipedia_url",
+        "nationality",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "Orbit",
+      "updates": [
+        "twitter_url",
+        "liquipedia_url",
+        "profile_image_url",
+        "nationality",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "Blasts",
+      "updates": [
+        "twitter_url",
+        "twitch_url",
+        "liquipedia_url",
+        "profile_image_url",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "Lufka",
+      "updates": [
+        "twitter_url",
+        "twitch_url",
+        "youtube_url",
+        "liquipedia_url",
+        "profile_image_url",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "IHenchman",
+      "updates": [
+        "twitter_url",
+        "twitch_url",
+        "liquipedia_url",
+        "profile_image_url",
+        "nationality",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "KIND4",
+      "updates": [
+        "twitter_url",
+        "twitch_url",
+        "youtube_url",
+        "liquipedia_url",
+        "profile_image_url",
+        "nationality",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "lighT",
+      "updates": [
+        "profile_image_url",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "vAyoub",
+      "updates": [
+        "twitter_url",
+        "twitch_url",
+        "liquipedia_url",
+        "nationality",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "Feuda",
+      "updates": [
+        "twitter_url",
+        "twitch_url",
+        "liquipedia_url",
+        "profile_image_url",
+        "nationality",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "Nono",
+      "updates": [
+        "twitter_url",
+        "twitch_url",
+        "youtube_url",
+        "liquipedia_url",
+        "profile_image_url",
+        "nationality",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "Kizaron",
+      "updates": [
+        "twitter_url",
+        "twitch_url",
+        "youtube_url",
+        "liquipedia_url",
+        "profile_image_url",
+        "nationality",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "YeQiu",
+      "updates": [
+        "profile_image_url",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "zhidan",
+      "updates": [
+        "profile_image_url",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "Naghz",
+      "updates": [
+        "twitter_url",
+        "twitch_url",
+        "youtube_url",
+        "liquipedia_url",
+        "profile_image_url",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "Sinetic",
+      "updates": [
+        "twitter_url",
+        "twitch_url",
+        "liquipedia_url",
+        "profile_image_url",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "Gnaske",
+      "updates": [
+        "twitter_url",
+        "twitch_url",
+        "youtube_url",
+        "liquipedia_url",
+        "profile_image_url",
+        "nationality",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "Kyner",
+      "updates": [
+        "twitter_url",
+        "twitch_url",
+        "liquipedia_url",
+        "profile_image_url",
+        "nationality",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "Nait",
+      "updates": [
+        "twitter_url",
+        "twitch_url",
+        "youtube_url",
+        "liquipedia_url",
+        "profile_image_url",
+        "nationality",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "Eccio",
+      "updates": [
+        "liquipedia_url",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "rBlackVenom",
+      "updates": [
+        "twitter_url",
+        "twitch_url",
+        "liquipedia_url",
+        "profile_image_url",
+        "nationality",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "4Miskam",
+      "updates": [
+        "twitter_url",
+        "twitch_url",
+        "youtube_url",
+        "liquipedia_url",
+        "profile_image_url",
+        "nationality",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "AdaM zZ",
+      "updates": [
+        "twitter_url",
+        "twitch_url",
+        "liquipedia_url",
+        "profile_image_url",
+        "nationality",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "Friqz",
+      "updates": [
+        "twitter_url",
+        "twitch_url",
+        "liquipedia_url",
+        "profile_image_url",
+        "nationality",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "Slab",
+      "updates": [
+        "twitter_url",
+        "twitch_url",
+        "liquipedia_url",
+        "profile_image_url",
+        "nationality",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "MaTaFe",
+      "updates": [
+        "twitter_url",
+        "twitch_url",
+        "youtube_url",
+        "liquipedia_url",
+        "profile_image_url",
+        "nationality",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "Taxington",
+      "updates": [
+        "liquipedia_url",
+        "profile_image_url",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "xsampe",
+      "updates": [
+        "profile_image_url",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "Bzbblegum",
+      "updates": [
+        "twitter_url",
+        "twitch_url",
+        "youtube_url",
+        "liquipedia_url",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "Prestis",
+      "updates": [
+        "twitter_url",
+        "twitch_url",
+        "youtube_url",
+        "liquipedia_url",
+        "nationality",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "ASKYY",
+      "updates": [
+        "twitter_url",
+        "twitch_url",
+        "liquipedia_url",
+        "profile_image_url",
+        "nationality",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "B4mbino",
+      "updates": [
+        "twitter_url",
+        "twitch_url",
+        "liquipedia_url",
+        "profile_image_url",
+        "nationality",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "Sweepy",
+      "updates": [
+        "twitter_url",
+        "youtube_url",
+        "liquipedia_url",
+        "nationality",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "1kxst",
+      "updates": [
+        "twitter_url",
+        "twitch_url",
+        "youtube_url",
+        "liquipedia_url",
+        "nationality",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "Elonzy",
+      "updates": [
+        "twitter_url",
+        "twitch_url",
+        "liquipedia_url",
+        "nationality",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "Yanzz",
+      "updates": [
+        "twitter_url",
+        "twitch_url",
+        "youtube_url",
+        "liquipedia_url",
+        "profile_image_url",
+        "nationality",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "Denzaay",
+      "updates": [
+        "twitter_url",
+        "twitch_url",
+        "youtube_url",
+        "liquipedia_url",
+        "profile_image_url",
+        "nationality",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "QUERNI",
+      "updates": [
+        "twitter_url",
+        "twitch_url",
+        "liquipedia_url",
+        "profile_image_url",
+        "nationality",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "seven",
+      "updates": [
+        "profile_image_url",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "AJXNTHI",
+      "updates": [
+        "twitter_url",
+        "twitch_url",
+        "liquipedia_url",
+        "profile_image_url",
+        "nationality",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "Guts",
+      "updates": [
+        "twitter_url",
+        "twitch_url",
+        "liquipedia_url",
+        "nationality",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "Hardecki",
+      "updates": [
+        "twitter_url",
+        "twitch_url",
+        "youtube_url",
+        "liquipedia_url",
+        "profile_image_url",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "Kazakh",
+      "updates": [
+        "twitter_url",
+        "twitch_url",
+        "liquipedia_url",
+        "profile_image_url",
+        "nationality",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "ChaoticMuch",
+      "updates": [
+        "twitter_url",
+        "twitch_url",
+        "youtube_url",
+        "liquipedia_url",
+        "profile_image_url",
+        "nationality",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "Cjracked",
+      "updates": [
+        "twitter_url",
+        "twitch_url",
+        "youtube_url",
+        "liquipedia_url",
+        "profile_image_url",
+        "nationality",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "Hoody",
+      "updates": [
+        "twitter_url",
+        "twitch_url",
+        "liquipedia_url",
+        "profile_image_url",
+        "nationality",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "MgClutch",
+      "updates": [
+        "twitter_url",
+        "twitch_url",
+        "youtube_url",
+        "liquipedia_url",
+        "profile_image_url",
+        "nationality",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "arctic",
+      "updates": [
+        "profile_image_url",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "Uxako",
+      "updates": [
+        "twitter_url",
+        "twitch_url",
+        "youtube_url",
+        "liquipedia_url",
+        "profile_image_url",
+        "nationality",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "vasate",
+      "updates": [
+        "profile_image_url",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "Exguze",
+      "updates": [
+        "twitch_url",
+        "liquipedia_url",
+        "nationality",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "WeakQ",
+      "updates": [
+        "twitter_url",
+        "twitch_url",
+        "liquipedia_url",
+        "nationality",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "Dark",
+      "updates": [
+        "twitter_url",
+        "twitch_url",
+        "liquipedia_url",
+        "profile_image_url",
+        "nationality",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "CruelBuckle",
+      "updates": [
+        "twitter_url",
+        "liquipedia_url",
+        "profile_image_url",
+        "nationality",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "J",
+      "updates": [
+        "profile_image_url",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "Kuzmei",
+      "updates": [
+        "twitter_url",
+        "twitch_url",
+        "youtube_url",
+        "liquipedia_url",
+        "nationality",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "mav",
+      "updates": [
+        "profile_image_url",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "Phony",
+      "updates": [
+        "twitter_url",
+        "twitch_url",
+        "youtube_url",
+        "liquipedia_url",
+        "profile_image_url",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "ChaosFeelings",
+      "updates": [
+        "twitter_url",
+        "twitch_url",
+        "liquipedia_url",
+        "nationality",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "FutureStreamz",
+      "updates": [
+        "twitter_url",
+        "twitch_url",
+        "youtube_url",
+        "liquipedia_url",
+        "nationality",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "DROPPED",
+      "updates": [
+        "profile_image_url",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "Keon",
+      "updates": [
+        "twitter_url",
+        "twitch_url",
+        "youtube_url",
+        "liquipedia_url",
+        "profile_image_url",
+        "nationality",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "knoqd",
+      "updates": [
+        "twitter_url",
+        "twitch_url",
+        "youtube_url",
+        "liquipedia_url",
+        "profile_image_url",
+        "nationality",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "wraiLs",
+      "updates": [
+        "profile_image_url",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "Floating",
+      "updates": [
+        "twitter_url",
+        "twitch_url",
+        "liquipedia_url",
+        "profile_image_url",
+        "nationality",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "Shooby",
+      "updates": [
+        "twitter_url",
+        "twitch_url",
+        "youtube_url",
+        "liquipedia_url",
+        "profile_image_url",
+        "nationality",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "StayNaughty",
+      "updates": [
+        "twitter_url",
+        "twitch_url",
+        "youtube_url",
+        "liquipedia_url",
+        "profile_image_url",
+        "nationality",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "bigluie",
+      "updates": [
+        "profile_image_url",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "Nano",
+      "updates": [
+        "twitter_url",
+        "twitch_url",
+        "youtube_url",
+        "liquipedia_url",
+        "profile_image_url",
+        "nationality",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "Qzier",
+      "updates": [
+        "twitter_url",
+        "twitch_url",
+        "liquipedia_url",
+        "profile_image_url",
+        "nationality",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "Legatronn",
+      "updates": [
+        "twitter_url",
+        "twitch_url",
+        "liquipedia_url",
+        "profile_image_url",
+        "nationality",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "NotDaniel",
+      "updates": [
+        "twitter_url",
+        "twitch_url",
+        "youtube_url",
+        "liquipedia_url",
+        "nationality",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "Soviet",
+      "updates": [
+        "twitter_url",
+        "twitch_url",
+        "liquipedia_url",
+        "profile_image_url",
+        "nationality",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "WydFuture",
+      "updates": [
+        "twitter_url",
+        "twitch_url",
+        "youtube_url",
+        "liquipedia_url",
+        "profile_image_url",
+        "nationality",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "Adiuvant",
+      "updates": [
+        "twitter_url",
+        "twitch_url",
+        "youtube_url",
+        "liquipedia_url",
+        "profile_image_url",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "hxted",
+      "updates": [
+        "profile_image_url",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "Osivien",
+      "updates": [
+        "twitter_url",
+        "twitch_url",
+        "youtube_url",
+        "liquipedia_url",
+        "profile_image_url",
+        "nationality",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "Perfections",
+      "updates": [
+        "twitter_url",
+        "liquipedia_url",
+        "profile_image_url",
+        "nationality",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "Trevstacks",
+      "updates": [
+        "twitter_url",
+        "twitch_url",
+        "liquipedia_url",
+        "profile_image_url",
+        "nationality",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "Why Envy",
+      "updates": [
+        "twitter_url",
+        "twitch_url",
+        "liquipedia_url",
+        "nationality",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "aidanthedestroye",
+      "updates": [
+        "profile_image_url",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "dooplex",
+      "updates": [
+        "profile_image_url",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "yJely",
+      "updates": [
+        "profile_image_url",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "Gyozey",
+      "updates": [
+        "twitter_url",
+        "twitch_url",
+        "liquipedia_url",
+        "profile_image_url",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "YanYa",
+      "updates": [
+        "twitter_url",
+        "twitch_url",
+        "youtube_url",
+        "liquipedia_url",
+        "profile_image_url",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "Emtee",
+      "updates": [
+        "twitter_url",
+        "twitch_url",
+        "youtube_url",
+        "profile_image_url",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "slayr",
+      "updates": [
+        "profile_image_url",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "Aveckii",
+      "updates": [
+        "twitter_url",
+        "twitch_url",
+        "youtube_url",
+        "liquipedia_url",
+        "nationality",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "tomanycheeters",
+      "updates": [
+        "profile_image_url",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "Vodery",
+      "updates": [
+        "twitter_url",
+        "twitch_url",
+        "youtube_url",
+        "liquipedia_url",
+        "nationality",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "Sang",
+      "updates": [
+        "twitter_url",
+        "twitch_url",
+        "liquipedia_url",
+        "profile_image_url",
+        "nationality",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "Kurev",
+      "updates": [
+        "twitter_url",
+        "twitch_url",
+        "youtube_url",
+        "liquipedia_url",
+        "profile_image_url",
+        "nationality",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "Vein",
+      "updates": [
+        "twitter_url",
+        "twitch_url",
+        "youtube_url",
+        "liquipedia_url",
+        "profile_image_url",
+        "nationality",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "Blinkzr",
+      "updates": [
+        "twitter_url",
+        "twitch_url",
+        "youtube_url",
+        "liquipedia_url",
+        "profile_image_url",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "FunFPS",
+      "updates": [
+        "twitter_url",
+        "twitch_url",
+        "youtube_url",
+        "liquipedia_url",
+        "profile_image_url",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "Monsoon",
+      "updates": [
+        "twitter_url",
+        "twitch_url",
+        "youtube_url",
+        "liquipedia_url",
+        "profile_image_url",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "Crook",
+      "updates": [
+        "twitter_url",
+        "twitch_url",
+        "liquipedia_url",
+        "profile_image_url",
+        "nationality",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "Deeds",
+      "updates": [
+        "twitter_url",
+        "twitch_url",
+        "youtube_url",
+        "liquipedia_url",
+        "profile_image_url",
+        "nationality",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "Enemy",
+      "updates": [
+        "twitter_url",
+        "twitch_url",
+        "liquipedia_url",
+        "profile_image_url",
+        "nationality",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "PlutoReality",
+      "updates": [
+        "twitter_url",
+        "twitch_url",
+        "liquipedia_url",
+        "profile_image_url",
+        "nationality",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "ImMadness",
+      "updates": [
+        "twitter_url",
+        "twitch_url",
+        "youtube_url",
+        "liquipedia_url",
+        "profile_image_url",
+        "nationality",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "january",
+      "updates": [
+        "profile_image_url",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "Lazur",
+      "updates": [
+        "liquipedia_url",
+        "profile_image_url",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "sauceror",
+      "updates": [
+        "profile_image_url",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "ssirsay",
+      "updates": [
+        "profile_image_url",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "Vaxlon",
+      "updates": [
+        "twitter_url",
+        "twitch_url",
+        "liquipedia_url",
+        "profile_image_url",
+        "nationality",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "carter",
+      "updates": [
+        "profile_image_url",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "LOTR31",
+      "updates": [
+        "twitter_url",
+        "twitch_url",
+        "liquipedia_url",
+        "profile_image_url",
+        "nationality",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "Xynew",
+      "updates": [
+        "twitter_url",
+        "twitch_url",
+        "youtube_url",
+        "liquipedia_url",
+        "profile_image_url",
+        "nationality",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "zap",
+      "updates": [
+        "profile_image_url",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "Cates",
+      "updates": [
+        "twitter_url",
+        "twitch_url",
+        "youtube_url",
+        "liquipedia_url",
+        "profile_image_url",
+        "nationality",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "IMLUNIX",
+      "updates": [
+        "liquipedia_url",
+        "profile_image_url",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "sacred",
+      "updates": [
+        "profile_image_url",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "SkittleCakes",
+      "updates": [
+        "twitter_url",
+        "twitch_url",
+        "youtube_url",
+        "liquipedia_url",
+        "profile_image_url",
+        "nationality",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "Wxltzy",
+      "updates": [
+        "twitter_url",
+        "twitch_url",
+        "youtube_url",
+        "liquipedia_url",
+        "profile_image_url",
+        "nationality",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "Sikezz",
+      "updates": [
+        "twitter_url",
+        "twitch_url",
+        "youtube_url",
+        "liquipedia_url",
+        "profile_image_url",
+        "nationality",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "DANMANNTIC",
+      "updates": [
+        "twitter_url",
+        "twitch_url",
+        "liquipedia_url",
+        "profile_image_url",
+        "nationality",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "Vlorzy",
+      "updates": [
+        "twitter_url",
+        "twitch_url",
+        "liquipedia_url",
+        "profile_image_url",
+        "nationality",
+        "updated_at"
+      ]
+    },
+    {
+      "ign": "eslopes",
+      "updates": [
+        "profile_image_url",
+        "updated_at"
+      ]
+    }
+  ],
+  "stats": {
+    "teams_created": 11,
+    "teams_updated": 109,
+    "players_created": 143,
+    "players_updated": 336,
+    "sns_updated": 281,
+    "rosters_created": 262,
+    "rosters_ended": 46
+  }
+}

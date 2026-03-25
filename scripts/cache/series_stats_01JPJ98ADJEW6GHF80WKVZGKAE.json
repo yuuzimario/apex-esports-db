@@ -1,0 +1,966 @@
+{
+  "seriesId": "01JPJ98ADJEW6GHF80WKVZGKAE",
+  "seriesStatus": "completed",
+  "teams": [
+    {
+      "id": "01JPJYGXTVV7H7DKSQJ2K0YD0X",
+      "name": "GHS BoooM",
+      "shortName": "UNL",
+      "region": "asia-pacific-north",
+      "logoLight": "https://content.algstools.com/01J6C45A8E1X56ZX694209BA8Y.png",
+      "logoDark": "https://content.algstools.com/01J6C45A8E1X56ZX694209BA8Y.png",
+      "versionId": "01JPJYGXWFW23ASKYZNW9VD9GN",
+      "points": 75,
+      "placementPoints": 38,
+      "position": 1,
+      "kills": 37,
+      "matchPointEligible": false,
+      "wonMatchPoint": false,
+      "eliminated": true,
+      "players": [
+        {
+          "id": "01JKR4AVPPFYD4V3CDSE996NE8",
+          "name": "ImNaoki",
+          "kills": 2,
+          "killed": true,
+          "frontImage": "https://content.algstools.com/ZtRFpgiXQ6OPqFrU0QFD.png",
+          "leftImage": null,
+          "rightImage": null,
+          "personalityImage": "https://content.algstools.com/7Pw5bDTl7BEltTFj0YI1.png"
+        },
+        {
+          "id": "01JKR3XQ5DWW41V69P9RG745QS",
+          "name": "Yulariman",
+          "kills": 24,
+          "killed": true,
+          "frontImage": "https://content.algstools.com/oQmKfW13vc0o6rmvk3NT.png",
+          "leftImage": null,
+          "rightImage": null,
+          "personalityImage": "https://content.algstools.com/Vn04c5xzBgXZLK2CXKB8.png"
+        },
+        {
+          "id": "01JK2ZP1B73ZVCX0TF8KTBAKNP",
+          "name": "Xtsuvi",
+          "kills": 11,
+          "killed": true,
+          "frontImage": "https://content.algstools.com/IokJLDoLGDKvTqduKF8G.png",
+          "leftImage": null,
+          "rightImage": null,
+          "personalityImage": "https://content.algstools.com/cju3dDvoGcKtFuhA4NEh.png"
+        }
+      ]
+    },
+    {
+      "id": "01JPMT4KJ71KJ27Y5K39P0JJY9",
+      "name": "9Lies Esports",
+      "shortName": "NIP",
+      "region": "americas",
+      "logoLight": "https://content.algstools.com/01JQW5P1PQRB3QWFH5K64EYJN0.png",
+      "logoDark": "https://content.algstools.com/01JQW5P1PQRB3QWFH5K64EYJN0.png",
+      "versionId": "01JPMT4KKXVRBMYH0PFMTZ5PX8",
+      "points": 62,
+      "placementPoints": 21,
+      "position": 2,
+      "kills": 41,
+      "matchPointEligible": false,
+      "wonMatchPoint": false,
+      "eliminated": true,
+      "players": [
+        {
+          "id": "01J7TX1YMQ7ZA2BNTS6JX48WP0",
+          "name": "ssirsay",
+          "kills": 21,
+          "killed": true,
+          "frontImage": "https://content.algstools.com/H5PobN6qwKpAUZlhI6px.png",
+          "leftImage": null,
+          "rightImage": null,
+          "personalityImage": "https://content.algstools.com/I4OjV2I87uzFbkbxfwWA.png"
+        },
+        {
+          "id": "01JK57CFP22QV3BSK1EH5V5PD0",
+          "name": "cole",
+          "kills": 14,
+          "killed": true,
+          "frontImage": "https://content.algstools.com/anC0LNcSfd6jVYT6Qgt7.png",
+          "leftImage": null,
+          "rightImage": null,
+          "personalityImage": "https://content.algstools.com/RSFZFDOJRLCVEfSlejlt.png"
+        },
+        {
+          "id": "01J65B733H606FKY6AEMAPAJ7P",
+          "name": "Vein",
+          "kills": 6,
+          "killed": true,
+          "frontImage": "https://content.algstools.com/83kqRDBtEjWVrXcum83z.png",
+          "leftImage": null,
+          "rightImage": null,
+          "personalityImage": "https://content.algstools.com/M4QWws9F9vKGJXAxbzMR.png"
+        }
+      ]
+    },
+    {
+      "id": "01JPMT4GM664MP1EQWTSRGMH2R",
+      "name": "TSM",
+      "shortName": "TSM",
+      "region": "americas",
+      "logoLight": "https://content.algstools.com/01JT663QBPZBNVDASSRS71S4VR.png",
+      "logoDark": "https://content.algstools.com/01JT663XHQZR5AJBJXV7W2D4AR.png",
+      "versionId": "01JSZHE70KANFPNBR517SFTVY6",
+      "points": 54,
+      "placementPoints": 32,
+      "position": 3,
+      "kills": 22,
+      "matchPointEligible": false,
+      "wonMatchPoint": false,
+      "eliminated": true,
+      "players": [
+        {
+          "id": "01JKVTZ3PG0QN6B6KT0W2ZVZB8",
+          "name": "dooplex",
+          "kills": 9,
+          "killed": true,
+          "frontImage": "https://content.algstools.com/9BOPKBwbQVxC8mrJegAW.png",
+          "leftImage": null,
+          "rightImage": null,
+          "personalityImage": "https://content.algstools.com/Ndv7mY8SBXH888LJhZ95.png"
+        },
+        {
+          "id": "01J69SX3V2JWGFRRAEE97MCJV7",
+          "name": "SkittleCakes",
+          "kills": 6,
+          "killed": true,
+          "frontImage": "https://content.algstools.com/rzXizbR5IHExf2h8RNDA.png",
+          "leftImage": null,
+          "rightImage": null,
+          "personalityImage": "https://content.algstools.com/aXan8hQbkbt3rv0YtqE4.png"
+        },
+        {
+          "id": "01J65B7Y3G9BYMQFZSX6QQV0ZB",
+          "name": "gent",
+          "kills": 7,
+          "killed": true,
+          "frontImage": "https://content.algstools.com/W1fSbksuSKCP7NNiNNvk.png",
+          "leftImage": null,
+          "rightImage": null,
+          "personalityImage": "https://content.algstools.com/Q6aDHWv5cC4SbEJLyVZI.png"
+        }
+      ]
+    },
+    {
+      "id": "01JPMT4FQB0AXTCVJA20F62H6B",
+      "name": "ENVY",
+      "shortName": "AG",
+      "region": "americas",
+      "logoLight": "https://content.algstools.com/01JHTDRM3ECFHXTBFY183KM0M2.png",
+      "logoDark": "https://content.algstools.com/01JHTDRM3ECFHXTBFY183KM0M2.png",
+      "versionId": "01JPMT4FRVH5VDWSXW62FV2808",
+      "points": 54,
+      "placementPoints": 24,
+      "position": 4,
+      "kills": 30,
+      "matchPointEligible": false,
+      "wonMatchPoint": false,
+      "eliminated": true,
+      "players": [
+        {
+          "id": "01J65B7ZA31T3A5Z36XKRMFVY1",
+          "name": "Sikezz",
+          "kills": 14,
+          "killed": true,
+          "frontImage": "https://content.algstools.com/ExL3FfL0CIcy2nLOIx00.png",
+          "leftImage": null,
+          "rightImage": null,
+          "personalityImage": "https://content.algstools.com/OVch6jVhLAZkhY6jIWOj.png"
+        },
+        {
+          "id": "01J69SX1YQTDN4Q8SZ50KF3BZH",
+          "name": "DROPPED",
+          "kills": 6,
+          "killed": true,
+          "frontImage": "https://content.algstools.com/U2tJVkS0EbS1QcRLWYTM.png",
+          "leftImage": null,
+          "rightImage": null,
+          "personalityImage": "https://content.algstools.com/dcN5vzHU0lsmFD0Njn3Y.png"
+        },
+        {
+          "id": "01J65B63TYVWBB4ZVR2S5QKBT3",
+          "name": "zap",
+          "kills": 10,
+          "killed": true,
+          "frontImage": "https://content.algstools.com/tHe7rV6QDOH6L19lSweX.png",
+          "leftImage": null,
+          "rightImage": null,
+          "personalityImage": "https://content.algstools.com/tbwzByd8kRYaj17jmCI5.png"
+        }
+      ]
+    },
+    {
+      "id": "01JPMT2BJJPWR6NQ8Z3PCN60VT",
+      "name": "AURORA",
+      "shortName": "SN",
+      "region": "europe-middle-east-and-africa",
+      "logoLight": "https://content.algstools.com/01JT7MMWVMXQSQSBFA5NSATP0V.png",
+      "logoDark": "https://content.algstools.com/01JT7MMWXNB0SC09450P426SVM.png",
+      "versionId": "01JPMT2BMH43SQ70KFBSC1ASHM",
+      "points": 51,
+      "placementPoints": 20,
+      "position": 5,
+      "kills": 31,
+      "matchPointEligible": false,
+      "wonMatchPoint": false,
+      "eliminated": true,
+      "players": [
+        {
+          "id": "01J80KXZEYDJEKHTNA5TEAJX31",
+          "name": "Kazakh",
+          "kills": 16,
+          "killed": true,
+          "frontImage": "https://content.algstools.com/hULFHpXRmMtEdHuPIMct.png",
+          "leftImage": null,
+          "rightImage": null,
+          "personalityImage": "https://content.algstools.com/E4OZbNk0ewrDrO4tkfad.png"
+        },
+        {
+          "id": "01J65B8KSEHSWHD6N5VC4WF9XA",
+          "name": "NINEimpulse",
+          "kills": 7,
+          "killed": true,
+          "frontImage": "https://content.algstools.com/1ChbSBRu5ooyucY1hh11.png",
+          "leftImage": null,
+          "rightImage": null,
+          "personalityImage": "https://content.algstools.com/duNQ8YKHoVMS2EngS4B4.png"
+        },
+        {
+          "id": "01J65B8KC3CXYHNSZZ0SV7CGNF",
+          "name": "ojrein",
+          "kills": 8,
+          "killed": true,
+          "frontImage": "https://content.algstools.com/2wxD66FvkyaxAK53x8CE.png",
+          "leftImage": null,
+          "rightImage": null,
+          "personalityImage": "https://content.algstools.com/gvkmxwvkpyiNDqrYOWyS.png"
+        }
+      ]
+    },
+    {
+      "id": "01JPJYGRFZ87MMY7SX1XNWGMA5",
+      "name": "FNATIC",
+      "shortName": "FNC",
+      "region": "asia-pacific-north",
+      "logoLight": "https://content.algstools.com/01JSWPWWH037W5Y29NN9Z7423Y.png",
+      "logoDark": "https://content.algstools.com/01JSWPWWK14EJPKSM64SYAHZMZ.png",
+      "versionId": "01JPJYGRHJHYPK4HE5SYYVCM71",
+      "points": 46,
+      "placementPoints": 23,
+      "position": 6,
+      "kills": 23,
+      "matchPointEligible": false,
+      "wonMatchPoint": false,
+      "eliminated": true,
+      "players": [
+        {
+          "id": "01J80KME3Z1WR14NFVW6XYPRT4",
+          "name": "Lible Ace",
+          "kills": 10,
+          "killed": true,
+          "frontImage": "https://content.algstools.com/ocNTt84PLCqxvdL94gu6.png",
+          "leftImage": null,
+          "rightImage": null,
+          "personalityImage": "https://content.algstools.com/OPgLNgwOPTopYczfwsdE.png"
+        },
+        {
+          "id": "01J69SVHB5JMGN0MX83414WCV4",
+          "name": "Kernel garcia",
+          "kills": 7,
+          "killed": true,
+          "frontImage": "https://content.algstools.com/8wCKCINKBe5CneDeLqWK.png",
+          "leftImage": null,
+          "rightImage": null,
+          "personalityImage": "https://content.algstools.com/aMBmxu4ZyZiXEolVfQt9.png"
+        },
+        {
+          "id": "01J65B6ECPYZRKTG46QKKKJ2ZC",
+          "name": "YukaF",
+          "kills": 6,
+          "killed": true,
+          "frontImage": "https://content.algstools.com/nzrvBSMz5F09UvJ0tda1.png",
+          "leftImage": null,
+          "rightImage": null,
+          "personalityImage": "https://content.algstools.com/plDNzLuRxUNJSmOow60z.png"
+        }
+      ]
+    },
+    {
+      "id": "01JPMT4HE2572NABS2NW9M3JW4",
+      "name": "Complexity",
+      "shortName": "COL",
+      "region": "americas",
+      "logoLight": "https://content.algstools.com/01JH8DR118FY50GM9H30YE57VN.png",
+      "logoDark": "https://content.algstools.com/01JH8DR118FY50GM9H30YE57VN.png",
+      "versionId": "01JPMT4HFK5QRPBBRMM4RE6YZ8",
+      "points": 43,
+      "placementPoints": 15,
+      "position": 7,
+      "kills": 28,
+      "matchPointEligible": false,
+      "wonMatchPoint": false,
+      "eliminated": true,
+      "players": [
+        {
+          "id": "01J65B79ZENWWP4T4SS988S7DR",
+          "name": "fuhhnq",
+          "kills": 12,
+          "killed": true,
+          "frontImage": "https://content.algstools.com/P7vX8S2xQeVMiZsMDzp9.png",
+          "leftImage": null,
+          "rightImage": null,
+          "personalityImage": "https://content.algstools.com/X69EVXCwYQJCg3qZJNd5.png"
+        },
+        {
+          "id": "01J65B8MZT6MHE31NYWQ7K6YDB",
+          "name": "Monsoon",
+          "kills": 10,
+          "killed": true,
+          "frontImage": "https://content.algstools.com/FBG3fFh6LwnCbq6vXW5T.png",
+          "leftImage": null,
+          "rightImage": null,
+          "personalityImage": "https://content.algstools.com/MUcEhSPffHpwjKznEmAk.png"
+        },
+        {
+          "id": "01J65B8P65N22R486TKWJGQ9Q5",
+          "name": "KIMCHI",
+          "kills": 6,
+          "killed": true,
+          "frontImage": "https://content.algstools.com/rxXg0yCnNe0Rh7ZaZo18.png",
+          "leftImage": null,
+          "rightImage": null,
+          "personalityImage": "https://content.algstools.com/dqDSDPqZZ4rJoYGBf9CT.png"
+        }
+      ]
+    },
+    {
+      "id": "01JPMT2CE13R5Z2X2XQP0108Z7",
+      "name": "Alliance",
+      "shortName": "ALL",
+      "region": "europe-middle-east-and-africa",
+      "logoLight": "https://content.algstools.com/01J6C3WBBAH1JN1KP90271C5CS.png",
+      "logoDark": "https://content.algstools.com/01J6C3WBBAH1JN1KP90271C5CS.png",
+      "versionId": "01JPMT2CG1YED99MZC4PSWHFBN",
+      "points": 41,
+      "placementPoints": 20,
+      "position": 8,
+      "kills": 21,
+      "matchPointEligible": false,
+      "wonMatchPoint": false,
+      "eliminated": true,
+      "players": [
+        {
+          "id": "01J65B6AQJFP5FPMYHH3MMT39M",
+          "name": "Hakis",
+          "kills": 2,
+          "killed": true,
+          "frontImage": "https://content.algstools.com/hwwMOb9L4BThbQL6Wmu3.png",
+          "leftImage": null,
+          "rightImage": null,
+          "personalityImage": "https://content.algstools.com/D8LRQci011EG1ftbDvrG.png"
+        },
+        {
+          "id": "01J65B69GQ3DVCYBTQ3M27EQ5K",
+          "name": "Alliance Unlucky",
+          "kills": 9,
+          "killed": true,
+          "frontImage": "https://content.algstools.com/L92yloxMS5RXgXE53zLp.png",
+          "leftImage": null,
+          "rightImage": null,
+          "personalityImage": "https://content.algstools.com/zBpXhs2bzHNIK4CciLpj.png"
+        },
+        {
+          "id": "01J65B69XR80RHPR87TY6C9BN4",
+          "name": "Effect",
+          "kills": 10,
+          "killed": true,
+          "frontImage": "https://content.algstools.com/Nekw5oBShV1skhGKGzY0.png",
+          "leftImage": null,
+          "rightImage": null,
+          "personalityImage": "https://content.algstools.com/Nr4HRuU1qzkdkBGIcAZA.png"
+        }
+      ]
+    },
+    {
+      "id": "01JPMWHGVD0QFVJFVFXG231C08",
+      "name": "Zesty Besties",
+      "shortName": "ZB",
+      "region": "americas",
+      "logoLight": "https://content.algstools.com/01JSWN12RWF758NN0K3C4JNARC.png",
+      "logoDark": "https://content.algstools.com/01JSWN12W5JEE29TA48D66BPKE.png",
+      "versionId": "01JSHJV5YDE1NMQ1ZNNCF9HXWD",
+      "points": 38,
+      "placementPoints": 14,
+      "position": 9,
+      "kills": 24,
+      "matchPointEligible": false,
+      "wonMatchPoint": false,
+      "eliminated": true,
+      "players": [
+        {
+          "id": "01JK3WX6QV5FX93K158JWCZ5NG",
+          "name": "VVrapping",
+          "kills": 10,
+          "killed": true,
+          "frontImage": "https://content.algstools.com/otow8Y9sy6DnZP5uzIPz.png",
+          "leftImage": null,
+          "rightImage": null,
+          "personalityImage": null
+        },
+        {
+          "id": "01JK2Y37QK2W6HNDMP5NXWT31Q",
+          "name": "Deadlysoos",
+          "kills": 6,
+          "killed": true,
+          "frontImage": "https://content.algstools.com/S2HDswfihtBD5Mk4ljlz.png",
+          "leftImage": null,
+          "rightImage": null,
+          "personalityImage": null
+        },
+        {
+          "id": "01JMDV7TS42W95TPWRTY082ZZT",
+          "name": "hxted",
+          "kills": 8,
+          "killed": true,
+          "frontImage": "https://content.algstools.com/qyf5RVQMFbbx5v8Sw4F0.png",
+          "leftImage": null,
+          "rightImage": null,
+          "personalityImage": null
+        }
+      ]
+    },
+    {
+      "id": "01JPJYH1WERAYVRDAFBHTX6KXH",
+      "name": "REALIZE NOVA",
+      "shortName": "RLZN",
+      "region": "asia-pacific-north",
+      "logoLight": "https://content.algstools.com/01JT6TQC1MQ9A0XZAPMMEF6NY9.png",
+      "logoDark": "https://content.algstools.com/01JSWQANACR83X8Z83JHZ5TR75.png",
+      "versionId": "01JPJYH1Y1GDH550T8ZS201QHY",
+      "points": 32,
+      "placementPoints": 21,
+      "position": 10,
+      "kills": 11,
+      "matchPointEligible": false,
+      "wonMatchPoint": false,
+      "eliminated": true,
+      "players": [
+        {
+          "id": "01JKZZN6WRDDQYPCD2BE74JA7G",
+          "name": "Ail3iS",
+          "kills": 0,
+          "killed": true,
+          "frontImage": "https://content.algstools.com/lTFyB8BYEhs1Qz7LMzws.png",
+          "leftImage": null,
+          "rightImage": null,
+          "personalityImage": null
+        },
+        {
+          "id": "01JKZZMRXM76CJPXVDAM0TTRDE",
+          "name": "inkya",
+          "kills": 8,
+          "killed": true,
+          "frontImage": "https://content.algstools.com/Fwrs7mn4g0smwSFWGncq.png",
+          "leftImage": null,
+          "rightImage": null,
+          "personalityImage": null
+        },
+        {
+          "id": "01JK5YYRSQNH9G0KX5DTT7CKM8",
+          "name": "SIZU",
+          "kills": 3,
+          "killed": true,
+          "frontImage": "https://content.algstools.com/mTem4d5vYx4DTGMbEJIJ.png",
+          "leftImage": null,
+          "rightImage": null,
+          "personalityImage": null
+        }
+      ]
+    },
+    {
+      "id": "01JPMWGYC2VBZZNK13BWBDVF13",
+      "name": "BacalhauV2",
+      "shortName": "BCLH",
+      "region": "europe-middle-east-and-africa",
+      "logoLight": "https://content.algstools.com/01JSWNAAZCV8E2HVWTG9Q93YZE.png",
+      "logoDark": "https://content.algstools.com/01JSWNA4AAKHHY23CNG0QET875.png",
+      "versionId": "01JSHJTWG74QTWYW36GG8JM53A",
+      "points": 32,
+      "placementPoints": 23,
+      "position": 11,
+      "kills": 9,
+      "matchPointEligible": false,
+      "wonMatchPoint": false,
+      "eliminated": true,
+      "players": [
+        {
+          "id": "01JM029VCMR7KJY1SWZ87FACGJ",
+          "name": "ESK",
+          "kills": 1,
+          "killed": true,
+          "frontImage": "https://content.algstools.com/7rKuNJQbSXqu5ofEmjQP.png",
+          "leftImage": null,
+          "rightImage": null,
+          "personalityImage": "https://content.algstools.com/3IklnO3ZT6f4iQbCjRvg.png"
+        },
+        {
+          "id": "01JM0GQ2X12WK8CSRV3DGAG0CD",
+          "name": "Senzz",
+          "kills": 5,
+          "killed": true,
+          "frontImage": "https://content.algstools.com/5hNAI3q00Noef0pZzMgk.png",
+          "leftImage": null,
+          "rightImage": null,
+          "personalityImage": "https://content.algstools.com/YHSl3l1fMpqBgjBLZeZK.png"
+        },
+        {
+          "id": "01JMFNMG4Q1FRN3K1X0WGYV6E7",
+          "name": "Darkley",
+          "kills": 3,
+          "killed": true,
+          "frontImage": "https://content.algstools.com/6KoZ0Em8UWTZrAkemrcg.png",
+          "leftImage": null,
+          "rightImage": null,
+          "personalityImage": "https://content.algstools.com/q4K5Fn4VGSh3OovqJvnK.png"
+        }
+      ]
+    },
+    {
+      "id": "01JPJWFZJ03K3BE0215A2KNHNV",
+      "name": "Rival Esports",
+      "shortName": "5F",
+      "region": "asia-pacific-south",
+      "logoLight": "https://content.algstools.com/01JTE6QYHKB5PBF79TEXMDMK0H.png",
+      "logoDark": "https://content.algstools.com/01JTE70K9E7Q9RNQXJFDH3NQHZ.png",
+      "versionId": "01JSHK0KG760Z6RXJXA4FWN04H",
+      "points": 25,
+      "placementPoints": 12,
+      "position": 12,
+      "kills": 13,
+      "matchPointEligible": false,
+      "wonMatchPoint": false,
+      "eliminated": true,
+      "players": [
+        {
+          "id": "01JKB0BSCSC01W8BN60D4H2WB3",
+          "name": "FAFAFIF",
+          "kills": 8,
+          "killed": true,
+          "frontImage": "https://content.algstools.com/GVsXvARwFrpHhisjn6iA.png",
+          "leftImage": null,
+          "rightImage": null,
+          "personalityImage": "https://content.algstools.com/n5WZbePNGmeC2mlm9E0d.png"
+        },
+        {
+          "id": "01JK8F9N9YQKX98QG43FBGTRK5",
+          "name": "aflow",
+          "kills": 2,
+          "killed": true,
+          "frontImage": "https://content.algstools.com/G1cN49eRWzhN3xneC4B9.png",
+          "leftImage": null,
+          "rightImage": null,
+          "personalityImage": "https://content.algstools.com/Z8oJqREjCdMObFSiEBz9.png"
+        },
+        {
+          "id": "01JK8FX9T9WZRCZFMPQWGDZH68",
+          "name": "GOPGAPz",
+          "kills": 3,
+          "killed": true,
+          "frontImage": "https://content.algstools.com/Pt4WhYnTEHsWmPornJb8.png",
+          "leftImage": null,
+          "rightImage": null,
+          "personalityImage": "https://content.algstools.com/vcMf6FtAl29ZKFGsgFMb.png"
+        }
+      ]
+    },
+    {
+      "id": "01JPMT4J9WQCW3BPV0C6B7QM6M",
+      "name": "ROC",
+      "shortName": "ROC",
+      "region": "americas",
+      "logoLight": "https://content.algstools.com/01JSW6XRGMQ9QV55KGFSQ7G6K8.png",
+      "logoDark": "https://content.algstools.com/01JSW6XRKKG0TN4D0J51TCFQH2.png",
+      "versionId": "01JSHJV54B8S0YJC9627W907T6",
+      "points": 24,
+      "placementPoints": 8,
+      "position": 13,
+      "kills": 16,
+      "matchPointEligible": false,
+      "wonMatchPoint": false,
+      "eliminated": true,
+      "players": [
+        {
+          "id": "01J69SXCESW6K6D3X60XB6900C",
+          "name": "Deeds",
+          "kills": 4,
+          "killed": true,
+          "frontImage": "https://content.algstools.com/khQGYcsVd1hSIw18WXQS.png",
+          "leftImage": null,
+          "rightImage": null,
+          "personalityImage": "https://content.algstools.com/B6KUk0rHnJ5VWthFaMF2.png"
+        },
+        {
+          "id": "01J6M7R77E2KPT3EWJ4NC5YRP6",
+          "name": "Snip3down",
+          "kills": 4,
+          "killed": true,
+          "frontImage": "https://content.algstools.com/AeGEME1tai5YYf4HELoz.png",
+          "leftImage": null,
+          "rightImage": null,
+          "personalityImage": null
+        },
+        {
+          "id": "01J65B6CREZS38J19M1WCEE9VJ",
+          "name": "Vaxlon",
+          "kills": 8,
+          "killed": true,
+          "frontImage": "https://content.algstools.com/PBTXXeJvgN0O1HsReIU7.png",
+          "leftImage": null,
+          "rightImage": null,
+          "personalityImage": "https://content.algstools.com/xMvHKLqL3fXBvfN42to8.png"
+        }
+      ]
+    },
+    {
+      "id": "01JPJWG52065BMPRXEDMH3G7J2",
+      "name": "DeepCrossGaming",
+      "shortName": "STB",
+      "region": "asia-pacific-south",
+      "logoLight": "https://content.algstools.com/01JSWR0X5V8CQK72D4JNNCMG3Z.png",
+      "logoDark": "https://content.algstools.com/01JSWR0QTV2W202X02TSEJEYZY.png",
+      "versionId": "01JSHJT9KDQCJ1ZZKPR022YSTN",
+      "points": 22,
+      "placementPoints": 10,
+      "position": 14,
+      "kills": 12,
+      "matchPointEligible": false,
+      "wonMatchPoint": false,
+      "eliminated": true,
+      "players": [
+        {
+          "id": "01JKCKXBFG0544P8MZTAAXPK56",
+          "name": "Chr1s878",
+          "kills": 3,
+          "killed": true,
+          "frontImage": "https://content.algstools.com/zT6eBVJBdR3OId0QUwEk.png",
+          "leftImage": null,
+          "rightImage": null,
+          "personalityImage": null
+        },
+        {
+          "id": "01JMCM2G4CMREKCXFY0H6HH9AJ",
+          "name": "tyokkaorimaster9",
+          "kills": 7,
+          "killed": true,
+          "frontImage": null,
+          "leftImage": null,
+          "rightImage": null,
+          "personalityImage": null
+        },
+        {
+          "id": "01JK6GPX1GZF8Z95THET5XTCX6",
+          "name": "Lu1SaN",
+          "kills": 2,
+          "killed": true,
+          "frontImage": "https://content.algstools.com/gcugNDPTQnSMrEPmAppI.png",
+          "leftImage": null,
+          "rightImage": null,
+          "personalityImage": null
+        }
+      ]
+    },
+    {
+      "id": "01JPJWFW6162RSP0NV69RSZW28",
+      "name": "Vcan",
+      "shortName": "VCAN",
+      "region": "asia-pacific-south",
+      "logoLight": "https://content.algstools.com/01JQW7P7JF55VH7N6V3V1T1P0E.jpg",
+      "logoDark": "https://content.algstools.com/01JQW7P7JF55VH7N6V3V1T1P0E.jpg",
+      "versionId": "01JPJWFW7KQXFJHZP3KBF89179",
+      "points": 17,
+      "placementPoints": 10,
+      "position": 15,
+      "kills": 7,
+      "matchPointEligible": false,
+      "wonMatchPoint": false,
+      "eliminated": true,
+      "players": [
+        {
+          "id": "01JK820DNFTNG2YMQPMX1C6TXR",
+          "name": "FPSBIGSUSU",
+          "kills": 1,
+          "killed": true,
+          "frontImage": "https://content.algstools.com/dkUSaLELCPbDO9Q4jZFe.png",
+          "leftImage": null,
+          "rightImage": null,
+          "personalityImage": null
+        },
+        {
+          "id": "01JM1AYN8SFV4GXC5Y8WV4Z6QQ",
+          "name": "Hannya",
+          "kills": 4,
+          "killed": true,
+          "frontImage": "https://content.algstools.com/rggnlZObzLhUERgEcspJ.png",
+          "leftImage": null,
+          "rightImage": null,
+          "personalityImage": null
+        },
+        {
+          "id": "01JK8AK7CK3WCC2WKXFG5ZHM34",
+          "name": "Henji",
+          "kills": 2,
+          "killed": true,
+          "frontImage": "https://content.algstools.com/xY3BLo8GEyA9oC6DpfOc.png",
+          "leftImage": null,
+          "rightImage": null,
+          "personalityImage": null
+        }
+      ]
+    },
+    {
+      "id": "01JPMWGXEYG93KCDCAQGCNGFBD",
+      "name": "TAKE FLYTE",
+      "shortName": "TF",
+      "region": "europe-middle-east-and-africa",
+      "logoLight": "https://content.algstools.com/01JT662V8879N9FWAHPB4ZTBG1.png",
+      "logoDark": "https://content.algstools.com/01JT662VC9QB8SKKYZF5EZZ2NJ.png",
+      "versionId": "01JSHJTVRZ81T7Q5NGPJY28Y3R",
+      "points": 17,
+      "placementPoints": 7,
+      "position": 16,
+      "kills": 10,
+      "matchPointEligible": false,
+      "wonMatchPoint": false,
+      "eliminated": true,
+      "players": [
+        {
+          "id": "01JM87TMAYCZCW9FQC7NV05BM7",
+          "name": "aneqiii",
+          "kills": 2,
+          "killed": true,
+          "frontImage": "https://content.algstools.com/9VangEP7kapX2Vt3tEIK.png",
+          "leftImage": null,
+          "rightImage": null,
+          "personalityImage": null
+        },
+        {
+          "id": "01JM7MGWPYENN08F0X73ACNEPN",
+          "name": "wzChico",
+          "kills": 3,
+          "killed": true,
+          "frontImage": "https://content.algstools.com/UCinZLGWAwcaDCJOTEif.png",
+          "leftImage": null,
+          "rightImage": null,
+          "personalityImage": null
+        },
+        {
+          "id": "01JM87WNS6MRR423KG1NVKG6PQ",
+          "name": "Luxr",
+          "kills": 5,
+          "killed": true,
+          "frontImage": "https://content.algstools.com/xNdIAudLezJt7tJRwD51.png",
+          "leftImage": null,
+          "rightImage": null,
+          "personalityImage": null
+        }
+      ]
+    },
+    {
+      "id": "01JPMT2GSFDJBHJTT6KHJN879B",
+      "name": "F9 Eicar",
+      "shortName": "VCGO",
+      "region": "europe-middle-east-and-africa",
+      "logoLight": "https://content.algstools.com/01JS9W9K4T0CK8M78TD03W8QT3.png",
+      "logoDark": "https://content.algstools.com/01JS9W9K4T0CK8M78TD03W8QT3.png",
+      "versionId": "01JT45V2T76QGYHS1X26XTB63H",
+      "points": 16,
+      "placementPoints": 14,
+      "position": 17,
+      "kills": 2,
+      "matchPointEligible": false,
+      "wonMatchPoint": false,
+      "eliminated": true,
+      "players": [
+        {
+          "id": "01JF0QNBK7M1K6R698W4CFABQ9",
+          "name": "Mereelj",
+          "kills": 0,
+          "killed": true,
+          "frontImage": "https://content.algstools.com/J6lRyo6EEBZ0FPdKlU1v.png",
+          "leftImage": null,
+          "rightImage": null,
+          "personalityImage": null
+        },
+        {
+          "id": "01JKEH7WAQAHD1NW338ACT54ZX",
+          "name": "BaByLoNs",
+          "kills": 1,
+          "killed": true,
+          "frontImage": "https://content.algstools.com/sOtENk4iyTfEvdwdIDWO.png",
+          "leftImage": null,
+          "rightImage": null,
+          "personalityImage": null
+        },
+        {
+          "id": "01JF0QNBZMHK1YAE1R3A0YHME4",
+          "name": "ASKYY",
+          "kills": 1,
+          "killed": true,
+          "frontImage": "https://content.algstools.com/zMWAMXLHsQtlMxTZjqmy.png",
+          "leftImage": null,
+          "rightImage": null,
+          "personalityImage": null
+        }
+      ]
+    },
+    {
+      "id": "01JPMWG5E9M7B37XTVPYZ2BCTW",
+      "name": "Dory",
+      "shortName": "DORY",
+      "region": "asia-pacific-north",
+      "logoLight": "https://content.algstools.com/01JSWPT1MARRBZ8KRFQ573DVGB.png",
+      "logoDark": "https://content.algstools.com/01JSWPT1P2SFV4YZTSF8XKRN57.png",
+      "versionId": "01JSHJTGFSNHY4RZ8R61MREGZA",
+      "points": 14,
+      "placementPoints": 7,
+      "position": 18,
+      "kills": 7,
+      "matchPointEligible": false,
+      "wonMatchPoint": false,
+      "eliminated": true,
+      "players": [
+        {
+          "id": "01JKZWSSS996N4P3G4GK0YFYQ8",
+          "name": "HIROMUNE",
+          "kills": 4,
+          "killed": true,
+          "frontImage": "https://content.algstools.com/g72Ny6JZkcJIURjCr0l7.png",
+          "leftImage": null,
+          "rightImage": null,
+          "personalityImage": null
+        },
+        {
+          "id": "01JRWNKW0C2CBMK1B20MGN8EB5",
+          "name": "AVADON",
+          "kills": 2,
+          "killed": true,
+          "frontImage": "https://content.algstools.com/u1HF6p3M2wz1qu7LKrc9.png",
+          "leftImage": null,
+          "rightImage": null,
+          "personalityImage": null
+        },
+        {
+          "id": "01JKV09W9XNJ8VSA90XFK59T5Q",
+          "name": "sho",
+          "kills": 1,
+          "killed": true,
+          "frontImage": "https://content.algstools.com/NIc9rZneKQbeFs1i3EuX.png",
+          "leftImage": null,
+          "rightImage": null,
+          "personalityImage": null
+        }
+      ]
+    },
+    {
+      "id": "01JPJYGYBT5G1ZVBNXRQ779K9R",
+      "name": "ICIGEKI",
+      "shortName": "SOL",
+      "region": "asia-pacific-north",
+      "logoLight": null,
+      "logoDark": "https://content.algstools.com/01JSWQ1J29NJ37EBV4698NG6DF.png",
+      "versionId": "01JPJYGYDN5QAHK3MT3RC26P96",
+      "points": 8,
+      "placementPoints": 3,
+      "position": 19,
+      "kills": 5,
+      "matchPointEligible": false,
+      "wonMatchPoint": false,
+      "eliminated": true,
+      "players": [
+        {
+          "id": "01JMCS1TQHNKY4TARETETBXDD9",
+          "name": "zkYuTq",
+          "kills": 1,
+          "killed": true,
+          "frontImage": "https://content.algstools.com/5XSUYPF1ZZXYZQfS5Zn5.png",
+          "leftImage": null,
+          "rightImage": null,
+          "personalityImage": null
+        },
+        {
+          "id": "01JK369RA4GW4DE8FTWXNW44Z5",
+          "name": "Mah1ru",
+          "kills": 1,
+          "killed": true,
+          "frontImage": "https://content.algstools.com/QIliKkCaGLoDkwlyuR8p.png",
+          "leftImage": null,
+          "rightImage": null,
+          "personalityImage": null
+        },
+        {
+          "id": "01JKZYQWVPRQGCEQ7W4MD2X3QC",
+          "name": "wasaKINGTTV",
+          "kills": 3,
+          "killed": true,
+          "frontImage": "https://content.algstools.com/b3pzopB5MRIYDHcDiaZp.png",
+          "leftImage": null,
+          "rightImage": null,
+          "personalityImage": null
+        }
+      ]
+    },
+    {
+      "id": "01JPJWG3KBFPR867D3VDXZ22A5",
+      "name": "Bearclaw Gaming",
+      "shortName": "BCG",
+      "region": "asia-pacific-south",
+      "logoLight": null,
+      "logoDark": "https://content.algstools.com/01JSWQTVQNGSJWMZV0A1QGJ5CY.png",
+      "versionId": "01JPJWG3N9QS41A4WD5V077KVM",
+      "points": 7,
+      "placementPoints": 2,
+      "position": 20,
+      "kills": 5,
+      "matchPointEligible": false,
+      "wonMatchPoint": false,
+      "eliminated": true,
+      "players": [
+        {
+          "id": "01JKD8SYWNRKDTBQCK1B3ZF08C",
+          "name": "crumbs",
+          "kills": 1,
+          "killed": true,
+          "frontImage": "https://content.algstools.com/ZQhARR3EbVewNfuvb0qX.png",
+          "leftImage": null,
+          "rightImage": null,
+          "personalityImage": "https://content.algstools.com/xVy46l7frxjWtuJi3MVj.png"
+        },
+        {
+          "id": "01JKBZPA2X3K5HJBNGM8H5BBJW",
+          "name": "Lymo",
+          "kills": 3,
+          "killed": true,
+          "frontImage": "https://content.algstools.com/U8KbseIuLk6H4Uk5xfJ1.png",
+          "leftImage": null,
+          "rightImage": null,
+          "personalityImage": null
+        },
+        {
+          "id": "01JKD7GWMY0MD44KPWKH4NZHWF",
+          "name": "Heckk",
+          "kills": 1,
+          "killed": true,
+          "frontImage": "https://content.algstools.com/4quknWivLFBwC1rjOQGL.png",
+          "leftImage": null,
+          "rightImage": null,
+          "personalityImage": null
+        }
+      ]
+    }
+  ]
+}

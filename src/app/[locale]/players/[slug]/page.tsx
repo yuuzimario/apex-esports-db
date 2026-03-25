@@ -170,7 +170,7 @@ export default async function PlayerDetailPage({
             ))}
           </div>
         ) : (
-          <div className="bg-gray-900 rounded-lg p-6 text-center text-gray-500 text-sm">
+          <div className="bg-gray-900 rounded-lg p-6 text-center text-gray-400 text-sm">
             データなし
           </div>
         )}
@@ -180,7 +180,8 @@ export default async function PlayerDetailPage({
       <section>
         <h2 className="text-xl font-bold mb-4">{t("devices")}</h2>
         {devices && devices.length > 0 ? (
-          <p className="text-xs text-gray-500 mb-3">{t("deviceDisclaimer")}</p>
+          <>
+          <p className="text-xs text-gray-400 mb-3">{t("deviceDisclaimer")}</p>
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-3">
             {devices.map((device) => {
               const categoryIcons: Record<string, string> = {
@@ -202,7 +203,7 @@ export default async function PlayerDetailPage({
                       {icon}
                     </div>
                     <div className="min-w-0 flex-1">
-                      <p className="text-xs text-gray-500 mb-0.5">
+                      <p className="text-xs text-gray-400 mb-0.5">
                         {td(device.category as "mouse" | "keyboard" | "headset" | "monitor" | "mousepad" | "controller")}
                       </p>
                       <p className="text-sm font-bold text-white leading-tight">
@@ -228,8 +229,9 @@ export default async function PlayerDetailPage({
               );
             })}
           </div>
+          </>
         ) : (
-          <div className="bg-gray-900 rounded-lg p-6 text-center text-gray-500 text-sm">
+          <div className="bg-gray-900 rounded-lg p-6 text-center text-gray-400 text-sm">
             {t("noDeviceInfo")}
           </div>
         )}

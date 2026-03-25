@@ -1,0 +1,1132 @@
+{
+  "id": "01JZMGHDYDV61Q79EZ8K87PXGV",
+  "name": "Split 2",
+  "regionId": "01JZ8C6T5AC6MGZAVR5KT29Y6N",
+  "startDate": "2025-08-30T12:00:00.000Z",
+  "endDate": "2025-10-13T00:00:00.000Z",
+  "hasStandings": true,
+  "phases": [
+    {
+      "id": "01JZWX2QFHA107Q46MR494NZ2D",
+      "name": "Split 2",
+      "phaseNumber": 1,
+      "eventId": "01JZMGHDYDV61Q79EZ8K87PXGV",
+      "startsAt": "2025-08-30T12:00:00.000Z",
+      "completedAt": null,
+      "format": "round_robin",
+      "hasStandings": true,
+      "series": [
+        {
+          "id": "01K0PZK6NVVDEDWP63YF4R3V6F",
+          "name": "Group A vs B",
+          "status": "completed",
+          "seriesNumber": 1,
+          "poiDraftId": "01K2ZXA5J2T8Q1JVH481C58DV6",
+          "phaseId": "01JZWX2QFHA107Q46MR494NZ2D",
+          "startsAt": "2025-08-31T17:00:00.000Z",
+          "completedAt": "2025-08-31T20:23:39.991Z",
+          "isMatchPointFormat": false,
+          "matchPointThreshold": null,
+          "vodUrl": "https://www.youtube.com/live/K2pNiMAjwnI?si=MQ0YJzxWcUpkCdaa",
+          "matches": [
+            {
+              "id": "01K40HKH1TMVERS76FNS3089G0",
+              "seriesId": "01K0PZK6NVVDEDWP63YF4R3V6F",
+              "matchNumber": 1,
+              "map": {
+                "id": "01J6508ZVME92QPVXGJN21ZWCA",
+                "name": "Storm Point",
+                "inGameName": "mp_rr_tropic_island_mu2"
+              },
+              "status": "completed",
+              "inGameStatus": "postmatch",
+              "winnerDetermined": true,
+              "startedAt": "2025-08-31T17:13:20.887Z",
+              "playStartedAt": "2025-08-31T17:14:46.000Z",
+              "completedAt": "2025-08-31T17:32:59.000Z"
+            },
+            {
+              "id": "01K40KGZHJ32R2FD3GHWM6Z7R3",
+              "seriesId": "01K0PZK6NVVDEDWP63YF4R3V6F",
+              "matchNumber": 2,
+              "map": {
+                "id": "01J6508ZVME92QPVXGJN21ZWCA",
+                "name": "Storm Point",
+                "inGameName": "mp_rr_tropic_island_mu2"
+              },
+              "status": "completed",
+              "inGameStatus": "postmatch",
+              "winnerDetermined": true,
+              "startedAt": "2025-08-31T17:44:08.196Z",
+              "playStartedAt": "2025-08-31T17:45:33.000Z",
+              "completedAt": "2025-08-31T18:05:05.000Z"
+            },
+            {
+              "id": "01K40NZV85ARE0GYWW2HB4MC02",
+              "seriesId": "01K0PZK6NVVDEDWP63YF4R3V6F",
+              "matchNumber": 3,
+              "map": {
+                "id": "01J6508ZVME92QPVXGJN21ZWCA",
+                "name": "Storm Point",
+                "inGameName": "mp_rr_tropic_island_mu2"
+              },
+              "status": "completed",
+              "inGameStatus": "postmatch",
+              "winnerDetermined": true,
+              "startedAt": "2025-08-31T18:27:49.516Z",
+              "playStartedAt": "2025-08-31T18:28:33.000Z",
+              "completedAt": "2025-08-31T18:47:37.000Z"
+            },
+            {
+              "id": "01K0T0J2GQRVKX5C6504PVFY1H",
+              "seriesId": "01K0PZK6NVVDEDWP63YF4R3V6F",
+              "matchNumber": 4,
+              "map": {
+                "id": "01J6M00SDXM1G05TA8D96559MJ",
+                "name": "E-District",
+                "inGameName": "mp_rr_district"
+              },
+              "status": "completed",
+              "inGameStatus": "postmatch",
+              "winnerDetermined": true,
+              "startedAt": "2025-08-31T19:00:05.171Z",
+              "playStartedAt": "2025-08-31T19:00:51.000Z",
+              "completedAt": "2025-08-31T19:20:50.000Z"
+            },
+            {
+              "id": "01K40SNAXV33EBJ80ZDF14CNK7",
+              "seriesId": "01K0PZK6NVVDEDWP63YF4R3V6F",
+              "matchNumber": 5,
+              "map": {
+                "id": "01J6M00SDXM1G05TA8D96559MJ",
+                "name": "E-District",
+                "inGameName": "mp_rr_district"
+              },
+              "status": "completed",
+              "inGameStatus": "postmatch",
+              "winnerDetermined": true,
+              "startedAt": "2025-08-31T19:31:52.373Z",
+              "playStartedAt": "2025-08-31T19:33:16.000Z",
+              "completedAt": "2025-08-31T19:53:09.000Z"
+            },
+            {
+              "id": "01K0T0J2GQMC8TG160Y3M8TRYR",
+              "seriesId": "01K0PZK6NVVDEDWP63YF4R3V6F",
+              "matchNumber": 6,
+              "map": {
+                "id": "01J6M00SDXM1G05TA8D96559MJ",
+                "name": "E-District",
+                "inGameName": "mp_rr_district"
+              },
+              "status": "completed",
+              "inGameStatus": "postmatch",
+              "winnerDetermined": true,
+              "startedAt": "2025-08-31T20:01:37.176Z",
+              "playStartedAt": "2025-08-31T20:03:01.000Z",
+              "completedAt": "2025-08-31T20:23:06.000Z"
+            }
+          ]
+        },
+        {
+          "id": "01K0PZK6QTJJ2JHT1AWBC005RY",
+          "name": "Group A vs C",
+          "status": "completed",
+          "seriesNumber": 2,
+          "poiDraftId": "01K3H1BV77VYJ6NW9HNADBSJFZ",
+          "phaseId": "01JZWX2QFHA107Q46MR494NZ2D",
+          "startsAt": "2025-09-06T17:00:00.000Z",
+          "completedAt": "2025-09-06T21:01:14.359Z",
+          "isMatchPointFormat": false,
+          "matchPointThreshold": null,
+          "vodUrl": "https://www.youtube.com/live/be2X1k4LMBQ?si=4y_yW1u7GIn_-04u",
+          "matches": [
+            {
+              "id": "01K4G065PTXX3GQAJYG7J6C97H",
+              "seriesId": "01K0PZK6QTJJ2JHT1AWBC005RY",
+              "matchNumber": 1,
+              "map": {
+                "id": "01J6508ZVM9M8WFR5KVFB6R1FD",
+                "name": "World's Edge",
+                "inGameName": "mp_rr_desertlands_hu"
+              },
+              "status": "completed",
+              "inGameStatus": "postmatch",
+              "winnerDetermined": true,
+              "startedAt": "2025-09-06T17:15:53.505Z",
+              "playStartedAt": "2025-09-06T17:17:17.000Z",
+              "completedAt": "2025-09-06T17:36:15.000Z"
+            },
+            {
+              "id": "01K4G3HM5WGSDBM53GX8MZ871Q",
+              "seriesId": "01K0PZK6QTJJ2JHT1AWBC005RY",
+              "matchNumber": 2,
+              "map": {
+                "id": "01J6508ZVM9M8WFR5KVFB6R1FD",
+                "name": "World's Edge",
+                "inGameName": "mp_rr_desertlands_hu"
+              },
+              "status": "completed",
+              "inGameStatus": "postmatch",
+              "winnerDetermined": true,
+              "startedAt": "2025-09-06T18:14:07.742Z",
+              "playStartedAt": "2025-09-06T18:15:32.000Z",
+              "completedAt": "2025-09-06T18:35:19.000Z"
+            },
+            {
+              "id": "01K4G63VYZB0E2JAVGGC8XMC9V",
+              "seriesId": "01K0PZK6QTJJ2JHT1AWBC005RY",
+              "matchNumber": 3,
+              "map": {
+                "id": "01J6508ZVM9M8WFR5KVFB6R1FD",
+                "name": "World's Edge",
+                "inGameName": "mp_rr_desertlands_hu"
+              },
+              "status": "completed",
+              "inGameStatus": "postmatch",
+              "winnerDetermined": true,
+              "startedAt": "2025-09-06T18:58:22.476Z",
+              "playStartedAt": "2025-09-06T18:59:46.000Z",
+              "completedAt": "2025-09-06T19:19:34.000Z"
+            },
+            {
+              "id": "01K0T0KA6KGEQQQ992V93F45ER",
+              "seriesId": "01K0PZK6QTJJ2JHT1AWBC005RY",
+              "matchNumber": 4,
+              "map": {
+                "id": "01J6508ZVME92QPVXGJN21ZWCA",
+                "name": "Storm Point",
+                "inGameName": "mp_rr_tropic_island_mu2"
+              },
+              "status": "completed",
+              "inGameStatus": "postmatch",
+              "winnerDetermined": true,
+              "startedAt": "2025-09-06T19:31:30.801Z",
+              "playStartedAt": "2025-09-06T19:32:55.000Z",
+              "completedAt": "2025-09-06T19:53:14.000Z"
+            },
+            {
+              "id": "01K4GA60HPWRZHGD2XYAYJZ9V2",
+              "seriesId": "01K0PZK6QTJJ2JHT1AWBC005RY",
+              "matchNumber": 5,
+              "map": {
+                "id": "01J6508ZVME92QPVXGJN21ZWCA",
+                "name": "Storm Point",
+                "inGameName": "mp_rr_tropic_island_mu2"
+              },
+              "status": "completed",
+              "inGameStatus": "postmatch",
+              "winnerDetermined": true,
+              "startedAt": "2025-09-06T20:10:22.234Z",
+              "playStartedAt": "2025-09-06T20:11:39.000Z",
+              "completedAt": "2025-09-06T20:32:05.000Z"
+            },
+            {
+              "id": "01K0T0KA6KRC8P8HDDJEP2D209",
+              "seriesId": "01K0PZK6QTJJ2JHT1AWBC005RY",
+              "matchNumber": 6,
+              "map": {
+                "id": "01J6508ZVME92QPVXGJN21ZWCA",
+                "name": "Storm Point",
+                "inGameName": "mp_rr_tropic_island_mu2"
+              },
+              "status": "completed",
+              "inGameStatus": "postmatch",
+              "winnerDetermined": true,
+              "startedAt": "2025-09-06T20:39:41.804Z",
+              "playStartedAt": "2025-09-06T20:41:05.000Z",
+              "completedAt": "2025-09-06T21:00:40.000Z"
+            }
+          ]
+        },
+        {
+          "id": "01K0PZK6SH54MEP5KEKK05DDJN",
+          "name": "Group B vs C",
+          "status": "completed",
+          "seriesNumber": 3,
+          "poiDraftId": "01K3H2V586T05C2XTVTMWZ7WVQ",
+          "phaseId": "01JZWX2QFHA107Q46MR494NZ2D",
+          "startsAt": "2025-09-07T17:00:00.000Z",
+          "completedAt": "2025-09-07T19:59:18.889Z",
+          "isMatchPointFormat": false,
+          "matchPointThreshold": null,
+          "vodUrl": "https://www.youtube.com/live/kV430kV8XUI?si=nu4o2AsU3vM7vWyU",
+          "matches": [
+            {
+              "id": "01K0T0M4VCP4K5SAZPV3GZM1TE",
+              "seriesId": "01K0PZK6SH54MEP5KEKK05DDJN",
+              "matchNumber": 1,
+              "map": {
+                "id": "01J6M00SDXM1G05TA8D96559MJ",
+                "name": "E-District",
+                "inGameName": "mp_rr_district"
+              },
+              "status": "completed",
+              "inGameStatus": "postmatch",
+              "winnerDetermined": true,
+              "startedAt": "2025-09-07T17:05:24.155Z",
+              "playStartedAt": "2025-09-07T17:06:49.000Z",
+              "completedAt": "2025-09-07T17:26:16.000Z"
+            },
+            {
+              "id": "01K0T0M4VC7WG9KFG48ETY3BMC",
+              "seriesId": "01K0PZK6SH54MEP5KEKK05DDJN",
+              "matchNumber": 2,
+              "map": {
+                "id": "01J6M00SDXM1G05TA8D96559MJ",
+                "name": "E-District",
+                "inGameName": "mp_rr_district"
+              },
+              "status": "completed",
+              "inGameStatus": "postmatch",
+              "winnerDetermined": true,
+              "startedAt": "2025-09-07T17:33:24.841Z",
+              "playStartedAt": "2025-09-07T17:34:49.000Z",
+              "completedAt": "2025-09-07T17:53:20.000Z"
+            },
+            {
+              "id": "01K0T0M4VCM8FQ8FRSN51GG30Y",
+              "seriesId": "01K0PZK6SH54MEP5KEKK05DDJN",
+              "matchNumber": 3,
+              "map": {
+                "id": "01J6M00SDXM1G05TA8D96559MJ",
+                "name": "E-District",
+                "inGameName": "mp_rr_district"
+              },
+              "status": "completed",
+              "inGameStatus": "postmatch",
+              "winnerDetermined": true,
+              "startedAt": "2025-09-07T18:03:33.335Z",
+              "playStartedAt": "2025-09-07T18:04:58.000Z",
+              "completedAt": "2025-09-07T18:23:31.000Z"
+            },
+            {
+              "id": "01K0T0M4VCPZSHY07GCDRMG69R",
+              "seriesId": "01K0PZK6SH54MEP5KEKK05DDJN",
+              "matchNumber": 4,
+              "map": {
+                "id": "01J6508ZVM9M8WFR5KVFB6R1FD",
+                "name": "World's Edge",
+                "inGameName": "mp_rr_desertlands_hu"
+              },
+              "status": "completed",
+              "inGameStatus": "postmatch",
+              "winnerDetermined": true,
+              "startedAt": "2025-09-07T18:37:57.783Z",
+              "playStartedAt": "2025-09-07T18:39:23.000Z",
+              "completedAt": "2025-09-07T18:59:26.000Z"
+            },
+            {
+              "id": "01K0T0M4VC5TTB3QEGEPGX5PSC",
+              "seriesId": "01K0PZK6SH54MEP5KEKK05DDJN",
+              "matchNumber": 5,
+              "map": {
+                "id": "01J6508ZVM9M8WFR5KVFB6R1FD",
+                "name": "World's Edge",
+                "inGameName": "mp_rr_desertlands_hu"
+              },
+              "status": "completed",
+              "inGameStatus": "postmatch",
+              "winnerDetermined": true,
+              "startedAt": "2025-09-07T19:05:23.984Z",
+              "playStartedAt": "2025-09-07T19:06:48.000Z",
+              "completedAt": "2025-09-07T19:26:16.000Z"
+            },
+            {
+              "id": "01K4JTQRC3QM96M7DHZNXYHT35",
+              "seriesId": "01K0PZK6SH54MEP5KEKK05DDJN",
+              "matchNumber": 6,
+              "map": {
+                "id": "01J6508ZVM9M8WFR5KVFB6R1FD",
+                "name": "World's Edge",
+                "inGameName": "mp_rr_desertlands_hu"
+              },
+              "status": "completed",
+              "inGameStatus": "postmatch",
+              "winnerDetermined": true,
+              "startedAt": "2025-09-07T19:37:18.075Z",
+              "playStartedAt": "2025-09-07T19:38:41.000Z",
+              "completedAt": "2025-09-07T19:58:44.000Z"
+            }
+          ]
+        },
+        {
+          "id": "01K0PZK6V9X4VRR3DMQE3ZMF5E",
+          "name": "Group A vs B",
+          "status": "completed",
+          "seriesNumber": 4,
+          "poiDraftId": "01K3HE8RB476A3TNASCREESD87",
+          "phaseId": "01JZWX2QFHA107Q46MR494NZ2D",
+          "startsAt": "2025-09-13T17:00:00.000Z",
+          "completedAt": "2025-09-13T20:00:31.556Z",
+          "isMatchPointFormat": false,
+          "matchPointThreshold": null,
+          "vodUrl": "https://www.youtube.com/live/ZfZJ-md3n84?si=2MbPtAakcnKPj63q",
+          "matches": [
+            {
+              "id": "01K520SC6G3B8D1EZRP55WS9FV",
+              "seriesId": "01K0PZK6V9X4VRR3DMQE3ZMF5E",
+              "matchNumber": 1,
+              "map": {
+                "id": "01J6508ZVM9M8WFR5KVFB6R1FD",
+                "name": "World's Edge",
+                "inGameName": "mp_rr_desertlands_hu"
+              },
+              "status": "completed",
+              "inGameStatus": "postmatch",
+              "winnerDetermined": true,
+              "startedAt": "2025-09-13T17:13:26.428Z",
+              "playStartedAt": "2025-09-13T17:14:51.000Z",
+              "completedAt": "2025-09-13T17:32:37.000Z"
+            },
+            {
+              "id": "01K0T0NAD88021Q8KMZG6QSG3C",
+              "seriesId": "01K0PZK6V9X4VRR3DMQE3ZMF5E",
+              "matchNumber": 2,
+              "map": {
+                "id": "01J6508ZVM9M8WFR5KVFB6R1FD",
+                "name": "World's Edge",
+                "inGameName": "mp_rr_desertlands_hu"
+              },
+              "status": "completed",
+              "inGameStatus": "postmatch",
+              "winnerDetermined": true,
+              "startedAt": "2025-09-13T17:38:39.687Z",
+              "playStartedAt": "2025-09-13T17:40:03.000Z",
+              "completedAt": "2025-09-13T17:59:42.000Z"
+            },
+            {
+              "id": "01K0T0NAD88GCYT0TVT3JH7TPB",
+              "seriesId": "01K0PZK6V9X4VRR3DMQE3ZMF5E",
+              "matchNumber": 3,
+              "map": {
+                "id": "01J6508ZVM9M8WFR5KVFB6R1FD",
+                "name": "World's Edge",
+                "inGameName": "mp_rr_desertlands_hu"
+              },
+              "status": "completed",
+              "inGameStatus": "postmatch",
+              "winnerDetermined": true,
+              "startedAt": "2025-09-13T18:05:41.701Z",
+              "playStartedAt": "2025-09-13T18:06:27.000Z",
+              "completedAt": "2025-09-13T18:25:54.000Z"
+            },
+            {
+              "id": "01K525YCTBXSM6GXT12DY5BHMT",
+              "seriesId": "01K0PZK6V9X4VRR3DMQE3ZMF5E",
+              "matchNumber": 4,
+              "map": {
+                "id": "01J6508ZVME92QPVXGJN21ZWCA",
+                "name": "Storm Point",
+                "inGameName": "mp_rr_tropic_island_mu2"
+              },
+              "status": "completed",
+              "inGameStatus": "postmatch",
+              "winnerDetermined": true,
+              "startedAt": "2025-09-13T18:43:34.314Z",
+              "playStartedAt": "2025-09-13T18:44:58.000Z",
+              "completedAt": "2025-09-13T19:04:50.000Z"
+            },
+            {
+              "id": "01K0T0NAD8NJCET2M989JC3XDE",
+              "seriesId": "01K0PZK6V9X4VRR3DMQE3ZMF5E",
+              "matchNumber": 5,
+              "map": {
+                "id": "01J6508ZVME92QPVXGJN21ZWCA",
+                "name": "Storm Point",
+                "inGameName": "mp_rr_tropic_island_mu2"
+              },
+              "status": "completed",
+              "inGameStatus": "postmatch",
+              "winnerDetermined": true,
+              "startedAt": "2025-09-13T19:10:58.603Z",
+              "playStartedAt": "2025-09-13T19:12:23.000Z",
+              "completedAt": "2025-09-13T19:31:56.000Z"
+            },
+            {
+              "id": "01K0T0NAD8R94368W2QE062YA3",
+              "seriesId": "01K0PZK6V9X4VRR3DMQE3ZMF5E",
+              "matchNumber": 6,
+              "map": {
+                "id": "01J6508ZVME92QPVXGJN21ZWCA",
+                "name": "Storm Point",
+                "inGameName": "mp_rr_tropic_island_mu2"
+              },
+              "status": "completed",
+              "inGameStatus": "postmatch",
+              "winnerDetermined": true,
+              "startedAt": "2025-09-13T19:37:53.715Z",
+              "playStartedAt": "2025-09-13T19:39:17.000Z",
+              "completedAt": "2025-09-13T19:59:57.000Z"
+            }
+          ]
+        },
+        {
+          "id": "01K0PZK6X2VP6HT30AP4RMPSSG",
+          "name": "Group A vs C",
+          "status": "completed",
+          "seriesNumber": 5,
+          "poiDraftId": "01K3HEGKX4DJ9Q2KANRARQ2P8C",
+          "phaseId": "01JZWX2QFHA107Q46MR494NZ2D",
+          "startsAt": "2025-09-14T17:00:00.000Z",
+          "completedAt": "2025-09-14T19:52:48.599Z",
+          "isMatchPointFormat": false,
+          "matchPointThreshold": null,
+          "vodUrl": "https://www.youtube.com/live/p7JhXF6ly34?si=9QOoVLvTl80NIxFV",
+          "matches": [
+            {
+              "id": "01K0T0NXR2YMRBP0M1FX7EE5SA",
+              "seriesId": "01K0PZK6X2VP6HT30AP4RMPSSG",
+              "matchNumber": 1,
+              "map": {
+                "id": "01J6M00SDXM1G05TA8D96559MJ",
+                "name": "E-District",
+                "inGameName": "mp_rr_district"
+              },
+              "status": "completed",
+              "inGameStatus": "postmatch",
+              "winnerDetermined": true,
+              "startedAt": "2025-09-14T17:04:40.150Z",
+              "playStartedAt": "2025-09-14T17:06:04.000Z",
+              "completedAt": "2025-09-14T17:25:54.000Z"
+            },
+            {
+              "id": "01K0T0NXR295M1VTXQVHE3FZ22",
+              "seriesId": "01K0PZK6X2VP6HT30AP4RMPSSG",
+              "matchNumber": 2,
+              "map": {
+                "id": "01J6M00SDXM1G05TA8D96559MJ",
+                "name": "E-District",
+                "inGameName": "mp_rr_district"
+              },
+              "status": "completed",
+              "inGameStatus": "postmatch",
+              "winnerDetermined": true,
+              "startedAt": "2025-09-14T17:32:52.877Z",
+              "playStartedAt": "2025-09-14T17:34:16.000Z",
+              "completedAt": "2025-09-14T17:53:52.000Z"
+            },
+            {
+              "id": "01K0T0NXR24TEN5D7QSDS16V7T",
+              "seriesId": "01K0PZK6X2VP6HT30AP4RMPSSG",
+              "matchNumber": 3,
+              "map": {
+                "id": "01J6M00SDXM1G05TA8D96559MJ",
+                "name": "E-District",
+                "inGameName": "mp_rr_district"
+              },
+              "status": "completed",
+              "inGameStatus": "postmatch",
+              "winnerDetermined": true,
+              "startedAt": "2025-09-14T18:00:21.803Z",
+              "playStartedAt": "2025-09-14T18:01:07.000Z",
+              "completedAt": "2025-09-14T18:21:30.000Z"
+            },
+            {
+              "id": "01K0T0NXR2NYC8MZG6ZTFBR24E",
+              "seriesId": "01K0PZK6X2VP6HT30AP4RMPSSG",
+              "matchNumber": 4,
+              "map": {
+                "id": "01J6508ZVM9M8WFR5KVFB6R1FD",
+                "name": "World's Edge",
+                "inGameName": "mp_rr_desertlands_hu"
+              },
+              "status": "completed",
+              "inGameStatus": "postmatch",
+              "winnerDetermined": true,
+              "startedAt": "2025-09-14T18:32:29.023Z",
+              "playStartedAt": "2025-09-14T18:33:52.000Z",
+              "completedAt": "2025-09-14T18:53:13.000Z"
+            },
+            {
+              "id": "01K54SMTDW559HH1RHPGJMXVCJ",
+              "seriesId": "01K0PZK6X2VP6HT30AP4RMPSSG",
+              "matchNumber": 5,
+              "map": {
+                "id": "01J6508ZVM9M8WFR5KVFB6R1FD",
+                "name": "World's Edge",
+                "inGameName": "mp_rr_desertlands_hu"
+              },
+              "status": "completed",
+              "inGameStatus": "postmatch",
+              "winnerDetermined": true,
+              "startedAt": "2025-09-14T19:04:17.562Z",
+              "playStartedAt": "2025-09-14T19:05:41.000Z",
+              "completedAt": "2025-09-14T19:25:03.000Z"
+            },
+            {
+              "id": "01K0T0NXR2MPD9SA3A1R45QDZG",
+              "seriesId": "01K0PZK6X2VP6HT30AP4RMPSSG",
+              "matchNumber": 6,
+              "map": {
+                "id": "01J6508ZVM9M8WFR5KVFB6R1FD",
+                "name": "World's Edge",
+                "inGameName": "mp_rr_desertlands_hu"
+              },
+              "status": "completed",
+              "inGameStatus": "postmatch",
+              "winnerDetermined": true,
+              "startedAt": "2025-09-14T19:31:03.848Z",
+              "playStartedAt": "2025-09-14T19:32:29.000Z",
+              "completedAt": "2025-09-14T19:52:15.000Z"
+            }
+          ]
+        },
+        {
+          "id": "01K0PZK6YRQ77370NHV3XNRDVP",
+          "name": "Group B vs C",
+          "status": "completed",
+          "seriesNumber": 6,
+          "poiDraftId": "01K3HJTPBDNP6SGFC00Z87FSMN",
+          "phaseId": "01JZWX2QFHA107Q46MR494NZ2D",
+          "startsAt": "2025-09-27T17:00:00.000Z",
+          "completedAt": "2025-09-27T19:51:12.588Z",
+          "isMatchPointFormat": false,
+          "matchPointThreshold": null,
+          "vodUrl": "https://www.youtube.com/live/jnNAIfuaTHg?si=DU9CXlue1Ey6iilx",
+          "matches": [
+            {
+              "id": "01K0T0PPZZRJPYV0C20AFFBNH4",
+              "seriesId": "01K0PZK6YRQ77370NHV3XNRDVP",
+              "matchNumber": 1,
+              "map": {
+                "id": "01J6508ZVME92QPVXGJN21ZWCA",
+                "name": "Storm Point",
+                "inGameName": "mp_rr_tropic_island_mu2"
+              },
+              "status": "completed",
+              "inGameStatus": "postmatch",
+              "winnerDetermined": true,
+              "startedAt": "2025-09-27T17:09:28.219Z",
+              "playStartedAt": "2025-09-27T17:10:35.000Z",
+              "completedAt": "2025-09-27T17:31:16.000Z"
+            },
+            {
+              "id": "01K0T0PPZZFPJ9KQ8SQ2NACE7E",
+              "seriesId": "01K0PZK6YRQ77370NHV3XNRDVP",
+              "matchNumber": 2,
+              "map": {
+                "id": "01J6508ZVME92QPVXGJN21ZWCA",
+                "name": "Storm Point",
+                "inGameName": "mp_rr_tropic_island_mu2"
+              },
+              "status": "completed",
+              "inGameStatus": "postmatch",
+              "winnerDetermined": true,
+              "startedAt": "2025-09-27T17:37:40.542Z",
+              "playStartedAt": "2025-09-27T17:38:50.000Z",
+              "completedAt": "2025-09-27T17:58:38.000Z"
+            },
+            {
+              "id": "01K0T0PPZZ5Z18QMM67WNX26PA",
+              "seriesId": "01K0PZK6YRQ77370NHV3XNRDVP",
+              "matchNumber": 3,
+              "map": {
+                "id": "01J6508ZVME92QPVXGJN21ZWCA",
+                "name": "Storm Point",
+                "inGameName": "mp_rr_tropic_island_mu2"
+              },
+              "status": "completed",
+              "inGameStatus": "postmatch",
+              "winnerDetermined": true,
+              "startedAt": "2025-09-27T18:06:07.559Z",
+              "playStartedAt": "2025-09-27T18:07:18.000Z",
+              "completedAt": "2025-09-27T18:25:45.000Z"
+            },
+            {
+              "id": "01K0T0PPZZACJ8XWC0C42GZDWP",
+              "seriesId": "01K0PZK6YRQ77370NHV3XNRDVP",
+              "matchNumber": 4,
+              "map": {
+                "id": "01J6M00SDXM1G05TA8D96559MJ",
+                "name": "E-District",
+                "inGameName": "mp_rr_district"
+              },
+              "status": "completed",
+              "inGameStatus": "postmatch",
+              "winnerDetermined": true,
+              "startedAt": "2025-09-27T18:36:47.191Z",
+              "playStartedAt": "2025-09-27T18:37:56.000Z",
+              "completedAt": "2025-09-27T18:57:29.000Z"
+            },
+            {
+              "id": "01K0T0PPZZWXP6QCMRJD1F17PF",
+              "seriesId": "01K0PZK6YRQ77370NHV3XNRDVP",
+              "matchNumber": 5,
+              "map": {
+                "id": "01J6M00SDXM1G05TA8D96559MJ",
+                "name": "E-District",
+                "inGameName": "mp_rr_district"
+              },
+              "status": "completed",
+              "inGameStatus": "postmatch",
+              "winnerDetermined": true,
+              "startedAt": "2025-09-27T19:04:41.099Z",
+              "playStartedAt": "2025-09-27T19:05:50.000Z",
+              "completedAt": "2025-09-27T19:25:53.000Z"
+            },
+            {
+              "id": "01K0T0PPZZ7PK4RVD4QTB5122P",
+              "seriesId": "01K0PZK6YRQ77370NHV3XNRDVP",
+              "matchNumber": 6,
+              "map": {
+                "id": "01J6M00SDXM1G05TA8D96559MJ",
+                "name": "E-District",
+                "inGameName": "mp_rr_district"
+              },
+              "status": "completed",
+              "inGameStatus": "postmatch",
+              "winnerDetermined": true,
+              "startedAt": "2025-09-27T19:32:08.444Z",
+              "playStartedAt": "2025-09-27T19:33:17.000Z",
+              "completedAt": "2025-09-27T19:50:39.000Z"
+            }
+          ]
+        },
+        {
+          "id": "01K0PZK70DJ0Z0WXRXFFFJ056J",
+          "name": "Group A vs B",
+          "status": "completed",
+          "seriesNumber": 7,
+          "poiDraftId": "01K3HK8DWRFHHHJX1GETFPQ404",
+          "phaseId": "01JZWX2QFHA107Q46MR494NZ2D",
+          "startsAt": "2025-09-28T17:00:00.000Z",
+          "completedAt": "2025-09-28T20:02:41.554Z",
+          "isMatchPointFormat": false,
+          "matchPointThreshold": null,
+          "vodUrl": "https://www.youtube.com/live/KOnepoXKNCg?si=F2YM8519wk3_53Go",
+          "matches": [
+            {
+              "id": "01K68N8VX42GZPKXF9XX22X19R",
+              "seriesId": "01K0PZK70DJ0Z0WXRXFFFJ056J",
+              "matchNumber": 1,
+              "map": {
+                "id": "01J6M00SDXM1G05TA8D96559MJ",
+                "name": "E-District",
+                "inGameName": "mp_rr_district"
+              },
+              "status": "completed",
+              "inGameStatus": "postmatch",
+              "winnerDetermined": true,
+              "startedAt": "2025-09-28T17:20:52.359Z",
+              "playStartedAt": "2025-09-28T17:21:53.000Z",
+              "completedAt": "2025-09-28T17:41:54.000Z"
+            },
+            {
+              "id": "01K0T0QQVFCZJMQY2YBMXXX2XH",
+              "seriesId": "01K0PZK70DJ0Z0WXRXFFFJ056J",
+              "matchNumber": 2,
+              "map": {
+                "id": "01J6M00SDXM1G05TA8D96559MJ",
+                "name": "E-District",
+                "inGameName": "mp_rr_district"
+              },
+              "status": "completed",
+              "inGameStatus": "postmatch",
+              "winnerDetermined": true,
+              "startedAt": "2025-09-28T17:47:57.328Z",
+              "playStartedAt": "2025-09-28T17:48:58.000Z",
+              "completedAt": "2025-09-28T18:07:45.000Z"
+            },
+            {
+              "id": "01K0T0QQVFRXJ4BZH874WQ49DT",
+              "seriesId": "01K0PZK70DJ0Z0WXRXFFFJ056J",
+              "matchNumber": 3,
+              "map": {
+                "id": "01J6M00SDXM1G05TA8D96559MJ",
+                "name": "E-District",
+                "inGameName": "mp_rr_district"
+              },
+              "status": "completed",
+              "inGameStatus": "postmatch",
+              "winnerDetermined": true,
+              "startedAt": "2025-09-28T18:13:53.978Z",
+              "playStartedAt": "2025-09-28T18:14:55.000Z",
+              "completedAt": "2025-09-28T18:34:58.000Z"
+            },
+            {
+              "id": "01K0T0QQVFF5JSCXFPSVCAZRC3",
+              "seriesId": "01K0PZK70DJ0Z0WXRXFFFJ056J",
+              "matchNumber": 4,
+              "map": {
+                "id": "01J6508ZVM9M8WFR5KVFB6R1FD",
+                "name": "World's Edge",
+                "inGameName": "mp_rr_desertlands_hu"
+              },
+              "status": "completed",
+              "inGameStatus": "postmatch",
+              "winnerDetermined": true,
+              "startedAt": "2025-09-28T18:46:30.281Z",
+              "playStartedAt": "2025-09-28T18:47:31.000Z",
+              "completedAt": "2025-09-28T19:07:16.000Z"
+            },
+            {
+              "id": "01K0T0QQVGH1SAP5WGBDY1WDFB",
+              "seriesId": "01K0PZK70DJ0Z0WXRXFFFJ056J",
+              "matchNumber": 5,
+              "map": {
+                "id": "01J6508ZVM9M8WFR5KVFB6R1FD",
+                "name": "World's Edge",
+                "inGameName": "mp_rr_desertlands_hu"
+              },
+              "status": "completed",
+              "inGameStatus": "postmatch",
+              "winnerDetermined": true,
+              "startedAt": "2025-09-28T19:13:58.179Z",
+              "playStartedAt": "2025-09-28T19:14:58.000Z",
+              "completedAt": "2025-09-28T19:34:38.000Z"
+            },
+            {
+              "id": "01K0T0QQVG2Q9PWKATFV2XPFHR",
+              "seriesId": "01K0PZK70DJ0Z0WXRXFFFJ056J",
+              "matchNumber": 6,
+              "map": {
+                "id": "01J6508ZVM9M8WFR5KVFB6R1FD",
+                "name": "World's Edge",
+                "inGameName": "mp_rr_desertlands_hu"
+              },
+              "status": "completed",
+              "inGameStatus": "postmatch",
+              "winnerDetermined": true,
+              "startedAt": "2025-09-28T19:41:25.205Z",
+              "playStartedAt": "2025-09-28T19:42:26.000Z",
+              "completedAt": "2025-09-28T20:02:07.000Z"
+            }
+          ]
+        },
+        {
+          "id": "01K0PZK723NAP3J5AN37JRQXX0",
+          "name": "Group A vs C",
+          "status": "completed",
+          "seriesNumber": 8,
+          "poiDraftId": "01K3HKEMQFTYRFCT0WBJ5DHHNT",
+          "phaseId": "01JZWX2QFHA107Q46MR494NZ2D",
+          "startsAt": "2025-10-04T17:00:00.000Z",
+          "completedAt": "2025-10-04T20:06:24.872Z",
+          "isMatchPointFormat": false,
+          "matchPointThreshold": null,
+          "vodUrl": "https://www.youtube.com/live/uP8wsT6JhUg?si=mHU_2irk5gFNzGM4",
+          "matches": [
+            {
+              "id": "01K0T0R87SMPX6J2S595FAMEST",
+              "seriesId": "01K0PZK723NAP3J5AN37JRQXX0",
+              "matchNumber": 1,
+              "map": {
+                "id": "01J6508ZVME92QPVXGJN21ZWCA",
+                "name": "Storm Point",
+                "inGameName": "mp_rr_tropic_island_mu2"
+              },
+              "status": "completed",
+              "inGameStatus": "postmatch",
+              "winnerDetermined": true,
+              "startedAt": "2025-10-04T17:08:13.762Z",
+              "playStartedAt": "2025-10-04T17:09:14.000Z",
+              "completedAt": "2025-10-04T17:29:24.000Z"
+            },
+            {
+              "id": "01K6R5A4A1DZVYN3F20KHYRXQR",
+              "seriesId": "01K0PZK723NAP3J5AN37JRQXX0",
+              "matchNumber": 2,
+              "map": {
+                "id": "01J6508ZVME92QPVXGJN21ZWCA",
+                "name": "Storm Point",
+                "inGameName": "mp_rr_tropic_island_mu2"
+              },
+              "status": "completed",
+              "inGameStatus": "postmatch",
+              "winnerDetermined": true,
+              "startedAt": "2025-10-04T17:52:18.378Z",
+              "playStartedAt": "2025-10-04T17:53:47.000Z",
+              "completedAt": "2025-10-04T18:14:19.000Z"
+            },
+            {
+              "id": "01K0T0R87SGG9N7SRXVPPN8Q4V",
+              "seriesId": "01K0PZK723NAP3J5AN37JRQXX0",
+              "matchNumber": 3,
+              "map": {
+                "id": "01J6508ZVME92QPVXGJN21ZWCA",
+                "name": "Storm Point",
+                "inGameName": "mp_rr_tropic_island_mu2"
+              },
+              "status": "completed",
+              "inGameStatus": "postmatch",
+              "winnerDetermined": true,
+              "startedAt": "2025-10-04T18:20:48.239Z",
+              "playStartedAt": "2025-10-04T18:21:49.000Z",
+              "completedAt": "2025-10-04T18:40:22.000Z"
+            },
+            {
+              "id": "01K0T0R87S76S210AQ32K43YSF",
+              "seriesId": "01K0PZK723NAP3J5AN37JRQXX0",
+              "matchNumber": 4,
+              "map": {
+                "id": "01J6M00SDXM1G05TA8D96559MJ",
+                "name": "E-District",
+                "inGameName": "mp_rr_district"
+              },
+              "status": "completed",
+              "inGameStatus": "postmatch",
+              "winnerDetermined": true,
+              "startedAt": "2025-10-04T18:52:12.500Z",
+              "playStartedAt": "2025-10-04T18:53:16.000Z",
+              "completedAt": "2025-10-04T19:12:54.000Z"
+            },
+            {
+              "id": "01K0T0R87SZGYGNQ2Y4YKX8JQ2",
+              "seriesId": "01K0PZK723NAP3J5AN37JRQXX0",
+              "matchNumber": 5,
+              "map": {
+                "id": "01J6M00SDXM1G05TA8D96559MJ",
+                "name": "E-District",
+                "inGameName": "mp_rr_district"
+              },
+              "status": "completed",
+              "inGameStatus": "postmatch",
+              "winnerDetermined": true,
+              "startedAt": "2025-10-04T19:18:43.539Z",
+              "playStartedAt": "2025-10-04T19:19:45.000Z",
+              "completedAt": "2025-10-04T19:39:35.000Z"
+            },
+            {
+              "id": "01K0T0R87S0FPV5C29VMQSSP7W",
+              "seriesId": "01K0PZK723NAP3J5AN37JRQXX0",
+              "matchNumber": 6,
+              "map": {
+                "id": "01J6M00SDXM1G05TA8D96559MJ",
+                "name": "E-District",
+                "inGameName": "mp_rr_district"
+              },
+              "status": "completed",
+              "inGameStatus": "postmatch",
+              "winnerDetermined": true,
+              "startedAt": "2025-10-04T19:46:03.431Z",
+              "playStartedAt": "2025-10-04T19:47:04.000Z",
+              "completedAt": "2025-10-04T20:05:51.000Z"
+            }
+          ]
+        },
+        {
+          "id": "01K0PZK73RHQ5PFJZBPWXD05C4",
+          "name": "Group B vs C",
+          "status": "completed",
+          "seriesNumber": 9,
+          "poiDraftId": "01K3HKKE83B8RHRPR1N7F9YP3M",
+          "phaseId": "01JZWX2QFHA107Q46MR494NZ2D",
+          "startsAt": "2025-10-05T17:00:00.000Z",
+          "completedAt": "2025-10-05T19:55:32.319Z",
+          "isMatchPointFormat": false,
+          "matchPointThreshold": null,
+          "vodUrl": "https://www.youtube.com/live/-rAGPm9c5VU?si=vCortk5KxkapwP6W",
+          "matches": [
+            {
+              "id": "01K0T0RTBJQ39RGY1JYFTE305D",
+              "seriesId": "01K0PZK73RHQ5PFJZBPWXD05C4",
+              "matchNumber": 1,
+              "map": {
+                "id": "01J6508ZVM9M8WFR5KVFB6R1FD",
+                "name": "World's Edge",
+                "inGameName": "mp_rr_desertlands_hu"
+              },
+              "status": "completed",
+              "inGameStatus": "postmatch",
+              "winnerDetermined": true,
+              "startedAt": "2025-10-05T17:07:34.034Z",
+              "playStartedAt": "2025-10-05T17:08:35.000Z",
+              "completedAt": "2025-10-05T17:28:11.000Z"
+            },
+            {
+              "id": "01K0T0RTBJNAW9HBNKJVS95Q3K",
+              "seriesId": "01K0PZK73RHQ5PFJZBPWXD05C4",
+              "matchNumber": 2,
+              "map": {
+                "id": "01J6508ZVM9M8WFR5KVFB6R1FD",
+                "name": "World's Edge",
+                "inGameName": "mp_rr_desertlands_hu"
+              },
+              "status": "completed",
+              "inGameStatus": "postmatch",
+              "winnerDetermined": true,
+              "startedAt": "2025-10-05T17:35:05.941Z",
+              "playStartedAt": "2025-10-05T17:36:07.000Z",
+              "completedAt": "2025-10-05T17:55:51.000Z"
+            },
+            {
+              "id": "01K6TRPS207KQKVHCC17WGKSG1",
+              "seriesId": "01K0PZK73RHQ5PFJZBPWXD05C4",
+              "matchNumber": 3,
+              "map": {
+                "id": "01J6508ZVM9M8WFR5KVFB6R1FD",
+                "name": "World's Edge",
+                "inGameName": "mp_rr_desertlands_hu"
+              },
+              "status": "completed",
+              "inGameStatus": "postmatch",
+              "winnerDetermined": true,
+              "startedAt": "2025-10-05T18:07:27.625Z",
+              "playStartedAt": "2025-10-05T18:08:27.000Z",
+              "completedAt": "2025-10-05T18:27:41.000Z"
+            },
+            {
+              "id": "01K0T0RTBJDG1Q2MS0FE5JFJ6B",
+              "seriesId": "01K0PZK73RHQ5PFJZBPWXD05C4",
+              "matchNumber": 4,
+              "map": {
+                "id": "01J6508ZVME92QPVXGJN21ZWCA",
+                "name": "Storm Point",
+                "inGameName": "mp_rr_tropic_island_mu2"
+              },
+              "status": "completed",
+              "inGameStatus": "postmatch",
+              "winnerDetermined": true,
+              "startedAt": "2025-10-05T18:39:22.049Z",
+              "playStartedAt": "2025-10-05T18:40:23.000Z",
+              "completedAt": "2025-10-05T19:00:02.000Z"
+            },
+            {
+              "id": "01K0T0RTBJGSH726DCKKZQG12G",
+              "seriesId": "01K0PZK73RHQ5PFJZBPWXD05C4",
+              "matchNumber": 5,
+              "map": {
+                "id": "01J6508ZVME92QPVXGJN21ZWCA",
+                "name": "Storm Point",
+                "inGameName": "mp_rr_tropic_island_mu2"
+              },
+              "status": "completed",
+              "inGameStatus": "postmatch",
+              "winnerDetermined": true,
+              "startedAt": "2025-10-05T19:06:33.166Z",
+              "playStartedAt": "2025-10-05T19:07:37.000Z",
+              "completedAt": "2025-10-05T19:27:37.000Z"
+            },
+            {
+              "id": "01K0T0RTBJXTYGX37EXSHT4HEF",
+              "seriesId": "01K0PZK73RHQ5PFJZBPWXD05C4",
+              "matchNumber": 6,
+              "map": {
+                "id": "01J6508ZVME92QPVXGJN21ZWCA",
+                "name": "Storm Point",
+                "inGameName": "mp_rr_tropic_island_mu2"
+              },
+              "status": "completed",
+              "inGameStatus": "postmatch",
+              "winnerDetermined": true,
+              "startedAt": "2025-10-05T19:34:03.918Z",
+              "playStartedAt": "2025-10-05T19:35:04.000Z",
+              "completedAt": "2025-10-05T19:54:58.000Z"
+            }
+          ]
+        },
+        {
+          "id": "01K0PZK75EKSP76CPEST6YYPG6",
+          "name": "Regional Finals",
+          "status": "completed",
+          "seriesNumber": 10,
+          "poiDraftId": "01K6TZR2N8Q206PPRCGMQ1ZRWD",
+          "phaseId": "01JZWX2QFHA107Q46MR494NZ2D",
+          "startsAt": "2025-10-12T17:00:00.000Z",
+          "completedAt": "2025-10-12T20:05:44.505Z",
+          "isMatchPointFormat": true,
+          "matchPointThreshold": 50,
+          "vodUrl": "https://www.youtube.com/live/bXByZt278RA?si=9P7XpUz3_sqkPV7l",
+          "matches": [
+            {
+              "id": "01K0T0WK67J0EK18V1ZECK32T8",
+              "seriesId": "01K0PZK75EKSP76CPEST6YYPG6",
+              "matchNumber": 1,
+              "map": {
+                "id": "01J6508ZVME92QPVXGJN21ZWCA",
+                "name": "Storm Point",
+                "inGameName": "mp_rr_tropic_island_mu2"
+              },
+              "status": "completed",
+              "inGameStatus": "postmatch",
+              "winnerDetermined": true,
+              "startedAt": "2025-10-12T17:11:23.723Z",
+              "playStartedAt": "2025-10-12T17:12:23.000Z",
+              "completedAt": "2025-10-12T17:31:34.000Z"
+            },
+            {
+              "id": "01K7CR457NFYX1G81GAYG32SZN",
+              "seriesId": "01K0PZK75EKSP76CPEST6YYPG6",
+              "matchNumber": 2,
+              "map": {
+                "id": "01J6508ZVM9M8WFR5KVFB6R1FD",
+                "name": "World's Edge",
+                "inGameName": "mp_rr_desertlands_hu"
+              },
+              "status": "completed",
+              "inGameStatus": "postmatch",
+              "winnerDetermined": true,
+              "startedAt": "2025-10-12T17:44:21.669Z",
+              "playStartedAt": "2025-10-12T17:45:22.000Z",
+              "completedAt": "2025-10-12T18:04:53.000Z"
+            },
+            {
+              "id": "01K0T0WK67S5WNH0JJMQTKTGQT",
+              "seriesId": "01K0PZK75EKSP76CPEST6YYPG6",
+              "matchNumber": 3,
+              "map": {
+                "id": "01J6M00SDXM1G05TA8D96559MJ",
+                "name": "E-District",
+                "inGameName": "mp_rr_district"
+              },
+              "status": "completed",
+              "inGameStatus": "postmatch",
+              "winnerDetermined": true,
+              "startedAt": "2025-10-12T18:11:01.179Z",
+              "playStartedAt": "2025-10-12T18:12:02.000Z",
+              "completedAt": "2025-10-12T18:31:56.000Z"
+            },
+            {
+              "id": "01K0T0WK678CCTN8S3KSP10AP0",
+              "seriesId": "01K0PZK75EKSP76CPEST6YYPG6",
+              "matchNumber": 4,
+              "map": {
+                "id": "01J6M00SDXM1G05TA8D96559MJ",
+                "name": "E-District",
+                "inGameName": "mp_rr_district"
+              },
+              "status": "completed",
+              "inGameStatus": "postmatch",
+              "winnerDetermined": true,
+              "startedAt": "2025-10-12T18:43:28.636Z",
+              "playStartedAt": "2025-10-12T18:44:29.000Z",
+              "completedAt": "2025-10-12T19:04:20.000Z"
+            },
+            {
+              "id": "01K7CXCY29V68A6MC0CH1GPXZM",
+              "seriesId": "01K0PZK75EKSP76CPEST6YYPG6",
+              "matchNumber": 5,
+              "map": {
+                "id": "01J6508ZVM9M8WFR5KVFB6R1FD",
+                "name": "World's Edge",
+                "inGameName": "mp_rr_desertlands_hu"
+              },
+              "status": "completed",
+              "inGameStatus": "postmatch",
+              "winnerDetermined": true,
+              "startedAt": "2025-10-12T19:17:06.506Z",
+              "playStartedAt": "2025-10-12T19:18:07.000Z",
+              "completedAt": "2025-10-12T19:38:14.000Z"
+            },
+            {
+              "id": "01K0T0WK6796KQF57R6Q5MN0FM",
+              "seriesId": "01K0PZK75EKSP76CPEST6YYPG6",
+              "matchNumber": 6,
+              "map": {
+                "id": "01J6508ZVME92QPVXGJN21ZWCA",
+                "name": "Storm Point",
+                "inGameName": "mp_rr_tropic_island_mu2"
+              },
+              "status": "completed",
+              "inGameStatus": "postmatch",
+              "winnerDetermined": true,
+              "startedAt": "2025-10-12T19:44:30.855Z",
+              "playStartedAt": "2025-10-12T19:45:32.000Z",
+              "completedAt": "2025-10-12T20:05:11.000Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

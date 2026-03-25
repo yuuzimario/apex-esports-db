@@ -1,0 +1,1016 @@
+{
+  "_id": "696c29ef5e5e731fe5fff576",
+  "seasonID": "696be0f0604fabcc432430ac",
+  "name": "Split 1 - Pro League",
+  "slug": "pro-league-split-1",
+  "eventTypeID": "696be10651f99ecd5af60362",
+  "eventTypeName": "Split 1 - Pro League",
+  "eventTypeSlug": "split-1-pro-league",
+  "eventTypeVisibility": "private",
+  "phase": "split-1",
+  "registrationType": "invite-only",
+  "canUnjoin": false,
+  "eligibleDivisionIDs": [
+    "696be0feb101e6cce8bedd61"
+  ],
+  "config": {
+    "lineup": {
+      "limit": 5,
+      "roles": {
+        "player": {
+          "minimum": 0,
+          "maximum": 4
+        },
+        "coach": {
+          "minimum": 0,
+          "maximum": 1
+        }
+      },
+      "requiresRosterApprovals": true
+    },
+    "tournamentStructure": {
+      "allowVersionedParticipants": true
+    },
+    "visibility": "private",
+    "leaderboard": {
+      "disableResultsPageLimit": true
+    },
+    "hasRegionInviteLock": true,
+    "eventProgression": {
+      "topN": 20,
+      "progressionBy": "leaderboard",
+      "advancementMap": {
+        "pro-league-split-1": "pro-league-split-1-regional-finals"
+      }
+    }
+  },
+  "externalUrl": "",
+  "leaderboardSeasonID": "",
+  "eventPublished": true,
+  "status": "draft",
+  "templateKey": "round-robin",
+  "templateVersion": "1.0",
+  "createdBy": "56b6618a25b0be3803556a78",
+  "updatedBy": "56b6618a25b0be3803556a78",
+  "validationSummary": {
+    "isValid": false,
+    "errors": [
+      {
+        "path": "regionalEvents.americas.matches",
+        "message": "Match 0 lineup removal time must be before addition time for region americas",
+        "severity": "error"
+      }
+    ],
+    "warnings": [],
+    "missingRequiredFields": [],
+    "temporalIssues": [
+      {
+        "region": "americas",
+        "type": "registration",
+        "message": "Registration open time must be before close time for region americas"
+      }
+    ]
+  },
+  "backgroundUrl": "",
+  "regionalEvents": {
+    "americas": {
+      "allowedRegions": [
+        "americas"
+      ],
+      "name": "americas Regional",
+      "format": "round-robin",
+      "location": "online",
+      "registrationOpenTime": "2026-01-18T06:00:00.000Z",
+      "registrationCloseTime": "2026-01-18T07:00:00.000Z",
+      "tournamentCheckInStartTime": "2026-04-04T21:00:00.000Z",
+      "tournamentStartTime": "2026-04-04T21:45:00.000Z",
+      "tournamentSlug": "apex-legends-global-series-pro-league",
+      "structureID": "",
+      "matches": [
+        {
+          "groups": [
+            "A",
+            "B"
+          ],
+          "matchStartTime": "2026-04-04T22:00:00.000Z",
+          "roundNumber": 0,
+          "matchNumber": 0,
+          "matchDayLabel": "Match Day #1",
+          "startingMaps": {
+            "title": "Match Day #1 - A vs. B",
+            "content": [
+              "Match 1: Storm Point",
+              "Match 2: Storm Point",
+              "Match 3: Storm Point",
+              "Match 4: E-District",
+              "Match 5: E-District",
+              "Match 6: E-District"
+            ]
+          },
+          "lineupRemovalsEndTime": "2026-03-20T19:00:00.000Z",
+          "lineupAdditionsEndTime": "2026-03-20T19:00:00.000Z",
+          "poiDraftContent": []
+        },
+        {
+          "groups": [
+            "A",
+            "C"
+          ],
+          "matchStartTime": "2026-04-05T22:00:00.000Z",
+          "roundNumber": 1,
+          "matchNumber": 1,
+          "matchDayLabel": "Match Day #2",
+          "startingMaps": {
+            "title": "Match Day #2 - A vs. C",
+            "content": [
+              "Match 1: Olympus",
+              "Match 2: Olympus",
+              "Match 3: Olympus",
+              "Match 4: Storm Point",
+              "Match 5: Storm Point",
+              "Match 6: Storm Point"
+            ]
+          },
+          "lineupRemovalsEndTime": "2026-03-20T19:00:00.000Z",
+          "lineupAdditionsEndTime": "2026-03-20T19:00:00.000Z",
+          "poiDraftContent": []
+        },
+        {
+          "groups": [
+            "B",
+            "C"
+          ],
+          "matchStartTime": "2026-04-12T22:00:00.000Z",
+          "roundNumber": 2,
+          "matchNumber": 2,
+          "matchDayLabel": "Match Day #3",
+          "startingMaps": {
+            "title": "Match Day #3 - B vs. C",
+            "content": [
+              "Match 1: E-District",
+              "Match 2: E-District",
+              "Match 3: E-District",
+              "Match 4: Olympus",
+              "Match 5: Olympus",
+              "Match 6: Olympus"
+            ]
+          },
+          "lineupRemovalsEndTime": "2026-03-20T19:00:00.000Z",
+          "lineupAdditionsEndTime": "2026-03-20T19:00:00.000Z",
+          "poiDraftContent": []
+        },
+        {
+          "groups": [
+            "A",
+            "B"
+          ],
+          "matchStartTime": "2026-04-19T22:00:00.000Z",
+          "roundNumber": 3,
+          "matchNumber": 3,
+          "matchDayLabel": "Match Day #4",
+          "startingMaps": {
+            "title": "Match Day #4 - A vs. B",
+            "content": [
+              "Match 1: Olympus",
+              "Match 2: Olympus",
+              "Match 3: Olympus",
+              "Match 4: Storm Point",
+              "Match 5: Storm Point",
+              "Match 6: Storm Point"
+            ]
+          },
+          "lineupRemovalsEndTime": "2026-03-20T19:00:00.000Z",
+          "lineupAdditionsEndTime": "2026-03-20T19:00:00.000Z",
+          "poiDraftContent": []
+        },
+        {
+          "groups": [
+            "A",
+            "C"
+          ],
+          "matchStartTime": "2026-04-26T22:00:00.000Z",
+          "roundNumber": 4,
+          "matchNumber": 4,
+          "matchDayLabel": "Match Day #5",
+          "startingMaps": {
+            "title": "Match Day #5 - A vs. C",
+            "content": [
+              "Match 1: E-District",
+              "Match 2: E-District",
+              "Match 3: E-District",
+              "Match 4: Olympus",
+              "Match 5: Olympus",
+              "Match 6: Olympus"
+            ]
+          },
+          "lineupRemovalsEndTime": "2026-03-20T19:00:00.000Z",
+          "lineupAdditionsEndTime": "2026-03-20T19:00:00.000Z",
+          "poiDraftContent": []
+        },
+        {
+          "groups": [
+            "B",
+            "C"
+          ],
+          "matchStartTime": "2026-05-03T22:00:00.000Z",
+          "roundNumber": 5,
+          "matchNumber": 5,
+          "matchDayLabel": "Match Day #6",
+          "startingMaps": {
+            "title": "Match Day #6 - B vs. C",
+            "content": [
+              "Match 1: Storm Point",
+              "Match 2: Storm Point",
+              "Match 3: Storm Point",
+              "Match 4: E-District",
+              "Match 5: E-District",
+              "Match 6: E-District"
+            ]
+          },
+          "lineupRemovalsEndTime": "2026-03-20T19:00:00.000Z",
+          "lineupAdditionsEndTime": "2026-03-20T19:00:00.000Z",
+          "poiDraftContent": []
+        },
+        {
+          "groups": [
+            "A",
+            "B"
+          ],
+          "matchStartTime": "2026-05-23T22:00:00.000Z",
+          "roundNumber": 6,
+          "matchNumber": 6,
+          "matchDayLabel": "Match Day #7",
+          "startingMaps": {
+            "title": "Match Day #7 - A vs. B",
+            "content": [
+              "Match 1: E-District",
+              "Match 2: E-District",
+              "Match 3: E-District",
+              "Match 4: Olympus",
+              "Match 5: Olympus",
+              "Match 6: Olympus"
+            ]
+          },
+          "lineupRemovalsEndTime": "2026-05-12T19:00:00.000Z",
+          "lineupAdditionsEndTime": "2026-05-13T19:00:00.000Z",
+          "poiDraftContent": []
+        },
+        {
+          "groups": [
+            "A",
+            "C"
+          ],
+          "matchStartTime": "2026-05-24T22:00:00.000Z",
+          "roundNumber": 7,
+          "matchNumber": 7,
+          "matchDayLabel": "Match Day #8",
+          "startingMaps": {
+            "title": "Match Day #8 - A vs. C",
+            "content": [
+              "Match 1: Storm Point",
+              "Match 2: Storm Point",
+              "Match 3: Storm Point",
+              "Match 4: E-District",
+              "Match 5: E-District",
+              "Match 6: E-District"
+            ]
+          },
+          "lineupRemovalsEndTime": "2026-05-12T19:00:00.000Z",
+          "lineupAdditionsEndTime": "2026-05-13T19:00:00.000Z",
+          "poiDraftContent": []
+        },
+        {
+          "groups": [
+            "B",
+            "C"
+          ],
+          "matchStartTime": "2026-05-31T22:00:00.000Z",
+          "roundNumber": 8,
+          "matchNumber": 8,
+          "matchDayLabel": "Match Day #9",
+          "startingMaps": {
+            "title": "Match Day #9 - B vs. C",
+            "content": [
+              "Match 1: Olympus",
+              "Match 2: Olympus",
+              "Match 3: Olympus",
+              "Match 4: Storm Point",
+              "Match 5: Storm Point",
+              "Match 6: Storm Point"
+            ]
+          },
+          "lineupRemovalsEndTime": "2026-05-12T19:00:00.000Z",
+          "lineupAdditionsEndTime": "2026-05-13T19:00:00.000Z",
+          "poiDraftContent": []
+        }
+      ],
+      "lineupRemovalsEndTime": "2026-03-20T19:00:00.000Z",
+      "lineupAdditionsEndTime": "2026-03-20T19:00:00.000Z"
+    },
+    "asia-pacific-north": {
+      "allowedRegions": [
+        "asia-pacific-north"
+      ],
+      "name": "asia-pacific-north Regional",
+      "format": "round-robin",
+      "location": "online",
+      "registrationOpenTime": "2026-01-18T06:00:00.000Z",
+      "registrationCloseTime": "2026-01-18T07:00:00.000Z",
+      "tournamentCheckInStartTime": "2026-04-04T08:00:00.000Z",
+      "tournamentStartTime": "2026-04-04T08:45:00.000Z",
+      "tournamentSlug": "apex-legends-global-series-pro-league",
+      "structureID": "",
+      "matches": [
+        {
+          "groups": [
+            "A",
+            "B"
+          ],
+          "matchStartTime": "2026-04-04T09:00:00.000Z",
+          "roundNumber": 0,
+          "matchNumber": 0,
+          "matchDayLabel": "Match Day #1",
+          "startingMaps": {
+            "title": "Match Day #1 - A vs. B",
+            "content": [
+              "Match 1: Storm Point",
+              "Match 2: Storm Point",
+              "Match 3: Storm Point",
+              "Match 4: E-District",
+              "Match 5: E-District",
+              "Match 6: E-District"
+            ]
+          },
+          "lineupRemovalsEndTime": "2026-03-20T19:00:00.000Z",
+          "lineupAdditionsEndTime": "2026-03-20T19:00:00.000Z",
+          "poiDraftContent": []
+        },
+        {
+          "groups": [
+            "A",
+            "C"
+          ],
+          "matchStartTime": "2026-04-05T09:00:00.000Z",
+          "roundNumber": 1,
+          "matchNumber": 1,
+          "matchDayLabel": "Match Day #2",
+          "startingMaps": {
+            "title": "Match Day #2 - A vs. C",
+            "content": [
+              "Match 1: Olympus",
+              "Match 2: Olympus",
+              "Match 3: Olympus",
+              "Match 4: Storm Point",
+              "Match 5: Storm Point",
+              "Match 6: Storm Point"
+            ]
+          },
+          "lineupRemovalsEndTime": "2026-03-20T19:00:00.000Z",
+          "lineupAdditionsEndTime": "2026-03-20T19:00:00.000Z",
+          "poiDraftContent": []
+        },
+        {
+          "groups": [
+            "B",
+            "C"
+          ],
+          "matchStartTime": "2026-04-12T09:00:00.000Z",
+          "roundNumber": 2,
+          "matchNumber": 2,
+          "matchDayLabel": "Match Day #3",
+          "startingMaps": {
+            "title": "Match Day #3 - B vs. C",
+            "content": [
+              "Match 1: E-District",
+              "Match 2: E-District",
+              "Match 3: E-District",
+              "Match 4: Olympus",
+              "Match 5: Olympus",
+              "Match 6: Olympus"
+            ]
+          },
+          "lineupRemovalsEndTime": "2026-03-20T19:00:00.000Z",
+          "lineupAdditionsEndTime": "2026-03-20T19:00:00.000Z",
+          "poiDraftContent": []
+        },
+        {
+          "groups": [
+            "A",
+            "B"
+          ],
+          "matchStartTime": "2026-04-19T09:00:00.000Z",
+          "roundNumber": 3,
+          "matchNumber": 3,
+          "matchDayLabel": "Match Day #4",
+          "startingMaps": {
+            "title": "Match Day #4 - A vs. B",
+            "content": [
+              "Match 1: Olympus",
+              "Match 2: Olympus",
+              "Match 3: Olympus",
+              "Match 4: Storm Point",
+              "Match 5: Storm Point",
+              "Match 6: Storm Point"
+            ]
+          },
+          "lineupRemovalsEndTime": "2026-03-20T19:00:00.000Z",
+          "lineupAdditionsEndTime": "2026-03-20T19:00:00.000Z",
+          "poiDraftContent": []
+        },
+        {
+          "groups": [
+            "A",
+            "C"
+          ],
+          "matchStartTime": "2026-04-26T09:00:00.000Z",
+          "roundNumber": 4,
+          "matchNumber": 4,
+          "matchDayLabel": "Match Day #5",
+          "startingMaps": {
+            "title": "Match Day #5 - A vs. C",
+            "content": [
+              "Match 1: E-District",
+              "Match 2: E-District",
+              "Match 3: E-District",
+              "Match 4: Olympus",
+              "Match 5: Olympus",
+              "Match 6: Olympus"
+            ]
+          },
+          "lineupRemovalsEndTime": "2026-03-20T19:00:00.000Z",
+          "lineupAdditionsEndTime": "2026-03-20T19:00:00.000Z",
+          "poiDraftContent": []
+        },
+        {
+          "groups": [
+            "B",
+            "C"
+          ],
+          "matchStartTime": "2026-05-03T09:00:00.000Z",
+          "roundNumber": 5,
+          "matchNumber": 5,
+          "matchDayLabel": "Match Day #6",
+          "startingMaps": {
+            "title": "Match Day #6 - B vs. C",
+            "content": [
+              "Match 1: Storm Point",
+              "Match 2: Storm Point",
+              "Match 3: Storm Point",
+              "Match 4: E-District",
+              "Match 5: E-District",
+              "Match 6: E-District"
+            ]
+          },
+          "lineupRemovalsEndTime": "2026-03-20T19:00:00.000Z",
+          "lineupAdditionsEndTime": "2026-03-20T19:00:00.000Z",
+          "poiDraftContent": []
+        },
+        {
+          "groups": [
+            "A",
+            "B"
+          ],
+          "matchStartTime": "2026-05-23T09:00:00.000Z",
+          "roundNumber": 6,
+          "matchNumber": 6,
+          "matchDayLabel": "Match Day #7",
+          "startingMaps": {
+            "title": "Match Day #7 - A vs. B",
+            "content": [
+              "Match 1: E-District",
+              "Match 2: E-District",
+              "Match 3: E-District",
+              "Match 4: Olympus",
+              "Match 5: Olympus",
+              "Match 6: Olympus"
+            ]
+          },
+          "lineupRemovalsEndTime": "2026-05-12T19:00:00.000Z",
+          "lineupAdditionsEndTime": "2026-05-13T19:00:00.000Z",
+          "poiDraftContent": []
+        },
+        {
+          "groups": [
+            "A",
+            "C"
+          ],
+          "matchStartTime": "2026-05-24T09:00:00.000Z",
+          "roundNumber": 7,
+          "matchNumber": 7,
+          "matchDayLabel": "Match Day #8",
+          "startingMaps": {
+            "title": "Match Day #8 - A vs. C",
+            "content": [
+              "Match 1: Storm Point",
+              "Match 2: Storm Point",
+              "Match 3: Storm Point",
+              "Match 4: E-District",
+              "Match 5: E-District",
+              "Match 6: E-District"
+            ]
+          },
+          "lineupRemovalsEndTime": "2026-05-12T19:00:00.000Z",
+          "lineupAdditionsEndTime": "2026-05-13T19:00:00.000Z",
+          "poiDraftContent": []
+        },
+        {
+          "groups": [
+            "B",
+            "C"
+          ],
+          "matchStartTime": "2026-05-31T09:00:00.000Z",
+          "roundNumber": 8,
+          "matchNumber": 8,
+          "matchDayLabel": "Match Day #9",
+          "startingMaps": {
+            "title": "Match Day #9 - B vs. C",
+            "content": [
+              "Match 1: Olympus",
+              "Match 2: Olympus",
+              "Match 3: Olympus",
+              "Match 4: Storm Point",
+              "Match 5: Storm Point",
+              "Match 6: Storm Point"
+            ]
+          },
+          "lineupRemovalsEndTime": "2026-05-12T19:00:00.000Z",
+          "lineupAdditionsEndTime": "2026-05-13T19:00:00.000Z",
+          "poiDraftContent": []
+        }
+      ],
+      "lineupRemovalsEndTime": "2026-03-20T19:00:00.000Z",
+      "lineupAdditionsEndTime": "2026-03-20T19:00:00.000Z"
+    },
+    "asia-pacific-south": {
+      "allowedRegions": [
+        "asia-pacific-south"
+      ],
+      "name": "asia-pacific-south Regional",
+      "format": "round-robin",
+      "location": "online",
+      "registrationOpenTime": "2026-01-18T06:00:00.000Z",
+      "registrationCloseTime": "2026-01-18T07:00:00.000Z",
+      "tournamentCheckInStartTime": "2026-04-04T03:00:00.000Z",
+      "tournamentStartTime": "2026-04-04T03:45:00.000Z",
+      "tournamentSlug": "apex-legends-global-series-pro-league",
+      "structureID": "",
+      "matches": [
+        {
+          "groups": [
+            "A",
+            "B"
+          ],
+          "matchStartTime": "2026-04-04T04:00:00.000Z",
+          "roundNumber": 0,
+          "matchNumber": 0,
+          "matchDayLabel": "Match Day #1",
+          "startingMaps": {
+            "title": "Match Day #1 - A vs. B",
+            "content": [
+              "Match 1: Storm Point",
+              "Match 2: Storm Point",
+              "Match 3: Storm Point",
+              "Match 4: E-District",
+              "Match 5: E-District",
+              "Match 6: E-District"
+            ]
+          },
+          "lineupRemovalsEndTime": "2026-03-20T19:00:00.000Z",
+          "lineupAdditionsEndTime": "2026-03-20T19:00:00.000Z",
+          "poiDraftContent": []
+        },
+        {
+          "groups": [
+            "A",
+            "C"
+          ],
+          "matchStartTime": "2026-04-05T04:00:00.000Z",
+          "roundNumber": 1,
+          "matchNumber": 1,
+          "matchDayLabel": "Match Day #2",
+          "startingMaps": {
+            "title": "Match Day #2 - A vs. C",
+            "content": [
+              "Match 1: Olympus",
+              "Match 2: Olympus",
+              "Match 3: Olympus",
+              "Match 4: Storm Point",
+              "Match 5: Storm Point",
+              "Match 6: Storm Point"
+            ]
+          },
+          "lineupRemovalsEndTime": "2026-03-20T19:00:00.000Z",
+          "lineupAdditionsEndTime": "2026-03-20T19:00:00.000Z",
+          "poiDraftContent": []
+        },
+        {
+          "groups": [
+            "B",
+            "C"
+          ],
+          "matchStartTime": "2026-04-11T04:00:00.000Z",
+          "roundNumber": 2,
+          "matchNumber": 2,
+          "matchDayLabel": "Match Day #3",
+          "startingMaps": {
+            "title": "Match Day #3 - B vs. C",
+            "content": [
+              "Match 1: E-District",
+              "Match 2: E-District",
+              "Match 3: E-District",
+              "Match 4: Olympus",
+              "Match 5: Olympus",
+              "Match 6: Olympus"
+            ]
+          },
+          "lineupRemovalsEndTime": "2026-03-20T19:00:00.000Z",
+          "lineupAdditionsEndTime": "2026-03-20T19:00:00.000Z",
+          "poiDraftContent": []
+        },
+        {
+          "groups": [
+            "A",
+            "B"
+          ],
+          "matchStartTime": "2026-04-18T04:00:00.000Z",
+          "roundNumber": 3,
+          "matchNumber": 3,
+          "matchDayLabel": "Match Day #4",
+          "startingMaps": {
+            "title": "Match Day #4 - A vs. B",
+            "content": [
+              "Match 1: Olympus",
+              "Match 2: Olympus",
+              "Match 3: Olympus",
+              "Match 4: Storm Point",
+              "Match 5: Storm Point",
+              "Match 6: Storm Point"
+            ]
+          },
+          "lineupRemovalsEndTime": "2026-03-20T19:00:00.000Z",
+          "lineupAdditionsEndTime": "2026-03-20T19:00:00.000Z",
+          "poiDraftContent": []
+        },
+        {
+          "groups": [
+            "A",
+            "C"
+          ],
+          "matchStartTime": "2026-04-25T04:00:00.000Z",
+          "roundNumber": 4,
+          "matchNumber": 4,
+          "matchDayLabel": "Match Day #5",
+          "startingMaps": {
+            "title": "Match Day #5 - A vs. C",
+            "content": [
+              "Match 1: E-District",
+              "Match 2: E-District",
+              "Match 3: E-District",
+              "Match 4: Olympus",
+              "Match 5: Olympus",
+              "Match 6: Olympus"
+            ]
+          },
+          "lineupRemovalsEndTime": "2026-03-20T19:00:00.000Z",
+          "lineupAdditionsEndTime": "2026-03-20T19:00:00.000Z",
+          "poiDraftContent": []
+        },
+        {
+          "groups": [
+            "B",
+            "C"
+          ],
+          "matchStartTime": "2026-05-02T04:00:00.000Z",
+          "roundNumber": 5,
+          "matchNumber": 5,
+          "matchDayLabel": "Match Day #6",
+          "startingMaps": {
+            "title": "Match Day #6 - B vs. C",
+            "content": [
+              "Match 1: Storm Point",
+              "Match 2: Storm Point",
+              "Match 3: Storm Point",
+              "Match 4: E-District",
+              "Match 5: E-District",
+              "Match 6: E-District"
+            ]
+          },
+          "lineupRemovalsEndTime": "2026-03-20T19:00:00.000Z",
+          "lineupAdditionsEndTime": "2026-03-20T19:00:00.000Z",
+          "poiDraftContent": []
+        },
+        {
+          "groups": [
+            "A",
+            "B"
+          ],
+          "matchStartTime": "2026-05-23T04:00:00.000Z",
+          "roundNumber": 6,
+          "matchNumber": 6,
+          "matchDayLabel": "Match Day #7",
+          "startingMaps": {
+            "title": "Match Day #7 - A vs. B",
+            "content": [
+              "Match 1: E-District",
+              "Match 2: E-District",
+              "Match 3: E-District",
+              "Match 4: Olympus",
+              "Match 5: Olympus",
+              "Match 6: Olympus"
+            ]
+          },
+          "lineupRemovalsEndTime": "2026-05-12T19:00:00.000Z",
+          "lineupAdditionsEndTime": "2026-05-13T19:00:00.000Z",
+          "poiDraftContent": []
+        },
+        {
+          "groups": [
+            "A",
+            "C"
+          ],
+          "matchStartTime": "2026-05-24T04:00:00.000Z",
+          "roundNumber": 7,
+          "matchNumber": 7,
+          "matchDayLabel": "Match Day #8",
+          "startingMaps": {
+            "title": "Match Day #8 - A vs. C",
+            "content": [
+              "Match 1: Storm Point",
+              "Match 2: Storm Point",
+              "Match 3: Storm Point",
+              "Match 4: E-District",
+              "Match 5: E-District",
+              "Match 6: E-District"
+            ]
+          },
+          "lineupRemovalsEndTime": "2026-05-12T19:00:00.000Z",
+          "lineupAdditionsEndTime": "2026-05-13T19:00:00.000Z",
+          "poiDraftContent": []
+        },
+        {
+          "groups": [
+            "B",
+            "C"
+          ],
+          "matchStartTime": "2026-05-30T04:00:00.000Z",
+          "roundNumber": 8,
+          "matchNumber": 8,
+          "matchDayLabel": "Match Day #9",
+          "startingMaps": {
+            "title": "Match Day #9 - B vs. C",
+            "content": [
+              "Match 1: Olympus",
+              "Match 2: Olympus",
+              "Match 3: Olympus",
+              "Match 4: Storm Point",
+              "Match 5: Storm Point",
+              "Match 6: Storm Point"
+            ]
+          },
+          "lineupRemovalsEndTime": "2026-05-12T19:00:00.000Z",
+          "lineupAdditionsEndTime": "2026-05-13T19:00:00.000Z",
+          "poiDraftContent": []
+        }
+      ],
+      "lineupRemovalsEndTime": "2026-03-20T19:00:00.000Z",
+      "lineupAdditionsEndTime": "2026-03-20T19:00:00.000Z"
+    },
+    "europe-middle-east-and-africa": {
+      "allowedRegions": [
+        "europe-middle-east-and-africa"
+      ],
+      "name": "europe-middle-east-and-africa Regional",
+      "format": "round-robin",
+      "location": "online",
+      "registrationOpenTime": "2026-01-18T06:00:00.000Z",
+      "registrationCloseTime": "2026-01-18T07:00:00.000Z",
+      "tournamentCheckInStartTime": "2026-04-04T16:00:00.000Z",
+      "tournamentStartTime": "2026-04-04T16:45:00.000Z",
+      "tournamentSlug": "apex-legends-global-series-pro-league",
+      "structureID": "",
+      "matches": [
+        {
+          "groups": [
+            "A",
+            "B"
+          ],
+          "matchStartTime": "2026-04-04T17:00:00.000Z",
+          "roundNumber": 0,
+          "matchNumber": 0,
+          "matchDayLabel": "Match Day #1",
+          "startingMaps": {
+            "title": "Match Day #1 - A vs. B",
+            "content": [
+              "Match 1: Storm Point",
+              "Match 2: Storm Point",
+              "Match 3: Storm Point",
+              "Match 4: E-District",
+              "Match 5: E-District",
+              "Match 6: E-District"
+            ]
+          },
+          "lineupRemovalsEndTime": "2026-03-20T19:00:00.000Z",
+          "lineupAdditionsEndTime": "2026-03-20T19:00:00.000Z",
+          "poiDraftContent": []
+        },
+        {
+          "groups": [
+            "A",
+            "C"
+          ],
+          "matchStartTime": "2026-04-05T17:00:00.000Z",
+          "roundNumber": 1,
+          "matchNumber": 1,
+          "matchDayLabel": "Match Day #2",
+          "startingMaps": {
+            "title": "Match Day #2 - A vs. C",
+            "content": [
+              "Match 1: Olympus",
+              "Match 2: Olympus",
+              "Match 3: Olympus",
+              "Match 4: Storm Point",
+              "Match 5: Storm Point",
+              "Match 6: Storm Point"
+            ]
+          },
+          "lineupRemovalsEndTime": "2026-03-20T19:00:00.000Z",
+          "lineupAdditionsEndTime": "2026-03-20T19:00:00.000Z",
+          "poiDraftContent": []
+        },
+        {
+          "groups": [
+            "B",
+            "C"
+          ],
+          "matchStartTime": "2026-04-12T17:00:00.000Z",
+          "roundNumber": 2,
+          "matchNumber": 2,
+          "matchDayLabel": "Match Day #3",
+          "startingMaps": {
+            "title": "Match Day #3 - B vs. C",
+            "content": [
+              "Match 1: E-District",
+              "Match 2: E-District",
+              "Match 3: E-District",
+              "Match 4: Olympus",
+              "Match 5: Olympus",
+              "Match 6: Olympus"
+            ]
+          },
+          "lineupRemovalsEndTime": "2026-03-20T19:00:00.000Z",
+          "lineupAdditionsEndTime": "2026-03-20T19:00:00.000Z",
+          "poiDraftContent": []
+        },
+        {
+          "groups": [
+            "A",
+            "B"
+          ],
+          "matchStartTime": "2026-04-19T17:00:00.000Z",
+          "roundNumber": 3,
+          "matchNumber": 3,
+          "matchDayLabel": "Match Day #4",
+          "startingMaps": {
+            "title": "Match Day #4 - A vs. B",
+            "content": [
+              "Match 1: Olympus",
+              "Match 2: Olympus",
+              "Match 3: Olympus",
+              "Match 4: Storm Point",
+              "Match 5: Storm Point",
+              "Match 6: Storm Point"
+            ]
+          },
+          "lineupRemovalsEndTime": "2026-03-20T19:00:00.000Z",
+          "lineupAdditionsEndTime": "2026-03-20T19:00:00.000Z",
+          "poiDraftContent": []
+        },
+        {
+          "groups": [
+            "A",
+            "C"
+          ],
+          "matchStartTime": "2026-04-26T17:00:00.000Z",
+          "roundNumber": 4,
+          "matchNumber": 4,
+          "matchDayLabel": "Match Day #5",
+          "startingMaps": {
+            "title": "Match Day #5 - A vs. C",
+            "content": [
+              "Match 1: E-District",
+              "Match 2: E-District",
+              "Match 3: E-District",
+              "Match 4: Olympus",
+              "Match 5: Olympus",
+              "Match 6: Olympus"
+            ]
+          },
+          "lineupRemovalsEndTime": "2026-03-20T19:00:00.000Z",
+          "lineupAdditionsEndTime": "2026-03-20T19:00:00.000Z",
+          "poiDraftContent": []
+        },
+        {
+          "groups": [
+            "B",
+            "C"
+          ],
+          "matchStartTime": "2026-05-03T17:00:00.000Z",
+          "roundNumber": 5,
+          "matchNumber": 5,
+          "matchDayLabel": "Match Day #6",
+          "startingMaps": {
+            "title": "Match Day #6 - B vs. C",
+            "content": [
+              "Match 1: Storm Point",
+              "Match 2: Storm Point",
+              "Match 3: Storm Point",
+              "Match 4: E-District",
+              "Match 5: E-District",
+              "Match 6: E-District"
+            ]
+          },
+          "lineupRemovalsEndTime": "2026-03-20T19:00:00.000Z",
+          "lineupAdditionsEndTime": "2026-03-20T19:00:00.000Z",
+          "poiDraftContent": []
+        },
+        {
+          "groups": [
+            "A",
+            "B"
+          ],
+          "matchStartTime": "2026-05-23T17:00:00.000Z",
+          "roundNumber": 6,
+          "matchNumber": 6,
+          "matchDayLabel": "Match Day #7",
+          "startingMaps": {
+            "title": "Match Day #7 - A vs. B",
+            "content": [
+              "Match 1: E-District",
+              "Match 2: E-District",
+              "Match 3: E-District",
+              "Match 4: Olympus",
+              "Match 5: Olympus",
+              "Match 6: Olympus"
+            ]
+          },
+          "lineupRemovalsEndTime": "2026-05-12T19:00:00.000Z",
+          "lineupAdditionsEndTime": "2026-05-13T19:00:00.000Z",
+          "poiDraftContent": []
+        },
+        {
+          "groups": [
+            "A",
+            "C"
+          ],
+          "matchStartTime": "2026-05-24T17:00:00.000Z",
+          "roundNumber": 7,
+          "matchNumber": 7,
+          "matchDayLabel": "Match Day #8",
+          "startingMaps": {
+            "title": "Match Day #8 - A vs. C",
+            "content": [
+              "Match 1: Storm Point",
+              "Match 2: Storm Point",
+              "Match 3: Storm Point",
+              "Match 4: E-District",
+              "Match 5: E-District",
+              "Match 6: E-District"
+            ]
+          },
+          "lineupRemovalsEndTime": "2026-05-12T19:00:00.000Z",
+          "lineupAdditionsEndTime": "2026-05-13T19:00:00.000Z",
+          "poiDraftContent": []
+        },
+        {
+          "groups": [
+            "B",
+            "C"
+          ],
+          "matchStartTime": "2026-05-31T17:00:00.000Z",
+          "roundNumber": 8,
+          "matchNumber": 8,
+          "matchDayLabel": "Match Day #9",
+          "startingMaps": {
+            "title": "Match Day #9 - B vs. C",
+            "content": [
+              "Match 1: Olympus",
+              "Match 2: Olympus",
+              "Match 3: Olympus",
+              "Match 4: Storm Point",
+              "Match 5: Storm Point",
+              "Match 6: Storm Point"
+            ]
+          },
+          "lineupRemovalsEndTime": "2026-05-12T19:00:00.000Z",
+          "lineupAdditionsEndTime": "2026-05-13T19:00:00.000Z",
+          "poiDraftContent": []
+        }
+      ],
+      "lineupRemovalsEndTime": "2026-03-20T19:00:00.000Z",
+      "lineupAdditionsEndTime": "2026-03-20T19:00:00.000Z"
+    }
+  },
+  "firstRegistrationOpenTime": "2026-01-18T06:00:00.000Z",
+  "createdAt": "2026-01-13T18:35:23.213Z",
+  "updatedAt": "2026-03-21T23:52:18.831Z"
+}

@@ -27,9 +27,11 @@ export function PlayerList({ players }: { players: Player[] }) {
 
   const regionParam = searchParams.get("region");
   const selected: Region | null =
-    regionParam && VALID_REGIONS.includes(regionParam as Region)
-      ? (regionParam as Region)
-      : null;
+    regionParam === "ALL"
+      ? null
+      : regionParam && VALID_REGIONS.includes(regionParam as Region)
+        ? (regionParam as Region)
+        : "APAC_N";
 
   const setSelected = useCallback(
     (region: Region | null) => {
@@ -37,7 +39,7 @@ export function PlayerList({ players }: { players: Player[] }) {
       if (region) {
         params.set("region", region);
       } else {
-        params.delete("region");
+        params.set("region", "ALL");
       }
       const qs = params.toString();
       router.replace(`${pathname}${qs ? `?${qs}` : ""}`, { scroll: false });
@@ -53,7 +55,7 @@ export function PlayerList({ players }: { players: Player[] }) {
         {VALID_REGIONS.map((r) => (
           <button
             key={r}
-            onClick={() => setSelected(selected === r ? null : r)}
+            onClick={() => setSelected(r)}
             className={`px-3 py-1 rounded-full text-sm font-medium transition-colors ${
               selected === r ? "bg-red-600 text-white" : "bg-gray-800 hover:bg-gray-700 text-gray-300"
             }`}
@@ -92,7 +94,7 @@ export function PlayerList({ players }: { players: Player[] }) {
                     <span className="text-xs bg-gray-700 px-2 py-0.5 rounded">{player.region}</span>
                   )}
                   {player.role && (
-                    <span className="text-xs text-gray-500">{player.role}</span>
+                    <span className="text-xs text-gray-400">{player.role}</span>
                   )}
                 </div>
               </div>

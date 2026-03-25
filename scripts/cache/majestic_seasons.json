@@ -1,0 +1,2799 @@
+{
+  "_id": "696be0f0604fabcc432430ac",
+  "name": "Apex Legends Global Series Season 6",
+  "slug": "algs-season-6",
+  "portalSlug": "apex-legends-global-series-year-6",
+  "config": {
+    "allowRegistration": true,
+    "team": {
+      "limit": 8,
+      "defaultDivisionID": "696be0feb101e6cce8bedd60",
+      "roles": {
+        "player": {
+          "minimum": 0,
+          "maximum": 7,
+          "permissions": [
+            "receive_notifications",
+            "participate_in_event"
+          ]
+        },
+        "staff": {
+          "minimum": 0,
+          "maximum": 2,
+          "permissions": [
+            "receive_notifications"
+          ]
+        },
+        "captain": {
+          "minimum": 1,
+          "maximum": 1,
+          "initialRole": true,
+          "permissions": [
+            "manage_team",
+            "manage_lineups",
+            "receive_notifications",
+            "participate_in_event"
+          ]
+        }
+      }
+    },
+    "events": {
+      "regions": [
+        "americas",
+        "asia-pacific-north",
+        "asia-pacific-south",
+        "europe-middle-east-and-africa"
+      ]
+    },
+    "qualificationCheck": {
+      "minQualifiedLevel": 50
+    },
+    "ticketDisplay": {
+      "isActive": false,
+      "title": "",
+      "cta": "",
+      "url": ""
+    },
+    "winnerDisplay": {
+      "isActive": false,
+      "title": "",
+      "description": "",
+      "winningLineupId": "",
+      "amount": ""
+    }
+  },
+  "ruleUrls": {
+    "version": "2.0",
+    "urls": {
+      "bengali": "https://cdn.battlefy.com/algs/algs-season-6/rules/official-rules-bengali.pdf",
+      "chinese": "https://cdn.battlefy.com/algs/algs-season-6/rules/official-rules-chinese.pdf",
+      "english": "https://cdn.battlefy.com/algs/algs-season-6/rules/official-rules-english.pdf",
+      "french": "https://cdn.battlefy.com/algs/algs-season-6/rules/official-rules-french.pdf",
+      "german": "https://cdn.battlefy.com/algs/algs-season-6/rules/official-rules-german.pdf",
+      "italian": "https://cdn.battlefy.com/algs/algs-season-6/rules/official-rules-italian.pdf",
+      "japanese": "https://cdn.battlefy.com/algs/algs-season-6/rules/official-rules-japanese.pdf",
+      "korean": "https://cdn.battlefy.com/algs/algs-season-6/rules/official-rules-korean.pdf",
+      "lithuanian": "https://cdn.battlefy.com/algs/algs-season-6/rules/official-rules-lithuanian.pdf",
+      "polish": "https://cdn.battlefy.com/algs/algs-season-6/rules/official-rules-polish.pdf",
+      "portuguese": "https://cdn.battlefy.com/algs/algs-season-6/rules/official-rules-portuguese.pdf",
+      "spanishMX": "https://cdn.battlefy.com/algs/algs-season-6/rules/official-rules-spanish.pdf"
+    }
+  },
+  "mediaReleaseUrls": {
+    "version": "1.0",
+    "urls": {
+      "bengali": "https://cdn.battlefy.com/algs/algs-season-6/rules/waiver-english.pdf",
+      "chinese": "https://cdn.battlefy.com/algs/algs-season-6/rules/waiver-english.pdf",
+      "english": "https://cdn.battlefy.com/algs/algs-season-6/rules/waiver-english.pdf",
+      "french": "https://cdn.battlefy.com/algs/algs-season-6/rules/waiver-english.pdf",
+      "german": "https://cdn.battlefy.com/algs/algs-season-6/rules/waiver-english.pdf",
+      "italian": "https://cdn.battlefy.com/algs/algs-season-6/rules/waiver-english.pdf",
+      "japanese": "https://cdn.battlefy.com/algs/algs-season-6/rules/waiver-english.pdf",
+      "korean": "https://cdn.battlefy.com/algs/algs-season-6/rules/waiver-english.pdf",
+      "lithuanian": "https://cdn.battlefy.com/algs/algs-season-6/rules/waiver-english.pdf",
+      "polish": "https://cdn.battlefy.com/algs/algs-season-6/rules/waiver-english.pdf",
+      "portuguese": "https://cdn.battlefy.com/algs/algs-season-6/rules/waiver-english.pdf",
+      "spanishMX": "https://cdn.battlefy.com/algs/algs-season-6/rules/waiver-english.pdf"
+    }
+  },
+  "matchRuleUrls": {
+    "version": "1.0",
+    "urls": {
+      "bengali": "https://cdn.battlefy.com/algs/apex-legends-global-series-year-5/rules/match-rules-bengali.pdf",
+      "chinese": "https://cdn.battlefy.com/algs/apex-legends-global-series-year-5/rules/match-rules-chinese.pdf",
+      "english": "https://cdn.battlefy.com/algs/apex-legends-global-series-year-5/rules/match-rules-english.pdf",
+      "french": "https://cdn.battlefy.com/algs/apex-legends-global-series-year-5/rules/match-rules-french.pdf",
+      "german": "https://cdn.battlefy.com/algs/apex-legends-global-series-year-5/rules/match-rules-german.pdf",
+      "italian": "https://cdn.battlefy.com/algs/apex-legends-global-series-year-5/rules/match-rules-italian.pdf",
+      "japanese": "https://cdn.battlefy.com/algs/apex-legends-global-series-year-5/rules/match-rules-japanese.pdf",
+      "korean": "https://cdn.battlefy.com/algs/apex-legends-global-series-year-5/rules/match-rules-korean.pdf",
+      "lithuanian": "https://cdn.battlefy.com/algs/apex-legends-global-series-year-5/rules/match-rules-lithuanian.pdf",
+      "polish": "https://cdn.battlefy.com/algs/apex-legends-global-series-year-5/rules/match-rules-polish.pdf",
+      "portuguese": "https://cdn.battlefy.com/algs/apex-legends-global-series-year-5/rules/match-rules-portuguese.pdf",
+      "spanishMX": "https://cdn.battlefy.com/algs/apex-legends-global-series-year-5/rules/match-rules-spanish.pdf"
+    }
+  },
+  "updatedAt": "2026-02-25T22:15:46.858Z",
+  "isActive": true,
+  "eventTypes": [
+    {
+      "_id": "696be10651f99ecd5af60360",
+      "seasonID": "696be0f0604fabcc432430ac",
+      "name": "Online Opens",
+      "slug": "preseason-qualifiers",
+      "phase": "preseason",
+      "registrationType": "open",
+      "canUnjoin": true,
+      "eligibleDivisionIDs": [
+        "696be0feb101e6cce8bedd60"
+      ],
+      "config": {
+        "lineup": {
+          "multiEventRegister": true,
+          "limit": 5,
+          "roles": {
+            "player": {
+              "minimum": 3,
+              "maximum": 4
+            },
+            "coach": {
+              "minimum": 0,
+              "maximum": 1
+            }
+          }
+        },
+        "visibility": "public"
+      },
+      "startDate": "2026-02-28T03:00:00.000Z",
+      "leaderboardSeasonID": 177,
+      "updatedAt": "2026-01-17T19:20:38.511Z",
+      "isActive": true,
+      "isPublished": true,
+      "events": [
+        {
+          "_id": "696c292f5e5e731fe5fff573",
+          "name": "Online Open #1",
+          "slug": "online-open-1",
+          "eventTypeID": "696be10651f99ecd5af60360",
+          "regionalEvents": {
+            "americas": {
+              "allowedRegions": [
+                "americas"
+              ],
+              "name": "americas Regional",
+              "format": "single-elimination",
+              "location": "online",
+              "registrationOpenTime": "2026-01-18T05:00:00.000Z",
+              "registrationCloseTime": "2026-02-25T20:00:00.000Z",
+              "tournamentCheckInStartTime": "2026-02-28T19:00:00.000Z",
+              "tournamentStartTime": "2026-02-28T20:00:00.000Z",
+              "tournamentSlug": "apex-legends-global-series",
+              "structureID": "69a22447d315930012dae026",
+              "startingMaps": {
+                "title": "Online Open #1 Maps",
+                "content": [
+                  "<><><> Round of 64",
+                  "Match 1 & 2: E-District",
+                  "Match 3 & 4: Storm Point",
+                  "<><><> Round of 32",
+                  "Match 1 & 2: Olympus",
+                  "Match 3 & 4: E-District",
+                  "<><><> Round of 16",
+                  "Match 1 & 2: Storm Point",
+                  "Match 3 & 4: Olympus",
+                  "<><><> Round of 8",
+                  "Match 1 & 2: E-District",
+                  "Match 3 & 4: Storm Point",
+                  "<><><> Quarterfinals",
+                  "Match 1 - 3: Olympus",
+                  "Match 4 - 6: E-District",
+                  "<><><> Semifinals",
+                  "Match 1 - 3: Storm Point",
+                  "Match 4 - 6: Olympus",
+                  "<><><> Finals",
+                  "Match 1 - 3: E-District",
+                  "Match 4 - 6: Storm Point"
+                ]
+              },
+              "completedAt": "2026-03-03T04:42:30.730Z"
+            },
+            "asia-pacific-north": {
+              "allowedRegions": [
+                "asia-pacific-north"
+              ],
+              "name": "asia-pacific-north Regional",
+              "format": "single-elimination",
+              "location": "online",
+              "registrationOpenTime": "2026-01-18T05:00:00.000Z",
+              "registrationCloseTime": "2026-02-25T20:00:00.000Z",
+              "tournamentCheckInStartTime": "2026-02-28T02:00:00.000Z",
+              "tournamentStartTime": "2026-02-28T03:00:00.000Z",
+              "tournamentSlug": "apex-legends-global-series",
+              "structureID": "69a20b7cd315930012dae01a",
+              "startingMaps": {
+                "title": "Online Open #1 Maps",
+                "content": [
+                  "<><><> Round of 64",
+                  "Match 1 & 2: E-District",
+                  "Match 3 & 4: Storm Point",
+                  "<><><> Round of 32",
+                  "Match 1 & 2: Olympus",
+                  "Match 3 & 4: E-District",
+                  "<><><> Round of 16",
+                  "Match 1 & 2: Storm Point",
+                  "Match 3 & 4: Olympus",
+                  "<><><> Round of 8",
+                  "Match 1 & 2: E-District",
+                  "Match 3 & 4: Storm Point",
+                  "<><><> Quarterfinals",
+                  "Match 1 - 3: Olympus",
+                  "Match 4 - 6: E-District",
+                  "<><><> Semifinals",
+                  "Match 1 - 3: Storm Point",
+                  "Match 4 - 6: Olympus",
+                  "<><><> Finals",
+                  "Match 1 - 3: E-District",
+                  "Match 4 - 6: Storm Point"
+                ]
+              },
+              "completedAt": "2026-03-02T13:40:50.474Z"
+            },
+            "asia-pacific-south": {
+              "allowedRegions": [
+                "asia-pacific-south"
+              ],
+              "name": "asia-pacific-south Regional",
+              "format": "single-elimination",
+              "location": "online",
+              "registrationOpenTime": "2026-01-18T05:00:00.000Z",
+              "registrationCloseTime": "2026-02-25T20:00:00.000Z",
+              "tournamentCheckInStartTime": "2026-02-28T03:00:00.000Z",
+              "tournamentStartTime": "2026-02-28T04:00:00.000Z",
+              "tournamentSlug": "apex-legends-global-series",
+              "structureID": "69a215a8d315930012dae01e",
+              "startingMaps": {
+                "title": "Online Open #1 Maps",
+                "content": [
+                  "<><><> Round of 64",
+                  "Match 1 & 2: E-District",
+                  "Match 3 & 4: Storm Point",
+                  "<><><> Round of 32",
+                  "Match 1 & 2: Olympus",
+                  "Match 3 & 4: E-District",
+                  "<><><> Round of 16",
+                  "Match 1 & 2: Storm Point",
+                  "Match 3 & 4: Olympus",
+                  "<><><> Round of 8",
+                  "Match 1 & 2: E-District",
+                  "Match 3 & 4: Storm Point",
+                  "<><><> Quarterfinals",
+                  "Match 1 - 3: Olympus",
+                  "Match 4 - 6: E-District",
+                  "<><><> Semifinals",
+                  "Match 1 - 3: Storm Point",
+                  "Match 4 - 6: Olympus",
+                  "<><><> Finals",
+                  "Match 1 - 3: E-District",
+                  "Match 4 - 6: Storm Point"
+                ]
+              },
+              "completedAt": "2026-03-01T12:49:50.351Z"
+            },
+            "europe-middle-east-and-africa": {
+              "allowedRegions": [
+                "europe-middle-east-and-africa"
+              ],
+              "name": "europe-middle-east-and-africa Regional",
+              "format": "single-elimination",
+              "location": "online",
+              "registrationOpenTime": "2026-01-18T05:00:00.000Z",
+              "registrationCloseTime": "2026-02-25T20:00:00.000Z",
+              "tournamentCheckInStartTime": "2026-02-28T11:00:00.000Z",
+              "tournamentStartTime": "2026-02-28T12:00:00.000Z",
+              "tournamentSlug": "apex-legends-global-series",
+              "structureID": "69a22420d315930012dae022",
+              "startingMaps": {
+                "title": "Online Open #1 Maps",
+                "content": [
+                  "<><><> Round of 64",
+                  "Match 1 & 2: E-District",
+                  "Match 3 & 4: Storm Point",
+                  "<><><> Round of 32",
+                  "Match 1 & 2: Olympus",
+                  "Match 3 & 4: E-District",
+                  "<><><> Round of 16",
+                  "Match 1 & 2: Storm Point",
+                  "Match 3 & 4: Olympus",
+                  "<><><> Round of 8",
+                  "Match 1 & 2: E-District",
+                  "Match 3 & 4: Storm Point",
+                  "<><><> Quarterfinals",
+                  "Match 1 - 3: Olympus",
+                  "Match 4 - 6: E-District",
+                  "<><><> Semifinals",
+                  "Match 1 - 3: Storm Point",
+                  "Match 4 - 6: Olympus",
+                  "<><><> Finals",
+                  "Match 1 - 3: E-District",
+                  "Match 4 - 6: Storm Point"
+                ]
+              },
+              "completedAt": "2026-03-02T22:52:08.794Z"
+            }
+          },
+          "eventPublished": true,
+          "isActive": false,
+          "firstRegionStartTime": "2026-02-28T03:00:00.000Z"
+        },
+        {
+          "_id": "696c29545e5e731fe5fff574",
+          "name": "Online Open #2",
+          "slug": "online-open-2",
+          "eventTypeID": "696be10651f99ecd5af60360",
+          "regionalEvents": {
+            "americas": {
+              "allowedRegions": [
+                "americas"
+              ],
+              "name": "americas Regional",
+              "format": "single-elimination",
+              "location": "online",
+              "registrationOpenTime": "2026-01-18T05:00:00.000Z",
+              "registrationCloseTime": "2026-03-04T20:00:00.000Z",
+              "tournamentCheckInStartTime": "2026-03-07T19:00:00.000Z",
+              "tournamentStartTime": "2026-03-07T20:00:00.000Z",
+              "tournamentSlug": "apex-legends-global-series",
+              "structureID": "69abb3105cd6d30013c32965",
+              "startingMaps": {
+                "title": "Online Open #2 Maps",
+                "content": [
+                  "<><><> Round of 64",
+                  "Match 1 & 2: Storm Point",
+                  "Match 3 & 4: Olympus",
+                  "<><><> Round of 32",
+                  "Match 1 & 2: E-District",
+                  "Match 3 & 4: Storm Point",
+                  "<><><> Round of 16",
+                  "Match 1 & 2: Olympus",
+                  "Match 3 & 4: E-District",
+                  "<><><> Round of 8",
+                  "Match 1 & 2: Storm Point",
+                  "Match 3 & 4: Olympus",
+                  "<><><> Quarterfinals",
+                  "Match 1 - 3: E-District",
+                  "Match 4 - 6: Storm Point",
+                  "<><><> Semifinals",
+                  "Match 1 - 3: Olympus",
+                  "Match 4 - 6: E-District",
+                  "<><><> Finals",
+                  "Match 1 - 3: Storm Point",
+                  "Match 4 - 6: Olympus"
+                ]
+              },
+              "completedAt": "2026-03-10T03:34:19.248Z"
+            },
+            "asia-pacific-north": {
+              "allowedRegions": [
+                "asia-pacific-north"
+              ],
+              "name": "asia-pacific-north Regional",
+              "format": "single-elimination",
+              "location": "online",
+              "registrationOpenTime": "2026-01-18T05:00:00.000Z",
+              "registrationCloseTime": "2026-03-04T20:00:00.000Z",
+              "tournamentCheckInStartTime": "2026-03-07T02:00:00.000Z",
+              "tournamentStartTime": "2026-03-07T03:00:00.000Z",
+              "tournamentSlug": "apex-legends-global-series",
+              "structureID": "69aa04cca7f13e0013c4a37c",
+              "startingMaps": {
+                "title": "Online Open #2 Maps",
+                "content": [
+                  "<><><> Round of 64",
+                  "Match 1 & 2: Storm Point",
+                  "Match 3 & 4: Olympus",
+                  "<><><> Round of 32",
+                  "Match 1 & 2: E-District",
+                  "Match 3 & 4: Storm Point",
+                  "<><><> Round of 16",
+                  "Match 1 & 2: Olympus",
+                  "Match 3 & 4: E-District",
+                  "<><><> Round of 8",
+                  "Match 1 & 2: Storm Point",
+                  "Match 3 & 4: Olympus",
+                  "<><><> Quarterfinals",
+                  "Match 1 - 3: E-District",
+                  "Match 4 - 6: Storm Point",
+                  "<><><> Semifinals",
+                  "Match 1 - 3: Olympus",
+                  "Match 4 - 6: E-District",
+                  "<><><> Finals",
+                  "Match 1 - 3: Storm Point",
+                  "Match 4 - 6: Olympus"
+                ]
+              },
+              "completedAt": "2026-03-09T11:38:32.891Z"
+            },
+            "asia-pacific-south": {
+              "allowedRegions": [
+                "asia-pacific-south"
+              ],
+              "name": "asia-pacific-south Regional",
+              "format": "single-elimination",
+              "location": "online",
+              "registrationOpenTime": "2026-01-18T05:00:00.000Z",
+              "registrationCloseTime": "2026-03-04T20:00:00.000Z",
+              "tournamentCheckInStartTime": "2026-03-07T03:00:00.000Z",
+              "tournamentStartTime": "2026-03-07T04:00:00.000Z",
+              "tournamentSlug": "apex-legends-global-series",
+              "structureID": "69aa04eca7f13e0013c4a380",
+              "startingMaps": {
+                "title": "Online Open #2 Maps",
+                "content": [
+                  "<><><> Round of 64",
+                  "Match 1 & 2: Storm Point",
+                  "Match 3 & 4: Olympus",
+                  "<><><> Round of 32",
+                  "Match 1 & 2: E-District",
+                  "Match 3 & 4: Storm Point",
+                  "<><><> Round of 16",
+                  "Match 1 & 2: Olympus",
+                  "Match 3 & 4: E-District",
+                  "<><><> Round of 8",
+                  "Match 1 & 2: Storm Point",
+                  "Match 3 & 4: Olympus",
+                  "<><><> Quarterfinals",
+                  "Match 1 - 3: E-District",
+                  "Match 4 - 6: Storm Point",
+                  "<><><> Semifinals",
+                  "Match 1 - 3: Olympus",
+                  "Match 4 - 6: E-District",
+                  "<><><> Finals",
+                  "Match 1 - 3: Storm Point",
+                  "Match 4 - 6: Olympus"
+                ]
+              },
+              "completedAt": "2026-03-08T10:00:32.874Z"
+            },
+            "europe-middle-east-and-africa": {
+              "allowedRegions": [
+                "europe-middle-east-and-africa"
+              ],
+              "name": "europe-middle-east-and-africa Regional",
+              "format": "single-elimination",
+              "location": "online",
+              "registrationOpenTime": "2026-01-18T05:00:00.000Z",
+              "registrationCloseTime": "2026-03-04T20:00:00.000Z",
+              "tournamentCheckInStartTime": "2026-03-07T11:00:00.000Z",
+              "tournamentStartTime": "2026-03-07T12:00:00.000Z",
+              "tournamentSlug": "apex-legends-global-series",
+              "structureID": "69aa0519a7f13e0013c4a384",
+              "startingMaps": {
+                "title": "Online Open #2 Maps",
+                "content": [
+                  "<><><> Round of 64",
+                  "Match 1 & 2: Storm Point",
+                  "Match 3 & 4: Olympus",
+                  "<><><> Round of 32",
+                  "Match 1 & 2: E-District",
+                  "Match 3 & 4: Storm Point",
+                  "<><><> Round of 16",
+                  "Match 1 & 2: Olympus",
+                  "Match 3 & 4: E-District",
+                  "<><><> Round of 8",
+                  "Match 1 & 2: Storm Point",
+                  "Match 3 & 4: Olympus",
+                  "<><><> Quarterfinals",
+                  "Match 1 - 3: E-District",
+                  "Match 4 - 6: Storm Point",
+                  "<><><> Semifinals",
+                  "Match 1 - 3: Olympus",
+                  "Match 4 - 6: E-District",
+                  "<><><> Finals",
+                  "Match 1 - 3: Storm Point",
+                  "Match 4 - 6: Olympus"
+                ]
+              },
+              "completedAt": "2026-03-09T19:42:54.437Z"
+            }
+          },
+          "eventPublished": true,
+          "isActive": false,
+          "firstRegionStartTime": "2026-03-07T03:00:00.000Z"
+        },
+        {
+          "_id": "69668ffeda57df00134b88d9",
+          "name": "Online Open #3",
+          "slug": "online-open-3",
+          "eventTypeID": "696be10651f99ecd5af60360",
+          "regionalEvents": {
+            "americas": {
+              "allowedRegions": [
+                "americas"
+              ],
+              "name": "americas Regional",
+              "format": "single-elimination",
+              "location": "online",
+              "registrationOpenTime": "2026-01-18T05:00:00.000Z",
+              "registrationCloseTime": "2026-03-11T19:00:00.000Z",
+              "tournamentCheckInStartTime": "2026-03-14T18:00:00.000Z",
+              "tournamentStartTime": "2026-03-14T19:00:00.000Z",
+              "tournamentSlug": "apex-legends-global-series",
+              "structureID": "69b36a860d68b700139bfb2f",
+              "startingMaps": {
+                "title": "Online Open #3 Maps",
+                "content": [
+                  "<><><> Round of 64",
+                  "Match 1 & 2: Olympus",
+                  "Match 3 & 4: E-District",
+                  "<><><> Round of 32",
+                  "Match 1 & 2: Storm Point",
+                  "Match 3 & 4: Olympus",
+                  "<><><> Round of 16",
+                  "Match 1 & 2: E-District",
+                  "Match 3 & 4: Storm Point",
+                  "<><><> Round of 8",
+                  "Match 1 & 2: Olympus",
+                  "Match 3 & 4: E-District",
+                  "<><><> Quarterfinals",
+                  "Match 1 - 3: Storm Point",
+                  "Match 4 - 6: Olympus",
+                  "<><><> Semifinals",
+                  "Match 1 - 3: E-District",
+                  "Match 4 - 6: Storm Point",
+                  "<><><> Finals",
+                  "Match 1 - 3: Olympus",
+                  "Match 4 - 6: E-District"
+                ]
+              },
+              "completedAt": "2026-03-17T03:28:15.492Z"
+            },
+            "asia-pacific-north": {
+              "allowedRegions": [
+                "asia-pacific-north"
+              ],
+              "name": "asia-pacific-north Regional",
+              "format": "single-elimination",
+              "location": "online",
+              "registrationOpenTime": "2026-01-18T05:00:00.000Z",
+              "registrationCloseTime": "2026-03-11T19:00:00.000Z",
+              "tournamentCheckInStartTime": "2026-03-14T02:00:00.000Z",
+              "tournamentStartTime": "2026-03-14T03:00:00.000Z",
+              "tournamentSlug": "apex-legends-global-series",
+              "structureID": "69b36a030d68b700139bfb23",
+              "startingMaps": {
+                "title": "Online Open #3 Maps",
+                "content": [
+                  "<><><> Round of 64",
+                  "Match 1 & 2: Olympus",
+                  "Match 3 & 4: E-District",
+                  "<><><> Round of 32",
+                  "Match 1 & 2: Storm Point",
+                  "Match 3 & 4: Olympus",
+                  "<><><> Round of 16",
+                  "Match 1 & 2: E-District",
+                  "Match 3 & 4: Storm Point",
+                  "<><><> Round of 8",
+                  "Match 1 & 2: Olympus",
+                  "Match 3 & 4: E-District",
+                  "<><><> Quarterfinals",
+                  "Match 1 - 3: Storm Point",
+                  "Match 4 - 6: Olympus",
+                  "<><><> Semifinals",
+                  "Match 1 - 3: E-District",
+                  "Match 4 - 6: Storm Point",
+                  "<><><> Finals",
+                  "Match 1 - 3: Olympus",
+                  "Match 4 - 6: E-District"
+                ]
+              },
+              "completedAt": "2026-03-16T11:28:07.452Z"
+            },
+            "asia-pacific-south": {
+              "allowedRegions": [
+                "asia-pacific-south"
+              ],
+              "name": "asia-pacific-south Regional",
+              "format": "single-elimination",
+              "location": "online",
+              "registrationOpenTime": "2026-01-18T05:00:00.000Z",
+              "registrationCloseTime": "2026-03-11T19:00:00.000Z",
+              "tournamentCheckInStartTime": "2026-03-14T03:00:00.000Z",
+              "tournamentStartTime": "2026-03-14T04:00:00.000Z",
+              "tournamentSlug": "apex-legends-global-series",
+              "structureID": "69b36a250d68b700139bfb27",
+              "startingMaps": {
+                "title": "Online Open #3 Maps",
+                "content": [
+                  "<><><> Round of 64",
+                  "Match 1 & 2: Olympus",
+                  "Match 3 & 4: E-District",
+                  "<><><> Round of 32",
+                  "Match 1 & 2: Storm Point",
+                  "Match 3 & 4: Olympus",
+                  "<><><> Round of 16",
+                  "Match 1 & 2: E-District",
+                  "Match 3 & 4: Storm Point",
+                  "<><><> Round of 8",
+                  "Match 1 & 2: Olympus",
+                  "Match 3 & 4: E-District",
+                  "<><><> Quarterfinals",
+                  "Match 1 - 3: Storm Point",
+                  "Match 4 - 6: Olympus",
+                  "<><><> Semifinals",
+                  "Match 1 - 3: E-District",
+                  "Match 4 - 6: Storm Point",
+                  "<><><> Finals",
+                  "Match 1 - 3: Olympus",
+                  "Match 4 - 6: E-District"
+                ]
+              },
+              "completedAt": "2026-03-15T10:17:56.839Z"
+            },
+            "europe-middle-east-and-africa": {
+              "allowedRegions": [
+                "europe-middle-east-and-africa"
+              ],
+              "name": "europe-middle-east-and-africa Regional",
+              "format": "single-elimination",
+              "location": "online",
+              "registrationOpenTime": "2026-01-18T05:00:00.000Z",
+              "registrationCloseTime": "2026-03-11T19:00:00.000Z",
+              "tournamentCheckInStartTime": "2026-03-14T11:00:00.000Z",
+              "tournamentStartTime": "2026-03-14T12:00:00.000Z",
+              "tournamentSlug": "apex-legends-global-series",
+              "structureID": "69b36a5a0d68b700139bfb2b",
+              "startingMaps": {
+                "title": "Online Open #3 Maps",
+                "content": [
+                  "<><><> Round of 64",
+                  "Match 1 & 2: Olympus",
+                  "Match 3 & 4: E-District",
+                  "<><><> Round of 32",
+                  "Match 1 & 2: Storm Point",
+                  "Match 3 & 4: Olympus",
+                  "<><><> Round of 16",
+                  "Match 1 & 2: E-District",
+                  "Match 3 & 4: Storm Point",
+                  "<><><> Round of 8",
+                  "Match 1 & 2: Olympus",
+                  "Match 3 & 4: E-District",
+                  "<><><> Quarterfinals",
+                  "Match 1 - 3: Storm Point",
+                  "Match 4 - 6: Olympus",
+                  "<><><> Semifinals",
+                  "Match 1 - 3: E-District",
+                  "Match 4 - 6: Storm Point",
+                  "<><><> Finals",
+                  "Match 1 - 3: Olympus",
+                  "Match 4 - 6: E-District"
+                ]
+              },
+              "completedAt": "2026-03-16T20:47:44.334Z"
+            }
+          },
+          "eventPublished": true,
+          "isActive": false,
+          "firstRegionStartTime": "2026-03-14T03:00:00.000Z"
+        },
+        {
+          "_id": "696c299a5e5e731fe5fff575",
+          "name": "Online Open #4",
+          "slug": "online-open-4",
+          "eventTypeID": "696be10651f99ecd5af60360",
+          "regionalEvents": {
+            "americas": {
+              "allowedRegions": [
+                "americas"
+              ],
+              "name": "americas Regional",
+              "format": "single-elimination",
+              "location": "online",
+              "registrationOpenTime": "2026-01-18T05:00:00.000Z",
+              "registrationCloseTime": "2026-03-18T19:00:00.000Z",
+              "tournamentCheckInStartTime": "2026-03-21T18:00:00.000Z",
+              "tournamentStartTime": "2026-03-21T19:00:00.000Z",
+              "tournamentSlug": "apex-legends-global-series",
+              "structureID": "69b9e8a0c0591400132de6f0",
+              "startingMaps": {
+                "title": "Online Open #4 Maps",
+                "content": [
+                  "<><><> Round of 64",
+                  "Match 1 & 2: E-District",
+                  "Match 3 & 4: Storm Point",
+                  "<><><> Round of 32",
+                  "Match 1 & 2: Olympus",
+                  "Match 3 & 4: E-District",
+                  "<><><> Round of 16",
+                  "Match 1 & 2: Storm Point",
+                  "Match 3 & 4: Olympus",
+                  "<><><> Round of 8",
+                  "Match 1 & 2: E-District",
+                  "Match 3 & 4: Storm Point",
+                  "<><><> Quarterfinals",
+                  "Match 1 - 3: Olympus",
+                  "Match 4 - 6: E-District",
+                  "<><><> Semifinals",
+                  "Match 1 - 3: Storm Point",
+                  "Match 4 - 6: Olympus",
+                  "<><><> Finals",
+                  "Match 1 - 3: E-District",
+                  "Match 4 - 6: Storm Point"
+                ]
+              }
+            },
+            "asia-pacific-north": {
+              "allowedRegions": [
+                "asia-pacific-north"
+              ],
+              "name": "asia-pacific-north Regional",
+              "format": "single-elimination",
+              "location": "online",
+              "registrationOpenTime": "2026-01-18T05:00:00.000Z",
+              "registrationCloseTime": "2026-03-18T19:00:00.000Z",
+              "tournamentCheckInStartTime": "2026-03-21T02:00:00.000Z",
+              "tournamentStartTime": "2026-03-21T03:00:00.000Z",
+              "tournamentSlug": "apex-legends-global-series",
+              "structureID": "69b9e86dc0591400132de6e4",
+              "startingMaps": {
+                "title": "Online Open #4 Maps",
+                "content": [
+                  "<><><> Round of 64",
+                  "Match 1 & 2: E-District",
+                  "Match 3 & 4: Storm Point",
+                  "<><><> Round of 32",
+                  "Match 1 & 2: Olympus",
+                  "Match 3 & 4: E-District",
+                  "<><><> Round of 16",
+                  "Match 1 & 2: Storm Point",
+                  "Match 3 & 4: Olympus",
+                  "<><><> Round of 8",
+                  "Match 1 & 2: E-District",
+                  "Match 3 & 4: Storm Point",
+                  "<><><> Quarterfinals",
+                  "Match 1 - 3: Olympus",
+                  "Match 4 - 6: E-District",
+                  "<><><> Semifinals",
+                  "Match 1 - 3: Storm Point",
+                  "Match 4 - 6: Olympus",
+                  "<><><> Finals",
+                  "Match 1 - 3: E-District",
+                  "Match 4 - 6: Storm Point"
+                ]
+              },
+              "completedAt": "2026-03-23T15:04:27.791Z"
+            },
+            "asia-pacific-south": {
+              "allowedRegions": [
+                "asia-pacific-south"
+              ],
+              "name": "asia-pacific-south Regional",
+              "format": "single-elimination",
+              "location": "online",
+              "registrationOpenTime": "2026-01-18T05:00:00.000Z",
+              "registrationCloseTime": "2026-03-18T19:00:00.000Z",
+              "tournamentCheckInStartTime": "2026-03-21T03:00:00.000Z",
+              "tournamentStartTime": "2026-03-21T04:00:00.000Z",
+              "tournamentSlug": "apex-legends-global-series",
+              "structureID": "69b9e87ec0591400132de6e8",
+              "startingMaps": {
+                "title": "Online Open #4 Maps",
+                "content": [
+                  "<><><> Round of 64",
+                  "Match 1 & 2: E-District",
+                  "Match 3 & 4: Storm Point",
+                  "<><><> Round of 32",
+                  "Match 1 & 2: Olympus",
+                  "Match 3 & 4: E-District",
+                  "<><><> Round of 16",
+                  "Match 1 & 2: Storm Point",
+                  "Match 3 & 4: Olympus",
+                  "<><><> Round of 8",
+                  "Match 1 & 2: E-District",
+                  "Match 3 & 4: Storm Point",
+                  "<><><> Quarterfinals",
+                  "Match 1 - 3: Olympus",
+                  "Match 4 - 6: E-District",
+                  "<><><> Semifinals",
+                  "Match 1 - 3: Storm Point",
+                  "Match 4 - 6: Olympus",
+                  "<><><> Finals",
+                  "Match 1 - 3: E-District",
+                  "Match 4 - 6: Storm Point"
+                ]
+              },
+              "completedAt": "2026-03-23T15:04:26.151Z"
+            },
+            "europe-middle-east-and-africa": {
+              "allowedRegions": [
+                "europe-middle-east-and-africa"
+              ],
+              "name": "europe-middle-east-and-africa Regional",
+              "format": "single-elimination",
+              "location": "online",
+              "registrationOpenTime": "2026-01-18T05:00:00.000Z",
+              "registrationCloseTime": "2026-03-18T19:00:00.000Z",
+              "tournamentCheckInStartTime": "2026-03-21T11:00:00.000Z",
+              "tournamentStartTime": "2026-03-21T12:00:00.000Z",
+              "tournamentSlug": "apex-legends-global-series",
+              "structureID": "69b9e88ec0591400132de6ec",
+              "startingMaps": {
+                "title": "Online Open #4 Maps",
+                "content": [
+                  "<><><> Round of 64",
+                  "Match 1 & 2: E-District",
+                  "Match 3 & 4: Storm Point",
+                  "<><><> Round of 32",
+                  "Match 1 & 2: Olympus",
+                  "Match 3 & 4: E-District",
+                  "<><><> Round of 16",
+                  "Match 1 & 2: Storm Point",
+                  "Match 3 & 4: Olympus",
+                  "<><><> Round of 8",
+                  "Match 1 & 2: E-District",
+                  "Match 3 & 4: Storm Point",
+                  "<><><> Quarterfinals",
+                  "Match 1 - 3: Olympus",
+                  "Match 4 - 6: E-District",
+                  "<><><> Semifinals",
+                  "Match 1 - 3: Storm Point",
+                  "Match 4 - 6: Olympus",
+                  "<><><> Finals",
+                  "Match 1 - 3: E-District",
+                  "Match 4 - 6: Storm Point"
+                ]
+              }
+            }
+          },
+          "eventPublished": true,
+          "isActive": true,
+          "firstRegionStartTime": "2026-03-21T03:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "_id": "696be10651f99ecd5af60362",
+      "seasonID": "696be0f0604fabcc432430ac",
+      "name": "Split 1 - Pro League",
+      "slug": "split-1-pro-league",
+      "phase": "split-1",
+      "registrationType": "invite-only",
+      "canUnjoin": false,
+      "eligibleDivisionIDs": [
+        "696be0feb101e6cce8bedd61"
+      ],
+      "config": {
+        "lineup": {
+          "limit": 5,
+          "roles": {
+            "player": {
+              "minimum": 0,
+              "maximum": 4
+            },
+            "coach": {
+              "minimum": 0,
+              "maximum": 1
+            }
+          },
+          "requiresRosterApprovals": true
+        },
+        "tournamentStructure": {
+          "allowVersionedParticipants": true
+        },
+        "visibility": "private",
+        "leaderboard": {
+          "disableResultsPageLimit": true
+        },
+        "hasRegionInviteLock": true,
+        "eventProgression": {
+          "topN": 20,
+          "progressionBy": "leaderboard",
+          "advancementMap": {
+            "pro-league-split-1": "pro-league-split-1-regional-finals"
+          }
+        }
+      },
+      "externalUrl": "",
+      "updatedAt": "2026-01-17T19:20:38.511Z",
+      "leaderboardSeasonID": "",
+      "isActive": true,
+      "isPublished": true,
+      "startDate": "2026-04-04T03:45:00.000Z",
+      "events": [
+        {
+          "_id": "696c29ef5e5e731fe5fff576",
+          "name": "Split 1 - Pro League",
+          "slug": "pro-league-split-1",
+          "eventTypeID": "696be10651f99ecd5af60362",
+          "regionalEvents": {
+            "americas": {
+              "allowedRegions": [
+                "americas"
+              ],
+              "name": "americas Regional",
+              "format": "round-robin",
+              "location": "online",
+              "registrationOpenTime": "2026-01-18T06:00:00.000Z",
+              "registrationCloseTime": "2026-01-18T07:00:00.000Z",
+              "tournamentCheckInStartTime": "2026-04-04T21:00:00.000Z",
+              "tournamentStartTime": "2026-04-04T21:45:00.000Z",
+              "tournamentSlug": "apex-legends-global-series-pro-league",
+              "structureID": "",
+              "matches": [
+                {
+                  "groups": [
+                    "A",
+                    "B"
+                  ],
+                  "matchStartTime": "2026-04-04T22:00:00.000Z",
+                  "roundNumber": 0,
+                  "matchNumber": 0,
+                  "matchDayLabel": "Match Day #1",
+                  "startingMaps": {
+                    "title": "Match Day #1 - A vs. B",
+                    "content": [
+                      "Match 1: Storm Point",
+                      "Match 2: Storm Point",
+                      "Match 3: Storm Point",
+                      "Match 4: E-District",
+                      "Match 5: E-District",
+                      "Match 6: E-District"
+                    ]
+                  },
+                  "lineupRemovalsEndTime": "2026-03-20T19:00:00.000Z",
+                  "lineupAdditionsEndTime": "2026-03-20T19:00:00.000Z",
+                  "poiDraftContent": []
+                },
+                {
+                  "groups": [
+                    "A",
+                    "C"
+                  ],
+                  "matchStartTime": "2026-04-05T22:00:00.000Z",
+                  "roundNumber": 1,
+                  "matchNumber": 1,
+                  "matchDayLabel": "Match Day #2",
+                  "startingMaps": {
+                    "title": "Match Day #2 - A vs. C",
+                    "content": [
+                      "Match 1: Olympus",
+                      "Match 2: Olympus",
+                      "Match 3: Olympus",
+                      "Match 4: Storm Point",
+                      "Match 5: Storm Point",
+                      "Match 6: Storm Point"
+                    ]
+                  },
+                  "lineupRemovalsEndTime": "2026-03-20T19:00:00.000Z",
+                  "lineupAdditionsEndTime": "2026-03-20T19:00:00.000Z",
+                  "poiDraftContent": []
+                },
+                {
+                  "groups": [
+                    "B",
+                    "C"
+                  ],
+                  "matchStartTime": "2026-04-12T22:00:00.000Z",
+                  "roundNumber": 2,
+                  "matchNumber": 2,
+                  "matchDayLabel": "Match Day #3",
+                  "startingMaps": {
+                    "title": "Match Day #3 - B vs. C",
+                    "content": [
+                      "Match 1: E-District",
+                      "Match 2: E-District",
+                      "Match 3: E-District",
+                      "Match 4: Olympus",
+                      "Match 5: Olympus",
+                      "Match 6: Olympus"
+                    ]
+                  },
+                  "lineupRemovalsEndTime": "2026-03-20T19:00:00.000Z",
+                  "lineupAdditionsEndTime": "2026-03-20T19:00:00.000Z",
+                  "poiDraftContent": []
+                },
+                {
+                  "groups": [
+                    "A",
+                    "B"
+                  ],
+                  "matchStartTime": "2026-04-19T22:00:00.000Z",
+                  "roundNumber": 3,
+                  "matchNumber": 3,
+                  "matchDayLabel": "Match Day #4",
+                  "startingMaps": {
+                    "title": "Match Day #4 - A vs. B",
+                    "content": [
+                      "Match 1: Olympus",
+                      "Match 2: Olympus",
+                      "Match 3: Olympus",
+                      "Match 4: Storm Point",
+                      "Match 5: Storm Point",
+                      "Match 6: Storm Point"
+                    ]
+                  },
+                  "lineupRemovalsEndTime": "2026-03-20T19:00:00.000Z",
+                  "lineupAdditionsEndTime": "2026-03-20T19:00:00.000Z",
+                  "poiDraftContent": []
+                },
+                {
+                  "groups": [
+                    "A",
+                    "C"
+                  ],
+                  "matchStartTime": "2026-04-26T22:00:00.000Z",
+                  "roundNumber": 4,
+                  "matchNumber": 4,
+                  "matchDayLabel": "Match Day #5",
+                  "startingMaps": {
+                    "title": "Match Day #5 - A vs. C",
+                    "content": [
+                      "Match 1: E-District",
+                      "Match 2: E-District",
+                      "Match 3: E-District",
+                      "Match 4: Olympus",
+                      "Match 5: Olympus",
+                      "Match 6: Olympus"
+                    ]
+                  },
+                  "lineupRemovalsEndTime": "2026-03-20T19:00:00.000Z",
+                  "lineupAdditionsEndTime": "2026-03-20T19:00:00.000Z",
+                  "poiDraftContent": []
+                },
+                {
+                  "groups": [
+                    "B",
+                    "C"
+                  ],
+                  "matchStartTime": "2026-05-03T22:00:00.000Z",
+                  "roundNumber": 5,
+                  "matchNumber": 5,
+                  "matchDayLabel": "Match Day #6",
+                  "startingMaps": {
+                    "title": "Match Day #6 - B vs. C",
+                    "content": [
+                      "Match 1: Storm Point",
+                      "Match 2: Storm Point",
+                      "Match 3: Storm Point",
+                      "Match 4: E-District",
+                      "Match 5: E-District",
+                      "Match 6: E-District"
+                    ]
+                  },
+                  "lineupRemovalsEndTime": "2026-03-20T19:00:00.000Z",
+                  "lineupAdditionsEndTime": "2026-03-20T19:00:00.000Z",
+                  "poiDraftContent": []
+                },
+                {
+                  "groups": [
+                    "A",
+                    "B"
+                  ],
+                  "matchStartTime": "2026-05-23T22:00:00.000Z",
+                  "roundNumber": 6,
+                  "matchNumber": 6,
+                  "matchDayLabel": "Match Day #7",
+                  "startingMaps": {
+                    "title": "Match Day #7 - A vs. B",
+                    "content": [
+                      "Match 1: E-District",
+                      "Match 2: E-District",
+                      "Match 3: E-District",
+                      "Match 4: Olympus",
+                      "Match 5: Olympus",
+                      "Match 6: Olympus"
+                    ]
+                  },
+                  "lineupRemovalsEndTime": "2026-05-12T19:00:00.000Z",
+                  "lineupAdditionsEndTime": "2026-05-13T19:00:00.000Z",
+                  "poiDraftContent": []
+                },
+                {
+                  "groups": [
+                    "A",
+                    "C"
+                  ],
+                  "matchStartTime": "2026-05-24T22:00:00.000Z",
+                  "roundNumber": 7,
+                  "matchNumber": 7,
+                  "matchDayLabel": "Match Day #8",
+                  "startingMaps": {
+                    "title": "Match Day #8 - A vs. C",
+                    "content": [
+                      "Match 1: Storm Point",
+                      "Match 2: Storm Point",
+                      "Match 3: Storm Point",
+                      "Match 4: E-District",
+                      "Match 5: E-District",
+                      "Match 6: E-District"
+                    ]
+                  },
+                  "lineupRemovalsEndTime": "2026-05-12T19:00:00.000Z",
+                  "lineupAdditionsEndTime": "2026-05-13T19:00:00.000Z",
+                  "poiDraftContent": []
+                },
+                {
+                  "groups": [
+                    "B",
+                    "C"
+                  ],
+                  "matchStartTime": "2026-05-31T22:00:00.000Z",
+                  "roundNumber": 8,
+                  "matchNumber": 8,
+                  "matchDayLabel": "Match Day #9",
+                  "startingMaps": {
+                    "title": "Match Day #9 - B vs. C",
+                    "content": [
+                      "Match 1: Olympus",
+                      "Match 2: Olympus",
+                      "Match 3: Olympus",
+                      "Match 4: Storm Point",
+                      "Match 5: Storm Point",
+                      "Match 6: Storm Point"
+                    ]
+                  },
+                  "lineupRemovalsEndTime": "2026-05-12T19:00:00.000Z",
+                  "lineupAdditionsEndTime": "2026-05-13T19:00:00.000Z",
+                  "poiDraftContent": []
+                }
+              ],
+              "lineupRemovalsEndTime": "2026-03-20T19:00:00.000Z",
+              "lineupAdditionsEndTime": "2026-03-20T19:00:00.000Z"
+            },
+            "asia-pacific-north": {
+              "allowedRegions": [
+                "asia-pacific-north"
+              ],
+              "name": "asia-pacific-north Regional",
+              "format": "round-robin",
+              "location": "online",
+              "registrationOpenTime": "2026-01-18T06:00:00.000Z",
+              "registrationCloseTime": "2026-01-18T07:00:00.000Z",
+              "tournamentCheckInStartTime": "2026-04-04T08:00:00.000Z",
+              "tournamentStartTime": "2026-04-04T08:45:00.000Z",
+              "tournamentSlug": "apex-legends-global-series-pro-league",
+              "structureID": "",
+              "matches": [
+                {
+                  "groups": [
+                    "A",
+                    "B"
+                  ],
+                  "matchStartTime": "2026-04-04T09:00:00.000Z",
+                  "roundNumber": 0,
+                  "matchNumber": 0,
+                  "matchDayLabel": "Match Day #1",
+                  "startingMaps": {
+                    "title": "Match Day #1 - A vs. B",
+                    "content": [
+                      "Match 1: Storm Point",
+                      "Match 2: Storm Point",
+                      "Match 3: Storm Point",
+                      "Match 4: E-District",
+                      "Match 5: E-District",
+                      "Match 6: E-District"
+                    ]
+                  },
+                  "lineupRemovalsEndTime": "2026-03-20T19:00:00.000Z",
+                  "lineupAdditionsEndTime": "2026-03-20T19:00:00.000Z",
+                  "poiDraftContent": []
+                },
+                {
+                  "groups": [
+                    "A",
+                    "C"
+                  ],
+                  "matchStartTime": "2026-04-05T09:00:00.000Z",
+                  "roundNumber": 1,
+                  "matchNumber": 1,
+                  "matchDayLabel": "Match Day #2",
+                  "startingMaps": {
+                    "title": "Match Day #2 - A vs. C",
+                    "content": [
+                      "Match 1: Olympus",
+                      "Match 2: Olympus",
+                      "Match 3: Olympus",
+                      "Match 4: Storm Point",
+                      "Match 5: Storm Point",
+                      "Match 6: Storm Point"
+                    ]
+                  },
+                  "lineupRemovalsEndTime": "2026-03-20T19:00:00.000Z",
+                  "lineupAdditionsEndTime": "2026-03-20T19:00:00.000Z",
+                  "poiDraftContent": []
+                },
+                {
+                  "groups": [
+                    "B",
+                    "C"
+                  ],
+                  "matchStartTime": "2026-04-12T09:00:00.000Z",
+                  "roundNumber": 2,
+                  "matchNumber": 2,
+                  "matchDayLabel": "Match Day #3",
+                  "startingMaps": {
+                    "title": "Match Day #3 - B vs. C",
+                    "content": [
+                      "Match 1: E-District",
+                      "Match 2: E-District",
+                      "Match 3: E-District",
+                      "Match 4: Olympus",
+                      "Match 5: Olympus",
+                      "Match 6: Olympus"
+                    ]
+                  },
+                  "lineupRemovalsEndTime": "2026-03-20T19:00:00.000Z",
+                  "lineupAdditionsEndTime": "2026-03-20T19:00:00.000Z",
+                  "poiDraftContent": []
+                },
+                {
+                  "groups": [
+                    "A",
+                    "B"
+                  ],
+                  "matchStartTime": "2026-04-19T09:00:00.000Z",
+                  "roundNumber": 3,
+                  "matchNumber": 3,
+                  "matchDayLabel": "Match Day #4",
+                  "startingMaps": {
+                    "title": "Match Day #4 - A vs. B",
+                    "content": [
+                      "Match 1: Olympus",
+                      "Match 2: Olympus",
+                      "Match 3: Olympus",
+                      "Match 4: Storm Point",
+                      "Match 5: Storm Point",
+                      "Match 6: Storm Point"
+                    ]
+                  },
+                  "lineupRemovalsEndTime": "2026-03-20T19:00:00.000Z",
+                  "lineupAdditionsEndTime": "2026-03-20T19:00:00.000Z",
+                  "poiDraftContent": []
+                },
+                {
+                  "groups": [
+                    "A",
+                    "C"
+                  ],
+                  "matchStartTime": "2026-04-26T09:00:00.000Z",
+                  "roundNumber": 4,
+                  "matchNumber": 4,
+                  "matchDayLabel": "Match Day #5",
+                  "startingMaps": {
+                    "title": "Match Day #5 - A vs. C",
+                    "content": [
+                      "Match 1: E-District",
+                      "Match 2: E-District",
+                      "Match 3: E-District",
+                      "Match 4: Olympus",
+                      "Match 5: Olympus",
+                      "Match 6: Olympus"
+                    ]
+                  },
+                  "lineupRemovalsEndTime": "2026-03-20T19:00:00.000Z",
+                  "lineupAdditionsEndTime": "2026-03-20T19:00:00.000Z",
+                  "poiDraftContent": []
+                },
+                {
+                  "groups": [
+                    "B",
+                    "C"
+                  ],
+                  "matchStartTime": "2026-05-03T09:00:00.000Z",
+                  "roundNumber": 5,
+                  "matchNumber": 5,
+                  "matchDayLabel": "Match Day #6",
+                  "startingMaps": {
+                    "title": "Match Day #6 - B vs. C",
+                    "content": [
+                      "Match 1: Storm Point",
+                      "Match 2: Storm Point",
+                      "Match 3: Storm Point",
+                      "Match 4: E-District",
+                      "Match 5: E-District",
+                      "Match 6: E-District"
+                    ]
+                  },
+                  "lineupRemovalsEndTime": "2026-03-20T19:00:00.000Z",
+                  "lineupAdditionsEndTime": "2026-03-20T19:00:00.000Z",
+                  "poiDraftContent": []
+                },
+                {
+                  "groups": [
+                    "A",
+                    "B"
+                  ],
+                  "matchStartTime": "2026-05-23T09:00:00.000Z",
+                  "roundNumber": 6,
+                  "matchNumber": 6,
+                  "matchDayLabel": "Match Day #7",
+                  "startingMaps": {
+                    "title": "Match Day #7 - A vs. B",
+                    "content": [
+                      "Match 1: E-District",
+                      "Match 2: E-District",
+                      "Match 3: E-District",
+                      "Match 4: Olympus",
+                      "Match 5: Olympus",
+                      "Match 6: Olympus"
+                    ]
+                  },
+                  "lineupRemovalsEndTime": "2026-05-12T19:00:00.000Z",
+                  "lineupAdditionsEndTime": "2026-05-13T19:00:00.000Z",
+                  "poiDraftContent": []
+                },
+                {
+                  "groups": [
+                    "A",
+                    "C"
+                  ],
+                  "matchStartTime": "2026-05-24T09:00:00.000Z",
+                  "roundNumber": 7,
+                  "matchNumber": 7,
+                  "matchDayLabel": "Match Day #8",
+                  "startingMaps": {
+                    "title": "Match Day #8 - A vs. C",
+                    "content": [
+                      "Match 1: Storm Point",
+                      "Match 2: Storm Point",
+                      "Match 3: Storm Point",
+                      "Match 4: E-District",
+                      "Match 5: E-District",
+                      "Match 6: E-District"
+                    ]
+                  },
+                  "lineupRemovalsEndTime": "2026-05-12T19:00:00.000Z",
+                  "lineupAdditionsEndTime": "2026-05-13T19:00:00.000Z",
+                  "poiDraftContent": []
+                },
+                {
+                  "groups": [
+                    "B",
+                    "C"
+                  ],
+                  "matchStartTime": "2026-05-31T09:00:00.000Z",
+                  "roundNumber": 8,
+                  "matchNumber": 8,
+                  "matchDayLabel": "Match Day #9",
+                  "startingMaps": {
+                    "title": "Match Day #9 - B vs. C",
+                    "content": [
+                      "Match 1: Olympus",
+                      "Match 2: Olympus",
+                      "Match 3: Olympus",
+                      "Match 4: Storm Point",
+                      "Match 5: Storm Point",
+                      "Match 6: Storm Point"
+                    ]
+                  },
+                  "lineupRemovalsEndTime": "2026-05-12T19:00:00.000Z",
+                  "lineupAdditionsEndTime": "2026-05-13T19:00:00.000Z",
+                  "poiDraftContent": []
+                }
+              ],
+              "lineupRemovalsEndTime": "2026-03-20T19:00:00.000Z",
+              "lineupAdditionsEndTime": "2026-03-20T19:00:00.000Z"
+            },
+            "asia-pacific-south": {
+              "allowedRegions": [
+                "asia-pacific-south"
+              ],
+              "name": "asia-pacific-south Regional",
+              "format": "round-robin",
+              "location": "online",
+              "registrationOpenTime": "2026-01-18T06:00:00.000Z",
+              "registrationCloseTime": "2026-01-18T07:00:00.000Z",
+              "tournamentCheckInStartTime": "2026-04-04T03:00:00.000Z",
+              "tournamentStartTime": "2026-04-04T03:45:00.000Z",
+              "tournamentSlug": "apex-legends-global-series-pro-league",
+              "structureID": "",
+              "matches": [
+                {
+                  "groups": [
+                    "A",
+                    "B"
+                  ],
+                  "matchStartTime": "2026-04-04T04:00:00.000Z",
+                  "roundNumber": 0,
+                  "matchNumber": 0,
+                  "matchDayLabel": "Match Day #1",
+                  "startingMaps": {
+                    "title": "Match Day #1 - A vs. B",
+                    "content": [
+                      "Match 1: Storm Point",
+                      "Match 2: Storm Point",
+                      "Match 3: Storm Point",
+                      "Match 4: E-District",
+                      "Match 5: E-District",
+                      "Match 6: E-District"
+                    ]
+                  },
+                  "lineupRemovalsEndTime": "2026-03-20T19:00:00.000Z",
+                  "lineupAdditionsEndTime": "2026-03-20T19:00:00.000Z",
+                  "poiDraftContent": []
+                },
+                {
+                  "groups": [
+                    "A",
+                    "C"
+                  ],
+                  "matchStartTime": "2026-04-05T04:00:00.000Z",
+                  "roundNumber": 1,
+                  "matchNumber": 1,
+                  "matchDayLabel": "Match Day #2",
+                  "startingMaps": {
+                    "title": "Match Day #2 - A vs. C",
+                    "content": [
+                      "Match 1: Olympus",
+                      "Match 2: Olympus",
+                      "Match 3: Olympus",
+                      "Match 4: Storm Point",
+                      "Match 5: Storm Point",
+                      "Match 6: Storm Point"
+                    ]
+                  },
+                  "lineupRemovalsEndTime": "2026-03-20T19:00:00.000Z",
+                  "lineupAdditionsEndTime": "2026-03-20T19:00:00.000Z",
+                  "poiDraftContent": []
+                },
+                {
+                  "groups": [
+                    "B",
+                    "C"
+                  ],
+                  "matchStartTime": "2026-04-11T04:00:00.000Z",
+                  "roundNumber": 2,
+                  "matchNumber": 2,
+                  "matchDayLabel": "Match Day #3",
+                  "startingMaps": {
+                    "title": "Match Day #3 - B vs. C",
+                    "content": [
+                      "Match 1: E-District",
+                      "Match 2: E-District",
+                      "Match 3: E-District",
+                      "Match 4: Olympus",
+                      "Match 5: Olympus",
+                      "Match 6: Olympus"
+                    ]
+                  },
+                  "lineupRemovalsEndTime": "2026-03-20T19:00:00.000Z",
+                  "lineupAdditionsEndTime": "2026-03-20T19:00:00.000Z",
+                  "poiDraftContent": []
+                },
+                {
+                  "groups": [
+                    "A",
+                    "B"
+                  ],
+                  "matchStartTime": "2026-04-18T04:00:00.000Z",
+                  "roundNumber": 3,
+                  "matchNumber": 3,
+                  "matchDayLabel": "Match Day #4",
+                  "startingMaps": {
+                    "title": "Match Day #4 - A vs. B",
+                    "content": [
+                      "Match 1: Olympus",
+                      "Match 2: Olympus",
+                      "Match 3: Olympus",
+                      "Match 4: Storm Point",
+                      "Match 5: Storm Point",
+                      "Match 6: Storm Point"
+                    ]
+                  },
+                  "lineupRemovalsEndTime": "2026-03-20T19:00:00.000Z",
+                  "lineupAdditionsEndTime": "2026-03-20T19:00:00.000Z",
+                  "poiDraftContent": []
+                },
+                {
+                  "groups": [
+                    "A",
+                    "C"
+                  ],
+                  "matchStartTime": "2026-04-25T04:00:00.000Z",
+                  "roundNumber": 4,
+                  "matchNumber": 4,
+                  "matchDayLabel": "Match Day #5",
+                  "startingMaps": {
+                    "title": "Match Day #5 - A vs. C",
+                    "content": [
+                      "Match 1: E-District",
+                      "Match 2: E-District",
+                      "Match 3: E-District",
+                      "Match 4: Olympus",
+                      "Match 5: Olympus",
+                      "Match 6: Olympus"
+                    ]
+                  },
+                  "lineupRemovalsEndTime": "2026-03-20T19:00:00.000Z",
+                  "lineupAdditionsEndTime": "2026-03-20T19:00:00.000Z",
+                  "poiDraftContent": []
+                },
+                {
+                  "groups": [
+                    "B",
+                    "C"
+                  ],
+                  "matchStartTime": "2026-05-02T04:00:00.000Z",
+                  "roundNumber": 5,
+                  "matchNumber": 5,
+                  "matchDayLabel": "Match Day #6",
+                  "startingMaps": {
+                    "title": "Match Day #6 - B vs. C",
+                    "content": [
+                      "Match 1: Storm Point",
+                      "Match 2: Storm Point",
+                      "Match 3: Storm Point",
+                      "Match 4: E-District",
+                      "Match 5: E-District",
+                      "Match 6: E-District"
+                    ]
+                  },
+                  "lineupRemovalsEndTime": "2026-03-20T19:00:00.000Z",
+                  "lineupAdditionsEndTime": "2026-03-20T19:00:00.000Z",
+                  "poiDraftContent": []
+                },
+                {
+                  "groups": [
+                    "A",
+                    "B"
+                  ],
+                  "matchStartTime": "2026-05-23T04:00:00.000Z",
+                  "roundNumber": 6,
+                  "matchNumber": 6,
+                  "matchDayLabel": "Match Day #7",
+                  "startingMaps": {
+                    "title": "Match Day #7 - A vs. B",
+                    "content": [
+                      "Match 1: E-District",
+                      "Match 2: E-District",
+                      "Match 3: E-District",
+                      "Match 4: Olympus",
+                      "Match 5: Olympus",
+                      "Match 6: Olympus"
+                    ]
+                  },
+                  "lineupRemovalsEndTime": "2026-05-12T19:00:00.000Z",
+                  "lineupAdditionsEndTime": "2026-05-13T19:00:00.000Z",
+                  "poiDraftContent": []
+                },
+                {
+                  "groups": [
+                    "A",
+                    "C"
+                  ],
+                  "matchStartTime": "2026-05-24T04:00:00.000Z",
+                  "roundNumber": 7,
+                  "matchNumber": 7,
+                  "matchDayLabel": "Match Day #8",
+                  "startingMaps": {
+                    "title": "Match Day #8 - A vs. C",
+                    "content": [
+                      "Match 1: Storm Point",
+                      "Match 2: Storm Point",
+                      "Match 3: Storm Point",
+                      "Match 4: E-District",
+                      "Match 5: E-District",
+                      "Match 6: E-District"
+                    ]
+                  },
+                  "lineupRemovalsEndTime": "2026-05-12T19:00:00.000Z",
+                  "lineupAdditionsEndTime": "2026-05-13T19:00:00.000Z",
+                  "poiDraftContent": []
+                },
+                {
+                  "groups": [
+                    "B",
+                    "C"
+                  ],
+                  "matchStartTime": "2026-05-30T04:00:00.000Z",
+                  "roundNumber": 8,
+                  "matchNumber": 8,
+                  "matchDayLabel": "Match Day #9",
+                  "startingMaps": {
+                    "title": "Match Day #9 - B vs. C",
+                    "content": [
+                      "Match 1: Olympus",
+                      "Match 2: Olympus",
+                      "Match 3: Olympus",
+                      "Match 4: Storm Point",
+                      "Match 5: Storm Point",
+                      "Match 6: Storm Point"
+                    ]
+                  },
+                  "lineupRemovalsEndTime": "2026-05-12T19:00:00.000Z",
+                  "lineupAdditionsEndTime": "2026-05-13T19:00:00.000Z",
+                  "poiDraftContent": []
+                }
+              ],
+              "lineupRemovalsEndTime": "2026-03-20T19:00:00.000Z",
+              "lineupAdditionsEndTime": "2026-03-20T19:00:00.000Z"
+            },
+            "europe-middle-east-and-africa": {
+              "allowedRegions": [
+                "europe-middle-east-and-africa"
+              ],
+              "name": "europe-middle-east-and-africa Regional",
+              "format": "round-robin",
+              "location": "online",
+              "registrationOpenTime": "2026-01-18T06:00:00.000Z",
+              "registrationCloseTime": "2026-01-18T07:00:00.000Z",
+              "tournamentCheckInStartTime": "2026-04-04T16:00:00.000Z",
+              "tournamentStartTime": "2026-04-04T16:45:00.000Z",
+              "tournamentSlug": "apex-legends-global-series-pro-league",
+              "structureID": "",
+              "matches": [
+                {
+                  "groups": [
+                    "A",
+                    "B"
+                  ],
+                  "matchStartTime": "2026-04-04T17:00:00.000Z",
+                  "roundNumber": 0,
+                  "matchNumber": 0,
+                  "matchDayLabel": "Match Day #1",
+                  "startingMaps": {
+                    "title": "Match Day #1 - A vs. B",
+                    "content": [
+                      "Match 1: Storm Point",
+                      "Match 2: Storm Point",
+                      "Match 3: Storm Point",
+                      "Match 4: E-District",
+                      "Match 5: E-District",
+                      "Match 6: E-District"
+                    ]
+                  },
+                  "lineupRemovalsEndTime": "2026-03-20T19:00:00.000Z",
+                  "lineupAdditionsEndTime": "2026-03-20T19:00:00.000Z",
+                  "poiDraftContent": []
+                },
+                {
+                  "groups": [
+                    "A",
+                    "C"
+                  ],
+                  "matchStartTime": "2026-04-05T17:00:00.000Z",
+                  "roundNumber": 1,
+                  "matchNumber": 1,
+                  "matchDayLabel": "Match Day #2",
+                  "startingMaps": {
+                    "title": "Match Day #2 - A vs. C",
+                    "content": [
+                      "Match 1: Olympus",
+                      "Match 2: Olympus",
+                      "Match 3: Olympus",
+                      "Match 4: Storm Point",
+                      "Match 5: Storm Point",
+                      "Match 6: Storm Point"
+                    ]
+                  },
+                  "lineupRemovalsEndTime": "2026-03-20T19:00:00.000Z",
+                  "lineupAdditionsEndTime": "2026-03-20T19:00:00.000Z",
+                  "poiDraftContent": []
+                },
+                {
+                  "groups": [
+                    "B",
+                    "C"
+                  ],
+                  "matchStartTime": "2026-04-12T17:00:00.000Z",
+                  "roundNumber": 2,
+                  "matchNumber": 2,
+                  "matchDayLabel": "Match Day #3",
+                  "startingMaps": {
+                    "title": "Match Day #3 - B vs. C",
+                    "content": [
+                      "Match 1: E-District",
+                      "Match 2: E-District",
+                      "Match 3: E-District",
+                      "Match 4: Olympus",
+                      "Match 5: Olympus",
+                      "Match 6: Olympus"
+                    ]
+                  },
+                  "lineupRemovalsEndTime": "2026-03-20T19:00:00.000Z",
+                  "lineupAdditionsEndTime": "2026-03-20T19:00:00.000Z",
+                  "poiDraftContent": []
+                },
+                {
+                  "groups": [
+                    "A",
+                    "B"
+                  ],
+                  "matchStartTime": "2026-04-19T17:00:00.000Z",
+                  "roundNumber": 3,
+                  "matchNumber": 3,
+                  "matchDayLabel": "Match Day #4",
+                  "startingMaps": {
+                    "title": "Match Day #4 - A vs. B",
+                    "content": [
+                      "Match 1: Olympus",
+                      "Match 2: Olympus",
+                      "Match 3: Olympus",
+                      "Match 4: Storm Point",
+                      "Match 5: Storm Point",
+                      "Match 6: Storm Point"
+                    ]
+                  },
+                  "lineupRemovalsEndTime": "2026-03-20T19:00:00.000Z",
+                  "lineupAdditionsEndTime": "2026-03-20T19:00:00.000Z",
+                  "poiDraftContent": []
+                },
+                {
+                  "groups": [
+                    "A",
+                    "C"
+                  ],
+                  "matchStartTime": "2026-04-26T17:00:00.000Z",
+                  "roundNumber": 4,
+                  "matchNumber": 4,
+                  "matchDayLabel": "Match Day #5",
+                  "startingMaps": {
+                    "title": "Match Day #5 - A vs. C",
+                    "content": [
+                      "Match 1: E-District",
+                      "Match 2: E-District",
+                      "Match 3: E-District",
+                      "Match 4: Olympus",
+                      "Match 5: Olympus",
+                      "Match 6: Olympus"
+                    ]
+                  },
+                  "lineupRemovalsEndTime": "2026-03-20T19:00:00.000Z",
+                  "lineupAdditionsEndTime": "2026-03-20T19:00:00.000Z",
+                  "poiDraftContent": []
+                },
+                {
+                  "groups": [
+                    "B",
+                    "C"
+                  ],
+                  "matchStartTime": "2026-05-03T17:00:00.000Z",
+                  "roundNumber": 5,
+                  "matchNumber": 5,
+                  "matchDayLabel": "Match Day #6",
+                  "startingMaps": {
+                    "title": "Match Day #6 - B vs. C",
+                    "content": [
+                      "Match 1: Storm Point",
+                      "Match 2: Storm Point",
+                      "Match 3: Storm Point",
+                      "Match 4: E-District",
+                      "Match 5: E-District",
+                      "Match 6: E-District"
+                    ]
+                  },
+                  "lineupRemovalsEndTime": "2026-03-20T19:00:00.000Z",
+                  "lineupAdditionsEndTime": "2026-03-20T19:00:00.000Z",
+                  "poiDraftContent": []
+                },
+                {
+                  "groups": [
+                    "A",
+                    "B"
+                  ],
+                  "matchStartTime": "2026-05-23T17:00:00.000Z",
+                  "roundNumber": 6,
+                  "matchNumber": 6,
+                  "matchDayLabel": "Match Day #7",
+                  "startingMaps": {
+                    "title": "Match Day #7 - A vs. B",
+                    "content": [
+                      "Match 1: E-District",
+                      "Match 2: E-District",
+                      "Match 3: E-District",
+                      "Match 4: Olympus",
+                      "Match 5: Olympus",
+                      "Match 6: Olympus"
+                    ]
+                  },
+                  "lineupRemovalsEndTime": "2026-05-12T19:00:00.000Z",
+                  "lineupAdditionsEndTime": "2026-05-13T19:00:00.000Z",
+                  "poiDraftContent": []
+                },
+                {
+                  "groups": [
+                    "A",
+                    "C"
+                  ],
+                  "matchStartTime": "2026-05-24T17:00:00.000Z",
+                  "roundNumber": 7,
+                  "matchNumber": 7,
+                  "matchDayLabel": "Match Day #8",
+                  "startingMaps": {
+                    "title": "Match Day #8 - A vs. C",
+                    "content": [
+                      "Match 1: Storm Point",
+                      "Match 2: Storm Point",
+                      "Match 3: Storm Point",
+                      "Match 4: E-District",
+                      "Match 5: E-District",
+                      "Match 6: E-District"
+                    ]
+                  },
+                  "lineupRemovalsEndTime": "2026-05-12T19:00:00.000Z",
+                  "lineupAdditionsEndTime": "2026-05-13T19:00:00.000Z",
+                  "poiDraftContent": []
+                },
+                {
+                  "groups": [
+                    "B",
+                    "C"
+                  ],
+                  "matchStartTime": "2026-05-31T17:00:00.000Z",
+                  "roundNumber": 8,
+                  "matchNumber": 8,
+                  "matchDayLabel": "Match Day #9",
+                  "startingMaps": {
+                    "title": "Match Day #9 - B vs. C",
+                    "content": [
+                      "Match 1: Olympus",
+                      "Match 2: Olympus",
+                      "Match 3: Olympus",
+                      "Match 4: Storm Point",
+                      "Match 5: Storm Point",
+                      "Match 6: Storm Point"
+                    ]
+                  },
+                  "lineupRemovalsEndTime": "2026-05-12T19:00:00.000Z",
+                  "lineupAdditionsEndTime": "2026-05-13T19:00:00.000Z",
+                  "poiDraftContent": []
+                }
+              ],
+              "lineupRemovalsEndTime": "2026-03-20T19:00:00.000Z",
+              "lineupAdditionsEndTime": "2026-03-20T19:00:00.000Z"
+            }
+          },
+          "eventPublished": true,
+          "isActive": true,
+          "firstRegionStartTime": "2026-04-04T03:45:00.000Z"
+        },
+        {
+          "_id": "698bf943fedb890012206229",
+          "name": "Split 1 - Pro League Regional Finals",
+          "slug": "pro-league-split-1-regional-finals",
+          "eventTypeID": "696be10651f99ecd5af60362",
+          "regionalEvents": {
+            "americas": {
+              "allowedRegions": [
+                "americas"
+              ],
+              "name": "americas Regional",
+              "format": "playoffs",
+              "location": "online",
+              "registrationOpenTime": "2026-05-31T22:00:00.000Z",
+              "registrationCloseTime": "2026-05-31T22:00:00.000Z",
+              "tournamentCheckInStartTime": "2026-06-07T21:00:00.000Z",
+              "tournamentStartTime": "2026-06-07T22:00:00.000Z",
+              "tournamentSlug": "apex-legends-global-series-playoffs",
+              "structureID": "",
+              "poiDraftContent": [],
+              "startingMaps": {
+                "title": "Regional Finals",
+                "content": [
+                  "Match 1: Storm Point",
+                  "Match 2: Olympus",
+                  "Match 3 & 4: E-District",
+                  "Match 5: Olympus",
+                  "Match 6 & 7: Storm Point",
+                  "Match 8: Olympus",
+                  "Match 9 & 10: E-District",
+                  "Match 11: Olympus",
+                  "Match 12 & 13: Storm Point",
+                  "Match 14: Olympus",
+                  "Match 15 & 16: E-District",
+                  "Match 17: Olympus",
+                  "Match 18: Storm Point"
+                ]
+              },
+              "lineupRemovalsEndTime": "2026-05-12T19:00:00.000Z",
+              "lineupAdditionsEndTime": "2026-05-13T19:00:00.000Z"
+            },
+            "asia-pacific-north": {
+              "allowedRegions": [
+                "asia-pacific-north"
+              ],
+              "name": "asia-pacific-north Regional",
+              "format": "playoffs",
+              "location": "online",
+              "registrationOpenTime": "2026-05-31T09:00:00.000Z",
+              "registrationCloseTime": "2026-05-31T09:00:00.000Z",
+              "tournamentCheckInStartTime": "2026-06-07T08:00:00.000Z",
+              "tournamentStartTime": "2026-06-07T09:00:00.000Z",
+              "tournamentSlug": "apex-legends-global-series-playoffs",
+              "structureID": "",
+              "poiDraftContent": [],
+              "startingMaps": {
+                "title": "Regional Finals",
+                "content": [
+                  "Match 1: Storm Point",
+                  "Match 2: Olympus",
+                  "Match 3 & 4: E-District",
+                  "Match 5: Olympus",
+                  "Match 6 & 7: Storm Point",
+                  "Match 8: Olympus",
+                  "Match 9 & 10: E-District",
+                  "Match 11: Olympus",
+                  "Match 12 & 13: Storm Point",
+                  "Match 14: Olympus",
+                  "Match 15 & 16: E-District",
+                  "Match 17: Olympus",
+                  "Match 18: Storm Point"
+                ]
+              },
+              "lineupRemovalsEndTime": "2026-05-12T19:00:00.000Z",
+              "lineupAdditionsEndTime": "2026-05-13T19:00:00.000Z"
+            },
+            "asia-pacific-south": {
+              "allowedRegions": [
+                "asia-pacific-south"
+              ],
+              "name": "asia-pacific-south Regional",
+              "format": "playoffs",
+              "location": "online",
+              "registrationOpenTime": "2026-05-31T04:00:00.000Z",
+              "registrationCloseTime": "2026-05-31T04:00:00.000Z",
+              "tournamentCheckInStartTime": "2026-06-06T03:00:00.000Z",
+              "tournamentStartTime": "2026-06-06T04:00:00.000Z",
+              "tournamentSlug": "apex-legends-global-series-playoffs",
+              "structureID": "",
+              "poiDraftContent": [],
+              "startingMaps": {
+                "title": "Regional Finals",
+                "content": [
+                  "Match 1: Storm Point",
+                  "Match 2: Olympus",
+                  "Match 3 & 4: E-District",
+                  "Match 5: Olympus",
+                  "Match 6 & 7: Storm Point",
+                  "Match 8: Olympus",
+                  "Match 9 & 10: E-District",
+                  "Match 11: Olympus",
+                  "Match 12 & 13: Storm Point",
+                  "Match 14: Olympus",
+                  "Match 15 & 16: E-District",
+                  "Match 17: Olympus",
+                  "Match 18: Storm Point"
+                ]
+              },
+              "lineupRemovalsEndTime": "2026-05-12T19:00:00.000Z",
+              "lineupAdditionsEndTime": "2026-05-13T19:00:00.000Z"
+            },
+            "europe-middle-east-and-africa": {
+              "allowedRegions": [
+                "europe-middle-east-and-africa"
+              ],
+              "name": "europe-middle-east-and-africa Regional",
+              "format": "playoffs",
+              "location": "online",
+              "registrationOpenTime": "2026-05-31T17:00:00.000Z",
+              "registrationCloseTime": "2026-05-31T17:00:00.000Z",
+              "tournamentCheckInStartTime": "2026-06-07T16:00:00.000Z",
+              "tournamentStartTime": "2026-06-07T17:00:00.000Z",
+              "tournamentSlug": "apex-legends-global-series-playoffs",
+              "structureID": "",
+              "poiDraftContent": [],
+              "startingMaps": {
+                "title": "Regional Finals",
+                "content": [
+                  "Match 1: Storm Point",
+                  "Match 2: Olympus",
+                  "Match 3 & 4: E-District",
+                  "Match 5: Olympus",
+                  "Match 6 & 7: Storm Point",
+                  "Match 8: Olympus",
+                  "Match 9 & 10: E-District",
+                  "Match 11: Olympus",
+                  "Match 12 & 13: Storm Point",
+                  "Match 14: Olympus",
+                  "Match 15 & 16: E-District",
+                  "Match 17: Olympus",
+                  "Match 18: Storm Point"
+                ]
+              },
+              "lineupRemovalsEndTime": "2026-05-12T19:00:00.000Z",
+              "lineupAdditionsEndTime": "2026-05-13T19:00:00.000Z"
+            }
+          },
+          "eventPublished": true,
+          "isActive": false,
+          "firstRegionStartTime": "2026-06-06T04:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "_id": "696be10651f99ecd5af60361",
+      "seasonID": "696be0f0604fabcc432430ac",
+      "name": "Split 1 - Challenger Circuit",
+      "slug": "split-1-challenger-circuit",
+      "phase": "split-1",
+      "registrationType": "open",
+      "canUnjoin": true,
+      "eligibleDivisionIDs": [
+        "696be0feb101e6cce8bedd60"
+      ],
+      "config": {
+        "lineup": {
+          "multiEventRegister": true,
+          "limit": 5,
+          "roles": {
+            "player": {
+              "minimum": 3,
+              "maximum": 4
+            },
+            "coach": {
+              "minimum": 0,
+              "maximum": 1
+            }
+          }
+        },
+        "visibility": "public",
+        "deferredPlayersStatus": {
+          "enabled": true,
+          "overlappingEventTypeSlug": "split-1-pro-league"
+        }
+      },
+      "updatedAt": "2026-01-17T19:20:38.511Z",
+      "leaderboardSeasonID": "",
+      "isActive": true,
+      "isPublished": true,
+      "startDate": "2026-04-11T03:00:00.000Z",
+      "events": [
+        {
+          "_id": "69853105e7d46e00130ba591",
+          "name": "Split 1 - Challenger Circuit #1",
+          "slug": "challenger-circuit-1-split-1",
+          "eventTypeID": "696be10651f99ecd5af60361",
+          "regionalEvents": {
+            "americas": {
+              "allowedRegions": [
+                "americas"
+              ],
+              "name": "Split 1 - Challenger Circuit #1",
+              "format": "single-elimination",
+              "location": "online",
+              "registrationOpenTime": "2026-03-16T19:00:00.000Z",
+              "registrationCloseTime": "2026-04-08T19:00:00.000Z",
+              "tournamentCheckInStartTime": "2026-04-11T18:00:00.000Z",
+              "tournamentStartTime": "2026-04-11T19:00:00.000Z",
+              "tournamentSlug": "apex-legends-global-series",
+              "structureID": "",
+              "startingMaps": {
+                "title": "Challenger Circuit #1 Maps",
+                "content": [
+                  "<><><> Round of 64",
+                  "Match 1 & 2: E-District",
+                  "Match 3 & 4: Storm Point",
+                  "<><><> Round of 32",
+                  "Match 1 & 2: Olympus",
+                  "Match 3 & 4: E-District",
+                  "<><><> Round of 16",
+                  "Match 1 & 2: Storm Point",
+                  "Match 3 & 4: Olympus",
+                  "<><><> Round of 8",
+                  "Match 1 & 2: E-District",
+                  "Match 3 & 4: Storm Point",
+                  "<><><> Quarterfinals",
+                  "Match 1 - 3: Olympus",
+                  "Match 4 - 6: E-District",
+                  "<><><> Semifinals",
+                  "Match 1 - 3: Storm Point",
+                  "Match 4 - 6: Olympus",
+                  "<><><> Finals",
+                  "Match 1 - 3: E-District",
+                  "Match 4 - 6: Storm Point"
+                ]
+              }
+            },
+            "asia-pacific-north": {
+              "allowedRegions": [
+                "asia-pacific-north"
+              ],
+              "name": "Split 1 - Challenger Circuit #1",
+              "format": "single-elimination",
+              "location": "online",
+              "registrationOpenTime": "2026-03-16T19:00:00.000Z",
+              "registrationCloseTime": "2026-04-08T19:00:00.000Z",
+              "tournamentCheckInStartTime": "2026-04-11T02:00:00.000Z",
+              "tournamentStartTime": "2026-04-11T03:00:00.000Z",
+              "tournamentSlug": "apex-legends-global-series",
+              "structureID": "",
+              "startingMaps": {
+                "title": "Challenger Circuit #1 Maps",
+                "content": [
+                  "<><><> Round of 64",
+                  "Match 1 & 2: E-District",
+                  "Match 3 & 4: Storm Point",
+                  "<><><> Round of 32",
+                  "Match 1 & 2: Olympus",
+                  "Match 3 & 4: E-District",
+                  "<><><> Round of 16",
+                  "Match 1 & 2: Storm Point",
+                  "Match 3 & 4: Olympus",
+                  "<><><> Round of 8",
+                  "Match 1 & 2: E-District",
+                  "Match 3 & 4: Storm Point",
+                  "<><><> Quarterfinals",
+                  "Match 1 - 3: Olympus",
+                  "Match 4 - 6: E-District",
+                  "<><><> Semifinals",
+                  "Match 1 - 3: Storm Point",
+                  "Match 4 - 6: Olympus",
+                  "<><><> Finals",
+                  "Match 1 - 3: E-District",
+                  "Match 4 - 6: Storm Point"
+                ]
+              }
+            },
+            "asia-pacific-south": {
+              "allowedRegions": [
+                "asia-pacific-south"
+              ],
+              "name": "Split 1 - Challenger Circuit #1",
+              "format": "single-elimination",
+              "location": "online",
+              "registrationOpenTime": "2026-03-16T19:00:00.000Z",
+              "registrationCloseTime": "2026-04-08T19:00:00.000Z",
+              "tournamentCheckInStartTime": "2026-04-11T03:00:00.000Z",
+              "tournamentStartTime": "2026-04-11T04:00:00.000Z",
+              "tournamentSlug": "apex-legends-global-series",
+              "structureID": "",
+              "startingMaps": {
+                "title": "Challenger Circuit #1 Maps",
+                "content": [
+                  "<><><> Round of 64",
+                  "Match 1 & 2: E-District",
+                  "Match 3 & 4: Storm Point",
+                  "<><><> Round of 32",
+                  "Match 1 & 2: Olympus",
+                  "Match 3 & 4: E-District",
+                  "<><><> Round of 16",
+                  "Match 1 & 2: Storm Point",
+                  "Match 3 & 4: Olympus",
+                  "<><><> Round of 8",
+                  "Match 1 & 2: E-District",
+                  "Match 3 & 4: Storm Point",
+                  "<><><> Quarterfinals",
+                  "Match 1 - 3: Olympus",
+                  "Match 4 - 6: E-District",
+                  "<><><> Semifinals",
+                  "Match 1 - 3: Storm Point",
+                  "Match 4 - 6: Olympus",
+                  "<><><> Finals",
+                  "Match 1 - 3: E-District",
+                  "Match 4 - 6: Storm Point"
+                ]
+              }
+            },
+            "europe-middle-east-and-africa": {
+              "allowedRegions": [
+                "europe-middle-east-and-africa"
+              ],
+              "name": "Split 1 - Challenger Circuit #1",
+              "format": "single-elimination",
+              "location": "online",
+              "registrationOpenTime": "2026-03-16T19:00:00.000Z",
+              "registrationCloseTime": "2026-04-08T19:00:00.000Z",
+              "tournamentCheckInStartTime": "2026-04-11T10:00:00.000Z",
+              "tournamentStartTime": "2026-04-11T11:00:00.000Z",
+              "tournamentSlug": "apex-legends-global-series",
+              "structureID": "",
+              "startingMaps": {
+                "title": "Challenger Circuit #1 Maps",
+                "content": [
+                  "<><><> Round of 64",
+                  "Match 1 & 2: E-District",
+                  "Match 3 & 4: Storm Point",
+                  "<><><> Round of 32",
+                  "Match 1 & 2: Olympus",
+                  "Match 3 & 4: E-District",
+                  "<><><> Round of 16",
+                  "Match 1 & 2: Storm Point",
+                  "Match 3 & 4: Olympus",
+                  "<><><> Round of 8",
+                  "Match 1 & 2: E-District",
+                  "Match 3 & 4: Storm Point",
+                  "<><><> Quarterfinals",
+                  "Match 1 - 3: Olympus",
+                  "Match 4 - 6: E-District",
+                  "<><><> Semifinals",
+                  "Match 1 - 3: Storm Point",
+                  "Match 4 - 6: Olympus",
+                  "<><><> Finals",
+                  "Match 1 - 3: E-District",
+                  "Match 4 - 6: Storm Point"
+                ]
+              }
+            }
+          },
+          "eventPublished": true,
+          "isActive": true,
+          "firstRegionStartTime": "2026-04-11T03:00:00.000Z"
+        },
+        {
+          "_id": "698533a8fa004100122e88bd",
+          "name": "Split 1 - Challenger Circuit #2",
+          "slug": "challenger-circuit-2-split-1",
+          "eventTypeID": "696be10651f99ecd5af60361",
+          "regionalEvents": {
+            "americas": {
+              "allowedRegions": [
+                "americas"
+              ],
+              "name": "Split 1 - Challenger Circuit #2",
+              "format": "single-elimination",
+              "location": "online",
+              "registrationOpenTime": "2026-03-16T19:00:00.000Z",
+              "registrationCloseTime": "2026-04-22T19:00:00.000Z",
+              "tournamentCheckInStartTime": "2026-04-25T18:00:00.000Z",
+              "tournamentStartTime": "2026-04-25T19:00:00.000Z",
+              "tournamentSlug": "apex-legends-global-series",
+              "structureID": "",
+              "startingMaps": {
+                "title": "Challenger Circuit #2 Maps",
+                "content": [
+                  "<><><> Round of 64",
+                  "Match 1 & 2: Storm Point",
+                  "Match 3 & 4: Olympus",
+                  "<><><> Round of 32",
+                  "Match 1 & 2: E-District",
+                  "Match 3 & 4: Storm Point",
+                  "<><><> Round of 16",
+                  "Match 1 & 2: Olympus",
+                  "Match 3 & 4: E-District",
+                  "<><><> Round of 8",
+                  "Match 1 & 2: Storm Point",
+                  "Match 3 & 4: Olympus",
+                  "<><><> Quarterfinals",
+                  "Match 1 - 3: E-District",
+                  "Match 4 - 6: Storm Point",
+                  "<><><> Semifinals",
+                  "Match 1 - 3: Olympus",
+                  "Match 4 - 6: E-District",
+                  "<><><> Finals",
+                  "Match 1 - 3: Storm Point",
+                  "Match 4 - 6: Olympus"
+                ]
+              }
+            },
+            "asia-pacific-north": {
+              "allowedRegions": [
+                "asia-pacific-north"
+              ],
+              "name": "Split 1 - Challenger Circuit #2",
+              "format": "single-elimination",
+              "location": "online",
+              "registrationOpenTime": "2026-03-16T19:00:00.000Z",
+              "registrationCloseTime": "2026-04-22T19:00:00.000Z",
+              "tournamentCheckInStartTime": "2026-04-25T02:00:00.000Z",
+              "tournamentStartTime": "2026-04-25T03:00:00.000Z",
+              "tournamentSlug": "apex-legends-global-series",
+              "structureID": "",
+              "startingMaps": {
+                "title": "Challenger Circuit #2 Maps",
+                "content": [
+                  "<><><> Round of 64",
+                  "Match 1 & 2: Storm Point",
+                  "Match 3 & 4: Olympus",
+                  "<><><> Round of 32",
+                  "Match 1 & 2: E-District",
+                  "Match 3 & 4: Storm Point",
+                  "<><><> Round of 16",
+                  "Match 1 & 2: Olympus",
+                  "Match 3 & 4: E-District",
+                  "<><><> Round of 8",
+                  "Match 1 & 2: Storm Point",
+                  "Match 3 & 4: Olympus",
+                  "<><><> Quarterfinals",
+                  "Match 1 - 3: E-District",
+                  "Match 4 - 6: Storm Point",
+                  "<><><> Semifinals",
+                  "Match 1 - 3: Olympus",
+                  "Match 4 - 6: E-District",
+                  "<><><> Finals",
+                  "Match 1 - 3: Storm Point",
+                  "Match 4 - 6: Olympus"
+                ]
+              }
+            },
+            "asia-pacific-south": {
+              "allowedRegions": [
+                "asia-pacific-south"
+              ],
+              "name": "Split 1 - Challenger Circuit #2",
+              "format": "single-elimination",
+              "location": "online",
+              "registrationOpenTime": "2026-03-16T19:00:00.000Z",
+              "registrationCloseTime": "2026-04-22T19:00:00.000Z",
+              "tournamentCheckInStartTime": "2026-04-25T03:00:00.000Z",
+              "tournamentStartTime": "2026-04-25T04:00:00.000Z",
+              "tournamentSlug": "apex-legends-global-series",
+              "structureID": "",
+              "startingMaps": {
+                "title": "Challenger Circuit #2 Maps",
+                "content": [
+                  "<><><> Round of 64",
+                  "Match 1 & 2: Storm Point",
+                  "Match 3 & 4: Olympus",
+                  "<><><> Round of 32",
+                  "Match 1 & 2: E-District",
+                  "Match 3 & 4: Storm Point",
+                  "<><><> Round of 16",
+                  "Match 1 & 2: Olympus",
+                  "Match 3 & 4: E-District",
+                  "<><><> Round of 8",
+                  "Match 1 & 2: Storm Point",
+                  "Match 3 & 4: Olympus",
+                  "<><><> Quarterfinals",
+                  "Match 1 - 3: E-District",
+                  "Match 4 - 6: Storm Point",
+                  "<><><> Semifinals",
+                  "Match 1 - 3: Olympus",
+                  "Match 4 - 6: E-District",
+                  "<><><> Finals",
+                  "Match 1 - 3: Storm Point",
+                  "Match 4 - 6: Olympus"
+                ]
+              }
+            },
+            "europe-middle-east-and-africa": {
+              "allowedRegions": [
+                "europe-middle-east-and-africa"
+              ],
+              "name": "Split 1 - Challenger Circuit #2",
+              "format": "single-elimination",
+              "location": "online",
+              "registrationOpenTime": "2026-03-16T19:00:00.000Z",
+              "registrationCloseTime": "2026-04-22T19:00:00.000Z",
+              "tournamentCheckInStartTime": "2026-04-25T10:00:00.000Z",
+              "tournamentStartTime": "2026-04-25T11:00:00.000Z",
+              "tournamentSlug": "apex-legends-global-series",
+              "structureID": "",
+              "startingMaps": {
+                "title": "Challenger Circuit #2 Maps",
+                "content": [
+                  "<><><> Round of 64",
+                  "Match 1 & 2: Storm Point",
+                  "Match 3 & 4: Olympus",
+                  "<><><> Round of 32",
+                  "Match 1 & 2: E-District",
+                  "Match 3 & 4: Storm Point",
+                  "<><><> Round of 16",
+                  "Match 1 & 2: Olympus",
+                  "Match 3 & 4: E-District",
+                  "<><><> Round of 8",
+                  "Match 1 & 2: Storm Point",
+                  "Match 3 & 4: Olympus",
+                  "<><><> Quarterfinals",
+                  "Match 1 - 3: E-District",
+                  "Match 4 - 6: Storm Point",
+                  "<><><> Semifinals",
+                  "Match 1 - 3: Olympus",
+                  "Match 4 - 6: E-District",
+                  "<><><> Finals",
+                  "Match 1 - 3: Storm Point",
+                  "Match 4 - 6: Olympus"
+                ]
+              }
+            }
+          },
+          "eventPublished": true,
+          "isActive": true,
+          "firstRegionStartTime": "2026-04-25T03:00:00.000Z"
+        },
+        {
+          "_id": "6985352de7d46e00130ba679",
+          "name": "Split 1 - Challenger Circuit #3",
+          "slug": "challenger-circuit-3-split-1",
+          "eventTypeID": "696be10651f99ecd5af60361",
+          "regionalEvents": {
+            "americas": {
+              "allowedRegions": [
+                "americas"
+              ],
+              "name": "Split 1 - Challenger Circuit #3",
+              "format": "single-elimination",
+              "location": "online",
+              "registrationOpenTime": "2026-03-16T19:00:00.000Z",
+              "registrationCloseTime": "2026-05-20T19:00:00.000Z",
+              "tournamentCheckInStartTime": "2026-05-23T18:00:00.000Z",
+              "tournamentStartTime": "2026-05-23T19:00:00.000Z",
+              "tournamentSlug": "apex-legends-global-series",
+              "structureID": "",
+              "startingMaps": {
+                "title": "Challenger Circuit #3 Maps",
+                "content": [
+                  "<><><> Round of 64",
+                  "Match 1 & 2: Olympus",
+                  "Match 3 & 4: E-District",
+                  "<><><> Round of 32",
+                  "Match 1 & 2: Storm Point",
+                  "Match 3 & 4: Olympus",
+                  "<><><> Round of 16",
+                  "Match 1 & 2: E-District",
+                  "Match 3 & 4: Storm Point",
+                  "<><><> Round of 8",
+                  "Match 1 & 2: Olympus",
+                  "Match 3 & 4: E-District",
+                  "<><><> Quarterfinals",
+                  "Match 1 - 3: Storm Point",
+                  "Match 4 - 6: Olympus",
+                  "<><><> Semifinals",
+                  "Match 1 - 3: E-District",
+                  "Match 4 - 6: Storm Point",
+                  "<><><> Finals",
+                  "Match 1 - 3: Olympus",
+                  "Match 4 - 6: E-District"
+                ]
+              }
+            },
+            "asia-pacific-north": {
+              "allowedRegions": [
+                "asia-pacific-north"
+              ],
+              "name": "Split 1 - Challenger Circuit #3",
+              "format": "single-elimination",
+              "location": "online",
+              "registrationOpenTime": "2026-03-16T19:00:00.000Z",
+              "registrationCloseTime": "2026-05-20T19:00:00.000Z",
+              "tournamentCheckInStartTime": "2026-05-23T02:00:00.000Z",
+              "tournamentStartTime": "2026-05-23T03:00:00.000Z",
+              "tournamentSlug": "apex-legends-global-series",
+              "structureID": "",
+              "startingMaps": {
+                "title": "Challenger Circuit #3 Maps",
+                "content": [
+                  "<><><> Round of 64",
+                  "Match 1 & 2: Olympus",
+                  "Match 3 & 4: E-District",
+                  "<><><> Round of 32",
+                  "Match 1 & 2: Storm Point",
+                  "Match 3 & 4: Olympus",
+                  "<><><> Round of 16",
+                  "Match 1 & 2: E-District",
+                  "Match 3 & 4: Storm Point",
+                  "<><><> Round of 8",
+                  "Match 1 & 2: Olympus",
+                  "Match 3 & 4: E-District",
+                  "<><><> Quarterfinals",
+                  "Match 1 - 3: Storm Point",
+                  "Match 4 - 6: Olympus",
+                  "<><><> Semifinals",
+                  "Match 1 - 3: E-District",
+                  "Match 4 - 6: Storm Point",
+                  "<><><> Finals",
+                  "Match 1 - 3: Olympus",
+                  "Match 4 - 6: E-District"
+                ]
+              }
+            },
+            "asia-pacific-south": {
+              "allowedRegions": [
+                "asia-pacific-south"
+              ],
+              "name": "Split 1 - Challenger Circuit #3",
+              "format": "single-elimination",
+              "location": "online",
+              "registrationOpenTime": "2026-03-16T19:00:00.000Z",
+              "registrationCloseTime": "2026-05-20T19:00:00.000Z",
+              "tournamentCheckInStartTime": "2026-05-23T03:00:00.000Z",
+              "tournamentStartTime": "2026-05-23T04:00:00.000Z",
+              "tournamentSlug": "apex-legends-global-series",
+              "structureID": "",
+              "startingMaps": {
+                "title": "Challenger Circuit #3 Maps",
+                "content": [
+                  "<><><> Round of 64",
+                  "Match 1 & 2: Olympus",
+                  "Match 3 & 4: E-District",
+                  "<><><> Round of 32",
+                  "Match 1 & 2: Storm Point",
+                  "Match 3 & 4: Olympus",
+                  "<><><> Round of 16",
+                  "Match 1 & 2: E-District",
+                  "Match 3 & 4: Storm Point",
+                  "<><><> Round of 8",
+                  "Match 1 & 2: Olympus",
+                  "Match 3 & 4: E-District",
+                  "<><><> Quarterfinals",
+                  "Match 1 - 3: Storm Point",
+                  "Match 4 - 6: Olympus",
+                  "<><><> Semifinals",
+                  "Match 1 - 3: E-District",
+                  "Match 4 - 6: Storm Point",
+                  "<><><> Finals",
+                  "Match 1 - 3: Olympus",
+                  "Match 4 - 6: E-District"
+                ]
+              }
+            },
+            "europe-middle-east-and-africa": {
+              "allowedRegions": [
+                "europe-middle-east-and-africa"
+              ],
+              "name": "Split 1 - Challenger Circuit #3",
+              "format": "single-elimination",
+              "location": "online",
+              "registrationOpenTime": "2026-03-16T19:00:00.000Z",
+              "registrationCloseTime": "2026-05-20T19:00:00.000Z",
+              "tournamentCheckInStartTime": "2026-05-23T10:00:00.000Z",
+              "tournamentStartTime": "2026-05-23T11:00:00.000Z",
+              "tournamentSlug": "apex-legends-global-series",
+              "structureID": "",
+              "startingMaps": {
+                "title": "Challenger Circuit #3 Maps",
+                "content": [
+                  "<><><> Round of 64",
+                  "Match 1 & 2: Olympus",
+                  "Match 3 & 4: E-District",
+                  "<><><> Round of 32",
+                  "Match 1 & 2: Storm Point",
+                  "Match 3 & 4: Olympus",
+                  "<><><> Round of 16",
+                  "Match 1 & 2: E-District",
+                  "Match 3 & 4: Storm Point",
+                  "<><><> Round of 8",
+                  "Match 1 & 2: Olympus",
+                  "Match 3 & 4: E-District",
+                  "<><><> Quarterfinals",
+                  "Match 1 - 3: Storm Point",
+                  "Match 4 - 6: Olympus",
+                  "<><><> Semifinals",
+                  "Match 1 - 3: E-District",
+                  "Match 4 - 6: Storm Point",
+                  "<><><> Finals",
+                  "Match 1 - 3: Olympus",
+                  "Match 4 - 6: E-District"
+                ]
+              }
+            }
+          },
+          "eventPublished": true,
+          "isActive": true,
+          "firstRegionStartTime": "2026-05-23T03:00:00.000Z"
+        },
+        {
+          "_id": "6985382afa004100122e897e",
+          "name": "Split 1 - Challenger Circuit #4",
+          "slug": "challenger-circuit-4-split-1",
+          "eventTypeID": "696be10651f99ecd5af60361",
+          "regionalEvents": {
+            "americas": {
+              "allowedRegions": [
+                "americas"
+              ],
+              "name": "Split 1 - Challenger Circuit #4",
+              "format": "single-elimination",
+              "location": "online",
+              "registrationOpenTime": "2026-03-16T19:00:00.000Z",
+              "registrationCloseTime": "2026-06-03T19:00:00.000Z",
+              "tournamentCheckInStartTime": "2026-06-06T18:00:00.000Z",
+              "tournamentStartTime": "2026-06-06T19:00:00.000Z",
+              "tournamentSlug": "apex-legends-global-series",
+              "structureID": "",
+              "startingMaps": {
+                "title": "Challenger Circuit #4 Maps",
+                "content": [
+                  "<><><> Round of 64",
+                  "Match 1 & 2: E-District",
+                  "Match 3 & 4: Storm Point",
+                  "<><><> Round of 32",
+                  "Match 1 & 2: Olympus",
+                  "Match 3 & 4: E-District",
+                  "<><><> Round of 16",
+                  "Match 1 & 2: Storm Point",
+                  "Match 3 & 4: Olympus",
+                  "<><><> Round of 8",
+                  "Match 1 & 2: E-District",
+                  "Match 3 & 4: Storm Point",
+                  "<><><> Quarterfinals",
+                  "Match 1 - 3: Olympus",
+                  "Match 4 - 6: E-District",
+                  "<><><> Semifinals",
+                  "Match 1 - 3: Storm Point",
+                  "Match 4 - 6: Olympus",
+                  "<><><> Finals",
+                  "Match 1 - 3: E-District",
+                  "Match 4 - 6: Storm Point"
+                ]
+              }
+            },
+            "asia-pacific-north": {
+              "allowedRegions": [
+                "asia-pacific-north"
+              ],
+              "name": "Split 1 - Challenger Circuit #4",
+              "format": "single-elimination",
+              "location": "online",
+              "registrationOpenTime": "2026-03-16T19:00:00.000Z",
+              "registrationCloseTime": "2026-06-03T19:00:00.000Z",
+              "tournamentCheckInStartTime": "2026-06-06T02:00:00.000Z",
+              "tournamentStartTime": "2026-06-06T03:00:00.000Z",
+              "tournamentSlug": "apex-legends-global-series",
+              "structureID": "",
+              "startingMaps": {
+                "title": "Challenger Circuit #4 Maps",
+                "content": [
+                  "<><><> Round of 64",
+                  "Match 1 & 2: E-District",
+                  "Match 3 & 4: Storm Point",
+                  "<><><> Round of 32",
+                  "Match 1 & 2: Olympus",
+                  "Match 3 & 4: E-District",
+                  "<><><> Round of 16",
+                  "Match 1 & 2: Storm Point",
+                  "Match 3 & 4: Olympus",
+                  "<><><> Round of 8",
+                  "Match 1 & 2: E-District",
+                  "Match 3 & 4: Storm Point",
+                  "<><><> Quarterfinals",
+                  "Match 1 - 3: Olympus",
+                  "Match 4 - 6: E-District",
+                  "<><><> Semifinals",
+                  "Match 1 - 3: Storm Point",
+                  "Match 4 - 6: Olympus",
+                  "<><><> Finals",
+                  "Match 1 - 3: E-District",
+                  "Match 4 - 6: Storm Point"
+                ]
+              }
+            },
+            "asia-pacific-south": {
+              "allowedRegions": [
+                "asia-pacific-south"
+              ],
+              "name": "Split 1 - Challenger Circuit #4",
+              "format": "single-elimination",
+              "location": "online",
+              "registrationOpenTime": "2026-03-16T19:00:00.000Z",
+              "registrationCloseTime": "2026-06-03T19:00:00.000Z",
+              "tournamentCheckInStartTime": "2026-06-06T03:00:00.000Z",
+              "tournamentStartTime": "2026-06-06T04:00:00.000Z",
+              "tournamentSlug": "apex-legends-global-series",
+              "structureID": "",
+              "startingMaps": {
+                "title": "Challenger Circuit #4 Maps",
+                "content": [
+                  "<><><> Round of 64",
+                  "Match 1 & 2: E-District",
+                  "Match 3 & 4: Storm Point",
+                  "<><><> Round of 32",
+                  "Match 1 & 2: Olympus",
+                  "Match 3 & 4: E-District",
+                  "<><><> Round of 16",
+                  "Match 1 & 2: Storm Point",
+                  "Match 3 & 4: Olympus",
+                  "<><><> Round of 8",
+                  "Match 1 & 2: E-District",
+                  "Match 3 & 4: Storm Point",
+                  "<><><> Quarterfinals",
+                  "Match 1 - 3: Olympus",
+                  "Match 4 - 6: E-District",
+                  "<><><> Semifinals",
+                  "Match 1 - 3: Storm Point",
+                  "Match 4 - 6: Olympus",
+                  "<><><> Finals",
+                  "Match 1 - 3: E-District",
+                  "Match 4 - 6: Storm Point"
+                ]
+              }
+            },
+            "europe-middle-east-and-africa": {
+              "allowedRegions": [
+                "europe-middle-east-and-africa"
+              ],
+              "name": "Split 1 - Challenger Circuit #4",
+              "format": "single-elimination",
+              "location": "online",
+              "registrationOpenTime": "2026-03-16T19:00:00.000Z",
+              "registrationCloseTime": "2026-06-03T19:00:00.000Z",
+              "tournamentCheckInStartTime": "2026-06-06T10:00:00.000Z",
+              "tournamentStartTime": "2026-06-06T11:00:00.000Z",
+              "tournamentSlug": "apex-legends-global-series",
+              "structureID": "",
+              "startingMaps": {
+                "title": "Challenger Circuit #4 Maps",
+                "content": [
+                  "<><><> Round of 64",
+                  "Match 1 & 2: E-District",
+                  "Match 3 & 4: Storm Point",
+                  "<><><> Round of 32",
+                  "Match 1 & 2: Olympus",
+                  "Match 3 & 4: E-District",
+                  "<><><> Round of 16",
+                  "Match 1 & 2: Storm Point",
+                  "Match 3 & 4: Olympus",
+                  "<><><> Round of 8",
+                  "Match 1 & 2: E-District",
+                  "Match 3 & 4: Storm Point",
+                  "<><><> Quarterfinals",
+                  "Match 1 - 3: Olympus",
+                  "Match 4 - 6: E-District",
+                  "<><><> Semifinals",
+                  "Match 1 - 3: Storm Point",
+                  "Match 4 - 6: Olympus",
+                  "<><><> Finals",
+                  "Match 1 - 3: E-District",
+                  "Match 4 - 6: Storm Point"
+                ]
+              }
+            }
+          },
+          "eventPublished": true,
+          "isActive": true,
+          "firstRegionStartTime": "2026-06-06T03:00:00.000Z"
+        }
+      ]
+    }
+  ],
+  "leaderboardOnlyEventTypes": [
+    {
+      "_id": "696be10651f99ecd5af6036a",
+      "seasonID": "696be0f0604fabcc432430ac",
+      "name": "Championship Points",
+      "slug": "championship-points",
+      "phase": "championship",
+      "registrationType": "invite-only",
+      "canUnjoin": false,
+      "eligibleDivisionIDs": [
+        "696be0feb101e6cce8bedd61"
+      ],
+      "config": {
+        "leaderboard": {
+          "isLeaderboardOnly": true,
+          "disableResultsPageLimit": true,
+          "eventTypeSlugs": [
+            "algs-open",
+            "split-1-pro-league",
+            "midseason-playoffs",
+            "split-2-pro-league"
+          ],
+          "eventTypes": [
+            {
+              "slug": "algs-open",
+              "name": "ALGS Open"
+            },
+            {
+              "slug": "split-1-pro-league",
+              "name": "Split 1 - Pro League"
+            },
+            {
+              "slug": "midseason-playoffs",
+              "name": "Midseason Playoffs"
+            },
+            {
+              "slug": "split-2-pro-league",
+              "name": "Split 2 - Pro League"
+            }
+          ]
+        },
+        "visibility": "private"
+      },
+      "updatedAt": "2026-01-17T19:20:38.511Z",
+      "leaderboardSeasonID": ""
+    }
+  ],
+  "divisions": [
+    {
+      "_id": "696be0feb101e6cce8bedd60",
+      "seasonID": "696be0f0604fabcc432430ac",
+      "name": "ALGS Season 6 Open Division",
+      "config": {
+        "team": {
+          "type": "open-team"
+        }
+      }
+    },
+    {
+      "_id": "696be0feb101e6cce8bedd61",
+      "seasonID": "696be0f0604fabcc432430ac",
+      "name": "ALGS Season 6 Pro Division",
+      "config": {
+        "team": {
+          "type": "pro-team"
+        },
+        "lineup": {
+          "requiresRosterApprovals": true
+        }
+      }
+    }
+  ]
+}

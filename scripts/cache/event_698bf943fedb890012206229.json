@@ -1,0 +1,214 @@
+{
+  "_id": "698bf943fedb890012206229",
+  "seasonID": "696be0f0604fabcc432430ac",
+  "name": "Split 1 - Pro League Regional Finals",
+  "slug": "pro-league-split-1-regional-finals",
+  "eventTypeID": "696be10651f99ecd5af60362",
+  "eventTypeName": "Split 1 - Pro League",
+  "eventTypeSlug": "split-1-pro-league",
+  "eventTypeVisibility": "private",
+  "phase": "split-1",
+  "registrationType": "invite-only",
+  "canUnjoin": false,
+  "eligibleDivisionIDs": [
+    "696be0feb101e6cce8bedd61"
+  ],
+  "config": {
+    "lineup": {
+      "limit": 5,
+      "roles": {
+        "player": {
+          "minimum": 0,
+          "maximum": 4
+        },
+        "coach": {
+          "minimum": 0,
+          "maximum": 1
+        }
+      },
+      "requiresRosterApprovals": true
+    },
+    "tournamentStructure": {
+      "allowVersionedParticipants": true
+    },
+    "visibility": "private",
+    "leaderboard": {
+      "disableResultsPageLimit": true
+    },
+    "hasRegionInviteLock": true,
+    "eventProgression": {
+      "topN": 20,
+      "progressionBy": "leaderboard",
+      "advancementMap": {
+        "pro-league-split-1": "pro-league-split-1-regional-finals"
+      }
+    }
+  },
+  "externalUrl": "",
+  "leaderboardSeasonID": "",
+  "eventPublished": true,
+  "status": "draft",
+  "templateKey": "playoffs",
+  "templateVersion": "1.0",
+  "createdBy": "56b6618a25b0be3803556a78",
+  "updatedBy": "56b6618a25b0be3803556a78",
+  "validationSummary": {
+    "isValid": true,
+    "errors": [],
+    "warnings": [],
+    "missingRequiredFields": [],
+    "temporalIssues": [
+      {
+        "region": "americas",
+        "type": "registration",
+        "message": "Registration open time must be before close time for region americas"
+      }
+    ]
+  },
+  "backgroundUrl": "",
+  "regionalEvents": {
+    "americas": {
+      "allowedRegions": [
+        "americas"
+      ],
+      "name": "americas Regional",
+      "format": "playoffs",
+      "location": "online",
+      "registrationOpenTime": "2026-05-31T22:00:00.000Z",
+      "registrationCloseTime": "2026-05-31T22:00:00.000Z",
+      "tournamentCheckInStartTime": "2026-06-07T21:00:00.000Z",
+      "tournamentStartTime": "2026-06-07T22:00:00.000Z",
+      "tournamentSlug": "apex-legends-global-series-playoffs",
+      "structureID": "",
+      "poiDraftContent": [],
+      "startingMaps": {
+        "title": "Regional Finals",
+        "content": [
+          "Match 1: Storm Point",
+          "Match 2: Olympus",
+          "Match 3 & 4: E-District",
+          "Match 5: Olympus",
+          "Match 6 & 7: Storm Point",
+          "Match 8: Olympus",
+          "Match 9 & 10: E-District",
+          "Match 11: Olympus",
+          "Match 12 & 13: Storm Point",
+          "Match 14: Olympus",
+          "Match 15 & 16: E-District",
+          "Match 17: Olympus",
+          "Match 18: Storm Point"
+        ]
+      },
+      "lineupRemovalsEndTime": "2026-05-12T19:00:00.000Z",
+      "lineupAdditionsEndTime": "2026-05-13T19:00:00.000Z"
+    },
+    "asia-pacific-north": {
+      "allowedRegions": [
+        "asia-pacific-north"
+      ],
+      "name": "asia-pacific-north Regional",
+      "format": "playoffs",
+      "location": "online",
+      "registrationOpenTime": "2026-05-31T09:00:00.000Z",
+      "registrationCloseTime": "2026-05-31T09:00:00.000Z",
+      "tournamentCheckInStartTime": "2026-06-07T08:00:00.000Z",
+      "tournamentStartTime": "2026-06-07T09:00:00.000Z",
+      "tournamentSlug": "apex-legends-global-series-playoffs",
+      "structureID": "",
+      "poiDraftContent": [],
+      "startingMaps": {
+        "title": "Regional Finals",
+        "content": [
+          "Match 1: Storm Point",
+          "Match 2: Olympus",
+          "Match 3 & 4: E-District",
+          "Match 5: Olympus",
+          "Match 6 & 7: Storm Point",
+          "Match 8: Olympus",
+          "Match 9 & 10: E-District",
+          "Match 11: Olympus",
+          "Match 12 & 13: Storm Point",
+          "Match 14: Olympus",
+          "Match 15 & 16: E-District",
+          "Match 17: Olympus",
+          "Match 18: Storm Point"
+        ]
+      },
+      "lineupRemovalsEndTime": "2026-05-12T19:00:00.000Z",
+      "lineupAdditionsEndTime": "2026-05-13T19:00:00.000Z"
+    },
+    "asia-pacific-south": {
+      "allowedRegions": [
+        "asia-pacific-south"
+      ],
+      "name": "asia-pacific-south Regional",
+      "format": "playoffs",
+      "location": "online",
+      "registrationOpenTime": "2026-05-31T04:00:00.000Z",
+      "registrationCloseTime": "2026-05-31T04:00:00.000Z",
+      "tournamentCheckInStartTime": "2026-06-06T03:00:00.000Z",
+      "tournamentStartTime": "2026-06-06T04:00:00.000Z",
+      "tournamentSlug": "apex-legends-global-series-playoffs",
+      "structureID": "",
+      "poiDraftContent": [],
+      "startingMaps": {
+        "title": "Regional Finals",
+        "content": [
+          "Match 1: Storm Point",
+          "Match 2: Olympus",
+          "Match 3 & 4: E-District",
+          "Match 5: Olympus",
+          "Match 6 & 7: Storm Point",
+          "Match 8: Olympus",
+          "Match 9 & 10: E-District",
+          "Match 11: Olympus",
+          "Match 12 & 13: Storm Point",
+          "Match 14: Olympus",
+          "Match 15 & 16: E-District",
+          "Match 17: Olympus",
+          "Match 18: Storm Point"
+        ]
+      },
+      "lineupRemovalsEndTime": "2026-05-12T19:00:00.000Z",
+      "lineupAdditionsEndTime": "2026-05-13T19:00:00.000Z"
+    },
+    "europe-middle-east-and-africa": {
+      "allowedRegions": [
+        "europe-middle-east-and-africa"
+      ],
+      "name": "europe-middle-east-and-africa Regional",
+      "format": "playoffs",
+      "location": "online",
+      "registrationOpenTime": "2026-05-31T17:00:00.000Z",
+      "registrationCloseTime": "2026-05-31T17:00:00.000Z",
+      "tournamentCheckInStartTime": "2026-06-07T16:00:00.000Z",
+      "tournamentStartTime": "2026-06-07T17:00:00.000Z",
+      "tournamentSlug": "apex-legends-global-series-playoffs",
+      "structureID": "",
+      "poiDraftContent": [],
+      "startingMaps": {
+        "title": "Regional Finals",
+        "content": [
+          "Match 1: Storm Point",
+          "Match 2: Olympus",
+          "Match 3 & 4: E-District",
+          "Match 5: Olympus",
+          "Match 6 & 7: Storm Point",
+          "Match 8: Olympus",
+          "Match 9 & 10: E-District",
+          "Match 11: Olympus",
+          "Match 12 & 13: Storm Point",
+          "Match 14: Olympus",
+          "Match 15 & 16: E-District",
+          "Match 17: Olympus",
+          "Match 18: Storm Point"
+        ]
+      },
+      "lineupRemovalsEndTime": "2026-05-12T19:00:00.000Z",
+      "lineupAdditionsEndTime": "2026-05-13T19:00:00.000Z"
+    }
+  },
+  "firstRegistrationOpenTime": "2026-05-31T04:00:00.000Z",
+  "createdAt": "2026-02-11T03:36:35.975Z",
+  "updatedAt": "2026-03-21T23:52:55.887Z"
+}

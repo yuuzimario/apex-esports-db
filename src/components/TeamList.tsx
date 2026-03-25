@@ -28,9 +28,11 @@ export function TeamList({ teams }: { teams: Team[] }) {
 
   const regionParam = searchParams.get("region");
   const selected: Region | null =
-    regionParam && VALID_REGIONS.includes(regionParam as Region)
-      ? (regionParam as Region)
-      : null;
+    regionParam === "ALL"
+      ? null
+      : regionParam && VALID_REGIONS.includes(regionParam as Region)
+        ? (regionParam as Region)
+        : "APAC_N";
 
   const setSelected = useCallback(
     (region: Region | null) => {
@@ -38,7 +40,7 @@ export function TeamList({ teams }: { teams: Team[] }) {
       if (region) {
         params.set("region", region);
       } else {
-        params.delete("region");
+        params.set("region", "ALL");
       }
       const qs = params.toString();
       router.replace(`${pathname}${qs ? `?${qs}` : ""}`, { scroll: false });
@@ -54,7 +56,7 @@ export function TeamList({ teams }: { teams: Team[] }) {
         {VALID_REGIONS.map((r) => (
           <button
             key={r}
-            onClick={() => setSelected(selected === r ? null : r)}
+            onClick={() => setSelected(r)}
             className={`px-3 py-1 rounded-full text-sm font-medium transition-colors ${
               selected === r ? "bg-red-600 text-white" : "bg-gray-800 hover:bg-gray-700 text-gray-300"
             }`}

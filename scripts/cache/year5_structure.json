@@ -1,0 +1,410 @@
+{
+  "id": "01JK2JQ40W0DDTZCWDB8WTWCBA",
+  "vendorId": "algs-season-5",
+  "isMainSeason": false,
+  "name": "Year 5",
+  "startDate": "2025-02-02T10:00:00.000Z",
+  "endDate": "2026-02-02T10:00:00.000Z",
+  "tournaments": [
+    {
+      "id": "01JP2YA1RD2M2WJN0J92PE5B34",
+      "vendorId": null,
+      "name": "Split 1",
+      "startDate": "2025-04-06T12:00:00.000Z",
+      "endDate": "2025-06-15T12:00:00.000Z",
+      "seasonId": "01JK2JQ40W0DDTZCWDB8WTWCBA",
+      "hideFromPublic": false,
+      "createdAt": "2025-03-11T15:48:54.158Z",
+      "updatedAt": "2025-03-11T15:48:54.158Z",
+      "deletedAt": null,
+      "deletedToken": null,
+      "regions": [
+        {
+          "id": "01JP2YA2361E9KC944333D2J4Z",
+          "name": "Americas",
+          "tournamentId": "01JP2YA1RD2M2WJN0J92PE5B34",
+          "events": [
+            {
+              "id": "01JP2YA255RY74H1PK4GV45DH0",
+              "name": "Split 1",
+              "regionId": "01JP2YA2361E9KC944333D2J4Z",
+              "startDate": "2025-03-11T15:48:54.565Z",
+              "endDate": "2025-03-11T15:48:54.565Z"
+            }
+          ]
+        },
+        {
+          "id": "01JP2YBRFMSAMD6E7W17QT7G7T",
+          "name": "Europe Middle East and Africa",
+          "tournamentId": "01JP2YA1RD2M2WJN0J92PE5B34",
+          "events": [
+            {
+              "id": "01JP2YBRS0BCJ9Z385XQJF0N9P",
+              "name": "Split 1",
+              "regionId": "01JP2YBRFMSAMD6E7W17QT7G7T",
+              "startDate": "2025-03-11T15:49:50.496Z",
+              "endDate": "2025-03-11T15:49:50.496Z"
+            }
+          ]
+        },
+        {
+          "id": "01JP2YC5Y0VWGNJKN46HXVZQP5",
+          "name": "Asia Pacific South",
+          "tournamentId": "01JP2YA1RD2M2WJN0J92PE5B34",
+          "events": [
+            {
+              "id": "01JP2YC67PADKPK1DQ3FX4NE3T",
+              "name": "Split 1",
+              "regionId": "01JP2YC5Y0VWGNJKN46HXVZQP5",
+              "startDate": "2025-03-11T15:50:04.278Z",
+              "endDate": "2025-03-11T15:50:04.278Z"
+            }
+          ]
+        },
+        {
+          "id": "01JP2YCE2DPKRJTAG424NZQS0W",
+          "name": "Asia Pacific North",
+          "tournamentId": "01JP2YA1RD2M2WJN0J92PE5B34",
+          "events": [
+            {
+              "id": "01JP2YCEBF0CTZDAMY3AFJP7NW",
+              "name": "Split 1",
+              "regionId": "01JP2YCE2DPKRJTAG424NZQS0W",
+              "startDate": "2025-03-11T15:50:12.591Z",
+              "endDate": "2025-03-11T15:50:12.591Z"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "01JPJ7902NTPF50HBNA1ZNR9D4",
+      "vendorId": null,
+      "name": "ALGS Open",
+      "startDate": "2025-05-01T16:00:00.000Z",
+      "endDate": "2025-05-04T23:00:00.000Z",
+      "seasonId": "01JK2JQ40W0DDTZCWDB8WTWCBA",
+      "hideFromPublic": false,
+      "createdAt": "2025-03-17T14:14:13.334Z",
+      "updatedAt": "2025-03-17T14:14:13.334Z",
+      "deletedAt": null,
+      "deletedToken": null,
+      "regions": [
+        {
+          "id": "01JPJ790E5VCDTYVESSB7TWFSM",
+          "name": "Global",
+          "tournamentId": "01JPJ7902NTPF50HBNA1ZNR9D4",
+          "events": [
+            {
+              "id": "01JPJ790GC9SX4VE9G1TG2KNVQ",
+              "name": "ALGS Open",
+              "regionId": "01JPJ790E5VCDTYVESSB7TWFSM",
+              "startDate": "2025-03-17T14:14:13.772Z",
+              "endDate": "2025-03-17T14:14:13.772Z"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "01JWBPB86V81QPCK9DZZSP8MJR",
+      "vendorId": null,
+      "name": "Midseason Playoffs",
+      "startDate": "2025-05-28T14:57:05.754Z",
+      "endDate": "2025-05-28T14:57:05.754Z",
+      "seasonId": "01JK2JQ40W0DDTZCWDB8WTWCBA",
+      "hideFromPublic": false,
+      "createdAt": "2025-05-28T14:57:05.757Z",
+      "updatedAt": "2025-05-28T14:57:05.757Z",
+      "deletedAt": null,
+      "deletedToken": null,
+      "regions": [
+        {
+          "id": "01JWBPB8HQ5CQGEEJ79G1VDY9B",
+          "name": "Global",
+          "tournamentId": "01JWBPB86V81QPCK9DZZSP8MJR",
+          "events": [
+            {
+              "id": "01JWBPB8MC176H8PMRY8KXZ9Q1",
+              "name": "Midseason Playoffs",
+              "regionId": "01JWBPB8HQ5CQGEEJ79G1VDY9B",
+              "startDate": "2025-07-10T14:57:06.188Z",
+              "endDate": "2025-07-13T14:57:06.188Z"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "01K0PRR9642CWP9EQQNHW9WV7M",
+      "vendorId": null,
+      "name": "Pro League Qualifier",
+      "startDate": "2025-08-01T04:00:00.000Z",
+      "endDate": "2025-08-04T04:00:00.000Z",
+      "seasonId": "01JK2JQ40W0DDTZCWDB8WTWCBA",
+      "hideFromPublic": true,
+      "createdAt": "2025-07-21T15:13:35.940Z",
+      "updatedAt": "2025-07-21T15:13:35.940Z",
+      "deletedAt": null,
+      "deletedToken": null,
+      "regions": [
+        {
+          "id": "01K0PRZ4SKEXD0PMTBSN0DRDDT",
+          "name": "Americas",
+          "tournamentId": "01K0PRR9642CWP9EQQNHW9WV7M",
+          "events": [
+            {
+              "id": "01K0PS0QG4VATMK3G123X6GCS6",
+              "name": "Pro League Qualifier",
+              "regionId": "01K0PRZ4SKEXD0PMTBSN0DRDDT",
+              "startDate": "2025-08-01T04:00:00.000Z",
+              "endDate": "2025-08-03T04:00:00.000Z"
+            }
+          ]
+        },
+        {
+          "id": "01K0PRZBKGMQXRAABFBTM1BA00",
+          "name": "Europe Middle East and Africa",
+          "tournamentId": "01K0PRR9642CWP9EQQNHW9WV7M",
+          "events": [
+            {
+              "id": "01K0PS16VFAKASKYT2Z8AGX9JP",
+              "name": "Pro League Qualifier",
+              "regionId": "01K0PRZBKGMQXRAABFBTM1BA00",
+              "startDate": "2025-08-01T04:00:00.000Z",
+              "endDate": "2025-08-03T04:00:00.000Z"
+            }
+          ]
+        },
+        {
+          "id": "01K0PRZJ9G3Y77W0J62F1WZCA3",
+          "name": "Asia Pacific South",
+          "tournamentId": "01K0PRR9642CWP9EQQNHW9WV7M",
+          "events": [
+            {
+              "id": "01K0PS1K9Z10MN9QW5QNMKERX7",
+              "name": "Pro League Qualifier",
+              "regionId": "01K0PRZJ9G3Y77W0J62F1WZCA3",
+              "startDate": "2025-08-01T04:00:00.000Z",
+              "endDate": "2025-08-03T04:00:00.000Z"
+            }
+          ]
+        },
+        {
+          "id": "01K0PRZQ2EQ0EYG1EYKESYFT13",
+          "name": "Asia Pacific North",
+          "tournamentId": "01K0PRR9642CWP9EQQNHW9WV7M",
+          "events": [
+            {
+              "id": "01K0PS1YCQEV7DZN3HVHCS7DK7",
+              "name": "Pro League Qualifier",
+              "regionId": "01K0PRZQ2EQ0EYG1EYKESYFT13",
+              "startDate": "2025-08-01T04:00:00.000Z",
+              "endDate": "2025-08-03T04:00:00.000Z"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "01JZ8C618BFRVHM6WRQ11JFMN7",
+      "vendorId": "679d8abb77e74ff49dc38169",
+      "name": "Split 2",
+      "startDate": "2025-08-30T12:00:00.000Z",
+      "endDate": "2025-10-13T00:00:00.000Z",
+      "seasonId": "01JK2JQ40W0DDTZCWDB8WTWCBA",
+      "hideFromPublic": false,
+      "createdAt": "2025-07-03T14:48:51.212Z",
+      "updatedAt": "2025-07-03T14:48:51.212Z",
+      "deletedAt": null,
+      "deletedToken": null,
+      "regions": [
+        {
+          "id": "01JZ8C6DNG4XNRBJK47E7G895Q",
+          "name": "Americas",
+          "tournamentId": "01JZ8C618BFRVHM6WRQ11JFMN7",
+          "events": [
+            {
+              "id": "01JZAV531HR8K10BTA8BGKNDK0",
+              "name": "Split 2",
+              "regionId": "01JZ8C6DNG4XNRBJK47E7G895Q",
+              "startDate": "2025-08-30T12:00:00.000Z",
+              "endDate": "2025-10-13T00:00:00.000Z"
+            }
+          ]
+        },
+        {
+          "id": "01JZ8C6T5AC6MGZAVR5KT29Y6N",
+          "name": "Europe Middle East and Africa",
+          "tournamentId": "01JZ8C618BFRVHM6WRQ11JFMN7",
+          "events": [
+            {
+              "id": "01JZMGHDYDV61Q79EZ8K87PXGV",
+              "name": "Split 2",
+              "regionId": "01JZ8C6T5AC6MGZAVR5KT29Y6N",
+              "startDate": "2025-08-30T12:00:00.000Z",
+              "endDate": "2025-10-13T00:00:00.000Z"
+            }
+          ]
+        },
+        {
+          "id": "01JZ8C72TT6AER45GKDR8332ZR",
+          "name": "Asia Pacific South",
+          "tournamentId": "01JZ8C618BFRVHM6WRQ11JFMN7",
+          "events": [
+            {
+              "id": "01JZMGJFH3YZ1Y1DNMVGXC9PNR",
+              "name": "Split 2",
+              "regionId": "01JZ8C72TT6AER45GKDR8332ZR",
+              "startDate": "2025-08-30T12:00:00.000Z",
+              "endDate": "2025-10-13T00:00:00.000Z"
+            }
+          ]
+        },
+        {
+          "id": "01JZ8C7PFCATV1CVH27WEPJTZG",
+          "name": "Asia Pacific North",
+          "tournamentId": "01JZ8C618BFRVHM6WRQ11JFMN7",
+          "events": [
+            {
+              "id": "01JZMGKJE8QPP1536KKEME6548",
+              "name": "Split 2",
+              "regionId": "01JZ8C7PFCATV1CVH27WEPJTZG",
+              "startDate": "2025-08-30T12:00:00.000Z",
+              "endDate": "2025-10-13T00:00:00.000Z"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "01K6TNWEP78EPJBFX0FKSN99AF",
+      "vendorId": "679d8abb77e74ff49dc38170",
+      "name": "Last Chance Qualifier",
+      "startDate": "2025-10-18T04:00:00.000Z",
+      "endDate": "2025-10-20T04:00:00.000Z",
+      "seasonId": "01JK2JQ40W0DDTZCWDB8WTWCBA",
+      "hideFromPublic": true,
+      "createdAt": "2025-10-05T17:14:35.592Z",
+      "updatedAt": "2025-10-05T17:14:35.592Z",
+      "deletedAt": null,
+      "deletedToken": null,
+      "regions": [
+        {
+          "id": "01K6TNWYS8XAKJB3BYRT1JG31Z",
+          "name": "Americas",
+          "tournamentId": "01K6TNWEP78EPJBFX0FKSN99AF",
+          "events": [
+            {
+              "id": "01K6TNZ6CPDGFDN2RBYH4K482D",
+              "name": "Last Chance Qualifier",
+              "regionId": "01K6TNWYS8XAKJB3BYRT1JG31Z",
+              "startDate": "2025-10-18T04:00:00.000Z",
+              "endDate": "2025-10-19T04:00:00.000Z"
+            }
+          ]
+        },
+        {
+          "id": "01K6TNXFBN4KQ7G7JN4QC22M72",
+          "name": "Europe Middle East and Africa",
+          "tournamentId": "01K6TNWEP78EPJBFX0FKSN99AF",
+          "events": [
+            {
+              "id": "01K6TPAQ8ZWS1XHVC1EW6DVAVN",
+              "name": "Last Chance Qualifier",
+              "regionId": "01K6TNXFBN4KQ7G7JN4QC22M72",
+              "startDate": "2025-10-17T04:00:00.000Z",
+              "endDate": "2025-10-20T04:00:00.000Z"
+            }
+          ]
+        },
+        {
+          "id": "01K6TNXNRNTS7G8TBH3WC53JR1",
+          "name": "Asia Pacific South",
+          "tournamentId": "01K6TNWEP78EPJBFX0FKSN99AF",
+          "events": [
+            {
+              "id": "01K6TPBPXPX7NY293FY39068FE",
+              "name": "Last Chance Qualifier",
+              "regionId": "01K6TNXNRNTS7G8TBH3WC53JR1",
+              "startDate": "2025-10-17T04:00:00.000Z",
+              "endDate": "2025-10-20T04:00:00.000Z"
+            }
+          ]
+        },
+        {
+          "id": "01K6TNXVCWHXW1XPJS9RZ9N7EG",
+          "name": "Asia Pacific North",
+          "tournamentId": "01K6TNWEP78EPJBFX0FKSN99AF",
+          "events": [
+            {
+              "id": "01K6TPC7DS44QFV5JW9ZYXMS01",
+              "name": "Last Chance Qualifier",
+              "regionId": "01K6TNXVCWHXW1XPJS9RZ9N7EG",
+              "startDate": "2025-10-17T04:00:00.000Z",
+              "endDate": "2025-10-20T04:00:00.000Z"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "01KER78QN1CXY86K2YNJ7F7E3N",
+      "vendorId": null,
+      "name": "scrims",
+      "startDate": "2026-01-11T15:00:00.000Z",
+      "endDate": "2026-01-15T15:00:00.000Z",
+      "seasonId": "01JK2JQ40W0DDTZCWDB8WTWCBA",
+      "hideFromPublic": true,
+      "createdAt": "2026-01-12T04:26:15.073Z",
+      "updatedAt": "2026-01-12T04:26:15.073Z",
+      "deletedAt": null,
+      "deletedToken": null,
+      "regions": [
+        {
+          "id": "01KER79HNM6BVY5PX7HGJX1FEJ",
+          "name": "Global",
+          "tournamentId": "01KER78QN1CXY86K2YNJ7F7E3N",
+          "events": [
+            {
+              "id": "01KER7A71X3TN8TH91G79PHZ50",
+              "name": "Scrims Year 5 Champs",
+              "regionId": "01KER79HNM6BVY5PX7HGJX1FEJ",
+              "startDate": "2026-01-11T15:00:00.000Z",
+              "endDate": "2026-01-23T15:00:00.000Z"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "01K3GY995QDNTV61PYF85RE5HE",
+      "vendorId": "679d8abb77e74ff49dc38171",
+      "name": "Championship",
+      "startDate": "2026-01-15T05:00:00.000Z",
+      "endDate": "2026-01-18T05:00:00.000Z",
+      "seasonId": "01JK2JQ40W0DDTZCWDB8WTWCBA",
+      "hideFromPublic": false,
+      "createdAt": "2025-08-25T15:41:54.743Z",
+      "updatedAt": "2025-08-25T15:41:54.743Z",
+      "deletedAt": null,
+      "deletedToken": null,
+      "regions": [
+        {
+          "id": "01K3GYJRVHD92K20Y53HQRMTC9",
+          "name": "Global",
+          "tournamentId": "01K3GY995QDNTV61PYF85RE5HE",
+          "events": [
+            {
+              "id": "01K3GYM17QTTVXBWQ2XZMS3F36",
+              "name": "Championship",
+              "regionId": "01K3GYJRVHD92K20Y53HQRMTC9",
+              "startDate": "2026-01-15T05:00:00.000Z",
+              "endDate": "2026-01-18T05:00:00.000Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

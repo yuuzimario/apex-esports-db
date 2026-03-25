@@ -1,0 +1,2149 @@
+{
+  "fetched_at": "2026-03-26T01:51:48.144740",
+  "total_players_with_devices": 84,
+  "total_devices": 306,
+  "devices": [
+    {
+      "player_id": "0925c531-b3ab-40d6-8e3c-a7d25a1f145a",
+      "category": "mouse",
+      "brand": "Pulsar",
+      "model": "X2 Mini",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "0925c531-b3ab-40d6-8e3c-a7d25a1f145a",
+      "category": "keyboard",
+      "brand": "SteelSeries",
+      "model": "Apex Pro Mini",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "0925c531-b3ab-40d6-8e3c-a7d25a1f145a",
+      "category": "headset",
+      "brand": "Sony",
+      "model": "MDR-XB55",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "0925c531-b3ab-40d6-8e3c-a7d25a1f145a",
+      "category": "mousepad",
+      "brand": "Skypad",
+      "model": "Glass 2.0",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "fbd80f4b-e092-4140-bbb1-68b5848b7e4e",
+      "category": "mouse",
+      "brand": "Logitech",
+      "model": "G PRO X SUPERLIGHT",
+      "amazon_url_ja": "https://www.amazon.co.jp/dp/B09MVD4TBN?tag=apexdb-22"
+    },
+    {
+      "player_id": "fbd80f4b-e092-4140-bbb1-68b5848b7e4e",
+      "category": "keyboard",
+      "brand": "FILCO",
+      "model": "MajestouchBLACK",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "fbd80f4b-e092-4140-bbb1-68b5848b7e4e",
+      "category": "monitor",
+      "brand": "ZOWIE",
+      "model": "XL2456K",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "fbd80f4b-e092-4140-bbb1-68b5848b7e4e",
+      "category": "headset",
+      "brand": "Apple",
+      "model": "EarPods",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "fbd80f4b-e092-4140-bbb1-68b5848b7e4e",
+      "category": "mousepad",
+      "brand": "ZOWIE",
+      "model": "G-SR-SE",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "60170717-4014-43d9-82a2-b173b856f266",
+      "category": "headset",
+      "brand": "Sony",
+      "model": "INZONE Buds",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "60170717-4014-43d9-82a2-b173b856f266",
+      "category": "controller",
+      "brand": "Sony",
+      "model": "DUALSHOCK 4",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "9d17a6de-8ed7-459a-9ad1-a09e3a75046f",
+      "category": "mouse",
+      "brand": "Lamzu",
+      "model": "Maya CHAMPIONS SUPER LIGHT Purple Shadow",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "9d17a6de-8ed7-459a-9ad1-a09e3a75046f",
+      "category": "keyboard",
+      "brand": "Wooting",
+      "model": "60HE",
+      "amazon_url_ja": "https://www.amazon.co.jp/dp/B0D8THRQXJ?tag=apexdb-22"
+    },
+    {
+      "player_id": "9d17a6de-8ed7-459a-9ad1-a09e3a75046f",
+      "category": "monitor",
+      "brand": "Sony",
+      "model": "INZONE M10S SDM-27Q10S",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "9d17a6de-8ed7-459a-9ad1-a09e3a75046f",
+      "category": "headset",
+      "brand": "Sony",
+      "model": "E9",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "9d17a6de-8ed7-459a-9ad1-a09e3a75046f",
+      "category": "mousepad",
+      "brand": "Artisan",
+      "model": "NINJA FX ゼロ Soft",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "e513b270-37f9-4ba0-b2e2-8f9694bba2dc",
+      "category": "mouse",
+      "brand": "Logitech",
+      "model": "G PRO X SUPERLIGHT",
+      "amazon_url_ja": "https://www.amazon.co.jp/dp/B09MVD4TBN?tag=apexdb-22"
+    },
+    {
+      "player_id": "e513b270-37f9-4ba0-b2e2-8f9694bba2dc",
+      "category": "keyboard",
+      "brand": "Wooting",
+      "model": "Wooting 60HE",
+      "amazon_url_ja": "https://www.amazon.co.jp/dp/B0D8THRQXJ?tag=apexdb-22"
+    },
+    {
+      "player_id": "e513b270-37f9-4ba0-b2e2-8f9694bba2dc",
+      "category": "monitor",
+      "brand": "ZOWIE",
+      "model": "xl2566k",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "e513b270-37f9-4ba0-b2e2-8f9694bba2dc",
+      "category": "headset",
+      "brand": "Apple",
+      "model": "EarPods",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "e513b270-37f9-4ba0-b2e2-8f9694bba2dc",
+      "category": "mousepad",
+      "brand": "ARTISAN",
+      "model": "FX TYPE-99",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "950c1f86-b1b9-4069-b680-4fb75fd10a9a",
+      "category": "mouse",
+      "brand": "Logitech",
+      "model": "G PRO X SUPERLIGHT",
+      "amazon_url_ja": "https://www.amazon.co.jp/dp/B09MVD4TBN?tag=apexdb-22"
+    },
+    {
+      "player_id": "950c1f86-b1b9-4069-b680-4fb75fd10a9a",
+      "category": "keyboard",
+      "brand": "Logitech",
+      "model": "G913",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "950c1f86-b1b9-4069-b680-4fb75fd10a9a",
+      "category": "monitor",
+      "brand": "IODATA",
+      "model": "GigaCrysta",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "950c1f86-b1b9-4069-b680-4fb75fd10a9a",
+      "category": "headset",
+      "brand": "SHURE",
+      "model": "SE425",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "950c1f86-b1b9-4069-b680-4fb75fd10a9a",
+      "category": "mousepad",
+      "brand": "ZOWIE",
+      "model": "G-SR-SE",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "021c5b8f-ee12-40dd-a64e-1162d1982ce9",
+      "category": "headset",
+      "brand": "Sony",
+      "model": "INZONE Buds",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "021c5b8f-ee12-40dd-a64e-1162d1982ce9",
+      "category": "controller",
+      "brand": "Sony",
+      "model": "DualSense Edge",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "7277f7b9-ce17-49a9-9f88-8267dcd58a04",
+      "category": "mouse",
+      "brand": "Arbiter Studio",
+      "model": "AKITSU",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "7277f7b9-ce17-49a9-9f88-8267dcd58a04",
+      "category": "keyboard",
+      "brand": "Rabbit",
+      "model": "HM66",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "7277f7b9-ce17-49a9-9f88-8267dcd58a04",
+      "category": "monitor",
+      "brand": "ZOWIE",
+      "model": "XL2546K",
+      "amazon_url_ja": "https://www.amazon.co.jp/dp/B08LCMJNV7?tag=apexdb-22"
+    },
+    {
+      "player_id": "7277f7b9-ce17-49a9-9f88-8267dcd58a04",
+      "category": "headset",
+      "brand": "HiFiGo",
+      "model": "Kinera Celest PhoenixCall",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "7277f7b9-ce17-49a9-9f88-8267dcd58a04",
+      "category": "mousepad",
+      "brand": "WALLHACK",
+      "model": "SP-004",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "d7273e66-3f99-4154-9a1f-b8652e735f23",
+      "category": "mouse",
+      "brand": "Razer",
+      "model": "Viper V2 Pro",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "d7273e66-3f99-4154-9a1f-b8652e735f23",
+      "category": "keyboard",
+      "brand": "Wooting",
+      "model": "60HE",
+      "amazon_url_ja": "https://www.amazon.co.jp/dp/B0D8THRQXJ?tag=apexdb-22"
+    },
+    {
+      "player_id": "d7273e66-3f99-4154-9a1f-b8652e735f23",
+      "category": "mousepad",
+      "brand": "ARTISAN",
+      "model": "Hien MID",
+      "amazon_url_ja": "https://www.amazon.co.jp/dp/B00800GKR2?tag=apexdb-22"
+    },
+    {
+      "player_id": "585e8684-7bfb-4d0c-99dc-25562653db00",
+      "category": "monitor",
+      "brand": "Acer",
+      "model": "KG251Qbmiix",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "585e8684-7bfb-4d0c-99dc-25562653db00",
+      "category": "headset",
+      "brand": "ASTRO",
+      "model": "A40TR-MAP-002r",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "585e8684-7bfb-4d0c-99dc-25562653db00",
+      "category": "controller",
+      "brand": "Sony",
+      "model": "DualShock 4",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "412e3105-b439-4ac4-929a-97e60b45189b",
+      "category": "mouse",
+      "brand": "Glorious",
+      "model": "Model O Mouse Glossy",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "412e3105-b439-4ac4-929a-97e60b45189b",
+      "category": "keyboard",
+      "brand": "Razer",
+      "model": "Huntsman Tournament Edition",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "412e3105-b439-4ac4-929a-97e60b45189b",
+      "category": "monitor",
+      "brand": "Acer",
+      "model": "XF252QXbmiiprzx",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "412e3105-b439-4ac4-929a-97e60b45189b",
+      "category": "headset",
+      "brand": "Razer",
+      "model": "Hammerhead Pro V2",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "412e3105-b439-4ac4-929a-97e60b45189b",
+      "category": "mousepad",
+      "brand": "ZOWIE",
+      "model": "G-SR-SE",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "412e3105-b439-4ac4-929a-97e60b45189b",
+      "category": "controller",
+      "brand": "Battle Beaver",
+      "model": "DualShock 4",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "356cc1dd-73a3-4f10-b9bb-d7e25981b573",
+      "category": "mouse",
+      "brand": "WLmouse",
+      "model": "Beast X Max",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "356cc1dd-73a3-4f10-b9bb-d7e25981b573",
+      "category": "keyboard",
+      "brand": "Attack Shark",
+      "model": "X68 HE",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "356cc1dd-73a3-4f10-b9bb-d7e25981b573",
+      "category": "monitor",
+      "brand": "ZOWIE",
+      "model": "XL2546X",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "356cc1dd-73a3-4f10-b9bb-d7e25981b573",
+      "category": "headset",
+      "brand": "Sennheiser",
+      "model": "IE 100 PRO",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "6eef5b6e-d782-4c92-b532-075179ba2e9e",
+      "category": "controller",
+      "brand": "Battle Beaver",
+      "model": "DualSense 4",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "51ca876c-af2e-482f-a157-e6deb3661f28",
+      "category": "mouse",
+      "brand": "Xtrfy",
+      "model": "M42 Wireless",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "51ca876c-af2e-482f-a157-e6deb3661f28",
+      "category": "keyboard",
+      "brand": "REALFORCE",
+      "model": "R2 PZ-R2TLSA-US4-BK",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "51ca876c-af2e-482f-a157-e6deb3661f28",
+      "category": "monitor",
+      "brand": "ZOWIE",
+      "model": "XL2566K",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "51ca876c-af2e-482f-a157-e6deb3661f28",
+      "category": "headset",
+      "brand": "final",
+      "model": "A4000",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "51ca876c-af2e-482f-a157-e6deb3661f28",
+      "category": "mousepad",
+      "brand": "Artisan",
+      "model": "Hayate Otsu Soft",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "d320bd79-5fd4-49cd-a276-e71487788be8",
+      "category": "mouse",
+      "brand": "Razer",
+      "model": "Viper V2 Pro",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "d320bd79-5fd4-49cd-a276-e71487788be8",
+      "category": "keyboard",
+      "brand": "Ducky",
+      "model": "One 2 Mini Pure White RGB 60% version",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "d320bd79-5fd4-49cd-a276-e71487788be8",
+      "category": "monitor",
+      "brand": "ZOWIE",
+      "model": "XL2546K",
+      "amazon_url_ja": "https://www.amazon.co.jp/dp/B08LCMJNV7?tag=apexdb-22"
+    },
+    {
+      "player_id": "d320bd79-5fd4-49cd-a276-e71487788be8",
+      "category": "headset",
+      "brand": "SHURE",
+      "model": "SE215",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "d320bd79-5fd4-49cd-a276-e71487788be8",
+      "category": "mousepad",
+      "brand": "ARTISAN",
+      "model": "Hayate Otsu Soft NINJA FX, SOFT",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "3b1f755d-ad90-4a76-90bf-831541d06f8b",
+      "category": "controller",
+      "brand": "Void Gaming",
+      "model": "INTUITION",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "af249be5-a7af-4deb-a254-ed2b93ef6f5b",
+      "category": "mouse",
+      "brand": "Razer",
+      "model": "DeathAdder V3 Pro",
+      "amazon_url_ja": "https://www.amazon.co.jp/dp/B0B5YGR1KG?tag=apexdb-22"
+    },
+    {
+      "player_id": "af249be5-a7af-4deb-a254-ed2b93ef6f5b",
+      "category": "keyboard",
+      "brand": "Ducky",
+      "model": "One 3 Mini Pure White",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "af249be5-a7af-4deb-a254-ed2b93ef6f5b",
+      "category": "monitor",
+      "brand": "ZOWIE",
+      "model": "XL2731",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "af249be5-a7af-4deb-a254-ed2b93ef6f5b",
+      "category": "mousepad",
+      "brand": "Skypad",
+      "model": "3.0",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "a31eed12-14fa-4bf3-bf55-179a1cd7890a",
+      "category": "mouse",
+      "brand": "Logitech",
+      "model": "PRO X SUPERLIGHT 2C",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "a31eed12-14fa-4bf3-bf55-179a1cd7890a",
+      "category": "keyboard",
+      "brand": "Wooting",
+      "model": "60HE",
+      "amazon_url_ja": "https://www.amazon.co.jp/dp/B0D8THRQXJ?tag=apexdb-22"
+    },
+    {
+      "player_id": "a31eed12-14fa-4bf3-bf55-179a1cd7890a",
+      "category": "monitor",
+      "brand": "ZOWIE",
+      "model": "XL2546K",
+      "amazon_url_ja": "https://www.amazon.co.jp/dp/B08LCMJNV7?tag=apexdb-22"
+    },
+    {
+      "player_id": "a31eed12-14fa-4bf3-bf55-179a1cd7890a",
+      "category": "mousepad",
+      "brand": "Rakuten esports",
+      "model": "NEKOMUGI-1066",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "fa13c6be-a7f4-4a47-90ac-cec01149a028",
+      "category": "mouse",
+      "brand": "Xtrfy",
+      "model": "M42 Wireless",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "fa13c6be-a7f4-4a47-90ac-cec01149a028",
+      "category": "controller",
+      "brand": "Void Gaming",
+      "model": "INTUITION",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "1b52449a-6e78-4c9f-9f3d-eb9bcbb67acf",
+      "category": "mouse",
+      "brand": "Finalmouse",
+      "model": "Starlight Pro TenZ Edition",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "1b52449a-6e78-4c9f-9f3d-eb9bcbb67acf",
+      "category": "keyboard",
+      "brand": "Ducky",
+      "model": "One TKL",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "1b52449a-6e78-4c9f-9f3d-eb9bcbb67acf",
+      "category": "monitor",
+      "brand": "ZOWIE",
+      "model": "XL2546K",
+      "amazon_url_ja": "https://www.amazon.co.jp/dp/B08LCMJNV7?tag=apexdb-22"
+    },
+    {
+      "player_id": "1b52449a-6e78-4c9f-9f3d-eb9bcbb67acf",
+      "category": "headset",
+      "brand": "JBL",
+      "model": "C200SI",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "1b52449a-6e78-4c9f-9f3d-eb9bcbb67acf",
+      "category": "mousepad",
+      "brand": "ARTISAN",
+      "model": "Hayate Kou",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "8a3cdfcb-9b76-4847-a5c1-6dbc771cd78e",
+      "category": "monitor",
+      "brand": "ASUS",
+      "model": "VG248QG",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "8a3cdfcb-9b76-4847-a5c1-6dbc771cd78e",
+      "category": "controller",
+      "brand": "ASTRO",
+      "model": "C40",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "009a38e1-4615-4761-87d8-c433be93fedf",
+      "category": "mouse",
+      "brand": "RAZER",
+      "model": "VIPER V3 PRO",
+      "amazon_url_ja": "https://www.amazon.co.jp/dp/B0D1X4J51X?tag=apexdb-22"
+    },
+    {
+      "player_id": "009a38e1-4615-4761-87d8-c433be93fedf",
+      "category": "keyboard",
+      "brand": "Logitech",
+      "model": "G Pro X Gaming Keyboard",
+      "amazon_url_ja": "https://www.amazon.co.jp/dp/B0856GLJ8V?tag=apexdb-22"
+    },
+    {
+      "player_id": "009a38e1-4615-4761-87d8-c433be93fedf",
+      "category": "monitor",
+      "brand": "ASUS ROG",
+      "model": "PG259QNR",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "009a38e1-4615-4761-87d8-c433be93fedf",
+      "category": "headset",
+      "brand": "Logitech",
+      "model": "G Pro X Gaming Headset",
+      "amazon_url_ja": "https://www.amazon.co.jp/dp/B0856GLJ8V?tag=apexdb-22"
+    },
+    {
+      "player_id": "009a38e1-4615-4761-87d8-c433be93fedf",
+      "category": "mousepad",
+      "brand": "Artisan",
+      "model": "Zero (XSoft)",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "d22c091b-5ea6-4604-a15a-8e278cd16aad",
+      "category": "mouse",
+      "brand": "Logitech",
+      "model": "G Pro X Superlight",
+      "amazon_url_ja": "https://www.amazon.co.jp/dp/B09MVD4TBN?tag=apexdb-22"
+    },
+    {
+      "player_id": "d22c091b-5ea6-4604-a15a-8e278cd16aad",
+      "category": "keyboard",
+      "brand": "ASUS ROG",
+      "model": "Falchion RX Low Profile",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "d22c091b-5ea6-4604-a15a-8e278cd16aad",
+      "category": "monitor",
+      "brand": "ZOWIE",
+      "model": "XL2566K 360Hz",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "d22c091b-5ea6-4604-a15a-8e278cd16aad",
+      "category": "headset",
+      "brand": "Apple",
+      "model": "EarPods",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "d22c091b-5ea6-4604-a15a-8e278cd16aad",
+      "category": "mousepad",
+      "brand": "X-Raypad",
+      "model": "Aqua Control 2",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "fb331289-a1eb-41ce-a2d4-99f4bda02423",
+      "category": "mouse",
+      "brand": "Logitech",
+      "model": "G PRO SUPERLIGHT 2",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "fb331289-a1eb-41ce-a2d4-99f4bda02423",
+      "category": "keyboard",
+      "brand": "Wooting",
+      "model": "60HE",
+      "amazon_url_ja": "https://www.amazon.co.jp/dp/B0D8THRQXJ?tag=apexdb-22"
+    },
+    {
+      "player_id": "fb331289-a1eb-41ce-a2d4-99f4bda02423",
+      "category": "mousepad",
+      "brand": "Artisan",
+      "model": "Zero Orange XL",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "7eb93f2d-077a-4ed4-a65c-4543bdcbac6d",
+      "category": "mouse",
+      "brand": "Razer",
+      "model": "Viper V3 Pro",
+      "amazon_url_ja": "https://www.amazon.co.jp/dp/B0D1X4J51X?tag=apexdb-22"
+    },
+    {
+      "player_id": "7eb93f2d-077a-4ed4-a65c-4543bdcbac6d",
+      "category": "keyboard",
+      "brand": "WOOTING",
+      "model": "60HE",
+      "amazon_url_ja": "https://www.amazon.co.jp/dp/B0D8THRQXJ?tag=apexdb-22"
+    },
+    {
+      "player_id": "7eb93f2d-077a-4ed4-a65c-4543bdcbac6d",
+      "category": "monitor",
+      "brand": "MSI",
+      "model": "MPG 271QRX QD-OLED",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "7eb93f2d-077a-4ed4-a65c-4543bdcbac6d",
+      "category": "headset",
+      "brand": "beyerdynamic",
+      "model": "DT 770 Pro Studio",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "7eb93f2d-077a-4ed4-a65c-4543bdcbac6d",
+      "category": "mousepad",
+      "brand": "X-raypad",
+      "model": "Aqua Control Pro Black",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "5892833c-df7e-4d4b-8b0d-82486e42959f",
+      "category": "mouse",
+      "brand": "Razer",
+      "model": "DeathAdder V3 Pro",
+      "amazon_url_ja": "https://www.amazon.co.jp/dp/B0B5YGR1KG?tag=apexdb-22"
+    },
+    {
+      "player_id": "5892833c-df7e-4d4b-8b0d-82486e42959f",
+      "category": "keyboard",
+      "brand": "WOOTING",
+      "model": "60HE",
+      "amazon_url_ja": "https://www.amazon.co.jp/dp/B0D8THRQXJ?tag=apexdb-22"
+    },
+    {
+      "player_id": "5892833c-df7e-4d4b-8b0d-82486e42959f",
+      "category": "monitor",
+      "brand": "ZOWIE",
+      "model": "XL2566K",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "5892833c-df7e-4d4b-8b0d-82486e42959f",
+      "category": "headset",
+      "brand": "HyperX",
+      "model": "Cloud Revolver",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "5892833c-df7e-4d4b-8b0d-82486e42959f",
+      "category": "mousepad",
+      "brand": "SkyPAD",
+      "model": "Glass 3.0 XL",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "a90489e7-40f3-4e91-853d-77a42436dafb",
+      "category": "mouse",
+      "brand": "Finalmouse",
+      "model": "Finalmouse UltralightX Tiger(L)",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "a90489e7-40f3-4e91-853d-77a42436dafb",
+      "category": "keyboard",
+      "brand": "Wooting",
+      "model": "60 He",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "a90489e7-40f3-4e91-853d-77a42436dafb",
+      "category": "monitor",
+      "brand": "ZOWIE",
+      "model": "XL2546",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "a90489e7-40f3-4e91-853d-77a42436dafb",
+      "category": "headset",
+      "brand": "SIMGOT",
+      "model": "SuperMix 4",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "a90489e7-40f3-4e91-853d-77a42436dafb",
+      "category": "mousepad",
+      "brand": "Artisan",
+      "model": "Raiden Mid",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "3a7b2aee-27e8-4f57-b977-465d0c1ff4bf",
+      "category": "mouse",
+      "brand": "LAMZU",
+      "model": "Atlantis Mini",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "3a7b2aee-27e8-4f57-b977-465d0c1ff4bf",
+      "category": "keyboard",
+      "brand": "DrunkDeer",
+      "model": "A75",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "3a7b2aee-27e8-4f57-b977-465d0c1ff4bf",
+      "category": "monitor",
+      "brand": "ASUS",
+      "model": "Strix XG258Q",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "3a7b2aee-27e8-4f57-b977-465d0c1ff4bf",
+      "category": "mousepad",
+      "brand": "LAMZU",
+      "model": "Energon",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "88bfcadd-80e2-4587-9530-6f8c363f8678",
+      "category": "mouse",
+      "brand": "Logitech",
+      "model": "G PRO Wireless",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "fb0bbaad-f757-4d0a-90d1-9997f1baba58",
+      "category": "mouse",
+      "brand": "Glorious",
+      "model": "Model O-",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "fb0bbaad-f757-4d0a-90d1-9997f1baba58",
+      "category": "keyboard",
+      "brand": "HyperX",
+      "model": "Alloy FPS Pro Cherry MX Red",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "fb0bbaad-f757-4d0a-90d1-9997f1baba58",
+      "category": "monitor",
+      "brand": "ZOWIE",
+      "model": "XL2411P",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "fb0bbaad-f757-4d0a-90d1-9997f1baba58",
+      "category": "headset",
+      "brand": "HyperX",
+      "model": "Revolver",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "fb0bbaad-f757-4d0a-90d1-9997f1baba58",
+      "category": "mousepad",
+      "brand": "X-raypad",
+      "model": "Aqua Control+",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "88b073fd-5c40-44a3-9bdf-b39ee6ead211",
+      "category": "monitor",
+      "brand": "AOC",
+      "model": "C27G4ZXE",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "88b073fd-5c40-44a3-9bdf-b39ee6ead211",
+      "category": "headset",
+      "brand": "Astro",
+      "model": "A50",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "88b073fd-5c40-44a3-9bdf-b39ee6ead211",
+      "category": "controller",
+      "brand": "Sony",
+      "model": "DualSense Edge",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "2b753d8f-b54c-435e-86ee-25c1ed5808ee",
+      "category": "mouse",
+      "brand": "Finalmouse",
+      "model": "Phantom Starlight Medium",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "2b753d8f-b54c-435e-86ee-25c1ed5808ee",
+      "category": "keyboard",
+      "brand": "Wooting",
+      "model": "60HE+",
+      "amazon_url_ja": "https://www.amazon.co.jp/dp/B0D8THRQXJ?tag=apexdb-22"
+    },
+    {
+      "player_id": "2b753d8f-b54c-435e-86ee-25c1ed5808ee",
+      "category": "monitor",
+      "brand": "Acer",
+      "model": "XN253QX",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "2b753d8f-b54c-435e-86ee-25c1ed5808ee",
+      "category": "headset",
+      "brand": "HyperX",
+      "model": "Cloud II",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "2b753d8f-b54c-435e-86ee-25c1ed5808ee",
+      "category": "mousepad",
+      "brand": "X-raypad",
+      "model": "Aqua Control+",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "58768512-cabd-4e70-88c0-c118be9698cb",
+      "category": "controller",
+      "brand": "Sony",
+      "model": "Dualsense Edge",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "ff0460e7-920b-46f0-971c-e964b430f377",
+      "category": "mouse",
+      "brand": "Logitech",
+      "model": "G PRO X SUPERLIGHT",
+      "amazon_url_ja": "https://www.amazon.co.jp/dp/B09MVD4TBN?tag=apexdb-22"
+    },
+    {
+      "player_id": "ff0460e7-920b-46f0-971c-e964b430f377",
+      "category": "headset",
+      "brand": "MoonDrop",
+      "model": "Starfield",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "ff0460e7-920b-46f0-971c-e964b430f377",
+      "category": "mousepad",
+      "brand": "ARTISAN",
+      "model": "Raiden XSoft",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "f0af9392-4f85-48b1-a784-313ee9ad77de",
+      "category": "mouse",
+      "brand": "Lamzu",
+      "model": "Atlantis mini",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "f0af9392-4f85-48b1-a784-313ee9ad77de",
+      "category": "keyboard",
+      "brand": "Razer",
+      "model": "Huntsman Mini Clicky Optical Switch",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "f0af9392-4f85-48b1-a784-313ee9ad77de",
+      "category": "monitor",
+      "brand": "ASUS ROG",
+      "model": "Strix XG258Q",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "f0af9392-4f85-48b1-a784-313ee9ad77de",
+      "category": "headset",
+      "brand": "SteelSeries",
+      "model": "Arctis Pro Wireless",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "f0af9392-4f85-48b1-a784-313ee9ad77de",
+      "category": "mousepad",
+      "brand": "Skypad",
+      "model": "3.0 XL",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "aa32d300-f682-4c21-a116-5d07eb13119e",
+      "category": "mouse",
+      "brand": "Razer",
+      "model": "Viper V3 Pro",
+      "amazon_url_ja": "https://www.amazon.co.jp/dp/B0D1X4J51X?tag=apexdb-22"
+    },
+    {
+      "player_id": "aa32d300-f682-4c21-a116-5d07eb13119e",
+      "category": "keyboard",
+      "brand": "Razer",
+      "model": "White Huntsman Mini",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "aa32d300-f682-4c21-a116-5d07eb13119e",
+      "category": "monitor",
+      "brand": "INZONE",
+      "model": "M10S",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "aa32d300-f682-4c21-a116-5d07eb13119e",
+      "category": "headset",
+      "brand": "Razer",
+      "model": "BlackShark V3 Pro Black",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "aa32d300-f682-4c21-a116-5d07eb13119e",
+      "category": "mousepad",
+      "brand": "Razer",
+      "model": "Strider XXL",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "30c9f5b5-680b-40af-8025-f42e5d4fe182",
+      "category": "mouse",
+      "brand": "Finalmouse",
+      "model": "Starlight-12 Phantom",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "30c9f5b5-680b-40af-8025-f42e5d4fe182",
+      "category": "keyboard",
+      "brand": "Ducky",
+      "model": "One 2 Mini",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "30c9f5b5-680b-40af-8025-f42e5d4fe182",
+      "category": "headset",
+      "brand": "HyperX",
+      "model": "Cloud II",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "3d51e905-1ca7-4d06-874c-6beb4707ffe3",
+      "category": "monitor",
+      "brand": "Acer",
+      "model": "VG240Y S",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "3d51e905-1ca7-4d06-874c-6beb4707ffe3",
+      "category": "controller",
+      "brand": "Sony",
+      "model": "DualShock 4",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "19517a92-00e8-4393-8d37-4a350d595a71",
+      "category": "mouse",
+      "brand": "ZOWIE",
+      "model": "EC2-B",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "19517a92-00e8-4393-8d37-4a350d595a71",
+      "category": "keyboard",
+      "brand": "SteelSeries",
+      "model": "Apex Pro TKL",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "19517a92-00e8-4393-8d37-4a350d595a71",
+      "category": "monitor",
+      "brand": "ZOWIE",
+      "model": "XL2540",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "19517a92-00e8-4393-8d37-4a350d595a71",
+      "category": "headset",
+      "brand": "HyperX",
+      "model": "Cloud II Wireless",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "19517a92-00e8-4393-8d37-4a350d595a71",
+      "category": "mousepad",
+      "brand": "SteelSeries",
+      "model": "QcK",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "ea00b2c4-8592-49b3-ad62-30a5ba06f829",
+      "category": "monitor",
+      "brand": "Acer",
+      "model": "Nitro VG1",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "ea00b2c4-8592-49b3-ad62-30a5ba06f829",
+      "category": "headset",
+      "brand": "SteelSeries",
+      "model": "Artic 7",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "e9624729-3711-42bb-9abc-10ceb27e104e",
+      "category": "mouse",
+      "brand": "Logitech",
+      "model": "G PRO Wireless",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "e9624729-3711-42bb-9abc-10ceb27e104e",
+      "category": "keyboard",
+      "brand": "ASUS ROG",
+      "model": "Claymore Core",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "e9624729-3711-42bb-9abc-10ceb27e104e",
+      "category": "monitor",
+      "brand": "ASUS",
+      "model": "PG258Q",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "e9624729-3711-42bb-9abc-10ceb27e104e",
+      "category": "headset",
+      "brand": "SteelSeries",
+      "model": "Arctic Pro",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "e9624729-3711-42bb-9abc-10ceb27e104e",
+      "category": "mousepad",
+      "brand": "SteelSeries",
+      "model": "QcK Heavy",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "ee5a320f-5291-4c1a-90b9-a958fcece892",
+      "category": "mouse",
+      "brand": "Logitech",
+      "model": "G PRO Superlight",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "ee5a320f-5291-4c1a-90b9-a958fcece892",
+      "category": "keyboard",
+      "brand": "Ducky",
+      "model": "One 2 TKL",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "ee5a320f-5291-4c1a-90b9-a958fcece892",
+      "category": "headset",
+      "brand": "Audio-Technica",
+      "model": "ATH-M50x",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "ee5a320f-5291-4c1a-90b9-a958fcece892",
+      "category": "mousepad",
+      "brand": "SteelSeries",
+      "model": "QcK XL3",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "4d162ed6-90e5-4bb1-8ca6-3231776f1369",
+      "category": "mouse",
+      "brand": "WLmouse",
+      "model": "Beast X Mini",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "4d162ed6-90e5-4bb1-8ca6-3231776f1369",
+      "category": "keyboard",
+      "brand": "Wooting",
+      "model": "60HE",
+      "amazon_url_ja": "https://www.amazon.co.jp/dp/B0D8THRQXJ?tag=apexdb-22"
+    },
+    {
+      "player_id": "4d162ed6-90e5-4bb1-8ca6-3231776f1369",
+      "category": "monitor",
+      "brand": "LG",
+      "model": "27GP750-B",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "4d162ed6-90e5-4bb1-8ca6-3231776f1369",
+      "category": "headset",
+      "brand": "SteelSeries",
+      "model": "Arctis Nova Pro Wireless",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "4d162ed6-90e5-4bb1-8ca6-3231776f1369",
+      "category": "mousepad",
+      "brand": "Artisan",
+      "model": "key83",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "892e79cd-5d1a-477e-a339-9b96a9e89924",
+      "category": "monitor",
+      "brand": "ZOWIE",
+      "model": "XL2566K",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "892e79cd-5d1a-477e-a339-9b96a9e89924",
+      "category": "headset",
+      "brand": "Turtle Beach",
+      "model": "Stealth 700",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "892e79cd-5d1a-477e-a339-9b96a9e89924",
+      "category": "controller",
+      "brand": "Sony",
+      "model": "DualSense",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "70f5c524-69c8-4d34-bb22-4289953dae61",
+      "category": "mouse",
+      "brand": "WLMouse",
+      "model": "Beast X Mini",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "70f5c524-69c8-4d34-bb22-4289953dae61",
+      "category": "keyboard",
+      "brand": "WOOTING",
+      "model": "60HE",
+      "amazon_url_ja": "https://www.amazon.co.jp/dp/B0D8THRQXJ?tag=apexdb-22"
+    },
+    {
+      "player_id": "70f5c524-69c8-4d34-bb22-4289953dae61",
+      "category": "monitor",
+      "brand": "Sony",
+      "model": "INZONE M10S",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "70f5c524-69c8-4d34-bb22-4289953dae61",
+      "category": "headset",
+      "brand": "Logitech",
+      "model": "PRO X",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "70f5c524-69c8-4d34-bb22-4289953dae61",
+      "category": "mousepad",
+      "brand": "Artisan",
+      "model": "Raiden Soft XXL",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "b2ffaf83-f21e-4dca-921c-017b176e45f1",
+      "category": "monitor",
+      "brand": "Dell",
+      "model": "S2421HGF",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "b2ffaf83-f21e-4dca-921c-017b176e45f1",
+      "category": "headset",
+      "brand": "SteelSeries",
+      "model": "Arctis 5",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "b2ffaf83-f21e-4dca-921c-017b176e45f1",
+      "category": "controller",
+      "brand": "Battle Beaver",
+      "model": "DualSense",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "1cc27bc2-868e-4418-b200-1e3400e61c4e",
+      "category": "mouse",
+      "brand": "Finalmouse",
+      "model": "Starlight Pro TenZ Edition",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "1cc27bc2-868e-4418-b200-1e3400e61c4e",
+      "category": "keyboard",
+      "brand": "Ducky",
+      "model": "One 2 Mini",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "1cc27bc2-868e-4418-b200-1e3400e61c4e",
+      "category": "monitor",
+      "brand": "ZOWIE",
+      "model": "XL2540K",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "1cc27bc2-868e-4418-b200-1e3400e61c4e",
+      "category": "headset",
+      "brand": "FiiO",
+      "model": "FH3",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "1cc27bc2-868e-4418-b200-1e3400e61c4e",
+      "category": "mousepad",
+      "brand": "X-raypad",
+      "model": "Aqua Control 2",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "0a662234-3fdf-42e6-aaad-3f1393d141cf",
+      "category": "mouse",
+      "brand": "Logitech",
+      "model": "G PRO X SUPERLIGHT",
+      "amazon_url_ja": "https://www.amazon.co.jp/dp/B09MVD4TBN?tag=apexdb-22"
+    },
+    {
+      "player_id": "0a662234-3fdf-42e6-aaad-3f1393d141cf",
+      "category": "keyboard",
+      "brand": "Durgod",
+      "model": "Taurus K320 Cherry Speed Silver",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "0a662234-3fdf-42e6-aaad-3f1393d141cf",
+      "category": "monitor",
+      "brand": "ZOWIE",
+      "model": "XL2540K",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "0a662234-3fdf-42e6-aaad-3f1393d141cf",
+      "category": "headset",
+      "brand": "Sennheiser",
+      "model": "IE 80s",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "0a662234-3fdf-42e6-aaad-3f1393d141cf",
+      "category": "mousepad",
+      "brand": "Glorious",
+      "model": "3XL",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "f0758ac5-7555-4dcb-b9e4-c2aba84e639d",
+      "category": "monitor",
+      "brand": "ZOWIE",
+      "model": "XL2546k",
+      "amazon_url_ja": "https://www.amazon.co.jp/dp/B08LCMJNV7?tag=apexdb-22"
+    },
+    {
+      "player_id": "f0758ac5-7555-4dcb-b9e4-c2aba84e639d",
+      "category": "headset",
+      "brand": "HyperX",
+      "model": "Earbuds",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "f0758ac5-7555-4dcb-b9e4-c2aba84e639d",
+      "category": "controller",
+      "brand": "Battle Beaver",
+      "model": "PS4 Smart Bumpers",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "be8f9b15-5bc0-489d-a412-06e5b92a336e",
+      "category": "mouse",
+      "brand": "Logitech",
+      "model": "G PRO X SUPERLIGHT",
+      "amazon_url_ja": "https://www.amazon.co.jp/dp/B09MVD4TBN?tag=apexdb-22"
+    },
+    {
+      "player_id": "be8f9b15-5bc0-489d-a412-06e5b92a336e",
+      "category": "keyboard",
+      "brand": "Varmilo",
+      "model": "VA87M Vintage Days",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "be8f9b15-5bc0-489d-a412-06e5b92a336e",
+      "category": "monitor",
+      "brand": "AOC",
+      "model": "AGON AG251FZ",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "be8f9b15-5bc0-489d-a412-06e5b92a336e",
+      "category": "headset",
+      "brand": "HyperX",
+      "model": "Cloud Alpha",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "be8f9b15-5bc0-489d-a412-06e5b92a336e",
+      "category": "mousepad",
+      "brand": "Artisan",
+      "model": "FX Zero MID XL",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "e1dca16f-1f92-4bce-b371-d0f35f6cbc05",
+      "category": "monitor",
+      "brand": "Sony",
+      "model": "27\" INZONE M10S OLED",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "e1dca16f-1f92-4bce-b371-d0f35f6cbc05",
+      "category": "headset",
+      "brand": "Apple",
+      "model": "Earbuds",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "e1dca16f-1f92-4bce-b371-d0f35f6cbc05",
+      "category": "controller",
+      "brand": "Battle Beaver",
+      "model": "Playstation 5 6 custom back buttons",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "8a675403-f1d2-4aed-ad4a-bb376051eca2",
+      "category": "monitor",
+      "brand": "ASUS",
+      "model": "MG28UQ",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "8a675403-f1d2-4aed-ad4a-bb376051eca2",
+      "category": "headset",
+      "brand": "Astro",
+      "model": "A50",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "8a675403-f1d2-4aed-ad4a-bb376051eca2",
+      "category": "controller",
+      "brand": "Razer",
+      "model": "Wolverine Ultimate Edition",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "6f3a719b-5610-44eb-9ae4-673224b016a6",
+      "category": "monitor",
+      "brand": "Alienware",
+      "model": "Dark Side of the Moon",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "6f3a719b-5610-44eb-9ae4-673224b016a6",
+      "category": "controller",
+      "brand": "Void Gaming",
+      "model": "Intuition Pro",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "cebf9e25-28db-49a1-8223-68594fa2d252",
+      "category": "headset",
+      "brand": "HyperX",
+      "model": "Cloud Earbuds",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "cebf9e25-28db-49a1-8223-68594fa2d252",
+      "category": "controller",
+      "brand": "Microsoft",
+      "model": "Xbox",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "9281192e-01dd-45e9-a50e-6b1dbb32d1b1",
+      "category": "mouse",
+      "brand": "Logitech",
+      "model": "G PRO Wireless",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "9281192e-01dd-45e9-a50e-6b1dbb32d1b1",
+      "category": "keyboard",
+      "brand": "CORSAIR",
+      "model": "Strafe MK.2 Cherry MX Silent",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "9281192e-01dd-45e9-a50e-6b1dbb32d1b1",
+      "category": "monitor",
+      "brand": "Acer",
+      "model": "XB241H",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "9281192e-01dd-45e9-a50e-6b1dbb32d1b1",
+      "category": "mousepad",
+      "brand": "ZOWIE",
+      "model": "G-TFX",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "ec4252c0-53ed-473f-ab80-d3eddef2dd87",
+      "category": "monitor",
+      "brand": "Alienware",
+      "model": "AW2524HF",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "ec4252c0-53ed-473f-ab80-d3eddef2dd87",
+      "category": "controller",
+      "brand": "Battle Beaver",
+      "model": "Xbox",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "e1e516fc-678f-4863-bebc-af87fd2dc56b",
+      "category": "mouse",
+      "brand": "Razer",
+      "model": "Viper Ultimate",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "e1e516fc-678f-4863-bebc-af87fd2dc56b",
+      "category": "keyboard",
+      "brand": "HyperX",
+      "model": "Alloy Elite 2",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "e1e516fc-678f-4863-bebc-af87fd2dc56b",
+      "category": "monitor",
+      "brand": "LG",
+      "model": "27GL63T",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "e1e516fc-678f-4863-bebc-af87fd2dc56b",
+      "category": "headset",
+      "brand": "HyperX",
+      "model": "Cloud Alpha",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "99c1c89d-51a3-4e02-a4b8-4f894e601b4f",
+      "category": "headset",
+      "brand": "Astro",
+      "model": "A10",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "99c1c89d-51a3-4e02-a4b8-4f894e601b4f",
+      "category": "controller",
+      "brand": "Battle Beaver",
+      "model": "PS5",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "59d47834-f6b9-4345-af8f-5067cd7a3d8a",
+      "category": "mouse",
+      "brand": "Logitech",
+      "model": "G703",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "59d47834-f6b9-4345-af8f-5067cd7a3d8a",
+      "category": "keyboard",
+      "brand": "Razer",
+      "model": "Blackwidow Chroma Tournament Edition",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "59d47834-f6b9-4345-af8f-5067cd7a3d8a",
+      "category": "monitor",
+      "brand": "BenQ",
+      "model": "XL2411P",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "59d47834-f6b9-4345-af8f-5067cd7a3d8a",
+      "category": "headset",
+      "brand": "Logitech",
+      "model": "PRO X",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "59d47834-f6b9-4345-af8f-5067cd7a3d8a",
+      "category": "mousepad",
+      "brand": "Artisan",
+      "model": "Zero FX Soft Black XL",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "92bdf4fd-9e20-4be8-9ef0-5d2cea176acb",
+      "category": "monitor",
+      "brand": "Alienware",
+      "model": "AW2518H",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "92bdf4fd-9e20-4be8-9ef0-5d2cea176acb",
+      "category": "headset",
+      "brand": "Sennheiser",
+      "model": "GSP 670",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "15295560-44c6-4d8d-8797-162bae65ba9f",
+      "category": "controller",
+      "brand": "GameSir",
+      "model": "G7 Pro",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "4edee185-a9cb-4608-a581-558ff6ee8690",
+      "category": "mouse",
+      "brand": "Logitech",
+      "model": "G PRO X SUPERLIGHT",
+      "amazon_url_ja": "https://www.amazon.co.jp/dp/B09MVD4TBN?tag=apexdb-22"
+    },
+    {
+      "player_id": "4edee185-a9cb-4608-a581-558ff6ee8690",
+      "category": "keyboard",
+      "brand": "Ducky",
+      "model": "One 2 TKL Pudding Edition",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "4edee185-a9cb-4608-a581-558ff6ee8690",
+      "category": "monitor",
+      "brand": "Asus",
+      "model": "VG248QE",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "4edee185-a9cb-4608-a581-558ff6ee8690",
+      "category": "headset",
+      "brand": "HyperX",
+      "model": "Cloud Flight",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "4edee185-a9cb-4608-a581-558ff6ee8690",
+      "category": "mousepad",
+      "brand": "X-raypad",
+      "model": "Aqua Control+",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "bf5d8417-b4df-4cc3-87d4-09930420e6da",
+      "category": "monitor",
+      "brand": "ZOWIE",
+      "model": "XL2546K",
+      "amazon_url_ja": "https://www.amazon.co.jp/dp/B08LCMJNV7?tag=apexdb-22"
+    },
+    {
+      "player_id": "bf5d8417-b4df-4cc3-87d4-09930420e6da",
+      "category": "headset",
+      "brand": "Logitech",
+      "model": "PRO X WIRELESS 2",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "bf5d8417-b4df-4cc3-87d4-09930420e6da",
+      "category": "controller",
+      "brand": "Battle Beaver",
+      "model": "PS5",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "3d9d005d-e43a-49d9-a611-0ce3c3d977c7",
+      "category": "mouse",
+      "brand": "Logitech",
+      "model": "G PRO X SUPERLIGHT",
+      "amazon_url_ja": "https://www.amazon.co.jp/dp/B09MVD4TBN?tag=apexdb-22"
+    },
+    {
+      "player_id": "3d9d005d-e43a-49d9-a611-0ce3c3d977c7",
+      "category": "keyboard",
+      "brand": "Kemove",
+      "model": "DK61",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "3d9d005d-e43a-49d9-a611-0ce3c3d977c7",
+      "category": "monitor",
+      "brand": "MSI",
+      "model": "MAG251RX",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "3d9d005d-e43a-49d9-a611-0ce3c3d977c7",
+      "category": "headset",
+      "brand": "HyperX",
+      "model": "Cloud II",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "3d9d005d-e43a-49d9-a611-0ce3c3d977c7",
+      "category": "mousepad",
+      "brand": "X-raypad",
+      "model": "Aqua Control+ XR",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "47400374-f13e-423a-a3d6-9821c4c5b574",
+      "category": "mouse",
+      "brand": "Hitscan",
+      "model": "Hyperlight",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "47400374-f13e-423a-a3d6-9821c4c5b574",
+      "category": "keyboard",
+      "brand": "MELETRIX",
+      "model": "BOOG75 Prebuilt",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "47400374-f13e-423a-a3d6-9821c4c5b574",
+      "category": "monitor",
+      "brand": "Sony",
+      "model": "Sony INZONE M10S 27” OLED 1440p",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "47400374-f13e-423a-a3d6-9821c4c5b574",
+      "category": "headset",
+      "brand": "Logitech",
+      "model": "G PRO X",
+      "amazon_url_ja": "https://www.amazon.co.jp/dp/B0856GLJ8V?tag=apexdb-22"
+    },
+    {
+      "player_id": "47400374-f13e-423a-a3d6-9821c4c5b574",
+      "category": "mousepad",
+      "brand": "Artisan",
+      "model": "Hien Xsoft",
+      "amazon_url_ja": "https://www.amazon.co.jp/dp/B00800GKR2?tag=apexdb-22"
+    },
+    {
+      "player_id": "5b2dabdf-2eea-41b4-b109-a95893e4b235",
+      "category": "controller",
+      "brand": "Battle Beaver",
+      "model": "DualShock 4 1 Left Button",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "977fb15f-849d-4deb-9c47-e275878d9f70",
+      "category": "mouse",
+      "brand": "Razer",
+      "model": "Deathadder V2 Pro",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "977fb15f-849d-4deb-9c47-e275878d9f70",
+      "category": "keyboard",
+      "brand": "Corsair",
+      "model": "K70 RGB",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "977fb15f-849d-4deb-9c47-e275878d9f70",
+      "category": "monitor",
+      "brand": "BenQ ZOWIE",
+      "model": "XL2740",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "977fb15f-849d-4deb-9c47-e275878d9f70",
+      "category": "headset",
+      "brand": "ASTRO",
+      "model": "A40",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "977fb15f-849d-4deb-9c47-e275878d9f70",
+      "category": "mousepad",
+      "brand": "WHFDSBD",
+      "model": "Hyper Beast XL",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "1ba77279-3ba5-4c39-8903-9eba5f1d2bb6",
+      "category": "mouse",
+      "brand": "Logitech",
+      "model": "G PRO X SUPERLIGHT",
+      "amazon_url_ja": "https://www.amazon.co.jp/dp/B09MVD4TBN?tag=apexdb-22"
+    },
+    {
+      "player_id": "1ba77279-3ba5-4c39-8903-9eba5f1d2bb6",
+      "category": "monitor",
+      "brand": "Sony",
+      "model": "M10S",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "1ba77279-3ba5-4c39-8903-9eba5f1d2bb6",
+      "category": "headset",
+      "brand": "Sony",
+      "model": "INZONE H9",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "1ba77279-3ba5-4c39-8903-9eba5f1d2bb6",
+      "category": "mousepad",
+      "brand": "Logitech",
+      "model": "G640",
+      "amazon_url_ja": "https://www.amazon.co.jp/dp/B01E4MA1VU?tag=apexdb-22"
+    },
+    {
+      "player_id": "1ba77279-3ba5-4c39-8903-9eba5f1d2bb6",
+      "category": "controller",
+      "brand": "ZD",
+      "model": "Ultimate Legend Alps module",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "ada52003-e261-4327-8aa8-58d1959e2cb4",
+      "category": "controller",
+      "brand": "Battle Beaver",
+      "model": "PS4",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "f1712489-ddc0-4a6c-9db7-5520302638cd",
+      "category": "mouse",
+      "brand": "Scyrox",
+      "model": "V8 Magenta",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "f1712489-ddc0-4a6c-9db7-5520302638cd",
+      "category": "keyboard",
+      "brand": "Madlions",
+      "model": "Mad68r Acrilic Custom",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "f1712489-ddc0-4a6c-9db7-5520302638cd",
+      "category": "monitor",
+      "brand": "Sony INZONE",
+      "model": "M10S OLED QHD 480Hz",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "f1712489-ddc0-4a6c-9db7-5520302638cd",
+      "category": "headset",
+      "brand": "Sony INZONE",
+      "model": "H9 II Wireless",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "f1712489-ddc0-4a6c-9db7-5520302638cd",
+      "category": "mousepad",
+      "brand": "Artisan",
+      "model": "Raiden XXL",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "be4bfdab-1c50-470b-9581-90a1c19d8489",
+      "category": "mouse",
+      "brand": "Logitech",
+      "model": "G PRO Wireless",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "be4bfdab-1c50-470b-9581-90a1c19d8489",
+      "category": "keyboard",
+      "brand": "Ducky",
+      "model": "Sakura - Silent Cherry Reds",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "be4bfdab-1c50-470b-9581-90a1c19d8489",
+      "category": "mousepad",
+      "brand": "Glorious",
+      "model": "XXL Extended White",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "725fd998-ebd8-4f45-9740-af86f7e7f476",
+      "category": "headset",
+      "brand": "Apple",
+      "model": "EarPods",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "725fd998-ebd8-4f45-9740-af86f7e7f476",
+      "category": "controller",
+      "brand": "Microsoft",
+      "model": "Xbox Elite Series 2",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "b5a6d851-fc10-4ebb-bfe6-895153a73ed7",
+      "category": "mouse",
+      "brand": "Logitech",
+      "model": "G PRO Wireless",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "b5a6d851-fc10-4ebb-bfe6-895153a73ed7",
+      "category": "keyboard",
+      "brand": "Ducky",
+      "model": "One 2 Mini PureWhite",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "b5a6d851-fc10-4ebb-bfe6-895153a73ed7",
+      "category": "monitor",
+      "brand": "BenQ",
+      "model": "XL2546",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "b5a6d851-fc10-4ebb-bfe6-895153a73ed7",
+      "category": "headset",
+      "brand": "Logitech",
+      "model": "G PRO X",
+      "amazon_url_ja": "https://www.amazon.co.jp/dp/B0856GLJ8V?tag=apexdb-22"
+    },
+    {
+      "player_id": "b5a6d851-fc10-4ebb-bfe6-895153a73ed7",
+      "category": "mousepad",
+      "brand": "Logitech",
+      "model": "G640",
+      "amazon_url_ja": "https://www.amazon.co.jp/dp/B01E4MA1VU?tag=apexdb-22"
+    },
+    {
+      "player_id": "b5a6d851-fc10-4ebb-bfe6-895153a73ed7",
+      "category": "controller",
+      "brand": "Sony",
+      "model": "DualSense Edge",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "ccb96e9d-a31f-4789-b654-c5fd800ffc2f",
+      "category": "controller",
+      "brand": "Battle Beaver",
+      "model": "DualShock 4 1 Back Button",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "a62cdb6f-6dca-448e-85fc-65abde9a5f8d",
+      "category": "mouse",
+      "brand": "Logitech",
+      "model": "G930",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "15191f0f-4bbb-432c-baad-ca9298edf0c6",
+      "category": "mouse",
+      "brand": "Logitech",
+      "model": "G PRO SUPERLIGHT",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "15191f0f-4bbb-432c-baad-ca9298edf0c6",
+      "category": "keyboard",
+      "brand": "SteelSeries",
+      "model": "Apex Pro Mini",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "15191f0f-4bbb-432c-baad-ca9298edf0c6",
+      "category": "monitor",
+      "brand": "Asus",
+      "model": "VG259QM",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "15191f0f-4bbb-432c-baad-ca9298edf0c6",
+      "category": "headset",
+      "brand": "TRUTHEAR",
+      "model": "ZERO:RED",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "15191f0f-4bbb-432c-baad-ca9298edf0c6",
+      "category": "mousepad",
+      "brand": "X-Raypad",
+      "model": "Aqua Control 2",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "ab7fc16c-98fa-478b-985a-144c6cd11537",
+      "category": "mouse",
+      "brand": "Logitech",
+      "model": "G Pro Superlight",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "ab7fc16c-98fa-478b-985a-144c6cd11537",
+      "category": "mousepad",
+      "brand": "WALLHACK",
+      "model": "SP-004",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "5d5a228a-3e18-4658-b07a-1737091f7c03",
+      "category": "mouse",
+      "brand": "Logitech",
+      "model": "G PRO X SUPERLIGHT",
+      "amazon_url_ja": "https://www.amazon.co.jp/dp/B09MVD4TBN?tag=apexdb-22"
+    },
+    {
+      "player_id": "5d5a228a-3e18-4658-b07a-1737091f7c03",
+      "category": "keyboard",
+      "brand": "Highground",
+      "model": "Summit 65",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "5d5a228a-3e18-4658-b07a-1737091f7c03",
+      "category": "monitor",
+      "brand": "ZOWIE",
+      "model": "XL2540",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "5d5a228a-3e18-4658-b07a-1737091f7c03",
+      "category": "headset",
+      "brand": "Sennheiser",
+      "model": "IE 500 Pro",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "5d5a228a-3e18-4658-b07a-1737091f7c03",
+      "category": "mousepad",
+      "brand": "Artisan",
+      "model": "Hayate Otsu",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "eaf32f6d-30b1-4529-939d-93bad1f2e823",
+      "category": "monitor",
+      "brand": "Acer Predator",
+      "model": "450",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "eaf32f6d-30b1-4529-939d-93bad1f2e823",
+      "category": "headset",
+      "brand": "Apple",
+      "model": "Earbuds",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "eaf32f6d-30b1-4529-939d-93bad1f2e823",
+      "category": "controller",
+      "brand": "Battle Beaver",
+      "model": "PS4",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "73484438-db0b-44b2-beb7-c08a1be6a55a",
+      "category": "mouse",
+      "brand": "Logitech",
+      "model": "G PRO x Superlight 2",
+      "amazon_url_ja": "https://www.amazon.co.jp/dp/B09MVD4TBN?tag=apexdb-22"
+    },
+    {
+      "player_id": "73484438-db0b-44b2-beb7-c08a1be6a55a",
+      "category": "keyboard",
+      "brand": "SteelSeries",
+      "model": "Apex 7 100%",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "73484438-db0b-44b2-beb7-c08a1be6a55a",
+      "category": "monitor",
+      "brand": "LG",
+      "model": "Ultragear 27GS93QE 240hz OLED",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "73484438-db0b-44b2-beb7-c08a1be6a55a",
+      "category": "headset",
+      "brand": "SteelSeries",
+      "model": "Arctis Nova 3",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "73484438-db0b-44b2-beb7-c08a1be6a55a",
+      "category": "mousepad",
+      "brand": "Artisan",
+      "model": "Zero Soft XL",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "962cfd8d-185c-4c49-968f-314af8175c68",
+      "category": "monitor",
+      "brand": "ZOWIE",
+      "model": "XL2546K",
+      "amazon_url_ja": "https://www.amazon.co.jp/dp/B08LCMJNV7?tag=apexdb-22"
+    },
+    {
+      "player_id": "962cfd8d-185c-4c49-968f-314af8175c68",
+      "category": "headset",
+      "brand": "Apple",
+      "model": "Earbuds",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "962cfd8d-185c-4c49-968f-314af8175c68",
+      "category": "controller",
+      "brand": "Battle Beaver",
+      "model": "DualShock 4",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "f0ae7142-f4ee-4e18-aecc-62c4068672d9",
+      "category": "monitor",
+      "brand": "Alienware",
+      "model": "AW2521H",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "f0ae7142-f4ee-4e18-aecc-62c4068672d9",
+      "category": "controller",
+      "brand": "Battle Beaver",
+      "model": "PS4 SmartPad",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "cc5a22ee-86fc-4ec5-ac7a-404a1cd56423",
+      "category": "mouse",
+      "brand": "WLmouse",
+      "model": "Beast X Max",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "cc5a22ee-86fc-4ec5-ac7a-404a1cd56423",
+      "category": "keyboard",
+      "brand": "Wooting",
+      "model": "60 HE 60%",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "cc5a22ee-86fc-4ec5-ac7a-404a1cd56423",
+      "category": "monitor",
+      "brand": "Alienware",
+      "model": "AW2523HF",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "cc5a22ee-86fc-4ec5-ac7a-404a1cd56423",
+      "category": "headset",
+      "brand": "Sennheiser",
+      "model": "HD660S2",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "cc5a22ee-86fc-4ec5-ac7a-404a1cd56423",
+      "category": "mousepad",
+      "brand": "Artisan",
+      "model": "Artisan Raiden Mid",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "8937f21d-aab5-404a-a293-45f9c0b7e299",
+      "category": "mouse",
+      "brand": "Finalmouse",
+      "model": "Starlight Pro TenZ Edition",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "8937f21d-aab5-404a-a293-45f9c0b7e299",
+      "category": "keyboard",
+      "brand": "Glorious",
+      "model": "GMMK Pro",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "8937f21d-aab5-404a-a293-45f9c0b7e299",
+      "category": "monitor",
+      "brand": "ZOWIE",
+      "model": "XL2546K",
+      "amazon_url_ja": "https://www.amazon.co.jp/dp/B08LCMJNV7?tag=apexdb-22"
+    },
+    {
+      "player_id": "8937f21d-aab5-404a-a293-45f9c0b7e299",
+      "category": "headset",
+      "brand": "HyperX",
+      "model": "Stinger",
+      "amazon_url_ja": null
+    },
+    {
+      "player_id": "8937f21d-aab5-404a-a293-45f9c0b7e299",
+      "category": "mousepad",
+      "brand": "Skypad",
+      "model": "3.0",
+      "amazon_url_ja": null
+    }
+  ]
+}

@@ -1,0 +1,1112 @@
+{
+  "source": "battlefy (Online Opens leaderboard)",
+  "fetched_at": "2026-03-25T19:33:21",
+  "formatted_at": "2026-03-25T23:39:51.845490",
+  "regions": {
+    "APAC_N": {
+      "matched": [
+        {
+          "algs_name": "DeNeTars",
+          "battlefy_name": "DeNeTars",
+          "battlefy_team_id": "698b43773618b0001368181d",
+          "battlefy_score": 4200,
+          "battlefy_rank": 5,
+          "algs_players": [
+            "Deathtenys",
+            "Lantabi",
+            "Nemu",
+            "taniko"
+          ],
+          "battlefy_players": [
+            "Nemu",
+            "Deathtenys",
+            "taniko"
+          ],
+          "roster_match": false,
+          "common_players": [
+            "nemu",
+            "deathtenys",
+            "taniko"
+          ],
+          "algs_only": [
+            "lantabi"
+          ],
+          "battlefy_only": []
+        },
+        {
+          "algs_name": "DreadNoughtus",
+          "battlefy_name": "DreadNoughtus",
+          "battlefy_team_id": "69971b01e0c8b60013031307",
+          "battlefy_score": 4740,
+          "battlefy_rank": 4,
+          "algs_players": [
+            "bushmaru",
+            "Duckz",
+            "jirozon666",
+            "yamatai"
+          ],
+          "battlefy_players": [
+            "jirozon666",
+            "Duckz",
+            "yamatai"
+          ],
+          "roster_match": false,
+          "common_players": [
+            "yamatai",
+            "jirozon666",
+            "duckz"
+          ],
+          "algs_only": [
+            "bushmaru"
+          ],
+          "battlefy_only": []
+        },
+        {
+          "algs_name": "GangRabbiT",
+          "battlefy_name": "GangRabbiT",
+          "battlefy_team_id": "699d1f1576c1990012f2f662",
+          "battlefy_score": 1500,
+          "battlefy_rank": 45,
+          "algs_players": [
+            "ImNaoki",
+            "S0chan",
+            "wayachang"
+          ],
+          "battlefy_players": [
+            "ImNaoki",
+            "S0chan",
+            "wayachang"
+          ],
+          "roster_match": true,
+          "common_players": [
+            "wayachang",
+            "s0chan",
+            "imnaoki"
+          ],
+          "algs_only": [],
+          "battlefy_only": []
+        },
+        {
+          "algs_name": "GUNSO",
+          "battlefy_name": "GUNSO",
+          "battlefy_team_id": "699c67e700a9230013dda1ac",
+          "battlefy_score": 2610,
+          "battlefy_rank": 24,
+          "algs_players": [
+            "mirytaya",
+            "OUZIA",
+            "TENTEN"
+          ],
+          "battlefy_players": [
+            "mirytaya",
+            "TENTEN",
+            "OUZIA"
+          ],
+          "roster_match": true,
+          "common_players": [
+            "tenten",
+            "ouzia",
+            "mirytaya"
+          ],
+          "algs_only": [],
+          "battlefy_only": []
+        },
+        {
+          "algs_name": "KINOTROPE CLUB",
+          "battlefy_name": "KINOTROPE CLUB",
+          "battlefy_team_id": "6999cd72b107480013a87433",
+          "battlefy_score": 2580,
+          "battlefy_rank": 25,
+          "algs_players": [
+            "1ron",
+            "astrofrogyy",
+            "chappy",
+            "DAMADAO",
+            "Moyashii 9"
+          ],
+          "battlefy_players": [
+            "Cqnty",
+            "Moyashii 9",
+            "DAMADAO"
+          ],
+          "roster_match": false,
+          "common_players": [
+            "damadao",
+            "moyashii9"
+          ],
+          "algs_only": [
+            "astrofrogyy",
+            "chappy",
+            "1ron"
+          ],
+          "battlefy_only": [
+            "cqnty"
+          ]
+        },
+        {
+          "algs_name": "RUA",
+          "battlefy_name": "RUA",
+          "battlefy_team_id": "699b208571736800134f7027",
+          "battlefy_score": 4740,
+          "battlefy_rank": 3,
+          "algs_players": [
+            "Amaki",
+            "Splash",
+            "tororo_tps",
+            "XimLynk"
+          ],
+          "battlefy_players": [
+            "Splash",
+            "Amaki",
+            "XimLynk"
+          ],
+          "roster_match": false,
+          "common_players": [
+            "amaki",
+            "splash",
+            "ximlynk"
+          ],
+          "algs_only": [
+            "tororotps"
+          ],
+          "battlefy_only": []
+        },
+        {
+          "algs_name": "SukiSukiScream",
+          "battlefy_name": "SukiSukiScream",
+          "battlefy_team_id": "696e73197799ab0013e92002",
+          "battlefy_score": 3930,
+          "battlefy_rank": 10,
+          "algs_players": [
+            "mido",
+            "Taito",
+            "Tommypocopants",
+            "Yuuki_MsR"
+          ],
+          "battlefy_players": [
+            "Tommypocopants",
+            "Yuuki_MsR",
+            "mido"
+          ],
+          "roster_match": false,
+          "common_players": [
+            "tommypocopants",
+            "yuukimsr",
+            "mido"
+          ],
+          "algs_only": [
+            "taito"
+          ],
+          "battlefy_only": []
+        },
+        {
+          "algs_name": "WGR NEO",
+          "battlefy_name": "WGR NEO",
+          "battlefy_team_id": "699d930676c1990012f2fdf7",
+          "battlefy_score": 4890,
+          "battlefy_rank": 2,
+          "algs_players": [
+            "AQBAJAPAN",
+            "Gsnkryu",
+            "juxo"
+          ],
+          "battlefy_players": [
+            "AQBAJAPAN",
+            "juxo",
+            "Gsnkryu"
+          ],
+          "roster_match": true,
+          "common_players": [
+            "aqbajapan",
+            "juxo",
+            "gsnkryu"
+          ],
+          "algs_only": [],
+          "battlefy_only": []
+        },
+        {
+          "algs_name": "ZETA DIVISION",
+          "battlefy_name": "ZETA DIVISION",
+          "battlefy_team_id": "6986e1a8e7d46e00130c4344",
+          "battlefy_score": 5400,
+          "battlefy_rank": 1,
+          "algs_players": [
+            "mike",
+            "Satuki",
+            "Takuron",
+            "Yamato",
+            "YukaF"
+          ],
+          "battlefy_players": [
+            "YukaF",
+            "mike",
+            "Satuki"
+          ],
+          "roster_match": false,
+          "common_players": [
+            "satuki",
+            "mike",
+            "yukaf"
+          ],
+          "algs_only": [
+            "yamato",
+            "takuron"
+          ],
+          "battlefy_only": []
+        }
+      ],
+      "unmatched_in_algs": [
+        "BIG BOYS",
+        "BLACK Sheeps",
+        "Dory",
+        "ENTER FORCE.36",
+        "FENNEL",
+        "FNATIC",
+        "GROW Gaming",
+        "KINOTROPE gaming",
+        "LawsonTicketXone",
+        "Meteor",
+        "NOEZ FOXX",
+        "REALIZE",
+        "REIGNITE",
+        "REJECT",
+        "RIDDLE ORDER",
+        "SBI e-Sports",
+        "SYRALE",
+        "TIE",
+        "TriniTY",
+        "UNLIMIT",
+        "WhiteGrimReaper"
+      ]
+    },
+    "APAC_S": {
+      "matched": [
+        {
+          "algs_name": "2c1m",
+          "battlefy_name": "2c1m",
+          "battlefy_team_id": "697c95a0079861001374f2b3",
+          "battlefy_score": 2910,
+          "battlefy_rank": 17,
+          "algs_players": [
+            "15Years FengchunOvO",
+            "Ggod",
+            "KuRong"
+          ],
+          "battlefy_players": [
+            "Ggod",
+            "15Years FengchunOvO",
+            "KuRong"
+          ],
+          "roster_match": true,
+          "common_players": [
+            "kurong",
+            "ggod",
+            "15yearsfengchunovo"
+          ],
+          "algs_only": [],
+          "battlefy_only": []
+        },
+        {
+          "algs_name": "ARAM",
+          "battlefy_name": "ARAM",
+          "battlefy_team_id": "6989e63a2e5e5a00138c651e",
+          "battlefy_score": 5190,
+          "battlefy_rank": 2,
+          "algs_players": [
+            "Chisu",
+            "SongYou",
+            "yoafter"
+          ],
+          "battlefy_players": [
+            "Chisu",
+            "SongYou",
+            "yoafter"
+          ],
+          "roster_match": true,
+          "common_players": [
+            "yoafter",
+            "chisu",
+            "songyou"
+          ],
+          "algs_only": [],
+          "battlefy_only": []
+        },
+        {
+          "algs_name": "black hole",
+          "battlefy_name": "black hole",
+          "battlefy_team_id": "6986f6c9fa004100122f8b6a",
+          "battlefy_score": 2280,
+          "battlefy_rank": 28,
+          "algs_players": [
+            "5EEastyy",
+            "Gouge",
+            "Stan",
+            "xxfps"
+          ],
+          "battlefy_players": [
+            "xxfps",
+            "5EEastyy",
+            "Stan"
+          ],
+          "roster_match": false,
+          "common_players": [
+            "5eeastyy",
+            "stan",
+            "xxfps"
+          ],
+          "algs_only": [
+            "gouge"
+          ],
+          "battlefy_only": []
+        },
+        {
+          "algs_name": "Ctrl Alt Defeat",
+          "battlefy_name": "Ctrl Alt Defeat",
+          "battlefy_team_id": "699872d5e0c8b60013033881",
+          "battlefy_score": 4050,
+          "battlefy_rank": 6,
+          "algs_players": [
+            "Fehr",
+            "ItsmeRaza",
+            "OKKKKKJOSHH",
+            "psychO"
+          ],
+          "battlefy_players": [
+            "ItsmeRaza",
+            "OKKKKKJOSHH",
+            "psychO",
+            "Fehr"
+          ],
+          "roster_match": true,
+          "common_players": [
+            "itsmeraza",
+            "psycho",
+            "fehr",
+            "okkkkkjoshh"
+          ],
+          "algs_only": [],
+          "battlefy_only": []
+        },
+        {
+          "algs_name": "GoaT",
+          "battlefy_name": "GoaT",
+          "battlefy_team_id": "69888cd865b6ae0013cd6c95",
+          "battlefy_score": 3780,
+          "battlefy_rank": 7,
+          "algs_players": [
+            "CAIGOU",
+            "DJCaTLInK",
+            "Hinson",
+            "OWOWOWOWOWOOWO",
+            "Phr34k"
+          ],
+          "battlefy_players": [
+            "Phr34k",
+            "CAIGOU",
+            "OWOWOWOWOWOOWO"
+          ],
+          "roster_match": false,
+          "common_players": [
+            "caigou",
+            "phr34k",
+            "owowowowowoowo"
+          ],
+          "algs_only": [
+            "djcatlink",
+            "hinson"
+          ],
+          "battlefy_only": []
+        },
+        {
+          "algs_name": "Inside The Ring",
+          "battlefy_name": "Inside The Ring",
+          "battlefy_team_id": "6976e9fc0798610013722fdb",
+          "battlefy_score": 5340,
+          "battlefy_rank": 1,
+          "algs_players": [
+            "NEWKU",
+            "Peterseng6974",
+            "Pyrosama",
+            "s4dmannn"
+          ],
+          "battlefy_players": [
+            "NEWKU",
+            "Peterseng6974",
+            "Pyrosama"
+          ],
+          "roster_match": false,
+          "common_players": [
+            "newku",
+            "peterseng6974",
+            "pyrosama"
+          ],
+          "algs_only": [
+            "s4dmannn"
+          ],
+          "battlefy_only": []
+        },
+        {
+          "algs_name": "NAH",
+          "battlefy_name": "NAH",
+          "battlefy_team_id": "6973601da41b830013c476d4",
+          "battlefy_score": 4410,
+          "battlefy_rank": 5,
+          "algs_players": [
+            "Ahao",
+            "Normal",
+            "Tastingblood "
+          ],
+          "battlefy_players": [
+            "Tastingblood ",
+            "Normal",
+            "Ahao"
+          ],
+          "roster_match": true,
+          "common_players": [
+            "ahao",
+            "tastingblood",
+            "normal"
+          ],
+          "algs_only": [],
+          "battlefy_only": []
+        },
+        {
+          "algs_name": "QWQ",
+          "battlefy_name": "QWQ",
+          "battlefy_team_id": "69799d8407986100137262df",
+          "battlefy_score": 1500,
+          "battlefy_rank": 42,
+          "algs_players": [
+            "Chris",
+            "Menino",
+            "WWUUZZII"
+          ],
+          "battlefy_players": [
+            "Menino",
+            "WWUUZZII",
+            "Chris"
+          ],
+          "roster_match": true,
+          "common_players": [
+            "wwuuzzii",
+            "menino",
+            "chris"
+          ],
+          "algs_only": [],
+          "battlefy_only": []
+        },
+        {
+          "algs_name": "UBI CILEMBU",
+          "battlefy_name": "UBI CILEMBU",
+          "battlefy_team_id": "6996806cc6d42d0013b9a1ba",
+          "battlefy_score": 4670,
+          "battlefy_rank": 4,
+          "algs_players": [
+            "Doommvpzszz",
+            "EzFlashKIDZ",
+            "wadadiEgs",
+            "Xboltz7"
+          ],
+          "battlefy_players": [
+            "EzFlashKIDZ",
+            "Doommvpzszz",
+            "Xboltz7",
+            "wadadiEgs"
+          ],
+          "roster_match": true,
+          "common_players": [
+            "doommvpzszz",
+            "xboltz7",
+            "ezflashkidz",
+            "wadadiegs"
+          ],
+          "algs_only": [],
+          "battlefy_only": []
+        }
+      ],
+      "unmatched_in_algs": [
+        "Bearclaw Gaming",
+        "Dogred",
+        "Dreamfire",
+        "FIZ6 Gaming",
+        "GenG Esports",
+        "Grape Soda",
+        "HAVOC",
+        "Kakkoii",
+        "MaMa Clubs",
+        "MeiDuiYaoBYD",
+        "Outside",
+        "PXX",
+        "Relove DCG",
+        "Remarkable Team",
+        "RENDANG",
+        "S8UL",
+        "Team RRQ",
+        "TomYumKung",
+        "Veneno",
+        "VK GAMING",
+        "Wolves Esports"
+      ]
+    },
+    "EMEA": {
+      "matched": [
+        {
+          "algs_name": "3 MEN",
+          "battlefy_name": "3 MEN",
+          "battlefy_team_id": "699cb2706c10950013fa5b85",
+          "battlefy_score": 4170,
+          "battlefy_rank": 8,
+          "algs_players": [
+            "BaByLoNs",
+            "LivaiiApex",
+            "Temuchi "
+          ],
+          "battlefy_players": [
+            "BaByLoNs",
+            "LivaiiApex",
+            "Temuchi "
+          ],
+          "roster_match": true,
+          "common_players": [
+            "temuchi",
+            "babylons",
+            "livaiiapex"
+          ],
+          "algs_only": [],
+          "battlefy_only": []
+        },
+        {
+          "algs_name": "Clxver",
+          "battlefy_name": "Clxver",
+          "battlefy_team_id": "699b0d1bb107480013a8c300",
+          "battlefy_score": 4470,
+          "battlefy_rank": 4,
+          "algs_players": [
+            "irie",
+            "tsuki ",
+            "zombare"
+          ],
+          "battlefy_players": [
+            "irie",
+            "zombare",
+            "tsuki "
+          ],
+          "roster_match": true,
+          "common_players": [
+            "tsuki",
+            "zombare",
+            "irie"
+          ],
+          "algs_only": [],
+          "battlefy_only": []
+        },
+        {
+          "algs_name": "DSK",
+          "battlefy_name": "DSK",
+          "battlefy_team_id": "699ea7459ef74500135451db",
+          "battlefy_score": 1500,
+          "battlefy_rank": 44,
+          "algs_players": [
+            "1stagga",
+            "gdolphn",
+            "Kolibrihh"
+          ],
+          "battlefy_players": [
+            "1stagga",
+            "Kolibrihh",
+            "gdolphn"
+          ],
+          "roster_match": true,
+          "common_players": [
+            "kolibrihh",
+            "1stagga",
+            "gdolphn"
+          ],
+          "algs_only": [],
+          "battlefy_only": []
+        },
+        {
+          "algs_name": "Havoc legends",
+          "battlefy_name": "Havoc legends",
+          "battlefy_team_id": "6997281fc6d42d0013b9b1dc",
+          "battlefy_score": 4560,
+          "battlefy_rank": 3,
+          "algs_players": [
+            "IKrrio",
+            "osamh-gun",
+            "vAyoub ",
+            "xOSAM2-"
+          ],
+          "battlefy_players": [
+            "osamh-gun",
+            "xOSAM2-",
+            "vAyoub "
+          ],
+          "roster_match": false,
+          "common_players": [
+            "osamhgun",
+            "xosam2",
+            "vayoub"
+          ],
+          "algs_only": [
+            "ikrrio"
+          ],
+          "battlefy_only": []
+        },
+        {
+          "algs_name": "POT",
+          "battlefy_name": "Potassium",
+          "battlefy_team_id": "699236270261030012e58e8e",
+          "battlefy_score": 4770,
+          "battlefy_rank": 2,
+          "algs_players": [
+            "dsblf",
+            "ozzzus7",
+            "Prestis",
+            "taskmast33r"
+          ],
+          "battlefy_players": [
+            "B4mbino",
+            "ASKYY",
+            "Sweepy"
+          ],
+          "roster_match": false,
+          "common_players": [],
+          "algs_only": [
+            "ozzzus7",
+            "prestis",
+            "taskmast33r",
+            "dsblf"
+          ],
+          "battlefy_only": [
+            "b4mbino",
+            "sweepy",
+            "askyy"
+          ]
+        },
+        {
+          "algs_name": "Potassium",
+          "battlefy_name": "Potassium",
+          "battlefy_team_id": "699236270261030012e58e8e",
+          "battlefy_score": 4770,
+          "battlefy_rank": 2,
+          "algs_players": [
+            "ASKYY",
+            "B4mbino",
+            "Sweepy"
+          ],
+          "battlefy_players": [
+            "B4mbino",
+            "ASKYY",
+            "Sweepy"
+          ],
+          "roster_match": true,
+          "common_players": [
+            "b4mbino",
+            "sweepy",
+            "askyy"
+          ],
+          "algs_only": [],
+          "battlefy_only": []
+        },
+        {
+          "algs_name": "Stay Healthy",
+          "battlefy_name": "Stay Healthy",
+          "battlefy_team_id": "696fc290200a380013e8fa26",
+          "battlefy_score": 5460,
+          "battlefy_rank": 1,
+          "algs_players": [
+            "AJXNTHI",
+            "fl1zon",
+            "Guts",
+            "Rainer Luckshot "
+          ],
+          "battlefy_players": [
+            "fl1zon",
+            "AJXNTHI",
+            "Guts"
+          ],
+          "roster_match": false,
+          "common_players": [
+            "guts",
+            "fl1zon",
+            "ajxnthi"
+          ],
+          "algs_only": [
+            "rainerluckshot"
+          ],
+          "battlefy_only": []
+        },
+        {
+          "algs_name": "ZIPLINE MAFIA",
+          "battlefy_name": "ZIPLINE MAFIA",
+          "battlefy_team_id": "69851a9efa004100122e833a",
+          "battlefy_score": 1500,
+          "battlefy_rank": 43,
+          "algs_players": [
+            "Exguze",
+            "fitoo",
+            "WeakQ"
+          ],
+          "battlefy_players": [
+            "WeakQ",
+            "fitoo",
+            "Exguze"
+          ],
+          "roster_match": true,
+          "common_players": [
+            "weakq",
+            "exguze",
+            "fitoo"
+          ],
+          "algs_only": [],
+          "battlefy_only": []
+        }
+      ],
+      "unmatched_in_algs": [
+        "Alliance",
+        "AURORA",
+        "Awakened",
+        "Blessed",
+        "Citadel Gaming",
+        "ECLIPSE NEEVEPRO",
+        "FUL",
+        "GaiminGladiators",
+        "GoNext",
+        "hm",
+        "Infinite",
+        "Made In Heaven",
+        "MakeEuGreatAgain",
+        "MAMMA MIA",
+        "NOVO Esports",
+        "OrglessAndHungry",
+        "Pixel Lumina",
+        "PRYANIKI",
+        "SJP2",
+        "SUPERNOVA",
+        "The Vicious",
+        "UAV"
+      ]
+    },
+    "NA": {
+      "matched": [
+        {
+          "algs_name": "5STAR",
+          "battlefy_name": "5STAR",
+          "battlefy_team_id": "698e2c96fedb89001221ed2e",
+          "battlefy_score": 4320,
+          "battlefy_rank": 5,
+          "algs_players": [
+            "CAD",
+            "Dark",
+            "Dig",
+            "kaydnw"
+          ],
+          "battlefy_players": [
+            "Dig",
+            "Dark",
+            "kaydnw"
+          ],
+          "roster_match": false,
+          "common_players": [
+            "dig",
+            "dark",
+            "kaydnw"
+          ],
+          "algs_only": [
+            "cad"
+          ],
+          "battlefy_only": []
+        },
+        {
+          "algs_name": "BB",
+          "battlefy_name": "Bibbys Gubble",
+          "battlefy_team_id": "698a64ec4c086a001374bbdd",
+          "battlefy_score": 360,
+          "battlefy_rank": 131,
+          "algs_players": [
+            "CruelBuckle",
+            "J",
+            "Kuzmei",
+            "mav"
+          ],
+          "battlefy_players": [
+            "Curryfan204",
+            "decei7",
+            "aimgodnevermiss420"
+          ],
+          "roster_match": false,
+          "common_players": [],
+          "algs_only": [
+            "kuzmei",
+            "cruelbuckle",
+            "mav",
+            "j"
+          ],
+          "battlefy_only": [
+            "decei7",
+            "aimgodnevermiss420",
+            "curryfan204"
+          ]
+        },
+        {
+          "algs_name": "FLAT",
+          "battlefy_name": "FLAT",
+          "battlefy_team_id": "696cbf9b8a12830013aea63b",
+          "battlefy_score": 1500,
+          "battlefy_rank": 46,
+          "algs_players": [
+            "bigluie",
+            "Nano",
+            "Qzier"
+          ],
+          "battlefy_players": [
+            "Nano",
+            "Qzier",
+            "bigluie"
+          ],
+          "roster_match": true,
+          "common_players": [
+            "nano",
+            "bigluie",
+            "qzier"
+          ],
+          "algs_only": [],
+          "battlefy_only": []
+        },
+        {
+          "algs_name": "Free Thinkers",
+          "battlefy_name": "Free Thinkers",
+          "battlefy_team_id": "698e2399fedb89001221eb2f",
+          "battlefy_score": 2490,
+          "battlefy_rank": 25,
+          "algs_players": [
+            "Atypicalship",
+            "garyy6",
+            "negative",
+            "orange12111"
+          ],
+          "battlefy_players": [
+            "garyy6",
+            "negative",
+            "orange12111"
+          ],
+          "roster_match": false,
+          "common_players": [
+            "orange12111",
+            "negative",
+            "garyy6"
+          ],
+          "algs_only": [
+            "atypicalship"
+          ],
+          "battlefy_only": []
+        },
+        {
+          "algs_name": "Full XI",
+          "battlefy_name": "Full XI",
+          "battlefy_team_id": "699e647d4716c30013984303",
+          "battlefy_score": 4290,
+          "battlefy_rank": 6,
+          "algs_players": [
+            "Legatronn",
+            "NotDaniel",
+            "Soviet",
+            "WydFuture"
+          ],
+          "battlefy_players": [
+            "Soviet",
+            "Legatronn",
+            "WydFuture"
+          ],
+          "roster_match": false,
+          "common_players": [
+            "soviet",
+            "wydfuture",
+            "legatronn"
+          ],
+          "algs_only": [
+            "notdaniel"
+          ],
+          "battlefy_only": []
+        },
+        {
+          "algs_name": "GAMBLERS",
+          "battlefy_name": "GAMBLERS",
+          "battlefy_team_id": "696cbb438a12830013aea563",
+          "battlefy_score": 4460,
+          "battlefy_rank": 3,
+          "algs_players": [
+            "Adiuvant",
+            "DadIsBored",
+            "hxted",
+            "Osivien",
+            "zephurrx"
+          ],
+          "battlefy_players": [
+            "hxted",
+            "Adiuvant",
+            "zephurrx",
+            "Osivien"
+          ],
+          "roster_match": false,
+          "common_players": [
+            "zephurrx",
+            "adiuvant",
+            "hxted",
+            "osivien"
+          ],
+          "algs_only": [
+            "dadisbored"
+          ],
+          "battlefy_only": []
+        },
+        {
+          "algs_name": "HbM",
+          "battlefy_name": "HbM",
+          "battlefy_team_id": "698ec88efedb89001221ff9f",
+          "battlefy_score": 4380,
+          "battlefy_rank": 4,
+          "algs_players": [
+            "Perfections",
+            "Trevstacks",
+            "voxymeme",
+            "Why Envy"
+          ],
+          "battlefy_players": [
+            "Perfections",
+            "voxymeme",
+            "Why Envy",
+            "Trevstacks"
+          ],
+          "roster_match": true,
+          "common_players": [
+            "perfections",
+            "whyenvy",
+            "voxymeme",
+            "trevstacks"
+          ],
+          "algs_only": [],
+          "battlefy_only": []
+        },
+        {
+          "algs_name": "LEGACY",
+          "battlefy_name": "New Legacy",
+          "battlefy_team_id": "697d70d0aba183001272b076",
+          "battlefy_score": 490,
+          "battlefy_rank": 109,
+          "algs_players": [
+            "Gyozey",
+            "jaguares1",
+            "NMEgo",
+            "StryderEz",
+            "YanYa"
+          ],
+          "battlefy_players": [
+            "Mark1toss",
+            "Shyr0",
+            "Dark-Coss"
+          ],
+          "roster_match": false,
+          "common_players": [],
+          "algs_only": [
+            "gyozey",
+            "yanya",
+            "jaguares1",
+            "nmego",
+            "stryderez"
+          ],
+          "battlefy_only": [
+            "darkcoss",
+            "mark1toss",
+            "shyr0"
+          ]
+        },
+        {
+          "algs_name": "REVIVAL",
+          "battlefy_name": "REVIVAL",
+          "battlefy_team_id": "699e6b8e9ef7450013544869",
+          "battlefy_score": 5070,
+          "battlefy_rank": 1,
+          "algs_players": [
+            "ImMadness",
+            "january",
+            "Lazur",
+            "Melloh"
+          ],
+          "battlefy_players": [
+            "january",
+            "ImMadness",
+            "Melloh"
+          ],
+          "roster_match": false,
+          "common_players": [
+            "january",
+            "melloh",
+            "immadness"
+          ],
+          "algs_only": [
+            "lazur"
+          ],
+          "battlefy_only": []
+        },
+        {
+          "algs_name": "Zest Fest",
+          "battlefy_name": "Zest Fest",
+          "battlefy_team_id": "69941ec5e0c8b6001302458e",
+          "battlefy_score": 4470,
+          "battlefy_rank": 2,
+          "algs_players": [
+            "eslopes",
+            "khenzo",
+            "Twitch Fredstxr",
+            "WabiSabi"
+          ],
+          "battlefy_players": [
+            "eslopes",
+            "khenzo",
+            "Twitch Fredstxr"
+          ],
+          "roster_match": false,
+          "common_players": [
+            "khenzo",
+            "twitchfredstxr",
+            "eslopes"
+          ],
+          "algs_only": [
+            "wabisabi"
+          ],
+          "battlefy_only": []
+        }
+      ],
+      "unmatched_in_algs": [
+        "Crazy Thieves",
+        "DINOS",
+        "DKK",
+        "Donut Shop",
+        "Exterminators",
+        "HUSS",
+        "medium rare",
+        "Men Of Culture",
+        "Nice Guys",
+        "NinjasinPyjamas",
+        "Oblivion",
+        "Purple Slushee",
+        "ROC Esports",
+        "S2",
+        "ShopifyRebellion",
+        "Source Gaming",
+        "Stallions",
+        "Team Falcons",
+        "Team Liquid",
+        "THUGGETS"
+      ]
+    }
+  },
+  "match_stats": {
+    "total_algs_teams": 120,
+    "total_matched": 36,
+    "total_unmatched": 84,
+    "total_roster_diff": 20
+  }
+}

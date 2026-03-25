@@ -1,0 +1,5402 @@
+{
+  "APAC South": [
+    {
+      "teamVersionId": "01KKW8ZE5TDHNT8DCF8J2DHT0B",
+      "teamId": "01KKW8ZE49ZZKWV4ZPSWRNH7X6",
+      "name": "2c1m",
+      "shortName": "2C1M",
+      "logoDark": null,
+      "logoLight": null,
+      "region": "asia-pacific-south",
+      "disbanded": false,
+      "players": [
+        {
+          "id": "01KEVFQ7NS90ZEM81VBM7JCCBH",
+          "frontImage": null,
+          "personalityImage": null,
+          "name": "15Years FengchunOvO",
+          "teamVersionId": "01KKW8ZE5TDHNT8DCF8J2DHT0B",
+          "role": "player"
+        },
+        {
+          "id": "01JKTRVP330PJC2FDR1MWKM1Y7",
+          "frontImage": null,
+          "personalityImage": null,
+          "name": "Ggod",
+          "teamVersionId": "01KKW8ZE5TDHNT8DCF8J2DHT0B",
+          "role": "player"
+        },
+        {
+          "id": "01JMYTW9S8B5K35H1MJH1B0BVH",
+          "frontImage": null,
+          "personalityImage": null,
+          "name": "KuRong",
+          "teamVersionId": "01KKW8ZE5TDHNT8DCF8J2DHT0B",
+          "role": "player"
+        }
+      ],
+      "group": "B"
+    },
+    {
+      "teamVersionId": "01KME2AHCK86HYNGDM36XPHZ0C",
+      "teamId": "01KME2AHCFT4C53BNA6E2Z9FD6",
+      "name": "ARAM",
+      "shortName": "ARAM",
+      "logoDark": null,
+      "logoLight": null,
+      "region": "asia-pacific-south",
+      "disbanded": false,
+      "players": [
+        {
+          "id": "01JK6N9V06F91Q96RHFSYT34YV",
+          "frontImage": "https://content.algstools.com/5J00BRq2sCfMSD7TwXXd.png",
+          "personalityImage": null,
+          "name": "Chisu",
+          "teamVersionId": "01KME2AHCK86HYNGDM36XPHZ0C",
+          "role": "player"
+        },
+        {
+          "id": "01JKE1NE6WPJ92CQWE9BTJ6X4V",
+          "frontImage": "https://content.algstools.com/7Qn7VbRO591prScMaLPJ.png",
+          "personalityImage": "https://content.algstools.com/QRCWWExHUWLxUahZFY12.png",
+          "name": "SongYou",
+          "teamVersionId": "01KME2AHCK86HYNGDM36XPHZ0C",
+          "role": "player"
+        },
+        {
+          "id": "01KH3YZVZHVWZEVDS8A4QKCDFH",
+          "frontImage": null,
+          "personalityImage": null,
+          "name": "yoafter",
+          "teamVersionId": "01KME2AHCK86HYNGDM36XPHZ0C",
+          "role": "player"
+        }
+      ],
+      "group": "A"
+    },
+    {
+      "teamVersionId": "01KK8VGGHJSNGW4JG4XC8SZKJ6",
+      "teamId": "01KHPREZ4208EN3K1VJB0G8S6N",
+      "name": "Bearclaw Gaming",
+      "shortName": "BCG",
+      "logoDark": "https://content.algstools.com/01KJR73MFSKDPAWR0RJ3EY4BS3.png",
+      "logoLight": "https://content.algstools.com/01KJR73MDW9EH89G0F84CTFWY1.png",
+      "region": "asia-pacific-south",
+      "disbanded": false,
+      "players": [
+        {
+          "id": "01JH3XXFFHNBN6BWPX464TJ9VX",
+          "frontImage": "https://content.algstools.com/FMs31HVF7qzfFRLgcSS0.png",
+          "personalityImage": "https://content.algstools.com/ZfQMgHxXRJjAuJ4g0xMu.png",
+          "name": "hannzi",
+          "teamVersionId": "01KK8VGGHJSNGW4JG4XC8SZKJ6",
+          "role": "player"
+        },
+        {
+          "id": "01JKD7GWMY0MD44KPWKH4NZHWF",
+          "frontImage": "https://content.algstools.com/4quknWivLFBwC1rjOQGL.png",
+          "personalityImage": null,
+          "name": "Heckk",
+          "teamVersionId": "01KK8VGGHJSNGW4JG4XC8SZKJ6",
+          "role": "player"
+        },
+        {
+          "id": "01JKBZPA2X3K5HJBNGM8H5BBJW",
+          "frontImage": "https://content.algstools.com/U8KbseIuLk6H4Uk5xfJ1.png",
+          "personalityImage": null,
+          "name": "Lymo",
+          "teamVersionId": "01KK8VGGHJSNGW4JG4XC8SZKJ6",
+          "role": "player"
+        },
+        {
+          "id": "01J80KMC74P0MNTEVZP6J7HW8E",
+          "frontImage": "https://content.algstools.com/ZNvGjY8bdF0IhNxiC4z1.png",
+          "personalityImage": "https://content.algstools.com/OYHs49qXK7VTi56OfSme.png",
+          "name": "W-L-A2",
+          "teamVersionId": "01KK8VGGHJSNGW4JG4XC8SZKJ6",
+          "role": "player"
+        }
+      ],
+      "group": "A"
+    },
+    {
+      "teamVersionId": "01KK8VGFV9VQAKQD2ZJCNNN6VV",
+      "teamId": "01KK8VGFSV46119MRVWFS1T5JH",
+      "name": "black hole",
+      "shortName": "BH",
+      "logoDark": null,
+      "logoLight": null,
+      "region": "asia-pacific-south",
+      "disbanded": false,
+      "players": [
+        {
+          "id": "01JKZ1CRWCVXHXQ2KNDVKFQVTP",
+          "frontImage": null,
+          "personalityImage": null,
+          "name": "5EEastyy",
+          "teamVersionId": "01KK8VGFV9VQAKQD2ZJCNNN6VV",
+          "role": "player"
+        },
+        {
+          "id": "01KH0NMPTP8Z2H0KH75B6PF4GE",
+          "frontImage": null,
+          "personalityImage": null,
+          "name": "Gouge",
+          "teamVersionId": "01KK8VGFV9VQAKQD2ZJCNNN6VV",
+          "role": "player"
+        },
+        {
+          "id": "01KJWNDBPHF7JV08ADMVR8BVNC",
+          "frontImage": null,
+          "personalityImage": null,
+          "name": "Stan",
+          "teamVersionId": "01KK8VGFV9VQAKQD2ZJCNNN6VV",
+          "role": "player"
+        },
+        {
+          "id": "01JRM8CK0E3JKHCNH2J0H1VGVE",
+          "frontImage": null,
+          "personalityImage": null,
+          "name": "xxfps",
+          "teamVersionId": "01KK8VGFV9VQAKQD2ZJCNNN6VV",
+          "role": "player"
+        }
+      ],
+      "group": "C"
+    },
+    {
+      "teamVersionId": "01KME2AH7HH63TR96BDMZTJ9KF",
+      "teamId": "01KME2AH7DSDDG6G6SH8PKWXQE",
+      "name": "Ctrl Alt Defeat",
+      "shortName": "CAD",
+      "logoDark": null,
+      "logoLight": null,
+      "region": "asia-pacific-south",
+      "disbanded": false,
+      "players": [
+        {
+          "id": "01KGMRVFV0Q60N786W5PC256W0",
+          "frontImage": null,
+          "personalityImage": null,
+          "name": "Fehr",
+          "teamVersionId": "01KME2AH7HH63TR96BDMZTJ9KF",
+          "role": "player"
+        },
+        {
+          "id": "01JK2XHY34BP4WS7D9BHD0QAVZ",
+          "frontImage": null,
+          "personalityImage": null,
+          "name": "ItsmeRaza",
+          "teamVersionId": "01KME2AH7HH63TR96BDMZTJ9KF",
+          "role": "player"
+        },
+        {
+          "id": "01JKDX4K53M1KYD3JFD0NADNYQ",
+          "frontImage": "https://content.algstools.com/wjyvy2VKKXgh7AJaVDRT.png",
+          "personalityImage": null,
+          "name": "OKKKKKJOSHH",
+          "teamVersionId": "01KME2AH7HH63TR96BDMZTJ9KF",
+          "role": "player"
+        },
+        {
+          "id": "01K6513000RCDMK8DX7Y6VKSPW",
+          "frontImage": null,
+          "personalityImage": null,
+          "name": "psychO",
+          "teamVersionId": "01KME2AH7HH63TR96BDMZTJ9KF",
+          "role": "player"
+        }
+      ],
+      "group": "B"
+    },
+    {
+      "teamVersionId": "01KM697ATQ8AVGA8YN7W7B8RG8",
+      "teamId": "01KHPREVHTW9Y3A7FRCKDE8N9C",
+      "name": "Dogred",
+      "shortName": "DOG",
+      "logoDark": null,
+      "logoLight": null,
+      "region": "asia-pacific-south",
+      "disbanded": false,
+      "players": [
+        {
+          "id": "01JKB0BSCSC01W8BN60D4H2WB3",
+          "frontImage": "https://content.algstools.com/GVsXvARwFrpHhisjn6iA.png",
+          "personalityImage": "https://content.algstools.com/n5WZbePNGmeC2mlm9E0d.png",
+          "name": "FAFAFIF",
+          "teamVersionId": "01KM697ATQ8AVGA8YN7W7B8RG8",
+          "role": "player"
+        },
+        {
+          "id": "01JK8FX9T9WZRCZFMPQWGDZH68",
+          "frontImage": "https://content.algstools.com/Pt4WhYnTEHsWmPornJb8.png",
+          "personalityImage": "https://content.algstools.com/vcMf6FtAl29ZKFGsgFMb.png",
+          "name": "GOPGAPz",
+          "teamVersionId": "01KM697ATQ8AVGA8YN7W7B8RG8",
+          "role": "player"
+        },
+        {
+          "id": "01JK3B7FZ0AV8JSNA12RRDAH0A",
+          "frontImage": "https://content.algstools.com/sZ6IIPnsQwHeq2IfSvyE.png",
+          "personalityImage": "https://content.algstools.com/maNlxIA1B8oan3zcYQDL.png",
+          "name": "Killoposz",
+          "teamVersionId": "01KM697ATQ8AVGA8YN7W7B8RG8",
+          "role": "player"
+        },
+        {
+          "id": "01J69SVC6M098A38KNMFDXJV2B",
+          "frontImage": "https://content.algstools.com/GbKIRuIqofjVqzYSGUDO.png",
+          "personalityImage": "https://content.algstools.com/83o5ZHckvi1FZNkPLAtS.png",
+          "name": "yanlys",
+          "teamVersionId": "01KM697ATQ8AVGA8YN7W7B8RG8",
+          "role": "player"
+        }
+      ],
+      "group": "C"
+    },
+    {
+      "teamVersionId": "01KJR7W0KR608NJX7PJ7TG3JF1",
+      "teamId": "01KHPREY9SGSJQNAEGQ30GX2CD",
+      "name": "Dreamfire",
+      "shortName": "DF",
+      "logoDark": "https://content.algstools.com/01KJR74JM0Z2Q9K0BS4DRSXC07.png",
+      "logoLight": "https://content.algstools.com/01KJR74JJ3WGNJ9GAMA0DF61VR.png",
+      "region": "asia-pacific-south",
+      "disbanded": false,
+      "players": [
+        {
+          "id": "01J69SW4B3PT9S26SYWK24NTN4",
+          "frontImage": "https://content.algstools.com/tmksE6r6LMyvsn66rCjF.png",
+          "personalityImage": "https://content.algstools.com/jzs382ddJuj5Nu5ZQbAc.png",
+          "name": "3mz",
+          "teamVersionId": "01KJR7W0KR608NJX7PJ7TG3JF1",
+          "role": "player"
+        },
+        {
+          "id": "01J65B7C03NBGZXEMGSZX9PEQT",
+          "frontImage": "https://content.algstools.com/AdUccp4UvSHL2pkufH6m.png",
+          "personalityImage": "https://content.algstools.com/n1EjnqQWycqjY0LRwvGh.png",
+          "name": "BoLin",
+          "teamVersionId": "01KJR7W0KR608NJX7PJ7TG3JF1",
+          "role": "player"
+        },
+        {
+          "id": "01J69SVD1A10VKE1671MZJTV8G",
+          "frontImage": "https://content.algstools.com/Zt73mvq2QzhR1xbF9K0x.png",
+          "personalityImage": "https://content.algstools.com/23qX7irYJn4kiIiJzlpe.png",
+          "name": "JonnyR",
+          "teamVersionId": "01KJR7W0KR608NJX7PJ7TG3JF1",
+          "role": "player"
+        },
+        {
+          "id": "01JK2Z3SY2FK087CH8Z3H1TYKA",
+          "frontImage": null,
+          "personalityImage": null,
+          "name": "Zoffy",
+          "teamVersionId": "01KJR7W0KR608NJX7PJ7TG3JF1",
+          "role": "coach"
+        }
+      ],
+      "group": "B"
+    },
+    {
+      "teamVersionId": "01KME84BRSHXX0Q0A6W136YJFW",
+      "teamId": "01KME2AHACS3A7YE9M3TC3NVXS",
+      "name": "FIZ6 Gaming",
+      "shortName": "FIZ6",
+      "logoDark": "https://content.algstools.com/01KMF9CQEM214RZA76JBYY7BDR.png",
+      "logoLight": "https://content.algstools.com/01KMF9CQA4ZK4E1MWABZB9ZYA6.png",
+      "region": "asia-pacific-south",
+      "disbanded": false,
+      "players": [
+        {
+          "id": "01K1SXKWCYD6MNX35HMD8BJFA2",
+          "frontImage": null,
+          "personalityImage": null,
+          "name": "Aviisan",
+          "teamVersionId": "01KME84BRSHXX0Q0A6W136YJFW",
+          "role": "player"
+        },
+        {
+          "id": "01JK2YFYVGWXCC1TN7QDN3R2JP",
+          "frontImage": null,
+          "personalityImage": null,
+          "name": "OzWald",
+          "teamVersionId": "01KME84BRSHXX0Q0A6W136YJFW",
+          "role": "player"
+        },
+        {
+          "id": "01JK2XWGYQ215VVRSTJCF6W7QY",
+          "frontImage": "https://content.algstools.com/8kjETqnz9DI4kH9zns71.png",
+          "personalityImage": null,
+          "name": "SillyStepSis",
+          "teamVersionId": "01KME84BRSHXX0Q0A6W136YJFW",
+          "role": "player"
+        },
+        {
+          "id": "01JKZE6BYF0DVCWMHB4XX2575W",
+          "frontImage": null,
+          "personalityImage": null,
+          "name": "WitnessMe",
+          "teamVersionId": "01KME84BRSHXX0Q0A6W136YJFW",
+          "role": "player"
+        }
+      ],
+      "group": "B"
+    },
+    {
+      "teamVersionId": "01KHPREYD8SW6QK1VGX22RM056",
+      "teamId": "01KHPREYD403WZ7N0JWCAZ73TC",
+      "name": "GenG Esports",
+      "shortName": "GEN",
+      "logoDark": "https://content.algstools.com/01KJW03EQ4YGCG35PYHZ076M9J.png",
+      "logoLight": "https://content.algstools.com/01KJW03EHAJSN1T2HNFY09N00H.png",
+      "region": "asia-pacific-south",
+      "disbanded": false,
+      "players": [
+        {
+          "id": "01JKGNYX0H7XXMAQR5SG72J0BD",
+          "frontImage": "https://content.algstools.com/6Su2wqgunrs5izSOU8BU.png",
+          "personalityImage": "https://content.algstools.com/EustrFFKNDF8M421c4ln.png",
+          "name": "ASIAZXD",
+          "teamVersionId": "01KHPREYD8SW6QK1VGX22RM056",
+          "role": "player"
+        },
+        {
+          "id": "01J65B7F6PE7V0T40S65T5ZPV4",
+          "frontImage": "https://content.algstools.com/6AfSLRZ8KuDetBCvILvW.png",
+          "personalityImage": "https://content.algstools.com/bTCUpyszlurN4lZN63K0.png",
+          "name": "DEXTER",
+          "teamVersionId": "01KHPREYD8SW6QK1VGX22RM056",
+          "role": "player"
+        },
+        {
+          "id": "01J6H4ARK8P8Z70AP4HZPX7PGV",
+          "frontImage": "https://content.algstools.com/83MGEQiuGnfGezx7KBLe.png",
+          "personalityImage": "https://content.algstools.com/AgQy6mdrxuSWex7vvAze.png",
+          "name": "TEMPPLEX",
+          "teamVersionId": "01KHPREYD8SW6QK1VGX22RM056",
+          "role": "player"
+        },
+        {
+          "id": "01J65B7E0BP0J3AMAXD0SVPJKH",
+          "frontImage": "https://content.algstools.com/3md1NfOl0snxJrsPGkHS.png",
+          "personalityImage": "https://content.algstools.com/ABBCXFX6f34zNB5GftNa.png",
+          "name": "Z1CKKY",
+          "teamVersionId": "01KHPREYD8SW6QK1VGX22RM056",
+          "role": "player"
+        }
+      ],
+      "group": "B"
+    },
+    {
+      "teamVersionId": "01KME2AH4V528N5ZMJR5E91FYT",
+      "teamId": "01KME2AH4NG8W8G65J2H899XP4",
+      "name": "GoaT",
+      "shortName": "GT",
+      "logoDark": null,
+      "logoLight": null,
+      "region": "asia-pacific-south",
+      "disbanded": false,
+      "players": [
+        {
+          "id": "01JVMF3VEDPHR4K5PZ86J3WS3F",
+          "frontImage": null,
+          "personalityImage": null,
+          "name": "CAIGOU",
+          "teamVersionId": "01KME2AH4V528N5ZMJR5E91FYT",
+          "role": "player"
+        },
+        {
+          "id": "01JS67QEHT937RKZ2A874PR1N7",
+          "frontImage": null,
+          "personalityImage": null,
+          "name": "DJCaTLInK",
+          "teamVersionId": "01KME2AH4V528N5ZMJR5E91FYT",
+          "role": "coach"
+        },
+        {
+          "id": "01JXCJ1TT6PQ8R4T21HMXTSTQN",
+          "frontImage": null,
+          "personalityImage": null,
+          "name": "Hinson",
+          "teamVersionId": "01KME2AH4V528N5ZMJR5E91FYT",
+          "role": "player"
+        },
+        {
+          "id": "01KGYM7RKZJYJQRNQMMZQ3NCWV",
+          "frontImage": null,
+          "personalityImage": null,
+          "name": "OWOWOWOWOWOOWO",
+          "teamVersionId": "01KME2AH4V528N5ZMJR5E91FYT",
+          "role": "player"
+        },
+        {
+          "id": "01JKTC80828838GB18WW28D6V0",
+          "frontImage": "https://content.algstools.com/n9W6SON6m9NY4jFRUVft.png",
+          "personalityImage": "https://content.algstools.com/OczPalSmy7lidrMl8lp7.png",
+          "name": "Phr34k",
+          "teamVersionId": "01KME2AH4V528N5ZMJR5E91FYT",
+          "role": "player"
+        }
+      ],
+      "group": "A"
+    },
+    {
+      "teamVersionId": "01KJ8CKZQHHN2YJN3GQAGZM60W",
+      "teamId": "01KHPREV4ZS8N3WZ0D5ACHCJ37",
+      "name": "Grape Soda",
+      "shortName": "SODA",
+      "logoDark": "https://content.algstools.com/01KKF1NNCC54C6SY140WNS8BD2.png",
+      "logoLight": "https://content.algstools.com/01KKF1NN9BGJVXJ43AK8Z2FZZ6.png",
+      "region": "asia-pacific-south",
+      "disbanded": false,
+      "players": [
+        {
+          "id": "01JK4TMPWN0PW4KAVVKEBEC0YM",
+          "frontImage": "https://content.algstools.com/i7dAMZh4YNFhQbVUI93F.png",
+          "personalityImage": "https://content.algstools.com/SVBGI9CiYESCqZNe1Ez0.png",
+          "name": "LowKey",
+          "teamVersionId": "01KJ8CKZQHHN2YJN3GQAGZM60W",
+          "role": "player"
+        },
+        {
+          "id": "01JHYHTR13JJJM7DVR7WRVZHYG",
+          "frontImage": "https://content.algstools.com/jFzwGNtEASnKBUdvcz6x.png",
+          "personalityImage": "https://content.algstools.com/qK3NUMkTeNBxc5dFq031.png",
+          "name": "Niiko",
+          "teamVersionId": "01KJ8CKZQHHN2YJN3GQAGZM60W",
+          "role": "player"
+        },
+        {
+          "id": "01JH93NZ9YPATGT38BVBTZ14GX",
+          "frontImage": "https://content.algstools.com/iiVOsRDwohBVkhye1sZ5.png",
+          "personalityImage": "https://content.algstools.com/QKShOTde3XQWU2my87rL.png",
+          "name": "Pandaz809",
+          "teamVersionId": "01KJ8CKZQHHN2YJN3GQAGZM60W",
+          "role": "coach"
+        },
+        {
+          "id": "01J65B8EJZR486NH9GNBC5WS4P",
+          "frontImage": "https://content.algstools.com/Kb2041Kl235qx61rMF7a.png",
+          "personalityImage": "https://content.algstools.com/BqFQ6ShpBOYkZbOO3F85.png",
+          "name": "PlayerKay",
+          "teamVersionId": "01KJ8CKZQHHN2YJN3GQAGZM60W",
+          "role": "player"
+        }
+      ],
+      "group": "B"
+    },
+    {
+      "teamVersionId": "01KJR7W0EDDMWDNNMBWB4RZ57P",
+      "teamId": "01KHPREY6S6581HS9ZDSYXQJ31",
+      "name": "HAVOC",
+      "shortName": "HV",
+      "logoDark": "https://content.algstools.com/01KJR755SH3S2H8MDY80K2QCH7.png",
+      "logoLight": "https://content.algstools.com/01KJR755QFWHPANZ63AHWRYSJM.png",
+      "region": "asia-pacific-south",
+      "disbanded": false,
+      "players": [
+        {
+          "id": "01K4W6PPM2KMEQPRT2JV5ZYHET",
+          "frontImage": null,
+          "personalityImage": null,
+          "name": "Aphiatic",
+          "teamVersionId": "01KJR7W0EDDMWDNNMBWB4RZ57P",
+          "role": "coach"
+        },
+        {
+          "id": "01JZ5QJRREZ6ARDWJEMEGR4BK2",
+          "frontImage": null,
+          "personalityImage": null,
+          "name": "Lzoho",
+          "teamVersionId": "01KJR7W0EDDMWDNNMBWB4RZ57P",
+          "role": "player"
+        },
+        {
+          "id": "01KJ85S3S4BSK5WJ4P9APZCGV9",
+          "frontImage": null,
+          "personalityImage": null,
+          "name": "Sen",
+          "teamVersionId": "01KJR7W0EDDMWDNNMBWB4RZ57P",
+          "role": "player"
+        },
+        {
+          "id": "01J80KMC24AYWGS6720QGE88VR",
+          "frontImage": "https://content.algstools.com/ZERcJlHWfgs6vtmrnRqO.png",
+          "personalityImage": "https://content.algstools.com/YEYdRGnHoFf0ATG4yDmC.png",
+          "name": "xKenn",
+          "teamVersionId": "01KJR7W0EDDMWDNNMBWB4RZ57P",
+          "role": "player"
+        },
+        {
+          "id": "01J80KMCC7B21V48Z2J3PRT91M",
+          "frontImage": "https://content.algstools.com/1gogNpX21Rz5HXFHO7My.png",
+          "personalityImage": "https://content.algstools.com/QGQWkqzHu94sInl8vbeu.png",
+          "name": "XoyoBda",
+          "teamVersionId": "01KJR7W0EDDMWDNNMBWB4RZ57P",
+          "role": "player"
+        }
+      ],
+      "group": "A"
+    },
+    {
+      "teamVersionId": "01KME2AH2J6684FP1AQAGY2CC6",
+      "teamId": "01KME2AH2D6TNG9D1321DKVFZ5",
+      "name": "Inside The Ring",
+      "shortName": "ITR",
+      "logoDark": null,
+      "logoLight": null,
+      "region": "asia-pacific-south",
+      "disbanded": false,
+      "players": [
+        {
+          "id": "01J65B7ED379G3CVZ61HCGBP06",
+          "frontImage": null,
+          "personalityImage": null,
+          "name": "NEWKU",
+          "teamVersionId": "01KME2AH2J6684FP1AQAGY2CC6",
+          "role": "player"
+        },
+        {
+          "id": "01KFW9DYZAC2FXAJ7VGWJ0DCT9",
+          "frontImage": null,
+          "personalityImage": null,
+          "name": "Peterseng6974",
+          "teamVersionId": "01KME2AH2J6684FP1AQAGY2CC6",
+          "role": "player"
+        },
+        {
+          "id": "01JMME57P3WT3NPA4KTT24FRNT",
+          "frontImage": null,
+          "personalityImage": null,
+          "name": "Pyrosama",
+          "teamVersionId": "01KME2AH2J6684FP1AQAGY2CC6",
+          "role": "player"
+        },
+        {
+          "id": "01JKR5RWRBPRMT5RM6SCFR2VMV",
+          "frontImage": null,
+          "personalityImage": null,
+          "name": "s4dmannn",
+          "teamVersionId": "01KME2AH2J6684FP1AQAGY2CC6",
+          "role": "player"
+        }
+      ],
+      "group": "A"
+    },
+    {
+      "teamVersionId": "01KHPREVNHFDV246N0NHK53PJ1",
+      "teamId": "01KHPREVNDKME8CCMTZ5K982KG",
+      "name": "Kakkoii",
+      "shortName": "KKOI",
+      "logoDark": "https://content.algstools.com/01KJR75QD2CCD9KKG5Q4M2G26A.png",
+      "logoLight": "https://content.algstools.com/01KJR75Q9KC84HVFYMSMDDERXC.png",
+      "region": "asia-pacific-south",
+      "disbanded": false,
+      "players": [
+        {
+          "id": "01JM8YA8BA117RYK7657TYZ0A6",
+          "frontImage": "https://content.algstools.com/RuIDJHP7Q0RTdJxe16lG.png",
+          "personalityImage": null,
+          "name": "ApexVeeycy",
+          "teamVersionId": "01KHPREVNHFDV246N0NHK53PJ1",
+          "role": "player"
+        },
+        {
+          "id": "01J65B74Q5C5YQ6RNASGEB2M8D",
+          "frontImage": "https://content.algstools.com/bPZPm2lHRHm4xL1mA1iF.png",
+          "personalityImage": null,
+          "name": "Kisanss",
+          "teamVersionId": "01KHPREVNHFDV246N0NHK53PJ1",
+          "role": "player"
+        },
+        {
+          "id": "01JS6KTG7GTADZNPW65TBD4J1B",
+          "frontImage": null,
+          "personalityImage": null,
+          "name": "wiffuu",
+          "teamVersionId": "01KHPREVNHFDV246N0NHK53PJ1",
+          "role": "player"
+        }
+      ],
+      "group": "B"
+    },
+    {
+      "teamVersionId": "01KKGMKYP3TCM4JSQS2FA5S6QH",
+      "teamId": "01KHPREWGJW7FR5G2XGYTE15TM",
+      "name": "MaMa Clubs",
+      "shortName": "MAMA",
+      "logoDark": "https://content.algstools.com/01KKKA879NSD77PQJZT8XC0ZNP.jpeg",
+      "logoLight": "https://content.algstools.com/01KKKA876819R68367SQQAPNRB.jpeg",
+      "region": "asia-pacific-south",
+      "disbanded": false,
+      "players": [
+        {
+          "id": "01JMF9JSG63V06DWXJAQTBG1XT",
+          "frontImage": null,
+          "personalityImage": null,
+          "name": "Sacto33",
+          "teamVersionId": "01KKGMKYP3TCM4JSQS2FA5S6QH",
+          "role": "player"
+        },
+        {
+          "id": "01JK3DF2CPQ5YSZ1WX9VGTA3NJ",
+          "frontImage": null,
+          "personalityImage": null,
+          "name": "TracyDamn",
+          "teamVersionId": "01KKGMKYP3TCM4JSQS2FA5S6QH",
+          "role": "player"
+        },
+        {
+          "id": "01JKCGHEYYB7JKPTX34YG2S67J",
+          "frontImage": "https://content.algstools.com/iGj9saBfA64xi00p9N03.png",
+          "personalityImage": null,
+          "name": "Tu1rbo",
+          "teamVersionId": "01KKGMKYP3TCM4JSQS2FA5S6QH",
+          "role": "player"
+        }
+      ],
+      "group": "B"
+    },
+    {
+      "teamVersionId": "01KKW9EP963MFX4VJEHE5QZTXK",
+      "teamId": "01KHPREVKC6EEY344B6ENY3GHM",
+      "name": "MeiDuiYaoBYD",
+      "shortName": "MDYB",
+      "logoDark": null,
+      "logoLight": null,
+      "region": "asia-pacific-south",
+      "disbanded": false,
+      "players": [
+        {
+          "id": "01JKB4GJPQ3VKD8RY714B54KBY",
+          "frontImage": null,
+          "personalityImage": null,
+          "name": "Bieyun",
+          "teamVersionId": "01KKW9EP963MFX4VJEHE5QZTXK",
+          "role": "player"
+        },
+        {
+          "id": "01JNHF1HVS87BMWBCZSKJ7DMVZ",
+          "frontImage": "https://content.algstools.com/AlKnL5kZCnzCIbnRTyaa.png",
+          "personalityImage": "https://content.algstools.com/ZELWlEXxvih08blcXttg.png",
+          "name": "Cumulonimbus",
+          "teamVersionId": "01KKW9EP963MFX4VJEHE5QZTXK",
+          "role": "player"
+        },
+        {
+          "id": "01JKB6JBA2HMZNX359FHPJ5B94",
+          "frontImage": null,
+          "personalityImage": null,
+          "name": "Nirvana",
+          "teamVersionId": "01KKW9EP963MFX4VJEHE5QZTXK",
+          "role": "player"
+        },
+        {
+          "id": "01J69SX5QH1P9TWJ5WSSC6BR2T",
+          "frontImage": "https://content.algstools.com/II78TpUd1J96sb7rJeit.png",
+          "personalityImage": "https://content.algstools.com/CYY3Hy07DSjId1YF5suZ.png",
+          "name": "YouL1ng",
+          "teamVersionId": "01KKW9EP963MFX4VJEHE5QZTXK",
+          "role": "player"
+        }
+      ],
+      "group": "B"
+    },
+    {
+      "teamVersionId": "01KME2AH0MBBD7WXMDC8WRNJ90",
+      "teamId": "01KME2AH0B3CKM5VXXCHSH3G3M",
+      "name": "NAH",
+      "shortName": "NAH",
+      "logoDark": null,
+      "logoLight": null,
+      "region": "asia-pacific-south",
+      "disbanded": false,
+      "players": [
+        {
+          "id": "01JKQGP9JRX697DNYQCAHC2SCD",
+          "frontImage": "https://content.algstools.com/L6RBaFT6xrD1zQmC3P2N.png",
+          "personalityImage": null,
+          "name": "Ahao",
+          "teamVersionId": "01KME2AH0MBBD7WXMDC8WRNJ90",
+          "role": "player"
+        },
+        {
+          "id": "01JKJGQVKJ8Y30SX5TZ36H5QGX",
+          "frontImage": null,
+          "personalityImage": null,
+          "name": "Normal",
+          "teamVersionId": "01KME2AH0MBBD7WXMDC8WRNJ90",
+          "role": "player"
+        },
+        {
+          "id": "01JK8NKHAHWGD6A6PN0RP3A1A7",
+          "frontImage": "https://content.algstools.com/7pXL9NWS8vErUlgDyjfu.png",
+          "personalityImage": null,
+          "name": "Tastingblood ",
+          "teamVersionId": "01KME2AH0MBBD7WXMDC8WRNJ90",
+          "role": "player"
+        }
+      ],
+      "group": "C"
+    },
+    {
+      "teamVersionId": "01KJ8CKZTZV7XVQS5PN7Q68B3X",
+      "teamId": "01KHPREYF197FBMPQBY0AKNF59",
+      "name": "Outside",
+      "shortName": "OTS",
+      "logoDark": null,
+      "logoLight": null,
+      "region": "asia-pacific-south",
+      "disbanded": false,
+      "players": [
+        {
+          "id": "01JK8F9N9YQKX98QG43FBGTRK5",
+          "frontImage": "https://content.algstools.com/G1cN49eRWzhN3xneC4B9.png",
+          "personalityImage": "https://content.algstools.com/Z8oJqREjCdMObFSiEBz9.png",
+          "name": "aflow",
+          "teamVersionId": "01KJ8CKZTZV7XVQS5PN7Q68B3X",
+          "role": "player"
+        },
+        {
+          "id": "01JK5N53AY14Z208J35GSR4V7B",
+          "frontImage": "https://content.algstools.com/bY2FpaIC3NXOodqXLuPT.png",
+          "personalityImage": "https://content.algstools.com/QzUD94w9ScHggIZSmdgO.png",
+          "name": "Mosu",
+          "teamVersionId": "01KJ8CKZTZV7XVQS5PN7Q68B3X",
+          "role": "player"
+        },
+        {
+          "id": "01JK3C8MP188NM4WPM4J8783DN",
+          "frontImage": "https://content.algstools.com/A9K7BnrvauTcWEpUkPM6.png",
+          "personalityImage": "https://content.algstools.com/YvPc9e10wT5R2yMeUyZP.png",
+          "name": "noelsang",
+          "teamVersionId": "01KJ8CKZTZV7XVQS5PN7Q68B3X",
+          "role": "player"
+        },
+        {
+          "id": "01JKHP5RXZYDZHGNAZ1DCHRKB4",
+          "frontImage": null,
+          "personalityImage": null,
+          "name": "xzerlution",
+          "teamVersionId": "01KJ8CKZTZV7XVQS5PN7Q68B3X",
+          "role": "player"
+        }
+      ],
+      "group": "A"
+    },
+    {
+      "teamVersionId": "01KM66MKKH35P52Y4R7WHGTWGA",
+      "teamId": "01KHPREW8YFA3WZDFTAH7WMVHA",
+      "name": "PXX",
+      "shortName": "PXX",
+      "logoDark": "https://content.algstools.com/01KMD93FZZS8W6W6YSFN0GWHJD.png",
+      "logoLight": "https://content.algstools.com/01KMD93FTG2FSX7XC9NP46FDNG.png",
+      "region": "asia-pacific-south",
+      "disbanded": false,
+      "players": [
+        {
+          "id": "01JT69RGKV5HNFNTGHHRYC5HRA",
+          "frontImage": null,
+          "personalityImage": null,
+          "name": "LZH",
+          "teamVersionId": "01KM66MKKH35P52Y4R7WHGTWGA",
+          "role": "coach"
+        },
+        {
+          "id": "01J69SW2RE0YMMEEBCR42C1MQK",
+          "frontImage": "https://content.algstools.com/VmMkRoGV1kCPN65xCxoZ.png",
+          "personalityImage": "https://content.algstools.com/bLw3W8nmjOm65doUS5YR.png",
+          "name": "Pite",
+          "teamVersionId": "01KM66MKKH35P52Y4R7WHGTWGA",
+          "role": "player"
+        },
+        {
+          "id": "01J69SVBD4JM60NFDCEAP8SN2C",
+          "frontImage": "https://content.algstools.com/FI492WR4kkdvtraG4kCr.png",
+          "personalityImage": "https://content.algstools.com/xHcSzVDlMubfTHxyg2mQ.png",
+          "name": "xd",
+          "teamVersionId": "01KM66MKKH35P52Y4R7WHGTWGA",
+          "role": "player"
+        },
+        {
+          "id": "01J65B7WFQNH15MEJ3QQ5JXZPN",
+          "frontImage": "https://content.algstools.com/Ht2JnDF6EeKSQOWdId9q.png",
+          "personalityImage": null,
+          "name": "Xzz",
+          "teamVersionId": "01KM66MKKH35P52Y4R7WHGTWGA",
+          "role": "player"
+        }
+      ],
+      "group": "C"
+    },
+    {
+      "teamVersionId": "01KJSEK7SK7SP4AM87ZQYDC61C",
+      "teamId": "01KJSEK7SCXK8JYAP8W3WF8VZV",
+      "name": "QWQ",
+      "shortName": "QWQ",
+      "logoDark": null,
+      "logoLight": null,
+      "region": "asia-pacific-south",
+      "disbanded": false,
+      "players": [
+        {
+          "id": "01KHXEKKV4EASYQHW07MZRTFKR",
+          "frontImage": null,
+          "personalityImage": null,
+          "name": "Chris",
+          "teamVersionId": "01KJSEK7SK7SP4AM87ZQYDC61C",
+          "role": "player"
+        },
+        {
+          "id": "01JD2QHG1CJHWKGVXQX51D5J4M",
+          "frontImage": null,
+          "personalityImage": null,
+          "name": "Menino",
+          "teamVersionId": "01KJSEK7SK7SP4AM87ZQYDC61C",
+          "role": "player"
+        },
+        {
+          "id": "01K24S80YDHW0629VFM6G5T7SW",
+          "frontImage": null,
+          "personalityImage": null,
+          "name": "WWUUZZII",
+          "teamVersionId": "01KJSEK7SK7SP4AM87ZQYDC61C",
+          "role": "player"
+        }
+      ],
+      "group": "C"
+    },
+    {
+      "teamVersionId": "01KHPREWD3B3YKCEQ5A8S2NWE1",
+      "teamId": "01KHPREWCZGM90NRYMFFN8RWQR",
+      "name": "Relove DCG",
+      "shortName": "DCG",
+      "logoDark": "https://content.algstools.com/01KKGEGBFJJRGZDQ3M1SHHGK64.png",
+      "logoLight": "https://content.algstools.com/01KKGEG1BXXJT52SF65HH6FSTR.png",
+      "region": "asia-pacific-south",
+      "disbanded": false,
+      "players": [
+        {
+          "id": "01JK48ZBDW6BW7CSD4HQ73FH8M",
+          "frontImage": null,
+          "personalityImage": null,
+          "name": "CrownWish",
+          "teamVersionId": "01KHPREWD3B3YKCEQ5A8S2NWE1",
+          "role": "coach"
+        },
+        {
+          "id": "01JK6GPX1GZF8Z95THET5XTCX6",
+          "frontImage": "https://content.algstools.com/gcugNDPTQnSMrEPmAppI.png",
+          "personalityImage": null,
+          "name": "Lu1SaN",
+          "teamVersionId": "01KHPREWD3B3YKCEQ5A8S2NWE1",
+          "role": "player"
+        },
+        {
+          "id": "01JKJCT1AQ8W9R6FXXDHXPYRVY",
+          "frontImage": "https://content.algstools.com/tYCX4Eo1lmZ6klZJylm5.png",
+          "personalityImage": null,
+          "name": "Roieee",
+          "teamVersionId": "01KHPREWD3B3YKCEQ5A8S2NWE1",
+          "role": "player"
+        },
+        {
+          "id": "01JKJDGKJ2B731V46DMH3T1VHC",
+          "frontImage": "https://content.algstools.com/bPfEDKjQffd3xp0i76zc.png",
+          "personalityImage": null,
+          "name": "ShaoChieh",
+          "teamVersionId": "01KHPREWD3B3YKCEQ5A8S2NWE1",
+          "role": "player"
+        }
+      ],
+      "group": "C"
+    },
+    {
+      "teamVersionId": "01KJE5Y6EFG23SJQR66NX1NR4M",
+      "teamId": "01KHPREZ5K85VCBMCJVQY1MYNC",
+      "name": "Remarkable Team",
+      "shortName": "RT",
+      "logoDark": "https://content.algstools.com/01KM04QJSYS9WZEYTSCQ28Z7V4.png",
+      "logoLight": "https://content.algstools.com/01KM04QJQJT3W430METDH67TPZ.png",
+      "region": "asia-pacific-south",
+      "disbanded": false,
+      "players": [
+        {
+          "id": "01JH95NRZDHZ1ETXQ3KT1MENCC",
+          "frontImage": null,
+          "personalityImage": null,
+          "name": "Cav",
+          "teamVersionId": "01KJE5Y6EFG23SJQR66NX1NR4M",
+          "role": "coach"
+        },
+        {
+          "id": "01JKBB2MNFXHB5Y0945K2ACM3J",
+          "frontImage": "https://content.algstools.com/dgvtXstMkvmc3rvwq1D5.png",
+          "personalityImage": null,
+          "name": "ckkongbai",
+          "teamVersionId": "01KJE5Y6EFG23SJQR66NX1NR4M",
+          "role": "player"
+        },
+        {
+          "id": "01JKTN65JT615N6AWSXCR0ZP64",
+          "frontImage": null,
+          "personalityImage": null,
+          "name": "refra1nnn",
+          "teamVersionId": "01KJE5Y6EFG23SJQR66NX1NR4M",
+          "role": "player"
+        },
+        {
+          "id": "01JKB15W0J8JQ3G3GR2AGHYD0T",
+          "frontImage": null,
+          "personalityImage": null,
+          "name": "wang",
+          "teamVersionId": "01KJE5Y6EFG23SJQR66NX1NR4M",
+          "role": "player"
+        },
+        {
+          "id": "01JK6CXJS1TDC4V0J7677J3TQK",
+          "frontImage": null,
+          "personalityImage": null,
+          "name": "Xiaolin",
+          "teamVersionId": "01KJE5Y6EFG23SJQR66NX1NR4M",
+          "role": "player"
+        }
+      ],
+      "group": "A"
+    },
+    {
+      "teamVersionId": "01KJBCMFSP874FETXY8YY5VVRB",
+      "teamId": "01KHPREW5FG3P1Y4J66PFX67E4",
+      "name": "RENDANG",
+      "shortName": "RDG",
+      "logoDark": "https://content.algstools.com/01KJR76R8V13ZN25YWBKRNRKDC.png",
+      "logoLight": "https://content.algstools.com/01KJR76R6PGDQJKFBQWRVSV07A.png",
+      "region": "asia-pacific-south",
+      "disbanded": false,
+      "players": [
+        {
+          "id": "01J65B75YJTTQH400Y2TQM22T7",
+          "frontImage": "https://content.algstools.com/PV9bHt5OaVJdbpCxQdje.png",
+          "personalityImage": "https://content.algstools.com/NxuBF9y3MSZIJlEPvhWS.png",
+          "name": "Bastiaan0Z",
+          "teamVersionId": "01KJBCMFSP874FETXY8YY5VVRB",
+          "role": "player"
+        },
+        {
+          "id": "01J65B75GSJNC0EJTNXD7CW6V2",
+          "frontImage": "https://content.algstools.com/AohFszEYpuAbVwHS72MD.png",
+          "personalityImage": "https://content.algstools.com/DqhTohF8ShyBaVmoKQ5x.png",
+          "name": "laheemx_",
+          "teamVersionId": "01KJBCMFSP874FETXY8YY5VVRB",
+          "role": "player"
+        },
+        {
+          "id": "01JK55CE64G9HJ2FANXNBNNE6M",
+          "frontImage": null,
+          "personalityImage": null,
+          "name": "mvii",
+          "teamVersionId": "01KJBCMFSP874FETXY8YY5VVRB",
+          "role": "player"
+        },
+        {
+          "id": "01JMA103EC7QC3YXRTE92J5HHZ",
+          "frontImage": "https://content.algstools.com/bm9WOZA17qCDqHH2bD0V.png",
+          "personalityImage": null,
+          "name": "Ronin",
+          "teamVersionId": "01KJBCMFSP874FETXY8YY5VVRB",
+          "role": "player"
+        },
+        {
+          "id": "01JN96V63CB2PDVKJPMY3S93P0",
+          "frontImage": null,
+          "personalityImage": null,
+          "name": "Salvatorez",
+          "teamVersionId": "01KJBCMFSP874FETXY8YY5VVRB",
+          "role": "coach"
+        }
+      ],
+      "group": "C"
+    },
+    {
+      "teamVersionId": "01KHPREYBFP7E5BR769H78J4V6",
+      "teamId": "01KHPREYBBR2PWR9YXF0X2C281",
+      "name": "S8UL",
+      "shortName": "S8UL",
+      "logoDark": null,
+      "logoLight": null,
+      "region": "asia-pacific-south",
+      "disbanded": false,
+      "players": [
+        {
+          "id": "01J65B83QPD2PEEP4VKC3QNS6T",
+          "frontImage": "https://content.algstools.com/TMWFgGe6sQI7FrRT8JLH.png",
+          "personalityImage": "https://content.algstools.com/G3e3NG35FwzOQq9bogvg.png",
+          "name": "Jesko",
+          "teamVersionId": "01KHPREYBFP7E5BR769H78J4V6",
+          "role": "player"
+        },
+        {
+          "id": "01J65B83AXM06WW7EW6E3Y8APJ",
+          "frontImage": "https://content.algstools.com/e4tmlCyPMwVFIBqgeEmM.png",
+          "personalityImage": "https://content.algstools.com/gCTvS3MMUJ0Aq1gHINrs.png",
+          "name": "Legacy",
+          "teamVersionId": "01KHPREYBFP7E5BR769H78J4V6",
+          "role": "player"
+        },
+        {
+          "id": "01JJNQ9QVMAYVBN8E93JMSKK2J",
+          "frontImage": "https://content.algstools.com/DaWHiABW4hyXNGTpjiya.png",
+          "personalityImage": "https://content.algstools.com/zl9LoCca51ECd9SDv1uX.png",
+          "name": "Rogers",
+          "teamVersionId": "01KHPREYBFP7E5BR769H78J4V6",
+          "role": "player"
+        },
+        {
+          "id": "01J65B7H6N50TAHCR84Q2WS66M",
+          "frontImage": "https://content.algstools.com/27AxqGrYRN24UOYciCE8.png",
+          "personalityImage": "https://content.algstools.com/1lQdLxp9dJsLxh4cK1UG.png",
+          "name": "Sharky",
+          "teamVersionId": "01KHPREYBFP7E5BR769H78J4V6",
+          "role": "player"
+        }
+      ],
+      "group": "A"
+    },
+    {
+      "teamVersionId": "01KKXA4R7B5YSV73MCE7JNV5ZT",
+      "teamId": "01KHPREZ7K2SCE2CCYGXHMDQAZ",
+      "name": "Team RRQ",
+      "shortName": "RRQ",
+      "logoDark": "https://content.algstools.com/01KM04KH18K1DET8W8HV6FBV2T.png",
+      "logoLight": "https://content.algstools.com/01KM04KGXYMQG4GMK7KDXBHCN9.png",
+      "region": "asia-pacific-south",
+      "disbanded": false,
+      "players": [
+        {
+          "id": "01JK35SVX2Q024J1TQD43V7BR2",
+          "frontImage": "https://content.algstools.com/ivmrcpKh53UEU7ndGSIY.png",
+          "personalityImage": "https://content.algstools.com/nH3w4Re70AZxcrH4Mout.png",
+          "name": "Metro",
+          "teamVersionId": "01KKXA4R7B5YSV73MCE7JNV5ZT",
+          "role": "player"
+        },
+        {
+          "id": "01J65B7SP7S3CMSK78P09NC6W2",
+          "frontImage": "https://content.algstools.com/giLPZKTSYB9LNdFmf2wA.png",
+          "personalityImage": "https://content.algstools.com/nsFBlcQB6XynedYZxj94.png",
+          "name": "Panayie",
+          "teamVersionId": "01KKXA4R7B5YSV73MCE7JNV5ZT",
+          "role": "coach"
+        },
+        {
+          "id": "01J65B7GSWTJ2FECK2VYRCVA63",
+          "frontImage": "https://content.algstools.com/xsJqu4nPky0JyIaumWp0.png",
+          "personalityImage": "https://content.algstools.com/0QCaohWAmP2MbkWYAowS.png",
+          "name": "Prycyy",
+          "teamVersionId": "01KKXA4R7B5YSV73MCE7JNV5ZT",
+          "role": "player"
+        },
+        {
+          "id": "01J65B8FCD5QNTE8PTQ4JPGV9P",
+          "frontImage": "https://content.algstools.com/3OH5dhuNblrpWJhayZRn.png",
+          "personalityImage": "https://content.algstools.com/uAtZJc0xGkIKnHMOVULd.png",
+          "name": "STRAFINGFLAME",
+          "teamVersionId": "01KKXA4R7B5YSV73MCE7JNV5ZT",
+          "role": "player"
+        }
+      ],
+      "group": "A"
+    },
+    {
+      "teamVersionId": "01KHPREVFXWF8RFD2X7AZ88HVB",
+      "teamId": "01KHPREVFR66EX54TN3WXASC3F",
+      "name": "TomYumKung",
+      "shortName": "TYK",
+      "logoDark": "https://content.algstools.com/01KJR77KBP54FCARSJFSQ3G8C9.jpeg",
+      "logoLight": "https://content.algstools.com/01KJR77K9Z9HN8RYS7W4MEAY8E.jpeg",
+      "region": "asia-pacific-south",
+      "disbanded": false,
+      "players": [
+        {
+          "id": "01JK370DJ3ZKYDAH00ZPTQB8VT",
+          "frontImage": null,
+          "personalityImage": null,
+          "name": "7rvz2",
+          "teamVersionId": "01KHPREVFXWF8RFD2X7AZ88HVB",
+          "role": "player"
+        },
+        {
+          "id": "01JK2KPXJNBJBWRXZJKT692NR7",
+          "frontImage": null,
+          "personalityImage": null,
+          "name": "Arm",
+          "teamVersionId": "01KHPREVFXWF8RFD2X7AZ88HVB",
+          "role": "player"
+        },
+        {
+          "id": "01JM2M8GE95V6AWGR6Q0FZ6CQT",
+          "frontImage": null,
+          "personalityImage": null,
+          "name": "MiNGU",
+          "teamVersionId": "01KHPREVFXWF8RFD2X7AZ88HVB",
+          "role": "player"
+        },
+        {
+          "id": "01JK39ZSMG3RT99HJ3AV5T3K5R",
+          "frontImage": "https://content.algstools.com/jnjFTwrOKvBSf77QU8qa.png",
+          "personalityImage": "https://content.algstools.com/NvqwK9dHPI18KNw8HAFt.png",
+          "name": "sato_kohai",
+          "teamVersionId": "01KHPREVFXWF8RFD2X7AZ88HVB",
+          "role": "player"
+        }
+      ],
+      "group": "C"
+    },
+    {
+      "teamVersionId": "01KME2AHE8BK87JX0TP5C8X1H2",
+      "teamId": "01KME2AHE4FYSB8AJPMJVY4REK",
+      "name": "UBI CILEMBU",
+      "shortName": "UBI",
+      "logoDark": null,
+      "logoLight": null,
+      "region": "asia-pacific-south",
+      "disbanded": false,
+      "players": [
+        {
+          "id": "01KMB1MBTNZQJFATQTY6DZ5W74",
+          "frontImage": null,
+          "personalityImage": null,
+          "name": "Doommvpzszz",
+          "teamVersionId": "01KME2AHE8BK87JX0TP5C8X1H2",
+          "role": "player"
+        },
+        {
+          "id": "01J69SVNTFHM73DSTY3STK01YB",
+          "frontImage": "https://content.algstools.com/pqAuuerqmKR3crpno6s6.png",
+          "personalityImage": "https://content.algstools.com/76uRpJbegjn5XTcrAv0n.png",
+          "name": "EzFlashKIDZ",
+          "teamVersionId": "01KME2AHE8BK87JX0TP5C8X1H2",
+          "role": "player"
+        },
+        {
+          "id": "01KJ7F80R53AH02M40BC8WDZ51",
+          "frontImage": null,
+          "personalityImage": null,
+          "name": "wadadiEgs",
+          "teamVersionId": "01KME2AHE8BK87JX0TP5C8X1H2",
+          "role": "player"
+        },
+        {
+          "id": "01KJWBPW6SBMN93YZV089XPA7Z",
+          "frontImage": null,
+          "personalityImage": null,
+          "name": "Xboltz7",
+          "teamVersionId": "01KME2AHE8BK87JX0TP5C8X1H2",
+          "role": "player"
+        }
+      ],
+      "group": "C"
+    },
+    {
+      "teamVersionId": "01KJYM3CM9JRWW5AA1RKCQEVRV",
+      "teamId": "01KHPREWEXHYMAN629M2QBZTB8",
+      "name": "Veneno",
+      "shortName": "VNN",
+      "logoDark": null,
+      "logoLight": null,
+      "region": "asia-pacific-south",
+      "disbanded": false,
+      "players": [
+        {
+          "id": "01JK2Y5B8JGXJB00N63B34Z25Y",
+          "frontImage": "https://content.algstools.com/TCAJbhN01f7DEtBkDqEN.png",
+          "personalityImage": "https://content.algstools.com/vAyXb2ONjrdmdlQc3c3Y.png",
+          "name": "R33P3S",
+          "teamVersionId": "01KJYM3CM9JRWW5AA1RKCQEVRV",
+          "role": "player"
+        },
+        {
+          "id": "01JK2Y2N94QAVYCF3ADHEJ95B9",
+          "frontImage": "https://content.algstools.com/m7nSv4LsrDhFjIJawPTe.png",
+          "personalityImage": null,
+          "name": "Razi",
+          "teamVersionId": "01KJYM3CM9JRWW5AA1RKCQEVRV",
+          "role": "player"
+        },
+        {
+          "id": "01JJZEGQZVWB4F35TNZ8T71WZG",
+          "frontImage": null,
+          "personalityImage": null,
+          "name": "ReZumi2",
+          "teamVersionId": "01KJYM3CM9JRWW5AA1RKCQEVRV",
+          "role": "coach"
+        },
+        {
+          "id": "01K30RCKBSQHGH629M76GKG50V",
+          "frontImage": null,
+          "personalityImage": null,
+          "name": "spades",
+          "teamVersionId": "01KJYM3CM9JRWW5AA1RKCQEVRV",
+          "role": "player"
+        }
+      ],
+      "group": "A"
+    },
+    {
+      "teamVersionId": "01KM4RBDX06NZ4PB7VMQWAV4G4",
+      "teamId": "01KHPREYZJPA7ZQ3AMR94XEB6J",
+      "name": "VK GAMING",
+      "shortName": "VKG",
+      "logoDark": null,
+      "logoLight": null,
+      "region": "asia-pacific-south",
+      "disbanded": false,
+      "players": [
+        {
+          "id": "01K2SKPSVM1R6BWQDNJS9MC206",
+          "frontImage": null,
+          "personalityImage": null,
+          "name": "BJJS012",
+          "teamVersionId": "01KM4RBDX06NZ4PB7VMQWAV4G4",
+          "role": "player"
+        },
+        {
+          "id": "01J69STQCN28DGE4V3VTBZTJ9J",
+          "frontImage": "https://content.algstools.com/KsWCkvDb9EJTF8WgQqcN.png",
+          "personalityImage": "https://content.algstools.com/5mIdT7r7BQklAJPaJ82k.png",
+          "name": "Kassa",
+          "teamVersionId": "01KM4RBDX06NZ4PB7VMQWAV4G4",
+          "role": "player"
+        },
+        {
+          "id": "01J65B77YKC1WH67VZ3HWQHG85",
+          "frontImage": "https://content.algstools.com/iLoXRNZSvoRYZ6m89GRI.png",
+          "personalityImage": "https://content.algstools.com/z3q6Bj063JSpOyblqw5w.png",
+          "name": "Lqdud",
+          "teamVersionId": "01KM4RBDX06NZ4PB7VMQWAV4G4",
+          "role": "player"
+        },
+        {
+          "id": "01J65B7R1K9SSZ8N8RNVSW10E8",
+          "frontImage": "https://content.algstools.com/sKvjK1JYgCPdOASv22Wx.png",
+          "personalityImage": "https://content.algstools.com/CphGmCS7O2bOKSl38oDN.png",
+          "name": "QQ",
+          "teamVersionId": "01KM4RBDX06NZ4PB7VMQWAV4G4",
+          "role": "player"
+        },
+        {
+          "id": "01JMXVK4APDQY8C9GZREPS3C2S",
+          "frontImage": null,
+          "personalityImage": null,
+          "name": "VITA",
+          "teamVersionId": "01KM4RBDX06NZ4PB7VMQWAV4G4",
+          "role": "coach"
+        }
+      ],
+      "group": "B"
+    },
+    {
+      "teamVersionId": "01KKCH202G6N3022YGCADDNBMW",
+      "teamId": "01KHPREVRNJA90XSYQQ4NBG32E",
+      "name": "Wolves Esports",
+      "shortName": "WOL",
+      "logoDark": "https://content.algstools.com/01KK8NWEEPM0KZJ7PHT3FTYYVD.png",
+      "logoLight": "https://content.algstools.com/01KK8NWE8ZKC26CDYV75M7SJ28.png",
+      "region": "asia-pacific-south",
+      "disbanded": false,
+      "players": [
+        {
+          "id": "01J65B7WWFN85J7Y00EMN6SBVC",
+          "frontImage": "https://content.algstools.com/BCZ4qJiwtv3VPaTBiKV0.png",
+          "personalityImage": "https://content.algstools.com/GNGW8UWDypoS5PxWo0Tz.png",
+          "name": "000",
+          "teamVersionId": "01KKCH202G6N3022YGCADDNBMW",
+          "role": "player"
+        },
+        {
+          "id": "01JQAM99KPFVMZZ78JT4VA6Q72",
+          "frontImage": null,
+          "personalityImage": null,
+          "name": "CrazyCong",
+          "teamVersionId": "01KKCH202G6N3022YGCADDNBMW",
+          "role": "player"
+        },
+        {
+          "id": "01J69SW3HPRXDKE3QG9FZ0PZBD",
+          "frontImage": "https://content.algstools.com/SREv9TySyEZGvlJaOm3R.png",
+          "personalityImage": "https://content.algstools.com/tgikoeF03L5iWBri0kxY.png",
+          "name": "NONAME",
+          "teamVersionId": "01KKCH202G6N3022YGCADDNBMW",
+          "role": "player"
+        },
+        {
+          "id": "01JKA7EKM9T6Y544RTRNZP5010",
+          "frontImage": "https://content.algstools.com/xHWCNltieiXTlWbmol9b.png",
+          "personalityImage": "https://content.algstools.com/Lpq1nuXD4cbHRnUwIqcl.png",
+          "name": "TangBao",
+          "teamVersionId": "01KKCH202G6N3022YGCADDNBMW",
+          "role": "coach"
+        },
+        {
+          "id": "01KGCDPPF31QDE80PS6DGP6NFA",
+          "frontImage": null,
+          "personalityImage": null,
+          "name": "WenXx",
+          "teamVersionId": "01KKCH202G6N3022YGCADDNBMW",
+          "role": "player"
+        }
+      ],
+      "group": "C"
+    }
+  ],
+  "APAC North": [
+    {
+      "teamVersionId": "01KM3GBYS14XYE62N03D2BHR0S",
+      "teamId": "01KHPREXWR6SZNZNYD7NRY643X",
+      "name": "BIG BOYS",
+      "shortName": "BB",
+      "logoDark": null,
+      "logoLight": null,
+      "region": "asia-pacific-north",
+      "disbanded": false,
+      "players": [
+        {
+          "id": "01J69SXGW2NP5TRGJPCC2WCS9R",
+          "frontImage": "https://content.algstools.com/FfDgsGDgVdSr03beRHTe.png",
+          "personalityImage": null,
+          "name": "HammerDrill",
+          "teamVersionId": "01KM3GBYS14XYE62N03D2BHR0S",
+          "role": "player"
+        },
+        {
+          "id": "01JK8QCW67R530SJE1GK985WE7",
+          "frontImage": null,
+          "personalityImage": null,
+          "name": "Kogar4shi",
+          "teamVersionId": "01KM3GBYS14XYE62N03D2BHR0S",
+          "role": "player"
+        },
+        {
+          "id": "01JK2XJJ9RVG2PYSCFHQ176M0V",
+          "frontImage": "https://content.algstools.com/WcUhOhZ0oHr4YWwhPXti.png",
+          "personalityImage": null,
+          "name": "Milim",
+          "teamVersionId": "01KM3GBYS14XYE62N03D2BHR0S",
+          "role": "player"
+        },
+        {
+          "id": "01K2W90Q9CKW55AXH879CANC9E",
+          "frontImage": null,
+          "personalityImage": null,
+          "name": "Zatko",
+          "teamVersionId": "01KM3GBYS14XYE62N03D2BHR0S",
+          "role": "player"
+        }
+      ],
+      "group": "A"
+    },
+    {
+      "teamVersionId": "01KM5XEQRESZSCS8H2ZEF1K321",
+      "teamId": "01KHPREV1T302YDPPGD1DA2391",
+      "name": "BLACK Sheeps",
+      "shortName": "BS",
+      "logoDark": null,
+      "logoLight": null,
+      "region": "asia-pacific-north",
+      "disbanded": false,
+      "players": [
+        {
+          "id": "01J65B6GEEJNEDMNKREPB3F2XJ",
+          "frontImage": "https://content.algstools.com/xBwicJcVUON0OwGE4GN2.png",
+          "personalityImage": null,
+          "name": "0waRy",
+          "teamVersionId": "01KM5XEQRESZSCS8H2ZEF1K321",
+          "role": "coach"
+        },
+        {
+          "id": "01JN3X75MXJEKJZBS1JEBF9285",
+          "frontImage": "https://content.algstools.com/9MpOONEB2ml926Jkxi0E.png",
+          "personalityImage": null,
+          "name": "788",
+          "teamVersionId": "01KM5XEQRESZSCS8H2ZEF1K321",
+          "role": "player"
+        },
+        {
+          "id": "01J65B6VCVKMBFDT5RRGM68W24",
+          "frontImage": "https://content.algstools.com/0AKMZo3N3n9MEJYGNj7c.png",
+          "personalityImage": "https://content.algstools.com/k6TXVRAMUAVnjOF36J4T.png",
+          "name": "chikochandao",
+          "teamVersionId": "01KM5XEQRESZSCS8H2ZEF1K321",
+          "role": "player"
+        },
+        {
+          "id": "01JNZHVP4DWA3F9G86E6ANRQJD",
+          "frontImage": null,
+          "personalityImage": null,
+          "name": "KonPotq",
+          "teamVersionId": "01KM5XEQRESZSCS8H2ZEF1K321",
+          "role": "player"
+        },
+        {
+          "id": "01JM9M2WFKNPY2534E8EZYS2DB",
+          "frontImage": null,
+          "personalityImage": null,
+          "name": "TANO",
+          "teamVersionId": "01KM5XEQRESZSCS8H2ZEF1K321",
+          "role": "player"
+        }
+      ],
+      "group": "B"
+    },
+    {
+      "teamVersionId": "01KME2AHK8QBT64W35JT4526EY",
+      "teamId": "01KME2AHK3PCY13SQ0WDKA6TK5",
+      "name": "DeNeTars",
+      "shortName": "DNT",
+      "logoDark": null,
+      "logoLight": null,
+      "region": "asia-pacific-north",
+      "disbanded": false,
+      "players": [
+        {
+          "id": "01JK2ZKKXM6WTWP3MQNX5G3085",
+          "frontImage": null,
+          "personalityImage": null,
+          "name": "Deathtenys",
+          "teamVersionId": "01KME2AHK8QBT64W35JT4526EY",
+          "role": "player"
+        },
+        {
+          "id": "01JMF5RRV2Z6JBR8MXR99JPHZG",
+          "frontImage": null,
+          "personalityImage": null,
+          "name": "Lantabi",
+          "teamVersionId": "01KME2AHK8QBT64W35JT4526EY",
+          "role": "player"
+        },
+        {
+          "id": "01JKDJ7971X09D8ZX1Z5SQ83RP",
+          "frontImage": null,
+          "personalityImage": null,
+          "name": "Nemu",
+          "teamVersionId": "01KME2AHK8QBT64W35JT4526EY",
+          "role": "player"
+        },
+        {
+          "id": "01JMCS247TQG41V092DDGACGNT",
+          "frontImage": null,
+          "personalityImage": null,
+          "name": "taniko",
+          "teamVersionId": "01KME2AHK8QBT64W35JT4526EY",
+          "role": "player"
+        }
+      ],
+      "group": "A"
+    },
+    {
+      "teamVersionId": "01KM5XEQKCCT0XY7KEQT2P1EDY",
+      "teamId": "01KHPREXR9RN3TFMXM8PE4MRB7",
+      "name": "Dory",
+      "shortName": "DORY",
+      "logoDark": "https://content.algstools.com/01KJR6SX4W8YK1QKV2NAE5WS07.png",
+      "logoLight": "https://content.algstools.com/01KJR6SX0VE6M718MFK1MQDHNP.png",
+      "region": "asia-pacific-north",
+      "disbanded": false,
+      "players": [
+        {
+          "id": "01JKZWSSS996N4P3G4GK0YFYQ8",
+          "frontImage": "https://content.algstools.com/g72Ny6JZkcJIURjCr0l7.png",
+          "personalityImage": null,
+          "name": "HIROMUNE",
+          "teamVersionId": "01KM5XEQKCCT0XY7KEQT2P1EDY",
+          "role": "player"
+        },
+        {
+          "id": "01JMFC6T9FVY2TG30Y2ZC70QQY",
+          "frontImage": null,
+          "personalityImage": null,
+          "name": "KatsuKing",
+          "teamVersionId": "01KM5XEQKCCT0XY7KEQT2P1EDY",
+          "role": "player"
+        },
+        {
+          "id": "01J69STGT2J2JDFPXGYH4WZS5P",
+          "frontImage": "https://content.algstools.com/82zNRUj5V3mTACN7sqaR.png",
+          "personalityImage": "https://content.algstools.com/DlxOYZXV2R3vPALV6iiM.png",
+          "name": "MUSCLE",
+          "teamVersionId": "01KM5XEQKCCT0XY7KEQT2P1EDY",
+          "role": "player"
+        },
+        {
+          "id": "01JKV09W9XNJ8VSA90XFK59T5Q",
+          "frontImage": "https://content.algstools.com/NIc9rZneKQbeFs1i3EuX.png",
+          "personalityImage": null,
+          "name": "sho",
+          "teamVersionId": "01KM5XEQKCCT0XY7KEQT2P1EDY",
+          "role": "player"
+        }
+      ],
+      "group": "A"
+    },
+    {
+      "teamVersionId": "01KME2AGP88W7AV17QKG8SB4EX",
+      "teamId": "01KME2AGN68R686YAX6GHNHJHX",
+      "name": "DreadNoughtus",
+      "shortName": "DN",
+      "logoDark": null,
+      "logoLight": null,
+      "region": "asia-pacific-north",
+      "disbanded": false,
+      "players": [
+        {
+          "id": "01JK31MVWDA3X7YVYN5D7FVM69",
+          "frontImage": null,
+          "personalityImage": null,
+          "name": "bushmaru",
+          "teamVersionId": "01KME2AGP88W7AV17QKG8SB4EX",
+          "role": "player"
+        },
+        {
+          "id": "01K1J7MQV04HC1EHTEE83A0EV0",
+          "frontImage": null,
+          "personalityImage": null,
+          "name": "Duckz",
+          "teamVersionId": "01KME2AGP88W7AV17QKG8SB4EX",
+          "role": "player"
+        },
+        {
+          "id": "01JK30KQG86RWWK19VXGQ7QJM2",
+          "frontImage": "https://content.algstools.com/v5mVpii2TFVYlsrosoAp.png",
+          "personalityImage": null,
+          "name": "jirozon666",
+          "teamVersionId": "01KME2AGP88W7AV17QKG8SB4EX",
+          "role": "player"
+        },
+        {
+          "id": "01JK622Q4CXDW0FVCNZAVYB97E",
+          "frontImage": "https://content.algstools.com/cEObLmcl9uRHPYm2H6xe.png",
+          "personalityImage": "https://content.algstools.com/vUG74aevCDeozJvbV1QW.png",
+          "name": "yamatai",
+          "teamVersionId": "01KME2AGP88W7AV17QKG8SB4EX",
+          "role": "player"
+        }
+      ],
+      "group": "B"
+    },
+    {
+      "teamVersionId": "01KM5W6TP1TZPHQTAAS0RY65GK",
+      "teamId": "01KHPREV3DXVRZDG7Z61J7XXG2",
+      "name": "ENTER FORCE.36",
+      "shortName": "E36",
+      "logoDark": "https://content.algstools.com/01KJR6VWM9Y1MS9CCBF2V9XGY6.png",
+      "logoLight": "https://content.algstools.com/01KJR6VWJ15XW13MCKEP38JCJN.png",
+      "region": "asia-pacific-north",
+      "disbanded": false,
+      "players": [
+        {
+          "id": "01J69SV3WA485E5ARTKE57C22J",
+          "frontImage": "https://content.algstools.com/KQXSZTWxyL25XmWJB7Sh.png",
+          "personalityImage": "https://content.algstools.com/bxmQIyWU73Aj3zUjtI24.png",
+          "name": "Aimbot",
+          "teamVersionId": "01KM5W6TP1TZPHQTAAS0RY65GK",
+          "role": "player"
+        },
+        {
+          "id": "01J6HCT9K5YP8ZM1E30C3DS1RN",
+          "frontImage": "https://content.algstools.com/v04GpQFl4UtvjCKinTsw.png",
+          "personalityImage": "https://content.algstools.com/Tfv82hIv2PWNtIREsODx.png",
+          "name": "aWesomeGuy",
+          "teamVersionId": "01KM5W6TP1TZPHQTAAS0RY65GK",
+          "role": "coach"
+        },
+        {
+          "id": "01J69SV4ZVFZXJ0ZBQM1HQCNWX",
+          "frontImage": "https://content.algstools.com/5PEumS4Q7Lt9TmYl4lxg.png",
+          "personalityImage": "https://content.algstools.com/ATiDo9ZXft0e100QrL0L.png",
+          "name": "Cinap",
+          "teamVersionId": "01KM5W6TP1TZPHQTAAS0RY65GK",
+          "role": "player"
+        },
+        {
+          "id": "01J65B8GJPY1QRQ9YY59QVXPDB",
+          "frontImage": "https://content.algstools.com/zhML6Yj009sas0DDhU5e.png",
+          "personalityImage": "https://content.algstools.com/CTIvgG1SSaRg65IIbh2W.png",
+          "name": "Jusna",
+          "teamVersionId": "01KM5W6TP1TZPHQTAAS0RY65GK",
+          "role": "player"
+        },
+        {
+          "id": "01J65B6SBZWBJD30CTMFTGC1M1",
+          "frontImage": "https://content.algstools.com/m99vhEVpLsm2WvypNHic.png",
+          "personalityImage": "https://content.algstools.com/NcBCHjcxUjTERfzStfDW.png",
+          "name": "obly",
+          "teamVersionId": "01KM5W6TP1TZPHQTAAS0RY65GK",
+          "role": "player"
+        }
+      ],
+      "group": "A"
+    },
+    {
+      "teamVersionId": "01KM5XEQGSMQAHEYRRZV2YXRP2",
+      "teamId": "01KHPREXVANAQTNCBJWW7TNBY1",
+      "name": "FENNEL",
+      "shortName": "FL",
+      "logoDark": "https://content.algstools.com/01KMD9PQESBQCEEDSE6QVKBCE9.png",
+      "logoLight": "https://content.algstools.com/01KMF1FR797S2DTGS38K8GFB0J.png",
+      "region": "asia-pacific-north",
+      "disbanded": false,
+      "players": [
+        {
+          "id": "01JN1DHCY57XY8M0Q6QE14GKW2",
+          "frontImage": null,
+          "personalityImage": null,
+          "name": "14L0st",
+          "teamVersionId": "01KM5XEQGSMQAHEYRRZV2YXRP2",
+          "role": "player"
+        },
+        {
+          "id": "01JMCT62S02EMWDMAVCGD6NXHA",
+          "frontImage": "https://content.algstools.com/zvRX1LN3csj8rXDD8jZa.png",
+          "personalityImage": "https://content.algstools.com/5RQJ83OlzXEYBOLRhAxW.png",
+          "name": "izzxxv",
+          "teamVersionId": "01KM5XEQGSMQAHEYRRZV2YXRP2",
+          "role": "player"
+        },
+        {
+          "id": "01JN3ZMS1987JSZH1GR7HYGVBV",
+          "frontImage": "https://content.algstools.com/FYeF0DGXuUQdYJPb2tL9.png",
+          "personalityImage": "https://content.algstools.com/EkzlBCSAhvyDbylxOvUf.png",
+          "name": "sumiyoshi",
+          "teamVersionId": "01KM5XEQGSMQAHEYRRZV2YXRP2",
+          "role": "player"
+        },
+        {
+          "id": "01JN40B1V374T02ET4ZW0G6841",
+          "frontImage": null,
+          "personalityImage": null,
+          "name": "SYACHI",
+          "teamVersionId": "01KM5XEQGSMQAHEYRRZV2YXRP2",
+          "role": "player"
+        },
+        {
+          "id": "01JMCR2S6E7HDYSVVS025TNV09",
+          "frontImage": null,
+          "personalityImage": null,
+          "name": "Yoshida",
+          "teamVersionId": "01KM5XEQGSMQAHEYRRZV2YXRP2",
+          "role": "coach"
+        }
+      ],
+      "group": "A"
+    },
+    {
+      "teamVersionId": "01KM3GBYJWR2N6AZF7Z67MZ7SN",
+      "teamId": "01KHPREY2Q30PNMWXNRJF2KSSZ",
+      "name": "FNATIC",
+      "shortName": "FNC",
+      "logoDark": "https://content.algstools.com/01KKG9D5JHPZ41FWC4EY9E5ZQX.png",
+      "logoLight": "https://content.algstools.com/01KKG9D58VKTJC3XTF5GSM75PK.png",
+      "region": "asia-pacific-north",
+      "disbanded": false,
+      "players": [
+        {
+          "id": "01JRWQZKRE0Z76JNEN630ZMVXR",
+          "frontImage": null,
+          "personalityImage": null,
+          "name": "dizzy",
+          "teamVersionId": "01KM3GBYJWR2N6AZF7Z67MZ7SN",
+          "role": "coach"
+        },
+        {
+          "id": "01J69SVF4BPVKAES02B5PXEV53",
+          "frontImage": "https://content.algstools.com/I5LDNofO6SGsup8i7nLo.png",
+          "personalityImage": "https://content.algstools.com/PNhgkBcgpUlqXDXWV9SN.png",
+          "name": " Ein",
+          "teamVersionId": "01KM3GBYJWR2N6AZF7Z67MZ7SN",
+          "role": "player"
+        },
+        {
+          "id": "01J6HCS0XWKEAVFTDR6VRF241F",
+          "frontImage": "https://content.algstools.com/z6hX2WvO1mYD8lzr84uo.png",
+          "personalityImage": "https://content.algstools.com/v3FArITUaCh0HsxhCI8Z.png",
+          "name": "GuNBoY",
+          "teamVersionId": "01KM3GBYJWR2N6AZF7Z67MZ7SN",
+          "role": "player"
+        },
+        {
+          "id": "01J69SV5SPRN1PHBQPQMPFDD9T",
+          "frontImage": "https://content.algstools.com/4YylhujlkeNPt1s0AUpN.png",
+          "personalityImage": "https://content.algstools.com/5VuFisUOa5uZrvmpXrxy.png",
+          "name": "ILY",
+          "teamVersionId": "01KM3GBYJWR2N6AZF7Z67MZ7SN",
+          "role": "player"
+        },
+        {
+          "id": "01J69SVHB5JMGN0MX83414WCV4",
+          "frontImage": "https://content.algstools.com/8wCKCINKBe5CneDeLqWK.png",
+          "personalityImage": "https://content.algstools.com/aMBmxu4ZyZiXEolVfQt9.png",
+          "name": "Kernel garcia",
+          "teamVersionId": "01KM3GBYJWR2N6AZF7Z67MZ7SN",
+          "role": "player"
+        }
+      ],
+      "group": "B"
+    },
+    {
+      "teamVersionId": "01KJSEK7KGDEPRBWQD9RJTN3CN",
+      "teamId": "01KJSEK7G2AAFZS9C17W5T6DGH",
+      "name": "GangRabbiT",
+      "shortName": "GNB",
+      "logoDark": null,
+      "logoLight": null,
+      "region": "asia-pacific-north",
+      "disbanded": false,
+      "players": [
+        {
+          "id": "01JKR4AVPPFYD4V3CDSE996NE8",
+          "frontImage": "https://content.algstools.com/ZtRFpgiXQ6OPqFrU0QFD.png",
+          "personalityImage": "https://content.algstools.com/7Pw5bDTl7BEltTFj0YI1.png",
+          "name": "ImNaoki",
+          "teamVersionId": "01KJSEK7KGDEPRBWQD9RJTN3CN",
+          "role": "player"
+        },
+        {
+          "id": "01J6EQJ7R0Z0F86ABEMVMS1ETN",
+          "frontImage": "https://content.algstools.com/bTZMBVFql1NfCVRN6vRL.png",
+          "personalityImage": null,
+          "name": "S0chan",
+          "teamVersionId": "01KJSEK7KGDEPRBWQD9RJTN3CN",
+          "role": "player"
+        },
+        {
+          "id": "01J65B6W6FDM2E0230HXPWRBCN",
+          "frontImage": "https://content.algstools.com/V8I7tu8x0VoTJGjzFb1F.png",
+          "personalityImage": "https://content.algstools.com/GBaqPiXKVaxQi8lLMgFf.png",
+          "name": "wayachang",
+          "teamVersionId": "01KJSEK7KGDEPRBWQD9RJTN3CN",
+          "role": "player"
+        }
+      ],
+      "group": "B"
+    },
+    {
+      "teamVersionId": "01KKYHNJX7R90839TJENTX07CN",
+      "teamId": "01KHPREY171TGAJBD2NNB8SVFY",
+      "name": "GROW Gaming",
+      "shortName": "GROW",
+      "logoDark": "https://content.algstools.com/01KM5YF1S6S0X21TZP6X1N6K0E.jpeg",
+      "logoLight": "https://content.algstools.com/01KM5YF1P5ZZCF1TG30NMR5TWG.jpeg",
+      "region": "asia-pacific-north",
+      "disbanded": false,
+      "players": [
+        {
+          "id": "01JNGX7SEREGE52262AQCE82CA",
+          "frontImage": "https://content.algstools.com/GJ5qaklpwuEcMhxCXrbD.png",
+          "personalityImage": "https://content.algstools.com/xZbuMxCYTsx1jz1BCxiV.png",
+          "name": "GROWtaka",
+          "teamVersionId": "01KKYHNJX7R90839TJENTX07CN",
+          "role": "coach"
+        },
+        {
+          "id": "01J80KME3Z1WR14NFVW6XYPRT4",
+          "frontImage": "https://content.algstools.com/ocNTt84PLCqxvdL94gu6.png",
+          "personalityImage": "https://content.algstools.com/OPgLNgwOPTopYczfwsdE.png",
+          "name": "Lible Ace",
+          "teamVersionId": "01KKYHNJX7R90839TJENTX07CN",
+          "role": "player"
+        },
+        {
+          "id": "01J65B6ESJ7EZ40K6NB2NBM2YY",
+          "frontImage": "https://content.algstools.com/V41DOcvXOm4oCaMY4EBL.png",
+          "personalityImage": "https://content.algstools.com/OrdmLmQ0c2GRXrlBwWoP.png",
+          "name": "Lykq8don",
+          "teamVersionId": "01KKYHNJX7R90839TJENTX07CN",
+          "role": "player"
+        },
+        {
+          "id": "01J69SWBFJYY4Y6GZ73384CSBQ",
+          "frontImage": "https://content.algstools.com/A7TW4WCK0ZA8Xw9Q7956.png",
+          "personalityImage": "https://content.algstools.com/EMFAgoA3UXre8zEE9A3J.png",
+          "name": "mo-mon",
+          "teamVersionId": "01KKYHNJX7R90839TJENTX07CN",
+          "role": "player"
+        },
+        {
+          "id": "01J69SXEVW6V4K1CEAA790C1G2",
+          "frontImage": null,
+          "personalityImage": null,
+          "name": "TAKUMI",
+          "teamVersionId": "01KKYHNJX7R90839TJENTX07CN",
+          "role": "player"
+        }
+      ],
+      "group": "C"
+    },
+    {
+      "teamVersionId": "01KKCH1ZWE3K4SGV03JNA3DPW4",
+      "teamId": "01KKCH1ZW9RYJD6VCEJGVN790J",
+      "name": "GUNSO",
+      "shortName": "GS",
+      "logoDark": null,
+      "logoLight": null,
+      "region": "asia-pacific-north",
+      "disbanded": false,
+      "players": [
+        {
+          "id": "01JMCVT3HYSXGVEQNH6T8CGTYX",
+          "frontImage": null,
+          "personalityImage": null,
+          "name": "mirytaya",
+          "teamVersionId": "01KKCH1ZWE3K4SGV03JNA3DPW4",
+          "role": "player"
+        },
+        {
+          "id": "01JMCWVTMFCQPV67KN507Z8EPM",
+          "frontImage": null,
+          "personalityImage": null,
+          "name": "OUZIA",
+          "teamVersionId": "01KKCH1ZWE3K4SGV03JNA3DPW4",
+          "role": "player"
+        },
+        {
+          "id": "01JKB392C7SPHYDTRCF2KQSXNY",
+          "frontImage": "https://content.algstools.com/OmXQZ0YDmmGSWpiNRQsQ.png",
+          "personalityImage": "https://content.algstools.com/HpWBewHGBxZGQyAtEK5y.png",
+          "name": "TENTEN",
+          "teamVersionId": "01KKCH1ZWE3K4SGV03JNA3DPW4",
+          "role": "player"
+        }
+      ],
+      "group": "A"
+    },
+    {
+      "teamVersionId": "01KME2AHNWJXBBVH0ENM1H0JRH",
+      "teamId": "01KHPREXSN4ECWZQ35M6W1YP5S",
+      "name": "KINOTROPE CLUB",
+      "shortName": "KNC",
+      "logoDark": null,
+      "logoLight": null,
+      "region": "asia-pacific-north",
+      "disbanded": false,
+      "players": [
+        {
+          "id": "01JK30BP6HY90839G20ABXYS6S",
+          "frontImage": null,
+          "personalityImage": null,
+          "name": "1ron",
+          "teamVersionId": "01KME2AHNWJXBBVH0ENM1H0JRH",
+          "role": "coach"
+        },
+        {
+          "id": "01JRD488NX4NXPXPPEGQYYNHXA",
+          "frontImage": null,
+          "personalityImage": null,
+          "name": "astrofrogyy",
+          "teamVersionId": "01KME2AHNWJXBBVH0ENM1H0JRH",
+          "role": "player"
+        },
+        {
+          "id": "01JK65APY4GMXWS3QDBVGGJM67",
+          "frontImage": "https://content.algstools.com/KzxemiTiwrGHjXNkBuUj.png",
+          "personalityImage": "https://content.algstools.com/5rbqDGiBCeAOTe4Re5WU.png",
+          "name": "chappy",
+          "teamVersionId": "01KME2AHNWJXBBVH0ENM1H0JRH",
+          "role": "player"
+        },
+        {
+          "id": "01JMEZXTZAQE8VA25MC927SFZ8",
+          "frontImage": null,
+          "personalityImage": null,
+          "name": "DAMADAO",
+          "teamVersionId": "01KME2AHNWJXBBVH0ENM1H0JRH",
+          "role": "player"
+        },
+        {
+          "id": "01JK2YF001P93W987M8AWDA1T2",
+          "frontImage": "https://content.algstools.com/AxkIe7JCth0cZ5LSH4tk.png",
+          "personalityImage": "https://content.algstools.com/pgJGcDy6eCbBAi27IZq4.png",
+          "name": "Moyashii 9",
+          "teamVersionId": "01KME2AHNWJXBBVH0ENM1H0JRH",
+          "role": "player"
+        }
+      ],
+      "group": "C"
+    },
+    {
+      "teamVersionId": "01KM66MKJ3HV8PXNZNG2XD7QNK",
+      "teamId": "01KHPREYY3VBJ72QFHDHTGFV3K",
+      "name": "KINOTROPE gaming",
+      "shortName": "KN",
+      "logoDark": "https://content.algstools.com/01KK0WZ2R0YPYK95W54KZVA77N.png",
+      "logoLight": "https://content.algstools.com/01KK0WYWQX15X63BJGNBV1CWA4.png",
+      "region": "asia-pacific-north",
+      "disbanded": false,
+      "players": [
+        {
+          "id": "01J65B8HCB7MHK7ZRDKMXKZXX8",
+          "frontImage": "https://content.algstools.com/ejlDKGq3FYJfC90WfeIV.png",
+          "personalityImage": "https://content.algstools.com/S0Dd7mrgvUCSI3lGxjD6.png",
+          "name": "Dogma",
+          "teamVersionId": "01KM66MKJ3HV8PXNZNG2XD7QNK",
+          "role": "player"
+        },
+        {
+          "id": "01JM2D3B5XC6R8VJE4WHHMEG9S",
+          "frontImage": "https://content.algstools.com/6vWS5CmNZ099Wv2qgYDM.png",
+          "personalityImage": "https://content.algstools.com/aYC5PRCKPl3VaAHonFuH.png",
+          "name": "Kan0n",
+          "teamVersionId": "01KM66MKJ3HV8PXNZNG2XD7QNK",
+          "role": "player"
+        },
+        {
+          "id": "01J65B8CZZYY4ZA0N06BQ8WBXX",
+          "frontImage": "https://content.algstools.com/omqWr3mqTP2JRfBkxsZR.png",
+          "personalityImage": "https://content.algstools.com/ZqllZws4mWSsMmiifGcX.png",
+          "name": "saku",
+          "teamVersionId": "01KM66MKJ3HV8PXNZNG2XD7QNK",
+          "role": "player"
+        },
+        {
+          "id": "01J65B8QSJMT51Z0Y1GQBS60MN",
+          "frontImage": "https://content.algstools.com/ZLSpRqO0Uzzvpoz9f3sG.png",
+          "personalityImage": "https://content.algstools.com/yDHKCcwMCKZDMGP6Cy8m.png",
+          "name": "YukaPEROdator",
+          "teamVersionId": "01KM66MKJ3HV8PXNZNG2XD7QNK",
+          "role": "player"
+        }
+      ],
+      "group": "B"
+    },
+    {
+      "teamVersionId": "01KJYM3CR9P5VE278JTPJ5C5F9",
+      "teamId": "01KHPREXY6ACYJFDBYCH61WC8E",
+      "name": "LawsonTicketXone",
+      "shortName": "LTX",
+      "logoDark": "https://content.algstools.com/01KJSD88V1ZVSCNZSGTD72TE4E.png",
+      "logoLight": "https://content.algstools.com/01KJSD88KV7HE89SRY82PBNYV4.png",
+      "region": "asia-pacific-north",
+      "disbanded": false,
+      "players": [
+        {
+          "id": "01J65B6G05Q7R5121F3X4NAT0K",
+          "frontImage": "https://content.algstools.com/S9j6w8CmomJWUQporFVp.png",
+          "personalityImage": "https://content.algstools.com/tQqNmui6qQHBhPfGc3J5.png",
+          "name": "5CG",
+          "teamVersionId": "01KJYM3CR9P5VE278JTPJ5C5F9",
+          "role": "player"
+        },
+        {
+          "id": "01J6HCTJKSADBCEX9E6ZQ6A9FW",
+          "frontImage": null,
+          "personalityImage": null,
+          "name": "Kontyan",
+          "teamVersionId": "01KJYM3CR9P5VE278JTPJ5C5F9",
+          "role": "player"
+        },
+        {
+          "id": "01J65B6H8NCDA0F64K7A40C663",
+          "frontImage": "https://content.algstools.com/iGvrMcZqqQ2ZL3JT8dPM.png",
+          "personalityImage": "https://content.algstools.com/IFvNGYMRBME2gcAghLNc.png",
+          "name": "RIGHT",
+          "teamVersionId": "01KJYM3CR9P5VE278JTPJ5C5F9",
+          "role": "player"
+        },
+        {
+          "id": "01J65B6GVBM6E0V70WQ188A09Z",
+          "frontImage": "https://content.algstools.com/27li3eZY4SO4nn0vODn4.png",
+          "personalityImage": "https://content.algstools.com/TyrYjkW4eEvhhFKTFy2O.png",
+          "name": "wqtagashi",
+          "teamVersionId": "01KJYM3CR9P5VE278JTPJ5C5F9",
+          "role": "player"
+        }
+      ],
+      "group": "B"
+    },
+    {
+      "teamVersionId": "01KM3GBYTXT5HDBJBN3S0C85AF",
+      "teamId": "01KHPREXZXP4CYR54DGSY5VW4Q",
+      "name": "Meteor",
+      "shortName": "MTR",
+      "logoDark": "https://content.algstools.com/01KJR71H1NP0Y42YEX1BASKFQP.png",
+      "logoLight": "https://content.algstools.com/01KJR71BYBVQ0NAA3DFBY3439W.png",
+      "region": "asia-pacific-north",
+      "disbanded": false,
+      "players": [
+        {
+          "id": "01J80KMDYKN4C9HQYTS6MA6NEG",
+          "frontImage": "https://content.algstools.com/mjfwGp4DiEHBChJ5U4gt.png",
+          "personalityImage": "https://content.algstools.com/vqiBoM3UF1ZIEQRJwSPT.png",
+          "name": "983kuma",
+          "teamVersionId": "01KM3GBYTXT5HDBJBN3S0C85AF",
+          "role": "player"
+        },
+        {
+          "id": "01JK5SNVFRD12FA2FFY9K27HMX",
+          "frontImage": "https://content.algstools.com/BrKSrefnjJdpmLMsCP7h.png",
+          "personalityImage": "https://content.algstools.com/TmaoQ7wtR4JHrs4GUxuj.png",
+          "name": "Anemone",
+          "teamVersionId": "01KM3GBYTXT5HDBJBN3S0C85AF",
+          "role": "player"
+        },
+        {
+          "id": "01J80KMDKKSKWHSEGDJ5BHJ4PX",
+          "frontImage": "https://content.algstools.com/bLfmSt9tftAcDi7Zzyzv.png",
+          "personalityImage": "https://content.algstools.com/IilUngFfFszBlBwQalcz.png",
+          "name": "Kuroton",
+          "teamVersionId": "01KM3GBYTXT5HDBJBN3S0C85AF",
+          "role": "player"
+        },
+        {
+          "id": "01KKC74YQVR9RD9KCY37J4A1XW",
+          "frontImage": null,
+          "personalityImage": null,
+          "name": "Maron",
+          "teamVersionId": "01KM3GBYTXT5HDBJBN3S0C85AF",
+          "role": "player"
+        }
+      ],
+      "group": "C"
+    },
+    {
+      "teamVersionId": "01KM3GBYQD61DCKNF8R6T3E24G",
+      "teamId": "01KHPREYVAK3KCYDMH8PMXA0GZ",
+      "name": "NOEZ FOXX",
+      "shortName": "NFX",
+      "logoDark": "https://content.algstools.com/01KMD9GTP511GZ85A0YVDHB1J4.png",
+      "logoLight": "https://content.algstools.com/01KMD9GTKBZ026Q03K1EFE4Y9D.png",
+      "region": "asia-pacific-north",
+      "disbanded": false,
+      "players": [
+        {
+          "id": "01JMCTGRWQ1Z0XAKAAFN9GZ2HA",
+          "frontImage": "https://content.algstools.com/PzZvOJGCzqWudZBf3Vvo.png",
+          "personalityImage": "https://content.algstools.com/dGvvrs4gjniXHvheQ4kN.png",
+          "name": "gavomk",
+          "teamVersionId": "01KM3GBYQD61DCKNF8R6T3E24G",
+          "role": "player"
+        },
+        {
+          "id": "01JM3V3D6N1SKSPR7GA4VP3G76",
+          "frontImage": "https://content.algstools.com/XwFxiVlGQXUOiECKo4Jf.png",
+          "personalityImage": "https://content.algstools.com/54LcBl5wIpsVXZN72pOg.png",
+          "name": "kakigoori7",
+          "teamVersionId": "01KM3GBYQD61DCKNF8R6T3E24G",
+          "role": "player"
+        },
+        {
+          "id": "01J65B67WTRQ6H1SHJTP8DG5QA",
+          "frontImage": "https://content.algstools.com/Nw4TFpumX15aDehVwcQd.png",
+          "personalityImage": null,
+          "name": "MiaK",
+          "teamVersionId": "01KM3GBYQD61DCKNF8R6T3E24G",
+          "role": "player"
+        },
+        {
+          "id": "01JMMGQ702N1ENGT0MT87Y1NMG",
+          "frontImage": "https://content.algstools.com/iRblH5fTJsrMGweQHbAO.png",
+          "personalityImage": "https://content.algstools.com/Ix8o8CWaoGOS7TFsC670.png",
+          "name": "Raygh",
+          "teamVersionId": "01KM3GBYQD61DCKNF8R6T3E24G",
+          "role": "player"
+        }
+      ],
+      "group": "C"
+    },
+    {
+      "teamVersionId": "01KM15KFP6611J9DB1319FN6WB",
+      "teamId": "01KHPREV02KZK07880PESMKJ3V",
+      "name": "REALIZE",
+      "shortName": "RLZ",
+      "logoDark": "https://content.algstools.com/01KJVZ4FYR5B4GJ44QYH1SWMT9.png",
+      "logoLight": "https://content.algstools.com/01KJVZ327GP2XN6YAEDP3CMSM2.png",
+      "region": "asia-pacific-north",
+      "disbanded": false,
+      "players": [
+        {
+          "id": "01J69SXQN9XPJQS10JNW452ZCJ",
+          "frontImage": "https://content.algstools.com/XOElNjcYbLVxiSpanRmo.png",
+          "personalityImage": "https://content.algstools.com/tdUqXhwYaKpdGRZQrTNo.png",
+          "name": "Fzr",
+          "teamVersionId": "01KM15KFP6611J9DB1319FN6WB",
+          "role": "player"
+        },
+        {
+          "id": "01JKZZMRXM76CJPXVDAM0TTRDE",
+          "frontImage": "https://content.algstools.com/Fwrs7mn4g0smwSFWGncq.png",
+          "personalityImage": null,
+          "name": "inkya",
+          "teamVersionId": "01KM15KFP6611J9DB1319FN6WB",
+          "role": "player"
+        },
+        {
+          "id": "01JKG9GWSKSPWTQXWK2VBF4ET0",
+          "frontImage": null,
+          "personalityImage": null,
+          "name": "simubo",
+          "teamVersionId": "01KM15KFP6611J9DB1319FN6WB",
+          "role": "player"
+        },
+        {
+          "id": "01JK5YYRSQNH9G0KX5DTT7CKM8",
+          "frontImage": "https://content.algstools.com/mTem4d5vYx4DTGMbEJIJ.png",
+          "personalityImage": null,
+          "name": "SIZU",
+          "teamVersionId": "01KM15KFP6611J9DB1319FN6WB",
+          "role": "player"
+        }
+      ],
+      "group": "B"
+    },
+    {
+      "teamVersionId": "01KM3GBYNKBEETXHRYAE384CW9",
+      "teamId": "01KHPREXNNT22QYHC28MBPEAT8",
+      "name": "REIGNITE",
+      "shortName": "RIG",
+      "logoDark": "https://content.algstools.com/01KK8SK8H1QAN3381QG09Q8H5Y.png",
+      "logoLight": "https://content.algstools.com/01KK8SK87ZKFFRSNEM4NJR09EQ.png",
+      "region": "asia-pacific-north",
+      "disbanded": false,
+      "players": [
+        {
+          "id": "01JJTGMWB2GTH7Y4JKR677ZKD1",
+          "frontImage": "https://content.algstools.com/TcoWX5ByZ7b6OkWTOtv7.png",
+          "personalityImage": "https://content.algstools.com/UyJ2A6LwugJM5B8sEsJW.png",
+          "name": "Chanriyo",
+          "teamVersionId": "01KM3GBYNKBEETXHRYAE384CW9",
+          "role": "player"
+        },
+        {
+          "id": "01JN1CXQ6RXF9M8VB06B3FDECH",
+          "frontImage": "https://content.algstools.com/5losqiafQQZnzHQ7N43h.png",
+          "personalityImage": "https://content.algstools.com/8cAxp0BmXjtpm9qam3mn.png",
+          "name": "Lully",
+          "teamVersionId": "01KM3GBYNKBEETXHRYAE384CW9",
+          "role": "player"
+        },
+        {
+          "id": "01J65B8R69MPAC053YNEVW533D",
+          "frontImage": "https://content.algstools.com/xGEXl4UqIybHbgnwLxa4.png",
+          "personalityImage": "https://content.algstools.com/FtieuhKZ7vHtEZMay4Gv.png",
+          "name": "ReyzyGG",
+          "teamVersionId": "01KM3GBYNKBEETXHRYAE384CW9",
+          "role": "player"
+        },
+        {
+          "id": "01J65B8QCJY970Y67FHT3BY5VP",
+          "frontImage": "https://content.algstools.com/E1EtIPpNroEmzwMjeuN8.png",
+          "personalityImage": "https://content.algstools.com/R0M1G6PVJBR6EsUWKe3o.png",
+          "name": "Taida",
+          "teamVersionId": "01KM3GBYNKBEETXHRYAE384CW9",
+          "role": "player"
+        }
+      ],
+      "group": "B"
+    },
+    {
+      "teamVersionId": "01KM3GBYH9V24ZHN530B1ZDE6J",
+      "teamId": "01KHPREX30SHMDHM5YQ3ENN0SQ",
+      "name": "REJECT",
+      "shortName": "RC",
+      "logoDark": "https://content.algstools.com/01KJR72Q94P6VKYYD8R7SQ79GQ.png",
+      "logoLight": "https://content.algstools.com/01KJR72JCYXH490DPW4VSN0GA7.png",
+      "region": "asia-pacific-north",
+      "disbanded": false,
+      "players": [
+        {
+          "id": "01J65B673069XJF3TC9A699HK2",
+          "frontImage": "https://content.algstools.com/3GcXzdcJwUsp5nlLtTf9.png",
+          "personalityImage": "https://content.algstools.com/Ixp9J28uchWfTVqHQRj6.png",
+          "name": "4rufa",
+          "teamVersionId": "01KM3GBYH9V24ZHN530B1ZDE6J",
+          "role": "player"
+        },
+        {
+          "id": "01JN3ZPWPPQVYEMAXDW8YF4ZZC",
+          "frontImage": "https://content.algstools.com/XqnOcwelf0MH4rEUN3wC.png",
+          "personalityImage": "https://content.algstools.com/4Y5lbfh4S4FoTDu5m4pH.png",
+          "name": "RC Axis",
+          "teamVersionId": "01KM3GBYH9V24ZHN530B1ZDE6J",
+          "role": "player"
+        },
+        {
+          "id": "01J7TX24A1TY5QA73WGJ7DGE0X",
+          "frontImage": "https://content.algstools.com/vRRB0jXdO8P2fhPAmScQ.png",
+          "personalityImage": null,
+          "name": "RC Euriece",
+          "teamVersionId": "01KM3GBYH9V24ZHN530B1ZDE6J",
+          "role": "player"
+        },
+        {
+          "id": "01J65B689R1TD666VV2YTPPRYT",
+          "frontImage": "https://content.algstools.com/5Aaw9pgUMj0h59J456Ju.png",
+          "personalityImage": "https://content.algstools.com/NxVJXnjbyrk8aaGbVqdS.png",
+          "name": "wabu",
+          "teamVersionId": "01KM3GBYH9V24ZHN530B1ZDE6J",
+          "role": "player"
+        }
+      ],
+      "group": "B"
+    },
+    {
+      "teamVersionId": "01KKW8ZEGQ0Y6VNM09DAEE44CM",
+      "teamId": "01KHPREXKPB1ZHBC2S31AN0P7E",
+      "name": "RIDDLE ORDER",
+      "shortName": "RID",
+      "logoDark": "https://content.algstools.com/01KJVZC3G6EM8CH40WAJXEATE9.png",
+      "logoLight": "https://content.algstools.com/01KJVZC3D8Z4RM518D94E6HW52.png",
+      "region": "asia-pacific-north",
+      "disbanded": false,
+      "players": [
+        {
+          "id": "01JKZVQ3NFDJXSJZW22PRVJKAK",
+          "frontImage": null,
+          "personalityImage": null,
+          "name": "Acca",
+          "teamVersionId": "01KKW8ZEGQ0Y6VNM09DAEE44CM",
+          "role": "player"
+        },
+        {
+          "id": "01JK2E3APRQ9M0WXBYAKC8NHTM",
+          "frontImage": null,
+          "personalityImage": null,
+          "name": "Assii",
+          "teamVersionId": "01KKW8ZEGQ0Y6VNM09DAEE44CM",
+          "role": "player"
+        },
+        {
+          "id": "01JMM70M9VPQDZYW2BPS963GHK",
+          "frontImage": null,
+          "personalityImage": null,
+          "name": "Kamaneko",
+          "teamVersionId": "01KKW8ZEGQ0Y6VNM09DAEE44CM",
+          "role": "coach"
+        },
+        {
+          "id": "01J65B8CK853R7AE0C7FANSPZ0",
+          "frontImage": "https://content.algstools.com/3dBXUTjityvlLbQKerdI.png",
+          "personalityImage": "https://content.algstools.com/wFxBZh9xihxH6BuEoTN8.png",
+          "name": "Meltstera",
+          "teamVersionId": "01KKW8ZEGQ0Y6VNM09DAEE44CM",
+          "role": "player"
+        },
+        {
+          "id": "01JKDZNPM0QC0YG9KN062P5ZYN",
+          "frontImage": "https://content.algstools.com/VNNpXKUau6vTvm3EyZov.png",
+          "personalityImage": "https://content.algstools.com/9VkLZoJ4Fb2MnmSFe3qy.png",
+          "name": "NefuDoll",
+          "teamVersionId": "01KKW8ZEGQ0Y6VNM09DAEE44CM",
+          "role": "player"
+        }
+      ],
+      "group": "A"
+    },
+    {
+      "teamVersionId": "01KME2AGXKZY1FTRB2VMD86C5D",
+      "teamId": "01KME2AGXES54T9244CGWABRHZ",
+      "name": "RUA",
+      "shortName": "RUA",
+      "logoDark": null,
+      "logoLight": null,
+      "region": "asia-pacific-north",
+      "disbanded": false,
+      "players": [
+        {
+          "id": "01JP56DRV8GDHAYPFFS4ZQNH8G",
+          "frontImage": null,
+          "personalityImage": null,
+          "name": "Amaki",
+          "teamVersionId": "01KME2AGXKZY1FTRB2VMD86C5D",
+          "role": "player"
+        },
+        {
+          "id": "01JMFBHZ1DF5EDEX105BDGQKCT",
+          "frontImage": null,
+          "personalityImage": null,
+          "name": "Splash",
+          "teamVersionId": "01KME2AGXKZY1FTRB2VMD86C5D",
+          "role": "player"
+        },
+        {
+          "id": "01JKGEJEFY33831GP35KK4A2A6",
+          "frontImage": null,
+          "personalityImage": null,
+          "name": "tororo_tps",
+          "teamVersionId": "01KME2AGXKZY1FTRB2VMD86C5D",
+          "role": "player"
+        },
+        {
+          "id": "01JKGF894JB462K8VQDRFMGH2C",
+          "frontImage": null,
+          "personalityImage": null,
+          "name": "XimLynk",
+          "teamVersionId": "01KME2AGXKZY1FTRB2VMD86C5D",
+          "role": "player"
+        }
+      ],
+      "group": "C"
+    },
+    {
+      "teamVersionId": "01KKCH1ZZM6XDYY7TKSGGZNW8D",
+      "teamId": "01KHPREYWNVCC2RYAPFAY059MF",
+      "name": "SBI e-Sports",
+      "shortName": "SBI",
+      "logoDark": "https://content.algstools.com/01KK0X1A47MQ3GGK0EFNMQER2D.png",
+      "logoLight": "https://content.algstools.com/01KK0X1A0RD8KCABBBMGYSA6GR.png",
+      "region": "asia-pacific-north",
+      "disbanded": false,
+      "players": [
+        {
+          "id": "01JK2XJ8HJHRMNBTCJTM5E589T",
+          "frontImage": "https://content.algstools.com/YBCIcRJwcbWC1BmjXJn0.png",
+          "personalityImage": "https://content.algstools.com/zTNpm5IjGNsLrG6RFWV6.png",
+          "name": "egoist",
+          "teamVersionId": "01KKCH1ZZM6XDYY7TKSGGZNW8D",
+          "role": "player"
+        },
+        {
+          "id": "01KJPF0D1RH9S4PBYYW840MMMP",
+          "frontImage": null,
+          "personalityImage": null,
+          "name": "karahate7",
+          "teamVersionId": "01KKCH1ZZM6XDYY7TKSGGZNW8D",
+          "role": "player"
+        },
+        {
+          "id": "01JK2X9MK6HCFEKW2XX4R77D5G",
+          "frontImage": "https://content.algstools.com/SmzHJ2yx7C1Il8CvvyDg.png",
+          "personalityImage": "https://content.algstools.com/BZbDkBLnNpmJ3PGT5bJA.png",
+          "name": "Mitarashi",
+          "teamVersionId": "01KKCH1ZZM6XDYY7TKSGGZNW8D",
+          "role": "player"
+        },
+        {
+          "id": "01JM2EV2YV7WX8BND60NH88EEM",
+          "frontImage": "https://content.algstools.com/MRwKMTtcJXlBRxGDunj9.png",
+          "personalityImage": "https://content.algstools.com/A8jNRStbRRgN8hUpEcii.png",
+          "name": "VolzZ",
+          "teamVersionId": "01KKCH1ZZM6XDYY7TKSGGZNW8D",
+          "role": "player"
+        }
+      ],
+      "group": "C"
+    },
+    {
+      "teamVersionId": "01KKW8ZEC49WBNB6HQ8VAGD0CB",
+      "teamId": "01KKW8ZEBZ55Z8SVPHDJK2CBGV",
+      "name": "SukiSukiScream",
+      "shortName": "SUKI",
+      "logoDark": "https://content.algstools.com/01KM3WMEPM7ZC39H9VS3YVQAJS.png",
+      "logoLight": "https://content.algstools.com/01KM3WMEJDKY3EDZ8T6SQBT4YD.png",
+      "region": "asia-pacific-north",
+      "disbanded": false,
+      "players": [
+        {
+          "id": "01KFBRJR4JEH86QAB1DJX9QCYJ",
+          "frontImage": null,
+          "personalityImage": null,
+          "name": "mido",
+          "teamVersionId": "01KKW8ZEC49WBNB6HQ8VAGD0CB",
+          "role": "player"
+        },
+        {
+          "id": "01JK2YD12VHJ1WKPXWBSVH4C9R",
+          "frontImage": null,
+          "personalityImage": null,
+          "name": "Taito",
+          "teamVersionId": "01KKW8ZEC49WBNB6HQ8VAGD0CB",
+          "role": "player"
+        },
+        {
+          "id": "01JK2X4SFH9060RCVJ13ZDJFVB",
+          "frontImage": null,
+          "personalityImage": null,
+          "name": "Tommypocopants",
+          "teamVersionId": "01KKW8ZEC49WBNB6HQ8VAGD0CB",
+          "role": "player"
+        },
+        {
+          "id": "01JK2Z0S5BRVYKDESCNT7B3J0Y",
+          "frontImage": null,
+          "personalityImage": null,
+          "name": "Yuuki_MsR",
+          "teamVersionId": "01KKW8ZEC49WBNB6HQ8VAGD0CB",
+          "role": "player"
+        }
+      ],
+      "group": "A"
+    },
+    {
+      "teamVersionId": "01KM15KFHXVY2V5ZFX25W6D0YJ",
+      "teamId": "01KHPREXJ8WBZW7KTGMW23GHTS",
+      "name": "SYRALE",
+      "shortName": "SRL",
+      "logoDark": "https://content.algstools.com/01KK0YWQ6GDCYDF9GFDNNWFCRK.png",
+      "logoLight": "https://content.algstools.com/01KK0YWPZ6V0370Z6XKWBVJ2XF.png",
+      "region": "asia-pacific-north",
+      "disbanded": false,
+      "players": [
+        {
+          "id": "01JKZZN6WRDDQYPCD2BE74JA7G",
+          "frontImage": "https://content.algstools.com/lTFyB8BYEhs1Qz7LMzws.png",
+          "personalityImage": null,
+          "name": "Ail3iS",
+          "teamVersionId": "01KM15KFHXVY2V5ZFX25W6D0YJ",
+          "role": "player"
+        },
+        {
+          "id": "01J69SVEAV0C5467CR08F7RG6Q",
+          "frontImage": "https://content.algstools.com/Fgwi47njJJOzgWgZkrAQ.png",
+          "personalityImage": "https://content.algstools.com/MucOiSfUASnUpgOwl61x.png",
+          "name": "IeNaGa27",
+          "teamVersionId": "01KM15KFHXVY2V5ZFX25W6D0YJ",
+          "role": "player"
+        },
+        {
+          "id": "01K2WDEWF6DTJ5K52QB1KFVYFF",
+          "frontImage": null,
+          "personalityImage": null,
+          "name": "LEAH",
+          "teamVersionId": "01KM15KFHXVY2V5ZFX25W6D0YJ",
+          "role": "player"
+        },
+        {
+          "id": "01J69SVFXRH9925KVGK4M99AZV",
+          "frontImage": null,
+          "personalityImage": null,
+          "name": "Roise",
+          "teamVersionId": "01KM15KFHXVY2V5ZFX25W6D0YJ",
+          "role": "player"
+        }
+      ],
+      "group": "A"
+    },
+    {
+      "teamVersionId": "01KKW9EP7TFFHQSW4XRDJ1RNSE",
+      "teamId": "01KHPREWZZYVXJSJ489BJRNRR9",
+      "name": "TIE",
+      "shortName": "TIE",
+      "logoDark": "https://content.algstools.com/01KKGB7GA8WWZNJD1NDPS60KB3.png",
+      "logoLight": "https://content.algstools.com/01KKGB7G3KWWH7SJ82S9JZ1R28.png",
+      "region": "asia-pacific-north",
+      "disbanded": false,
+      "players": [
+        {
+          "id": "01J80KMAM4HAMB0V0111VGT20H",
+          "frontImage": "https://content.algstools.com/chi2zoTh7K1Gyq29zLeG.png",
+          "personalityImage": "https://content.algstools.com/E4Tzr1PqcvnCePVJZYlf.png",
+          "name": "Ftyan",
+          "teamVersionId": "01KKW9EP7TFFHQSW4XRDJ1RNSE",
+          "role": "player"
+        },
+        {
+          "id": "01JM9P0QAXTBN5MA6Z6XX4RD88",
+          "frontImage": null,
+          "personalityImage": null,
+          "name": "L1ng",
+          "teamVersionId": "01KKW9EP7TFFHQSW4XRDJ1RNSE",
+          "role": "coach"
+        },
+        {
+          "id": "01J69SWAPAY7B9SDKPES6VT57A",
+          "frontImage": "https://content.algstools.com/30l5prB8tY3N68goIM6Z.png",
+          "personalityImage": "https://content.algstools.com/kc97F9ZnZgzUunhLWLEO.png",
+          "name": "Pinotr",
+          "teamVersionId": "01KKW9EP7TFFHQSW4XRDJ1RNSE",
+          "role": "player"
+        },
+        {
+          "id": "01JNJDS4P0RRG8T7GDXQ5SGK5R",
+          "frontImage": "https://content.algstools.com/ERRs1kQnELyCu6EHdifL.png",
+          "personalityImage": null,
+          "name": "UmichanLoveti",
+          "teamVersionId": "01KKW9EP7TFFHQSW4XRDJ1RNSE",
+          "role": "player"
+        }
+      ],
+      "group": "C"
+    },
+    {
+      "teamVersionId": "01KM3W5XV1XX7XTVQPV16S1QXA",
+      "teamId": "01KHPREYJ7SDGPZQ8EDBXJ2FNP",
+      "name": "TriniTY",
+      "shortName": "TRN",
+      "logoDark": "https://content.algstools.com/01KM5Y5D1973YRQP7VH9J8Q923.png",
+      "logoLight": "https://content.algstools.com/01KM5Y5CY3QCDGXAWM51QRWXAD.png",
+      "region": "asia-pacific-north",
+      "disbanded": false,
+      "players": [
+        {
+          "id": "01JK3YXPM8JESA1YP1ENCJ7Y0X",
+          "frontImage": null,
+          "personalityImage": null,
+          "name": "Hunto",
+          "teamVersionId": "01KM3W5XV1XX7XTVQPV16S1QXA",
+          "role": "player"
+        },
+        {
+          "id": "01JN147X27DGZNEBWD6F6QREPE",
+          "frontImage": "https://content.algstools.com/ar5vSLxLa7mNCxOiWjSo.png",
+          "personalityImage": "https://content.algstools.com/K1QTuzP9rCWvWLC308X6.png",
+          "name": "IGARASI",
+          "teamVersionId": "01KM3W5XV1XX7XTVQPV16S1QXA",
+          "role": "player"
+        },
+        {
+          "id": "01JNE04B2V0DRW9BP49HBP4XDK",
+          "frontImage": null,
+          "personalityImage": null,
+          "name": "primelsky",
+          "teamVersionId": "01KM3W5XV1XX7XTVQPV16S1QXA",
+          "role": "coach"
+        },
+        {
+          "id": "01JM2Q8KXBCHNZEZG06W6ESW6T",
+          "frontImage": "https://content.algstools.com/xQAgVW1GbC2wnmhcgirl.png",
+          "personalityImage": "https://content.algstools.com/qo8QgK5QzrEQwJN5TC82.png",
+          "name": "Rowhai",
+          "teamVersionId": "01KM3W5XV1XX7XTVQPV16S1QXA",
+          "role": "player"
+        },
+        {
+          "id": "01JMSGZ38CKJK03DH7XNGRJBAD",
+          "frontImage": null,
+          "personalityImage": null,
+          "name": "shoh",
+          "teamVersionId": "01KM3W5XV1XX7XTVQPV16S1QXA",
+          "role": "player"
+        }
+      ],
+      "group": "A"
+    },
+    {
+      "teamVersionId": "01KM5XXSJX3Q28ZMQZC2G1P6JE",
+      "teamId": "01KHPREY4M77GTWNWD0VHCK60M",
+      "name": "UNLIMIT",
+      "shortName": "UNL",
+      "logoDark": "https://content.algstools.com/01KKK9X4VCSXQ9VG6G2G0NS1X8.png",
+      "logoLight": "https://content.algstools.com/01KKK9X4PCZ1H099J1VVDDEVZ3.png",
+      "region": "asia-pacific-north",
+      "disbanded": false,
+      "players": [
+        {
+          "id": "01JNGB1ZEED1A0H6ZDX88T4KJE",
+          "frontImage": "https://content.algstools.com/ukRx3wgMaRRJ8SBTRLhk.png",
+          "personalityImage": "https://content.algstools.com/hoUp4dQkQYIOqBG65Pbs.png",
+          "name": "Peace",
+          "teamVersionId": "01KM5XXSJX3Q28ZMQZC2G1P6JE",
+          "role": "player"
+        },
+        {
+          "id": "01JS94FQ7C31YJEPQG0CZV42D6",
+          "frontImage": null,
+          "personalityImage": null,
+          "name": "PENGERION",
+          "teamVersionId": "01KM5XXSJX3Q28ZMQZC2G1P6JE",
+          "role": "player"
+        },
+        {
+          "id": "01JK2ZP1B73ZVCX0TF8KTBAKNP",
+          "frontImage": "https://content.algstools.com/IokJLDoLGDKvTqduKF8G.png",
+          "personalityImage": "https://content.algstools.com/cju3dDvoGcKtFuhA4NEh.png",
+          "name": "Xtsuvi",
+          "teamVersionId": "01KM5XXSJX3Q28ZMQZC2G1P6JE",
+          "role": "player"
+        },
+        {
+          "id": "01JKQ3Q7QGVRFYA276CZ79EZJP",
+          "frontImage": "https://content.algstools.com/ENDLcWtwU2GdD67XyQSg.png",
+          "personalityImage": "https://content.algstools.com/5INmBjP3VSrrdVnZCjBi.png",
+          "name": "Yona",
+          "teamVersionId": "01KM5XXSJX3Q28ZMQZC2G1P6JE",
+          "role": "coach"
+        },
+        {
+          "id": "01JKR3XQ5DWW41V69P9RG745QS",
+          "frontImage": "https://content.algstools.com/oQmKfW13vc0o6rmvk3NT.png",
+          "personalityImage": "https://content.algstools.com/Vn04c5xzBgXZLK2CXKB8.png",
+          "name": "Yulariman",
+          "teamVersionId": "01KM5XXSJX3Q28ZMQZC2G1P6JE",
+          "role": "player"
+        }
+      ],
+      "group": "C"
+    },
+    {
+      "teamVersionId": "01KME2AGVJDDWBHAFMADPBX3NE",
+      "teamId": "01KME2AGVDK6XFG76BXCJ3QEPW",
+      "name": "WGR NEO",
+      "shortName": "NEO",
+      "logoDark": null,
+      "logoLight": null,
+      "region": "asia-pacific-north",
+      "disbanded": false,
+      "players": [
+        {
+          "id": "01JMEX2436Z3Q2J860P58Z07H5",
+          "frontImage": null,
+          "personalityImage": null,
+          "name": "AQBAJAPAN",
+          "teamVersionId": "01KME2AGVJDDWBHAFMADPBX3NE",
+          "role": "player"
+        },
+        {
+          "id": "01JN1FCE5ZXWCEHAZVR35A7SEE",
+          "frontImage": "https://content.algstools.com/2a04undjdLtV1k8y3yg3.png",
+          "personalityImage": "https://content.algstools.com/8Pi3BOfa2Hyhy4HDvtOg.png",
+          "name": "Gsnkryu",
+          "teamVersionId": "01KME2AGVJDDWBHAFMADPBX3NE",
+          "role": "player"
+        },
+        {
+          "id": "01JKZVR7101PWDP9388YTZR0GA",
+          "frontImage": null,
+          "personalityImage": null,
+          "name": "juxo",
+          "teamVersionId": "01KME2AGVJDDWBHAFMADPBX3NE",
+          "role": "player"
+        }
+      ],
+      "group": "B"
+    },
+    {
+      "teamVersionId": "01KM5W6TCH9TTDEPX0CS9J90B8",
+      "teamId": "01KHPREXPVFZBVP65D25JR7S76",
+      "name": "WhiteGrimReaper",
+      "shortName": "WGR",
+      "logoDark": "https://content.algstools.com/01KK0X3YYV2ZVRZ30RKEXHBB70.png",
+      "logoLight": "https://content.algstools.com/01KK0X3YS58YMXB3P7VFXDMETV.png",
+      "region": "asia-pacific-north",
+      "disbanded": false,
+      "players": [
+        {
+          "id": "01JK8NCY8K1GRCF1YQ9MTE3PWY",
+          "frontImage": null,
+          "personalityImage": null,
+          "name": "MII",
+          "teamVersionId": "01KM5W6TCH9TTDEPX0CS9J90B8",
+          "role": "player"
+        },
+        {
+          "id": "01JR6RCS1J6JQ7TJWT3BTKGGKT",
+          "frontImage": null,
+          "personalityImage": null,
+          "name": "p1npxn",
+          "teamVersionId": "01KM5W6TCH9TTDEPX0CS9J90B8",
+          "role": "player"
+        },
+        {
+          "id": "01JMF9BK3CY8CTSMQN0GBPFCHY",
+          "frontImage": "https://content.algstools.com/dSYrVMzBbgJlD8gaVU4t.png",
+          "personalityImage": "https://content.algstools.com/7GLudnwIUTA7VnLaMwzI.png",
+          "name": "Rost",
+          "teamVersionId": "01KM5W6TCH9TTDEPX0CS9J90B8",
+          "role": "player"
+        },
+        {
+          "id": "01JM9G9QHWBY2G4CTWM2E6JG73",
+          "frontImage": null,
+          "personalityImage": null,
+          "name": "Shynk",
+          "teamVersionId": "01KM5W6TCH9TTDEPX0CS9J90B8",
+          "role": "player"
+        }
+      ],
+      "group": "C"
+    },
+    {
+      "teamVersionId": "01KME2AHGKHBTFT5RX847VHS3E",
+      "teamId": "01KME2AHGDBRH2T7FSQNCDPY1M",
+      "name": "ZETA DIVISION",
+      "shortName": "ZETA",
+      "logoDark": null,
+      "logoLight": null,
+      "region": "asia-pacific-north",
+      "disbanded": false,
+      "players": [
+        {
+          "id": "01JN1J3T3FBT0H8MZFNG4BRPB9",
+          "frontImage": "https://content.algstools.com/cVnmxbs3muI8lZylJznU.png",
+          "personalityImage": "https://content.algstools.com/MdLyLyNUbUpo4MDGuzMz.png",
+          "name": "mike",
+          "teamVersionId": "01KME2AHGKHBTFT5RX847VHS3E",
+          "role": "player"
+        },
+        {
+          "id": "01J65B6DZVR6V5PEAYSHRN5R9C",
+          "frontImage": "https://content.algstools.com/DzbNpAZRTcTWWdGfuCMl.png",
+          "personalityImage": "https://content.algstools.com/ckXMT6SjHjsUiazS6xnZ.png",
+          "name": "Satuki",
+          "teamVersionId": "01KME2AHGKHBTFT5RX847VHS3E",
+          "role": "player"
+        },
+        {
+          "id": "01JH9QVZ3PFJBQDF0EZ66YEBFS",
+          "frontImage": null,
+          "personalityImage": null,
+          "name": "Takuron",
+          "teamVersionId": "01KME2AHGKHBTFT5RX847VHS3E",
+          "role": "coach"
+        },
+        {
+          "id": "01JH3Z057JZFD8J841P9QQ2HS7",
+          "frontImage": "https://content.algstools.com/vdTJ8ZqWKjZc9ePAfYHs.png",
+          "personalityImage": "https://content.algstools.com/nUGw53Yjl5COfdBtpcXt.png",
+          "name": "Yamato",
+          "teamVersionId": "01KME2AHGKHBTFT5RX847VHS3E",
+          "role": "player"
+        },
+        {
+          "id": "01J65B6ECPYZRKTG46QKKKJ2ZC",
+          "frontImage": "https://content.algstools.com/nzrvBSMz5F09UvJ0tda1.png",
+          "personalityImage": "https://content.algstools.com/plDNzLuRxUNJSmOow60z.png",
+          "name": "YukaF",
+          "teamVersionId": "01KME2AHGKHBTFT5RX847VHS3E",
+          "role": "player"
+        }
+      ],
+      "group": "C"
+    }
+  ],
+  "EMEA": [
+    {
+      "teamVersionId": "01KME84BP3WZRQ42JFR3DV4B7C",
+      "teamId": "01KME84BNZF9VA8WAKE2K048P4",
+      "name": "3 MEN",
+      "shortName": "3MEN",
+      "logoDark": null,
+      "logoLight": null,
+      "region": "europe-middle-east-and-africa",
+      "disbanded": false,
+      "players": [
+        {
+          "id": "01JKEH7WAQAHD1NW338ACT54ZX",
+          "frontImage": "https://content.algstools.com/sOtENk4iyTfEvdwdIDWO.png",
+          "personalityImage": null,
+          "name": "BaByLoNs",
+          "teamVersionId": "01KME84BP3WZRQ42JFR3DV4B7C",
+          "role": "player"
+        },
+        {
+          "id": "01JK2Z6CGJR3DGD6DC303H1SCH",
+          "frontImage": "https://content.algstools.com/ZbvqhCieBMBRkbMfofAs.png",
+          "personalityImage": null,
+          "name": "LivaiiApex",
+          "teamVersionId": "01KME84BP3WZRQ42JFR3DV4B7C",
+          "role": "player"
+        },
+        {
+          "id": "01JK9F2QCD6X4MB7DTXTNYMH2Q",
+          "frontImage": null,
+          "personalityImage": null,
+          "name": "Temuchi ",
+          "teamVersionId": "01KME84BP3WZRQ42JFR3DV4B7C",
+          "role": "player"
+        }
+      ],
+      "group": "B"
+    },
+    {
+      "teamVersionId": "01KJR7W0435XGK2TREFKWSZ21K",
+      "teamId": "01KHPREV8NHAB1CHG0W7MEFS6P",
+      "name": "Alliance",
+      "shortName": "ALL",
+      "logoDark": "https://content.algstools.com/01KJR6EPGAFA56JKX404QEJBM1.png",
+      "logoLight": "https://content.algstools.com/01KJR6EPDXG5248BT2B8C7G8EX.png",
+      "region": "europe-middle-east-and-africa",
+      "disbanded": false,
+      "players": [
+        {
+          "id": "01J7SJWC8312T238ZH64ZT6V18",
+          "frontImage": "https://content.algstools.com/2zEiLVte1EyJsrvnZuFL.png",
+          "personalityImage": "https://content.algstools.com/pjpFK35axmCOlvfFYOm8.png",
+          "name": "akku",
+          "teamVersionId": "01KJR7W0435XGK2TREFKWSZ21K",
+          "role": "player"
+        },
+        {
+          "id": "01J65B69GQ3DVCYBTQ3M27EQ5K",
+          "frontImage": "https://content.algstools.com/L92yloxMS5RXgXE53zLp.png",
+          "personalityImage": "https://content.algstools.com/zBpXhs2bzHNIK4CciLpj.png",
+          "name": "Alliance Unlucky",
+          "teamVersionId": "01KJR7W0435XGK2TREFKWSZ21K",
+          "role": "player"
+        },
+        {
+          "id": "01J65B6AQJFP5FPMYHH3MMT39M",
+          "frontImage": "https://content.algstools.com/hwwMOb9L4BThbQL6Wmu3.png",
+          "personalityImage": "https://content.algstools.com/D8LRQci011EG1ftbDvrG.png",
+          "name": "Hakis",
+          "teamVersionId": "01KJR7W0435XGK2TREFKWSZ21K",
+          "role": "player"
+        },
+        {
+          "id": "01J6HNV104BYSB93YBTKM7APKQ",
+          "frontImage": "https://content.algstools.com/EWgArGqhiQLaVETEfJyF.png",
+          "personalityImage": "https://content.algstools.com/n9R7tRhAuSyfRYb1Eb3d.png",
+          "name": "Noth",
+          "teamVersionId": "01KJR7W0435XGK2TREFKWSZ21K",
+          "role": "coach"
+        }
+      ],
+      "group": "C"
+    },
+    {
+      "teamVersionId": "01KJ8CKZNSBAW1M1BJ6N4QP52A",
+      "teamId": "01KHPREYKNXC01C0G2S5H19F38",
+      "name": "AURORA",
+      "shortName": "AUR",
+      "logoDark": "https://content.algstools.com/01KJVY70FF8JZQ40FRD2AJYD6X.png",
+      "logoLight": "https://content.algstools.com/01KJVY70ACE84A417T1ZPVA8VV.png",
+      "region": "europe-middle-east-and-africa",
+      "disbanded": false,
+      "players": [
+        {
+          "id": "01J65B69XR80RHPR87TY6C9BN4",
+          "frontImage": "https://content.algstools.com/Nekw5oBShV1skhGKGzY0.png",
+          "personalityImage": "https://content.algstools.com/Nr4HRuU1qzkdkBGIcAZA.png",
+          "name": "Effect",
+          "teamVersionId": "01KJ8CKZNSBAW1M1BJ6N4QP52A",
+          "role": "player"
+        },
+        {
+          "id": "01J65B6R5B7274NF2AGYMG2AXX",
+          "frontImage": "https://content.algstools.com/ZbAW81On9dIPUB5gsAHn.png",
+          "personalityImage": "https://content.algstools.com/Rv2VvJ6ueve65I87FkeO.png",
+          "name": "Hiarka",
+          "teamVersionId": "01KJ8CKZNSBAW1M1BJ6N4QP52A",
+          "role": "player"
+        },
+        {
+          "id": "01J65B8KC3CXYHNSZZ0SV7CGNF",
+          "frontImage": "https://content.algstools.com/2wxD66FvkyaxAK53x8CE.png",
+          "personalityImage": "https://content.algstools.com/gvkmxwvkpyiNDqrYOWyS.png",
+          "name": "ojrein",
+          "teamVersionId": "01KJ8CKZNSBAW1M1BJ6N4QP52A",
+          "role": "player"
+        }
+      ],
+      "group": "C"
+    },
+    {
+      "teamVersionId": "01KM66MKQSNGFYZ67D8S4FF7CR",
+      "teamId": "01KHPREWYMS4NB76FBW3XYJRX6",
+      "name": "Awakened",
+      "shortName": "AWK",
+      "logoDark": "https://content.algstools.com/01KMCWFM4A5FKMCTMSHES1HYCY.png",
+      "logoLight": "https://content.algstools.com/01KMCWFM0FG4KW6F63449CHWMT.png",
+      "region": "europe-middle-east-and-africa",
+      "disbanded": false,
+      "players": [
+        {
+          "id": "01J7SJW4YHPMR820ZBRZYD6979",
+          "frontImage": "https://content.algstools.com/a4rusIef5RPeJ1Vll9zm.png",
+          "personalityImage": "https://content.algstools.com/6gXQRfJja24SQmh7Fgp6.png",
+          "name": "Faenex",
+          "teamVersionId": "01KM66MKQSNGFYZ67D8S4FF7CR",
+          "role": "player"
+        },
+        {
+          "id": "01J69SX0YX2GZWY4XS0MF0CK97",
+          "frontImage": "https://content.algstools.com/Y3jDn7C5FO7C1BQg3Bvo.png",
+          "personalityImage": "https://content.algstools.com/amNKQBjZUmLVAzKsQq11.png",
+          "name": "KSWINNIIE",
+          "teamVersionId": "01KM66MKQSNGFYZ67D8S4FF7CR",
+          "role": "player"
+        },
+        {
+          "id": "01J65B6QANR4D3M83NA6T62F83",
+          "frontImage": "https://content.algstools.com/2tRurPOEK1xRUxIfzEFf.png",
+          "personalityImage": "https://content.algstools.com/YZirKVfLGywbaa4sXMVm.png",
+          "name": "Mysi",
+          "teamVersionId": "01KM66MKQSNGFYZ67D8S4FF7CR",
+          "role": "player"
+        }
+      ],
+      "group": "B"
+    },
+    {
+      "teamVersionId": "01KHPREWQB3RD4PWTVDXJMF9Y1",
+      "teamId": "01KHPREWQ7ZZGP8S40W48MFHF9",
+      "name": "Blessed",
+      "shortName": "BLSD",
+      "logoDark": "https://content.algstools.com/01KJYMD5JVDRQ8CWJQSGR9YC4V.png",
+      "logoLight": "https://content.algstools.com/01KJYMD5EAHRA07PAR8TAKYZW5.png",
+      "region": "europe-middle-east-and-africa",
+      "disbanded": false,
+      "players": [
+        {
+          "id": "01J65B81QQBN2MQQY96D67BYDY",
+          "frontImage": "https://content.algstools.com/k5TInXfmhRxbt7GCHhaU.png",
+          "personalityImage": null,
+          "name": "Artyco",
+          "teamVersionId": "01KHPREWQB3RD4PWTVDXJMF9Y1",
+          "role": "player"
+        },
+        {
+          "id": "01J65B80XN9N065H4VPV23CNSD",
+          "frontImage": "https://content.algstools.com/nJcSwaMPFj9cUOBnE5Xx.png",
+          "personalityImage": null,
+          "name": "MaxStrafe",
+          "teamVersionId": "01KHPREWQB3RD4PWTVDXJMF9Y1",
+          "role": "player"
+        },
+        {
+          "id": "01J65B80GSNFH0VBB5MW8VKC0C",
+          "frontImage": "https://content.algstools.com/lZtYs5WlGKizXEK7322X.png",
+          "personalityImage": null,
+          "name": " Sanya",
+          "teamVersionId": "01KHPREWQB3RD4PWTVDXJMF9Y1",
+          "role": "player"
+        }
+      ],
+      "group": "A"
+    },
+    {
+      "teamVersionId": "01KHPREVCPZ17391NS4HHN3HH5",
+      "teamId": "01KHPREVCG4KW85GDKW4B811Y0",
+      "name": "Citadel Gaming",
+      "shortName": "CTG",
+      "logoDark": "https://content.algstools.com/01KM0SQ911MPEQ1VRHQFR2YZTX.png",
+      "logoLight": "https://content.algstools.com/01KM0SQ8YFYR7XCSKTQJ62K66D.png",
+      "region": "europe-middle-east-and-africa",
+      "disbanded": false,
+      "players": [
+        {
+          "id": "01J6HCTTE5AWZPY4SK6JBBNM18",
+          "frontImage": "https://content.algstools.com/L1czfOli6tlhp0IMziEq.png",
+          "personalityImage": "https://content.algstools.com/SQbhoReFLpjaZSs2gUy2.png",
+          "name": "Bowzey",
+          "teamVersionId": "01KHPREVCPZ17391NS4HHN3HH5",
+          "role": "player"
+        },
+        {
+          "id": "01J69ST7W30EKTM4S5M2MYVVP0",
+          "frontImage": "https://content.algstools.com/z97PY0QZaBfeHxKsRtNn.png",
+          "personalityImage": "https://content.algstools.com/b6aB1cW8ZOf2z0MHLeSj.png",
+          "name": "kaishihaa",
+          "teamVersionId": "01KHPREVCPZ17391NS4HHN3HH5",
+          "role": "player"
+        },
+        {
+          "id": "01J69STS6B1X7SFHY78DWKZ33F",
+          "frontImage": "https://content.algstools.com/qtsDoACY4cfYZHMPdcP3.png",
+          "personalityImage": "https://content.algstools.com/eSyrXAmrEIfEdmU5yz4h.png",
+          "name": "RemixPowers",
+          "teamVersionId": "01KHPREVCPZ17391NS4HHN3HH5",
+          "role": "player"
+        },
+        {
+          "id": "01J7SJWDPVNAG30JCSQ8066QSS",
+          "frontImage": "https://content.algstools.com/WeM6noXiL8dH3hooYAfn.png",
+          "personalityImage": "https://content.algstools.com/1JhnvftIzoYDMEGxU8cA.png",
+          "name": "Zuni",
+          "teamVersionId": "01KHPREVCPZ17391NS4HHN3HH5",
+          "role": "player"
+        }
+      ],
+      "group": "A"
+    },
+    {
+      "teamVersionId": "01KME84BM67K1PQCB75T82P2EP",
+      "teamId": "01KME84BM2K6S5120YXYV4NZ75",
+      "name": "Clxver",
+      "shortName": "CLVR",
+      "logoDark": null,
+      "logoLight": null,
+      "region": "europe-middle-east-and-africa",
+      "disbanded": false,
+      "players": [
+        {
+          "id": "01JKBJ410HHZBQ9ZM69Z14EBQS",
+          "frontImage": null,
+          "personalityImage": null,
+          "name": "irie",
+          "teamVersionId": "01KME84BM67K1PQCB75T82P2EP",
+          "role": "player"
+        },
+        {
+          "id": "01JKP4EQGV245TKWGFPAZVJ6YM",
+          "frontImage": null,
+          "personalityImage": null,
+          "name": "tsuki ",
+          "teamVersionId": "01KME84BM67K1PQCB75T82P2EP",
+          "role": "player"
+        },
+        {
+          "id": "01JK2XQW6RQVTS7HTDY92SZ0GQ",
+          "frontImage": null,
+          "personalityImage": null,
+          "name": "zombare",
+          "teamVersionId": "01KME84BM67K1PQCB75T82P2EP",
+          "role": "player"
+        }
+      ],
+      "group": "A"
+    },
+    {
+      "teamVersionId": "01KJSEK7VQ4EZQAXKP1MP68R3H",
+      "teamId": "01KJSEK7VMJ7XNKG86XQ2Z9Q6K",
+      "name": "DSK",
+      "shortName": "DSK",
+      "logoDark": "https://content.algstools.com/01KME706M5WPJXH09EERWC9SCP.png",
+      "logoLight": "https://content.algstools.com/01KME706HWHFMR683531PQ3874.png",
+      "region": "europe-middle-east-and-africa",
+      "disbanded": false,
+      "players": [
+        {
+          "id": "01JMDVZZJFSJRY6NEV66B15K5M",
+          "frontImage": null,
+          "personalityImage": null,
+          "name": "1stagga",
+          "teamVersionId": "01KJSEK7VQ4EZQAXKP1MP68R3H",
+          "role": "player"
+        },
+        {
+          "id": "01JF0QNQSYK5F5EPQ3T65RTQFK",
+          "frontImage": "https://content.algstools.com/A9Jt9Ic4mfu207uAyW0O.png",
+          "personalityImage": "https://content.algstools.com/E3p5pKc5oZcaGiP6Djfo.png",
+          "name": "gdolphn",
+          "teamVersionId": "01KJSEK7VQ4EZQAXKP1MP68R3H",
+          "role": "player"
+        },
+        {
+          "id": "01JN04CJEJNP3QK0K4YRFXYNEE",
+          "frontImage": null,
+          "personalityImage": null,
+          "name": "Kolibrihh",
+          "teamVersionId": "01KJSEK7VQ4EZQAXKP1MP68R3H",
+          "role": "player"
+        }
+      ],
+      "group": "B"
+    },
+    {
+      "teamVersionId": "01KM66MKNSP0CC99XGM8M3TR3C",
+      "teamId": "01KHPREZ17WVRXCCZD256CRP5C",
+      "name": "ECLIPSE NEEVEPRO",
+      "shortName": "ECL",
+      "logoDark": null,
+      "logoLight": null,
+      "region": "europe-middle-east-and-africa",
+      "disbanded": false,
+      "players": [
+        {
+          "id": "01J69ST9G4ZWC7GCBYRJKHQD0T",
+          "frontImage": "https://content.algstools.com/KnvEL34x2bOpKlUisb4D.png",
+          "personalityImage": "https://content.algstools.com/PscSkH91p07OSOCJ4fSC.png",
+          "name": "K4SHERA",
+          "teamVersionId": "01KM66MKNSP0CC99XGM8M3TR3C",
+          "role": "player"
+        },
+        {
+          "id": "01J69SWF8CC84K6W0DTRXN3S91",
+          "frontImage": "https://content.algstools.com/WsQDBte3Mk18Q8b8onpq.png",
+          "personalityImage": "https://content.algstools.com/2hpy8P0tPhTs2H1QwjCe.png",
+          "name": "KiingZ",
+          "teamVersionId": "01KM66MKNSP0CC99XGM8M3TR3C",
+          "role": "player"
+        },
+        {
+          "id": "01J69ST8NXNSMCGYVDHJ2EGGV3",
+          "frontImage": "https://content.algstools.com/hQteNf73FUaX6e1MUdj4.png",
+          "personalityImage": "https://content.algstools.com/u2kTdNWJYFqweDpHFUa7.png",
+          "name": "PostKiLL",
+          "teamVersionId": "01KM66MKNSP0CC99XGM8M3TR3C",
+          "role": "player"
+        },
+        {
+          "id": "01J7SJW8EXA80TTVC3FQS2VQZC",
+          "frontImage": "https://content.algstools.com/i2LjuFV9QRlgCqnLzAGO.png",
+          "personalityImage": "https://content.algstools.com/4lz6m7Ji66GrzdCgVx7H.png",
+          "name": "rCatch",
+          "teamVersionId": "01KM66MKNSP0CC99XGM8M3TR3C",
+          "role": "player"
+        }
+      ],
+      "group": "B"
+    },
+    {
+      "teamVersionId": "01KHPREZ9KEFCJY54MFM15EXRX",
+      "teamId": "01KHPREZ9GPCDSSQKNVXNEACVV",
+      "name": "FUL",
+      "shortName": "FUL",
+      "logoDark": "https://content.algstools.com/01KJR6G56YYKA003EZWJR8KQAJ.png",
+      "logoLight": "https://content.algstools.com/01KJR6G4ZYKYH7QCEPNT69XRPZ.png",
+      "region": "europe-middle-east-and-africa",
+      "disbanded": false,
+      "players": [
+        {
+          "id": "01JK34YY16VQ2ZC1C7475WTMR2",
+          "frontImage": null,
+          "personalityImage": null,
+          "name": "Beamzy",
+          "teamVersionId": "01KHPREZ9KEFCJY54MFM15EXRX",
+          "role": "player"
+        },
+        {
+          "id": "01JMAB5YPP63CQQAKTVNF09Z6P",
+          "frontImage": null,
+          "personalityImage": null,
+          "name": "itsfujitora",
+          "teamVersionId": "01KHPREZ9KEFCJY54MFM15EXRX",
+          "role": "player"
+        },
+        {
+          "id": "01JK3C01DQVW3ETPC2J6J0G4BC",
+          "frontImage": null,
+          "personalityImage": null,
+          "name": "Kuro",
+          "teamVersionId": "01KHPREZ9KEFCJY54MFM15EXRX",
+          "role": "player"
+        },
+        {
+          "id": "01JK2V2SHV53VW9Y092AVRD3C1",
+          "frontImage": "https://content.algstools.com/v0CkYur8MXN17z6kIAxO.png",
+          "personalityImage": "https://content.algstools.com/ccC6MppBhk7T8tQ9jWuz.png",
+          "name": "Orbit",
+          "teamVersionId": "01KHPREZ9KEFCJY54MFM15EXRX",
+          "role": "player"
+        }
+      ],
+      "group": "C"
+    },
+    {
+      "teamVersionId": "01KHPREVAVSCHC9N71JKYA1WQ6",
+      "teamId": "01KHPREVAQ5N265YD102VN8SK9",
+      "name": "GaiminGladiators",
+      "shortName": "GG",
+      "logoDark": "https://content.algstools.com/01KJVYWPXP0JSF34VJJ518JAN1.png",
+      "logoLight": "https://content.algstools.com/01KJVYWPRYGS9AHBKB69XN9S18.png",
+      "region": "europe-middle-east-and-africa",
+      "disbanded": false,
+      "players": [
+        {
+          "id": "01JH3KTKJ630KQSWSSV96VQQRK",
+          "frontImage": "https://content.algstools.com/2ty8n3uSau5kczMitpMG.png",
+          "personalityImage": "https://content.algstools.com/es9WInrxJMFYItAe4i5K.png",
+          "name": "AfrO4E",
+          "teamVersionId": "01KHPREVAVSCHC9N71JKYA1WQ6",
+          "role": "coach"
+        },
+        {
+          "id": "01J65B709W29TSPKAK90Y77ESD",
+          "frontImage": "https://content.algstools.com/LpV2e5rnWf0QpEEND3w1.png",
+          "personalityImage": "https://content.algstools.com/Ljy83mJ2THz3STRE2KlD.png",
+          "name": "Blasts ",
+          "teamVersionId": "01KHPREVAVSCHC9N71JKYA1WQ6",
+          "role": "player"
+        },
+        {
+          "id": "01J7SJWC3426TSYPQP18TJJRTK",
+          "frontImage": "https://content.algstools.com/ob35zNR3OOL2NfF9k6MN.png",
+          "personalityImage": "https://content.algstools.com/NdopxkhzBMMDQxaT0M7x.png",
+          "name": "ladypexi",
+          "teamVersionId": "01KHPREVAVSCHC9N71JKYA1WQ6",
+          "role": "player"
+        },
+        {
+          "id": "01J65B713FHA93NACY7FRXVY4H",
+          "frontImage": "https://content.algstools.com/InOJfh0PF5xV2EBObh49.png",
+          "personalityImage": "https://content.algstools.com/WCHabmv3kcWF1cCSZhH5.png",
+          "name": "Lufka",
+          "teamVersionId": "01KHPREVAVSCHC9N71JKYA1WQ6",
+          "role": "player"
+        }
+      ],
+      "group": "A"
+    },
+    {
+      "teamVersionId": "01KHPREV6T5G8M6RZEZFYTWZ6S",
+      "teamId": "01KHPREV6NS3VKTPR8KAHX31N0",
+      "name": "GoNext",
+      "shortName": "GN",
+      "logoDark": null,
+      "logoLight": null,
+      "region": "europe-middle-east-and-africa",
+      "disbanded": false,
+      "players": [
+        {
+          "id": "01JH40FESBGZ626HEEXE57JXV2",
+          "frontImage": "https://content.algstools.com/CElDBBla48sy46y6b32X.png",
+          "personalityImage": "https://content.algstools.com/bjE6Zh03CUSeBtiyTgYV.png",
+          "name": "BleahciM",
+          "teamVersionId": "01KHPREV6T5G8M6RZEZFYTWZ6S",
+          "role": "coach"
+        },
+        {
+          "id": "01J69STAGE108RV55006D77SKH",
+          "frontImage": "https://content.algstools.com/pFKig4UqQezUkbj2dJvR.png",
+          "personalityImage": "https://content.algstools.com/uuVxONSkXyox57buvsTM.png",
+          "name": "IHenchman ",
+          "teamVersionId": "01KHPREV6T5G8M6RZEZFYTWZ6S",
+          "role": "player"
+        },
+        {
+          "id": "01J65B88JPX553YFQNK8HYWREP",
+          "frontImage": "https://content.algstools.com/FxTNIdaOHTVJEkrMfsuY.png",
+          "personalityImage": "https://content.algstools.com/hV0XC2XPU7hjTq6jw5tX.png",
+          "name": "KIND4",
+          "teamVersionId": "01KHPREV6T5G8M6RZEZFYTWZ6S",
+          "role": "player"
+        },
+        {
+          "id": "01J65B71GASD1KNA2QJSFCTKKH",
+          "frontImage": "https://content.algstools.com/a6zlIAsDdLSUJolRbMjG.png",
+          "personalityImage": "https://content.algstools.com/iIoqT87UtBrBCIghU5xC.png",
+          "name": "lighT",
+          "teamVersionId": "01KHPREV6T5G8M6RZEZFYTWZ6S",
+          "role": "player"
+        }
+      ],
+      "group": "B"
+    },
+    {
+      "teamVersionId": "01KME84BHP3JS3YS1ZWGE56Z4S",
+      "teamId": "01KME84BHFFPVPK9WN4TC9HC9Z",
+      "name": "Havoc legends",
+      "shortName": "HVC",
+      "logoDark": null,
+      "logoLight": null,
+      "region": "europe-middle-east-and-africa",
+      "disbanded": false,
+      "players": [
+        {
+          "id": "01KJKDSVMQFCW2RVZ5V52R8PDE",
+          "frontImage": null,
+          "personalityImage": null,
+          "name": "IKrrio",
+          "teamVersionId": "01KME84BHP3JS3YS1ZWGE56Z4S",
+          "role": "player"
+        },
+        {
+          "id": "01JNEN5A1E6FZQYD5ZBA73SW2V",
+          "frontImage": null,
+          "personalityImage": null,
+          "name": "osamh-gun",
+          "teamVersionId": "01KME84BHP3JS3YS1ZWGE56Z4S",
+          "role": "player"
+        },
+        {
+          "id": "01KHVMZN4TXQ0SEFZKKCTPXWH7",
+          "frontImage": null,
+          "personalityImage": null,
+          "name": "vAyoub ",
+          "teamVersionId": "01KME84BHP3JS3YS1ZWGE56Z4S",
+          "role": "player"
+        },
+        {
+          "id": "01KF2REPEF3D05QPTVFKJ8XTCV",
+          "frontImage": null,
+          "personalityImage": null,
+          "name": "xOSAM2-",
+          "teamVersionId": "01KME84BHP3JS3YS1ZWGE56Z4S",
+          "role": "player"
+        }
+      ],
+      "group": "B"
+    },
+    {
+      "teamVersionId": "01KHPREVYM4KQMRRJJQJSWZ6SQ",
+      "teamId": "01KHPREVYF1NA2MVWBPZDR7J23",
+      "name": "hm",
+      "shortName": "HM",
+      "logoDark": "https://content.algstools.com/01KM04W9NZMK9V7BZYK84H0ZWK.png",
+      "logoLight": "https://content.algstools.com/01KM04W9KVA7HNFG3X835T3G60.png",
+      "region": "europe-middle-east-and-africa",
+      "disbanded": false,
+      "players": [
+        {
+          "id": "01J69SX05H3WRPVDASTM09DT3J",
+          "frontImage": "https://content.algstools.com/abr8Lbw4jgePnAm3b8xH.png",
+          "personalityImage": "https://content.algstools.com/VzxOYoy259iePlv9RSlq.png",
+          "name": "Feuda",
+          "teamVersionId": "01KHPREVYM4KQMRRJJQJSWZ6SQ",
+          "role": "player"
+        },
+        {
+          "id": "01J7SJW981HA47T3K7W124NYT3",
+          "frontImage": "https://content.algstools.com/Y5uJUUL4vOb2X2gLDJbK.png",
+          "personalityImage": null,
+          "name": "Nono",
+          "teamVersionId": "01KHPREVYM4KQMRRJJQJSWZ6SQ",
+          "role": "player"
+        },
+        {
+          "id": "01JK3QM0E1Q3HY0PE6PBHA45DM",
+          "frontImage": null,
+          "personalityImage": null,
+          "name": "zodxyy",
+          "teamVersionId": "01KHPREVYM4KQMRRJJQJSWZ6SQ",
+          "role": "player"
+        }
+      ],
+      "group": "C"
+    },
+    {
+      "teamVersionId": "01KHPREWKW80ZG9MN7A9XGDQKY",
+      "teamId": "01KHPREWKQ5W4FDQCRGX4KDCAN",
+      "name": "Infinite",
+      "shortName": "INF",
+      "logoDark": "https://content.algstools.com/01KJR6HWNTW7FQ1VWW2VCNWJT5.png",
+      "logoLight": "https://content.algstools.com/01KJR6HWH0MDEWA9E0VEW2R76T.png",
+      "region": "europe-middle-east-and-africa",
+      "disbanded": false,
+      "players": [
+        {
+          "id": "01J7SJWEQX3RKHVBN8GGHZFJK0",
+          "frontImage": "https://content.algstools.com/bTn5on8g4eDGzpfy3zEY.png",
+          "personalityImage": null,
+          "name": "Kizaron",
+          "teamVersionId": "01KHPREWKW80ZG9MN7A9XGDQKY",
+          "role": "player"
+        },
+        {
+          "id": "01JK5XBK3J78EYMACMZ36TEN6W",
+          "frontImage": null,
+          "personalityImage": null,
+          "name": "Sanka",
+          "teamVersionId": "01KHPREWKW80ZG9MN7A9XGDQKY",
+          "role": "coach"
+        },
+        {
+          "id": "01J7SJWF5VG60GBW56HHV9QN0M",
+          "frontImage": "https://content.algstools.com/8apzl42WYBgnz4QEEC0e.png",
+          "personalityImage": null,
+          "name": "YeQiu",
+          "teamVersionId": "01KHPREWKW80ZG9MN7A9XGDQKY",
+          "role": "player"
+        },
+        {
+          "id": "01J6CFZNBFY3RET7M4C4TTR786",
+          "frontImage": "https://content.algstools.com/qgiFXl4Z911Md0K21l0b.png",
+          "personalityImage": "https://content.algstools.com/zBj9H10AfTeltYjcSO0k.png",
+          "name": "zhidan",
+          "teamVersionId": "01KHPREWKW80ZG9MN7A9XGDQKY",
+          "role": "player"
+        }
+      ],
+      "group": "A"
+    },
+    {
+      "teamVersionId": "01KM15KFSANK4HKZDXG48BZ12H",
+      "teamId": "01KHPREW40F3JGV2MKBYXYW5RK",
+      "name": "Made In Heaven",
+      "shortName": "MIH",
+      "logoDark": null,
+      "logoLight": null,
+      "region": "europe-middle-east-and-africa",
+      "disbanded": false,
+      "players": [
+        {
+          "id": "01J65B605Y9H6Q8TNZHGY8SC6N",
+          "frontImage": "https://content.algstools.com/I1j02ZZBg8rcrIiOIOm6.png",
+          "personalityImage": "https://content.algstools.com/kSAHneVIhfwVdHcEd2E7.png",
+          "name": "Naghz",
+          "teamVersionId": "01KM15KFSANK4HKZDXG48BZ12H",
+          "role": "player"
+        },
+        {
+          "id": "01J65B8A64FEH85GH6QX3T9Z0K",
+          "frontImage": "https://content.algstools.com/cxObT7xPN8l9cRhOlytj.png",
+          "personalityImage": "https://content.algstools.com/vGwMCjVTNjcux5rF5xsv.png",
+          "name": "Sinetic",
+          "teamVersionId": "01KM15KFSANK4HKZDXG48BZ12H",
+          "role": "player"
+        },
+        {
+          "id": "01J65B885YW8SX91E18029Y67J",
+          "frontImage": "https://content.algstools.com/izWRvFqYdRD9SznBVJmT.png",
+          "personalityImage": "https://content.algstools.com/N6iE3aZsfsUxvG8HI9h4.png",
+          "name": "Tylerfps",
+          "teamVersionId": "01KM15KFSANK4HKZDXG48BZ12H",
+          "role": "player"
+        }
+      ],
+      "group": "B"
+    },
+    {
+      "teamVersionId": "01KKCH20536CZ8X25M34W6RWGP",
+      "teamId": "01KHPREWB8VZG6KSDWCRVK611X",
+      "name": "MakeEuGreatAgain",
+      "shortName": "MEGA",
+      "logoDark": null,
+      "logoLight": null,
+      "region": "europe-middle-east-and-africa",
+      "disbanded": false,
+      "players": [
+        {
+          "id": "01J65B6102KYWXKACST98VQWN8",
+          "frontImage": "https://content.algstools.com/SqxVf7wwUZ3Lwdsl68ea.png",
+          "personalityImage": "https://content.algstools.com/ixRTxGVPcBnuKQ734pLH.png",
+          "name": "Gnaske",
+          "teamVersionId": "01KKCH20536CZ8X25M34W6RWGP",
+          "role": "player"
+        },
+        {
+          "id": "01J6CFWXGNHP6PJ5FW6HH56PS9",
+          "frontImage": "https://content.algstools.com/Six11yi0ElqCF7kmOPSU.png",
+          "personalityImage": "https://content.algstools.com/vtDieReWVlMMEaXwfOwV.png",
+          "name": "Kyner",
+          "teamVersionId": "01KKCH20536CZ8X25M34W6RWGP",
+          "role": "player"
+        },
+        {
+          "id": "01JQ4Z59EYYN1B26S47513RSZZ",
+          "frontImage": "https://content.algstools.com/fp0rNqYxBbOc9ej2oxfA.png",
+          "personalityImage": "https://content.algstools.com/fcKANLlMKiMt2hEy4Kdy.png",
+          "name": "Nait",
+          "teamVersionId": "01KKCH20536CZ8X25M34W6RWGP",
+          "role": "player"
+        },
+        {
+          "id": "01J7SJW4SN6A9CE9Y0M275AP3J",
+          "frontImage": null,
+          "personalityImage": null,
+          "name": "SirDel",
+          "teamVersionId": "01KKCH20536CZ8X25M34W6RWGP",
+          "role": "player"
+        }
+      ],
+      "group": "C"
+    },
+    {
+      "teamVersionId": "01KHPREVTVZBQ4GRS3DCV147CQ",
+      "teamId": "01KHPREVTPFF65ZFGRMQZF97YW",
+      "name": "MAMMA MIA",
+      "shortName": "PSN",
+      "logoDark": "https://content.algstools.com/01KJR6M1399H9AT1EYY5N0F42J.png",
+      "logoLight": "https://content.algstools.com/01KJR6M0WX0J6WEWDG1EC1R31T.png",
+      "region": "europe-middle-east-and-africa",
+      "disbanded": false,
+      "players": [
+        {
+          "id": "01JMZNGRXYW4ZFVG8NV1T1NDVD",
+          "frontImage": null,
+          "personalityImage": null,
+          "name": "Eccio",
+          "teamVersionId": "01KHPREVTVZBQ4GRS3DCV147CQ",
+          "role": "player"
+        },
+        {
+          "id": "01JK5QWYS6QV7V7KHMGGTGR3DH",
+          "frontImage": "https://content.algstools.com/ioa2gC0DCNC3kIVnvmAL.png",
+          "personalityImage": null,
+          "name": "Maskellu",
+          "teamVersionId": "01KHPREVTVZBQ4GRS3DCV147CQ",
+          "role": "player"
+        },
+        {
+          "id": "01J7SJWDDEGCZ4TFYR343TS0QB",
+          "frontImage": "https://content.algstools.com/4YdNFX73VpkpO29hhzx5.png",
+          "personalityImage": "https://content.algstools.com/0jWUyWHpeW9Nl7NXErBT.png",
+          "name": "rBlackVenom ",
+          "teamVersionId": "01KHPREVTVZBQ4GRS3DCV147CQ",
+          "role": "player"
+        },
+        {
+          "id": "01J7SJWG3S1X04VECBVJ7XQ6P6",
+          "frontImage": "https://content.algstools.com/izSVcejOsKiB0timMov4.png",
+          "personalityImage": "https://content.algstools.com/rokfW8hI9BLg8RPQV3ss.png",
+          "name": "Shex",
+          "teamVersionId": "01KHPREVTVZBQ4GRS3DCV147CQ",
+          "role": "player"
+        }
+      ],
+      "group": "B"
+    },
+    {
+      "teamVersionId": "01KME2AHRZSPEX31AGZRBH8RE9",
+      "teamId": "01KHPREW26WW7WFZ1H5YMJXWN2",
+      "name": "NOVO Esports",
+      "shortName": "NOVO",
+      "logoDark": null,
+      "logoLight": null,
+      "region": "europe-middle-east-and-africa",
+      "disbanded": false,
+      "players": [
+        {
+          "id": "01JK3SWY9GJ039RSFKAE73DNXH",
+          "frontImage": "https://content.algstools.com/kx258sHW2JmLpaG5N82n.png",
+          "personalityImage": "https://content.algstools.com/MWJfyc0TBwWHKy3aq4Gx.png",
+          "name": "4Miskam",
+          "teamVersionId": "01KME2AHRZSPEX31AGZRBH8RE9",
+          "role": "player"
+        },
+        {
+          "id": "01J7SJW66S8AQMNKRJRNRG2JZR",
+          "frontImage": "https://content.algstools.com/DvSvHvyvts6O0S49XDzv.png",
+          "personalityImage": "https://content.algstools.com/Sh4WPVtZ7Cxle9hpsUYE.png",
+          "name": "AdaM zZ",
+          "teamVersionId": "01KME2AHRZSPEX31AGZRBH8RE9",
+          "role": "player"
+        },
+        {
+          "id": "01J7SJW58F3Y9S140A16MQK0J1",
+          "frontImage": "https://content.algstools.com/h6YhFodEoZ75lI9mnsJF.png",
+          "personalityImage": null,
+          "name": "Friqz",
+          "teamVersionId": "01KME2AHRZSPEX31AGZRBH8RE9",
+          "role": "player"
+        },
+        {
+          "id": "01J69ST72488K7DWHZXT65W6MF",
+          "frontImage": "https://content.algstools.com/zuCT3GEL2WKU87Bsvh5D.png",
+          "personalityImage": "https://content.algstools.com/eCT5nMOpcTrkjgw3MRcl.png",
+          "name": "Slab",
+          "teamVersionId": "01KME2AHRZSPEX31AGZRBH8RE9",
+          "role": "player"
+        }
+      ],
+      "group": "C"
+    },
+    {
+      "teamVersionId": "01KKW9EPB3Q77Q0T3GWR7MV561",
+      "teamId": "01KHPREYGFHD5EYT03ZQN9A8QR",
+      "name": "OrglessAndHungry",
+      "shortName": "OAH",
+      "logoDark": null,
+      "logoLight": null,
+      "region": "europe-middle-east-and-africa",
+      "disbanded": false,
+      "players": [
+        {
+          "id": "01J6HCTM8FKB7N78013C709C7Q",
+          "frontImage": "https://content.algstools.com/cHNa21N787QFznRaVjKf.png",
+          "personalityImage": null,
+          "name": "Caffe",
+          "teamVersionId": "01KKW9EPB3Q77Q0T3GWR7MV561",
+          "role": "coach"
+        },
+        {
+          "id": "01JKXVQQ5X9N18PV5745TGXT5X",
+          "frontImage": "https://content.algstools.com/VDXqRgLKu1jLGkhOo9Pr.png",
+          "personalityImage": "https://content.algstools.com/1SrLF2IocDuLTKpUWZys.png",
+          "name": "CalamityVX",
+          "teamVersionId": "01KKW9EPB3Q77Q0T3GWR7MV561",
+          "role": "player"
+        },
+        {
+          "id": "01J65B87RQ9B7N8GVNGNJDVCN2",
+          "frontImage": "https://content.algstools.com/MonrJPWRaHqAPvYYIPbl.png",
+          "personalityImage": "https://content.algstools.com/0XsV7xAlptsGhTxORPw3.png",
+          "name": "MaTaFe",
+          "teamVersionId": "01KKW9EPB3Q77Q0T3GWR7MV561",
+          "role": "player"
+        },
+        {
+          "id": "01J65B8AJYEJA7XJYBDWASW6YT",
+          "frontImage": "https://content.algstools.com/u6URrd6xyIpL0fBaWISk.png",
+          "personalityImage": "https://content.algstools.com/tYbJ92GeXeEzWIgyPfGS.png",
+          "name": "Taxington",
+          "teamVersionId": "01KKW9EPB3Q77Q0T3GWR7MV561",
+          "role": "player"
+        },
+        {
+          "id": "01JF0QNCQYPT2S6FZ5RVGHJ4JE",
+          "frontImage": "https://content.algstools.com/uFQvsn04EL9evu6lrFk7.png",
+          "personalityImage": "https://content.algstools.com/IBYRYuoj2EIjyhkkLdRa.png",
+          "name": "xsampe",
+          "teamVersionId": "01KKW9EPB3Q77Q0T3GWR7MV561",
+          "role": "player"
+        }
+      ],
+      "group": "A"
+    },
+    {
+      "teamVersionId": "01KKKADS0E9MQFQJRGE72CEGH5",
+      "teamId": "01KHPREZ2JRAK2RGDG62J3AEEW",
+      "name": "Pixel Lumina",
+      "shortName": "PXL",
+      "logoDark": "https://content.algstools.com/01KKKAECNCXR0QHYYBVS9R9DJ2.png",
+      "logoLight": "https://content.algstools.com/01KKKAECG4QH2HM99K2QT4793T.png",
+      "region": "europe-middle-east-and-africa",
+      "disbanded": false,
+      "players": [
+        {
+          "id": "01J7SJW8KMDGWBZ8MYFA0NM6DS",
+          "frontImage": null,
+          "personalityImage": null,
+          "name": "3TrixX",
+          "teamVersionId": "01KKKADS0E9MQFQJRGE72CEGH5",
+          "role": "player"
+        },
+        {
+          "id": "01JJR2G4Q54P0VKBGC1MSBQT9A",
+          "frontImage": null,
+          "personalityImage": null,
+          "name": "billie",
+          "teamVersionId": "01KKKADS0E9MQFQJRGE72CEGH5",
+          "role": "player"
+        },
+        {
+          "id": "01J720NMCY494HXDSWD3HCVTXE",
+          "frontImage": null,
+          "personalityImage": null,
+          "name": "Bzbblegum",
+          "teamVersionId": "01KKKADS0E9MQFQJRGE72CEGH5",
+          "role": "player"
+        }
+      ],
+      "group": "C"
+    },
+    {
+      "teamVersionId": "01KHPREVWTKR7JMJT47DDAES0F",
+      "teamId": "01KHPREVWPTXN5RCMV8N6TM8RB",
+      "name": "POT",
+      "shortName": "POT",
+      "logoDark": null,
+      "logoLight": null,
+      "region": "europe-middle-east-and-africa",
+      "disbanded": false,
+      "players": [
+        {
+          "id": "01K4MMGG64WQPWFVJ9A9TPGNJJ",
+          "frontImage": null,
+          "personalityImage": null,
+          "name": "dsblf",
+          "teamVersionId": "01KHPREVWTKR7JMJT47DDAES0F",
+          "role": "coach"
+        },
+        {
+          "id": "01J7SJW7JYNYSAZBS1BHFPEGK4",
+          "frontImage": null,
+          "personalityImage": null,
+          "name": "ozzzus7",
+          "teamVersionId": "01KHPREVWTKR7JMJT47DDAES0F",
+          "role": "player"
+        },
+        {
+          "id": "01J7SJW790X2Q4AGREYZMRA6MM",
+          "frontImage": null,
+          "personalityImage": null,
+          "name": "Prestis",
+          "teamVersionId": "01KHPREVWTKR7JMJT47DDAES0F",
+          "role": "player"
+        },
+        {
+          "id": "01J7SJW7DM9CQFCXH2G7WMBN1R",
+          "frontImage": null,
+          "personalityImage": null,
+          "name": "taskmast33r",
+          "teamVersionId": "01KHPREVWTKR7JMJT47DDAES0F",
+          "role": "player"
+        }
+      ],
+      "group": "B"
+    },
+    {
+      "teamVersionId": "01KME84BFX5PCSKKMM1KYJ24FF",
+      "teamId": "01KME84BFR6TGHWMQ3AM8PGXWT",
+      "name": "Potassium",
+      "shortName": "PT",
+      "logoDark": null,
+      "logoLight": null,
+      "region": "europe-middle-east-and-africa",
+      "disbanded": false,
+      "players": [
+        {
+          "id": "01JF0QNBZMHK1YAE1R3A0YHME4",
+          "frontImage": "https://content.algstools.com/zMWAMXLHsQtlMxTZjqmy.png",
+          "personalityImage": null,
+          "name": "ASKYY",
+          "teamVersionId": "01KME84BFX5PCSKKMM1KYJ24FF",
+          "role": "player"
+        },
+        {
+          "id": "01J7SJWG8C44EAY6KMM54MK3D5",
+          "frontImage": "https://content.algstools.com/rEIdIJLeL0rEFCYkYRm9.png",
+          "personalityImage": "https://content.algstools.com/ynXBq88h8CTZBahsUM2k.png",
+          "name": "B4mbino",
+          "teamVersionId": "01KME84BFX5PCSKKMM1KYJ24FF",
+          "role": "player"
+        },
+        {
+          "id": "01JM7J2AV3AGCP42423YVAHYTY",
+          "frontImage": null,
+          "personalityImage": null,
+          "name": "Sweepy",
+          "teamVersionId": "01KME84BFX5PCSKKMM1KYJ24FF",
+          "role": "player"
+        }
+      ],
+      "group": "C"
+    },
+    {
+      "teamVersionId": "01KM40Z8KDV3HRT0MDYK1E7CD3",
+      "teamId": "01KKW8ZE95K53TNB9T0YBQHYVY",
+      "name": "PRYANIKI",
+      "shortName": "PRYA",
+      "logoDark": null,
+      "logoLight": null,
+      "region": "europe-middle-east-and-africa",
+      "disbanded": false,
+      "players": [
+        {
+          "id": "01JKK5Y73JTYQCQYFTCHZ2P6AJ",
+          "frontImage": null,
+          "personalityImage": null,
+          "name": "1kxst",
+          "teamVersionId": "01KM40Z8KDV3HRT0MDYK1E7CD3",
+          "role": "player"
+        },
+        {
+          "id": "01J7SJWA01996YR9G7MSARRA1F",
+          "frontImage": null,
+          "personalityImage": null,
+          "name": "Elonzy",
+          "teamVersionId": "01KM40Z8KDV3HRT0MDYK1E7CD3",
+          "role": "player"
+        },
+        {
+          "id": "01JM4J68HM41SAM0YK5JWBFZSQ",
+          "frontImage": "https://content.algstools.com/Kuvl78Dly92ETwPN4dgD.png",
+          "personalityImage": null,
+          "name": "Sabz",
+          "teamVersionId": "01KM40Z8KDV3HRT0MDYK1E7CD3",
+          "role": "player"
+        },
+        {
+          "id": "01J7SJW6SVMKXFTYX3FYMQF2JQ",
+          "frontImage": "https://content.algstools.com/959zknFuzytM2SOfcYEm.png",
+          "personalityImage": "https://content.algstools.com/ly0An5DBCzDzmbxxSEMq.png",
+          "name": "Yanzz",
+          "teamVersionId": "01KM40Z8KDV3HRT0MDYK1E7CD3",
+          "role": "player"
+        }
+      ],
+      "group": "A"
+    },
+    {
+      "teamVersionId": "01KKZ0NW9GKJP6Q57HGH94DAJ6",
+      "teamId": "01KHPREVZXJHSCZT9FYH66703J",
+      "name": "SJP2",
+      "shortName": "SJP2",
+      "logoDark": null,
+      "logoLight": null,
+      "region": "europe-middle-east-and-africa",
+      "disbanded": false,
+      "players": [
+        {
+          "id": "01JF0QNRVP45JEDT09YGTE6W51",
+          "frontImage": "https://content.algstools.com/Y2fmiDIwyWwLJ5TYl0mn.png",
+          "personalityImage": "https://content.algstools.com/75tfOarodQq6hd0kka2m.png",
+          "name": "Denzaay",
+          "teamVersionId": "01KKZ0NW9GKJP6Q57HGH94DAJ6",
+          "role": "player"
+        },
+        {
+          "id": "01JK5R7X0FFZJK5Z291SW8WH2B",
+          "frontImage": null,
+          "personalityImage": null,
+          "name": "kylar04",
+          "teamVersionId": "01KKZ0NW9GKJP6Q57HGH94DAJ6",
+          "role": "player"
+        },
+        {
+          "id": "01JF0QNRG7EWRJ1DPY7NGH6VP7",
+          "frontImage": "https://content.algstools.com/biyJhHigv8wOqzJRThwk.png",
+          "personalityImage": "https://content.algstools.com/EZg5AXqk3EVMLbOX1JxU.png",
+          "name": "QUERNI",
+          "teamVersionId": "01KKZ0NW9GKJP6Q57HGH94DAJ6",
+          "role": "player"
+        },
+        {
+          "id": "01JF0QNS0X5Q8D6JSVXPJ8ZVT5",
+          "frontImage": "https://content.algstools.com/PPZrBihScDeKoZIMPzJa.png",
+          "personalityImage": "https://content.algstools.com/7PGyhZnAeXL3UNVtq3oO.png",
+          "name": "seven",
+          "teamVersionId": "01KKZ0NW9GKJP6Q57HGH94DAJ6",
+          "role": "player"
+        }
+      ],
+      "group": "A"
+    },
+    {
+      "teamVersionId": "01KME84BB19W2MSK94V38RHR96",
+      "teamId": "01KME84B9DFWTQWPTCTEXRHSD0",
+      "name": "Stay Healthy",
+      "shortName": "SH",
+      "logoDark": "https://content.algstools.com/01KMEBAVHJCS6H3ZMZQMJ44YNN.png",
+      "logoLight": "https://content.algstools.com/01KMEBAVENYY7VYHS51TGPXMRS.png",
+      "region": "europe-middle-east-and-africa",
+      "disbanded": false,
+      "players": [
+        {
+          "id": "01J7SJWBGKN1YAZ43BZZ69DPMP",
+          "frontImage": "https://content.algstools.com/pSK8JCthnlqiv3KMGIDP.png",
+          "personalityImage": null,
+          "name": "AJXNTHI",
+          "teamVersionId": "01KME84BB19W2MSK94V38RHR96",
+          "role": "player"
+        },
+        {
+          "id": "01J7SJWFNAG1Z41T83Z51YFNR4",
+          "frontImage": null,
+          "personalityImage": null,
+          "name": "fl1zon",
+          "teamVersionId": "01KME84BB19W2MSK94V38RHR96",
+          "role": "player"
+        },
+        {
+          "id": "01JF0QNH6ZAQJDD4VR2SBDX1DF",
+          "frontImage": null,
+          "personalityImage": null,
+          "name": "Guts",
+          "teamVersionId": "01KME84BB19W2MSK94V38RHR96",
+          "role": "player"
+        },
+        {
+          "id": "01JKYMRBGDSBXWG4QVVNEH53YK",
+          "frontImage": null,
+          "personalityImage": null,
+          "name": "Rainer Luckshot ",
+          "teamVersionId": "01KME84BB19W2MSK94V38RHR96",
+          "role": "coach"
+        }
+      ],
+      "group": "C"
+    },
+    {
+      "teamVersionId": "01KHPREW7J7E99GAMQ0Z97MQPK",
+      "teamId": "01KHPREW7EJXVPJCD4RCPQSZSE",
+      "name": "SUPERNOVA",
+      "shortName": "SN",
+      "logoDark": "https://content.algstools.com/01KJR6R31M77CH4FEPD36BE446.png",
+      "logoLight": "https://content.algstools.com/01KJR6R8QDBKBD1731YBGZKW5V.png",
+      "region": "europe-middle-east-and-africa",
+      "disbanded": false,
+      "players": [
+        {
+          "id": "01J65B8JZBXEB5JRN6ZNFY40Z8",
+          "frontImage": "https://content.algstools.com/HISY15GheysVlYCvK6Hn.png",
+          "personalityImage": "https://content.algstools.com/pcs5shAmnyRICYGhQGlM.png",
+          "name": "Hardecki",
+          "teamVersionId": "01KHPREW7J7E99GAMQ0Z97MQPK",
+          "role": "player"
+        },
+        {
+          "id": "01J80KXZEYDJEKHTNA5TEAJX31",
+          "frontImage": "https://content.algstools.com/hULFHpXRmMtEdHuPIMct.png",
+          "personalityImage": "https://content.algstools.com/E4OZbNk0ewrDrO4tkfad.png",
+          "name": "Kazakh",
+          "teamVersionId": "01KHPREW7J7E99GAMQ0Z97MQPK",
+          "role": "player"
+        },
+        {
+          "id": "01J65B8KSEHSWHD6N5VC4WF9XA",
+          "frontImage": "https://content.algstools.com/1ChbSBRu5ooyucY1hh11.png",
+          "personalityImage": "https://content.algstools.com/duNQ8YKHoVMS2EngS4B4.png",
+          "name": "NINEimpulse",
+          "teamVersionId": "01KHPREW7J7E99GAMQ0Z97MQPK",
+          "role": "player"
+        }
+      ],
+      "group": "A"
+    },
+    {
+      "teamVersionId": "01KM3W5Y8665F6QC0EJ0RMN6VD",
+      "teamId": "01KHPREYN75Y400N800M8NCTSV",
+      "name": "The Vicious",
+      "shortName": "TV",
+      "logoDark": null,
+      "logoLight": null,
+      "region": "europe-middle-east-and-africa",
+      "disbanded": false,
+      "players": [
+        {
+          "id": "01J65B6Y72FN3C8Z0DTDA4Q4WP",
+          "frontImage": "https://content.algstools.com/IB8AAMDvSD92E8VVgkvt.png",
+          "personalityImage": "https://content.algstools.com/QiHuJovSVywiLXlv7WhV.png",
+          "name": "ChaoticMuch",
+          "teamVersionId": "01KM3W5Y8665F6QC0EJ0RMN6VD",
+          "role": "player"
+        },
+        {
+          "id": "01J7SJW4N1V69BZ705WZNN32C4",
+          "frontImage": "https://content.algstools.com/DsJFhqVJNY4FXsqdACgY.png",
+          "personalityImage": null,
+          "name": "Cjracked",
+          "teamVersionId": "01KM3W5Y8665F6QC0EJ0RMN6VD",
+          "role": "player"
+        },
+        {
+          "id": "01JM4P47T6RGQTY6HB5KYQTBQX",
+          "frontImage": "https://content.algstools.com/PiKGlUWcmj6hs45WwQZ1.png",
+          "personalityImage": "https://content.algstools.com/ybIjgd9j8p03FizonPcZ.png",
+          "name": "Hoody",
+          "teamVersionId": "01KM3W5Y8665F6QC0EJ0RMN6VD",
+          "role": "player"
+        },
+        {
+          "id": "01JK4Z6Y5JAHSWMS3A07VJGNB0",
+          "frontImage": "https://content.algstools.com/PCb6H5SUHzrDVRaZZ1uY.png",
+          "personalityImage": "https://content.algstools.com/HhcHjfkpPa6uu66FUqiy.png",
+          "name": "MgClutch",
+          "teamVersionId": "01KM3W5Y8665F6QC0EJ0RMN6VD",
+          "role": "player"
+        }
+      ],
+      "group": "C"
+    },
+    {
+      "teamVersionId": "01KJE5Y6W1D0C0PM2YD895BRV9",
+      "teamId": "01KHPREWSYSDQWR6XFTKQMWYS7",
+      "name": "UAV",
+      "shortName": "UAV",
+      "logoDark": null,
+      "logoLight": null,
+      "region": "europe-middle-east-and-africa",
+      "disbanded": false,
+      "players": [
+        {
+          "id": "01J65B89SCV96MERNYCFFXW2EH",
+          "frontImage": "https://content.algstools.com/znekaFCosPcrjs9tHIdF.png",
+          "personalityImage": "https://content.algstools.com/Tqdngt9XjGuMwfsT3P9s.png",
+          "name": "arctic",
+          "teamVersionId": "01KJE5Y6W1D0C0PM2YD895BRV9",
+          "role": "player"
+        },
+        {
+          "id": "01J7SJW6N0MCQPJSS939PVFPF2",
+          "frontImage": "https://content.algstools.com/c8DTGuYB0lgOXYrInls6.png",
+          "personalityImage": "https://content.algstools.com/Woh4CMW7ongkbUsUA8jC.png",
+          "name": "Liphnn",
+          "teamVersionId": "01KJE5Y6W1D0C0PM2YD895BRV9",
+          "role": "player"
+        },
+        {
+          "id": "01J65B6QR14S5FHN8KY5SCJ8GJ",
+          "frontImage": "https://content.algstools.com/HlusfLTN1NLkdOd7K7fh.png",
+          "personalityImage": "https://content.algstools.com/TjLDt4Fg54F1k7CFgE8S.png",
+          "name": "Uxako",
+          "teamVersionId": "01KJE5Y6W1D0C0PM2YD895BRV9",
+          "role": "player"
+        },
+        {
+          "id": "01J7SJW4B6QZRZSZCWCJHBS2SX",
+          "frontImage": "https://content.algstools.com/GUBz6WzdX1BiaMBQRT4b.png",
+          "personalityImage": "https://content.algstools.com/1eiinjcuy9UoL7GKIcoC.png",
+          "name": "vasate",
+          "teamVersionId": "01KJE5Y6W1D0C0PM2YD895BRV9",
+          "role": "player"
+        }
+      ],
+      "group": "B"
+    },
+    {
+      "teamVersionId": "01KKCH1ZXZYZWSBDHSHP0VP04Z",
+      "teamId": "01KKCH1ZXT5QVN3B73FS9ZS1PQ",
+      "name": "ZIPLINE MAFIA",
+      "shortName": "ZIP",
+      "logoDark": null,
+      "logoLight": null,
+      "region": "europe-middle-east-and-africa",
+      "disbanded": false,
+      "players": [
+        {
+          "id": "01JMFJPT9JJDH7Y4B2NJJ6K136",
+          "frontImage": null,
+          "personalityImage": null,
+          "name": "Exguze",
+          "teamVersionId": "01KKCH1ZXZYZWSBDHSHP0VP04Z",
+          "role": "player"
+        },
+        {
+          "id": "01JKNRMJQNQ09823E4KKNF2ZC6",
+          "frontImage": null,
+          "personalityImage": null,
+          "name": "fitoo",
+          "teamVersionId": "01KKCH1ZXZYZWSBDHSHP0VP04Z",
+          "role": "player"
+        },
+        {
+          "id": "01JMFA86CN4ZZ3E731MHCWR3RH",
+          "frontImage": null,
+          "personalityImage": null,
+          "name": "WeakQ",
+          "teamVersionId": "01KKCH1ZXZYZWSBDHSHP0VP04Z",
+          "role": "player"
+        }
+      ],
+      "group": "A"
+    }
+  ],
+  "Americas": [
+    {
+      "teamVersionId": "01KM4RBE3CVBSYDZ4BAGTYE296",
+      "teamId": "01KKX6TB0GXSA1T51XH4J90BCB",
+      "name": "5STAR",
+      "shortName": "5S",
+      "logoDark": "https://content.algstools.com/01KMF4GPBYS65WZT3T3QWNBM3K.png",
+      "logoLight": "https://content.algstools.com/01KMF4GP86B25W5EFV6X3STRRX.png",
+      "region": "americas",
+      "disbanded": false,
+      "players": [
+        {
+          "id": "01JJWTZD2KY0ERCG67326ZWHBM",
+          "frontImage": null,
+          "personalityImage": null,
+          "name": "CAD",
+          "teamVersionId": "01KM4RBE3CVBSYDZ4BAGTYE296",
+          "role": "coach"
+        },
+        {
+          "id": "01J7TXAG6G8W3639XCFWCCX099",
+          "frontImage": "https://content.algstools.com/qRP238ldQHzww5bOGVuz.png",
+          "personalityImage": "https://content.algstools.com/fujJ1q5PQFhcHdoJUsDn.png",
+          "name": "Dark",
+          "teamVersionId": "01KM4RBE3CVBSYDZ4BAGTYE296",
+          "role": "player"
+        },
+        {
+          "id": "01JF0PJDJD098J3421VKQJE42C",
+          "frontImage": "https://content.algstools.com/9pJow1Tc5mrOmUv8FHMh.png",
+          "personalityImage": "https://content.algstools.com/Usbqaxbk3dePNQFliFYI.png",
+          "name": "Dig",
+          "teamVersionId": "01KM4RBE3CVBSYDZ4BAGTYE296",
+          "role": "player"
+        },
+        {
+          "id": "01J7TX236G9HQ564RM1H640MPZ",
+          "frontImage": null,
+          "personalityImage": null,
+          "name": "kaydnw",
+          "teamVersionId": "01KM4RBE3CVBSYDZ4BAGTYE296",
+          "role": "player"
+        }
+      ],
+      "group": "A"
+    },
+    {
+      "teamVersionId": "01KM3W5YD62YYRAEZXE1ATA1FY",
+      "teamId": "01KHPREX1EC5Z0DQ4472BPDS5H",
+      "name": "BB",
+      "shortName": "BB",
+      "logoDark": null,
+      "logoLight": null,
+      "region": "americas",
+      "disbanded": false,
+      "players": [
+        {
+          "id": "01J7TX228K2G48K9Y5V4C3YH26",
+          "frontImage": "https://content.algstools.com/MZF0xOVf9Nw2x1mjNNum.png",
+          "personalityImage": null,
+          "name": "CruelBuckle",
+          "teamVersionId": "01KM3W5YD62YYRAEZXE1ATA1FY",
+          "role": "player"
+        },
+        {
+          "id": "01J7TX22JY1JGDP75ZDA29FXKP",
+          "frontImage": "https://content.algstools.com/sZn1jQXQv9r6ozfdwutH.png",
+          "personalityImage": "https://content.algstools.com/Dh6kphGJTxBG3DDGsuSd.png",
+          "name": "J",
+          "teamVersionId": "01KM3W5YD62YYRAEZXE1ATA1FY",
+          "role": "player"
+        },
+        {
+          "id": "01JK2XQT7VERQBWKY09KPPMTEB",
+          "frontImage": null,
+          "personalityImage": null,
+          "name": "Kuzmei",
+          "teamVersionId": "01KM3W5YD62YYRAEZXE1ATA1FY",
+          "role": "player"
+        },
+        {
+          "id": "01J7TX20SNHS9EFM09J5QV9ERQ",
+          "frontImage": "https://content.algstools.com/d8u1CTiMMOCupLXOgayb.png",
+          "personalityImage": "https://content.algstools.com/O8ogBa6okrRKGpNLYRyC.png",
+          "name": "mav",
+          "teamVersionId": "01KM3W5YD62YYRAEZXE1ATA1FY",
+          "role": "player"
+        }
+      ],
+      "group": "C"
+    },
+    {
+      "teamVersionId": "01KM4G8FNNJ49MB75TF9EK5NQE",
+      "teamId": "01KHPREWX8J5GD5QTZ62E4VRVD",
+      "name": "Crazy Thieves",
+      "shortName": "CRT",
+      "logoDark": "https://content.algstools.com/01KKG7EJDAP4TV2HCX9H206FE4.png",
+      "logoLight": "https://content.algstools.com/01KKG7EJ13RZEVD99DY7GB7FNS.png",
+      "region": "americas",
+      "disbanded": false,
+      "players": [
+        {
+          "id": "01J65B7YG963H022XW4RKS0W7S",
+          "frontImage": "https://content.algstools.com/A6HKCMV75PYpJfPfCZjH.png",
+          "personalityImage": "https://content.algstools.com/Y1VsMaSP3lzFz8s33elD.png",
+          "name": "Genburten",
+          "teamVersionId": "01KM4G8FNNJ49MB75TF9EK5NQE",
+          "role": "player"
+        },
+        {
+          "id": "01JPHN519M68NE1GZFQ7QHW4XX",
+          "frontImage": "https://content.algstools.com/0Ts2BoTFIndfYPXYYJsd.png",
+          "personalityImage": "https://content.algstools.com/Bb1mO1RZEbG9dABBTpB4.png",
+          "name": "Nihil",
+          "teamVersionId": "01KM4G8FNNJ49MB75TF9EK5NQE",
+          "role": "coach"
+        },
+        {
+          "id": "01J65B65EP758F9MHH0QXQK5VD",
+          "frontImage": "https://content.algstools.com/8QzzkHwQEPTGtmeS3Afj.png",
+          "personalityImage": "https://content.algstools.com/iIaCpKngtjO6zioxsqm8.png",
+          "name": "Phony",
+          "teamVersionId": "01KM4G8FNNJ49MB75TF9EK5NQE",
+          "role": "player"
+        },
+        {
+          "id": "01JM11227FXAR09QK43X2VCEFS",
+          "frontImage": null,
+          "personalityImage": null,
+          "name": "Stuhni",
+          "teamVersionId": "01KM4G8FNNJ49MB75TF9EK5NQE",
+          "role": "player"
+        },
+        {
+          "id": "01J65B7MTR7ZTCH6TEHN8RSAWN",
+          "frontImage": "https://content.algstools.com/br51fbXzRzj8hWim0I9u.png",
+          "personalityImage": "https://content.algstools.com/PjJtmFlqo2KlY55zWOq1.png",
+          "name": "Verhulst",
+          "teamVersionId": "01KM4G8FNNJ49MB75TF9EK5NQE",
+          "role": "player"
+        }
+      ],
+      "group": "C"
+    },
+    {
+      "teamVersionId": "01KM3GHN5MQJMSR51C7736HG96",
+      "teamId": "01KHPREX5NAJ267Q5TT8TPA6QF",
+      "name": "DINOS",
+      "shortName": "DINO",
+      "logoDark": "https://content.algstools.com/01KJSE4WMKTHDNEBJ83ECAT60Z.png",
+      "logoLight": "https://content.algstools.com/01KJSE4WF7MNPCB79Q95D5S873.png",
+      "region": "americas",
+      "disbanded": false,
+      "players": [
+        {
+          "id": "01KDF01WXC6PRT85GJX0YX35CN",
+          "frontImage": null,
+          "personalityImage": null,
+          "name": "ChaosFeelings",
+          "teamVersionId": "01KM3GHN5MQJMSR51C7736HG96",
+          "role": "player"
+        },
+        {
+          "id": "01JMEBPS2KXV59NW88H4845JNX",
+          "frontImage": null,
+          "personalityImage": null,
+          "name": "Djkilla",
+          "teamVersionId": "01KM3GHN5MQJMSR51C7736HG96",
+          "role": "player"
+        },
+        {
+          "id": "01JK3REWYTANRZQH7VZHMXA991",
+          "frontImage": null,
+          "personalityImage": null,
+          "name": "FutureStreamz",
+          "teamVersionId": "01KM3GHN5MQJMSR51C7736HG96",
+          "role": "player"
+        },
+        {
+          "id": "01JK2XJFRPBTAVHDTZZZ11DDS9",
+          "frontImage": null,
+          "personalityImage": null,
+          "name": "Orsini",
+          "teamVersionId": "01KM3GHN5MQJMSR51C7736HG96",
+          "role": "player"
+        }
+      ],
+      "group": "C"
+    },
+    {
+      "teamVersionId": "01KHPREYPSR6HC925MPWRENMZC",
+      "teamId": "01KHPREYPK26VSEXTX14Y1H1GT",
+      "name": "DKK",
+      "shortName": "DKK",
+      "logoDark": null,
+      "logoLight": null,
+      "region": "americas",
+      "disbanded": false,
+      "players": [
+        {
+          "id": "01J69SX1YQTDN4Q8SZ50KF3BZH",
+          "frontImage": "https://content.algstools.com/U2tJVkS0EbS1QcRLWYTM.png",
+          "personalityImage": "https://content.algstools.com/dcN5vzHU0lsmFD0Njn3Y.png",
+          "name": "DROPPED",
+          "teamVersionId": "01KHPREYPSR6HC925MPWRENMZC",
+          "role": "player"
+        },
+        {
+          "id": "01J6HCTDWKCF3VW1B2WVVPQVPQ",
+          "frontImage": "https://content.algstools.com/Cn43eVVtRL4QlN3lqw2g.png",
+          "personalityImage": "https://content.algstools.com/CpZkDpZFDxmyP9PUZ7Nc.png",
+          "name": "Jxmo",
+          "teamVersionId": "01KHPREYPSR6HC925MPWRENMZC",
+          "role": "player"
+        },
+        {
+          "id": "01J65B6BYBE7J02PJCCGN7D20X",
+          "frontImage": "https://content.algstools.com/R1kmgwvduMvQuC0jxglr.png",
+          "personalityImage": "https://content.algstools.com/jkOV2Do5SggradCT6vy2.png",
+          "name": "Keon",
+          "teamVersionId": "01KHPREYPSR6HC925MPWRENMZC",
+          "role": "player"
+        },
+        {
+          "id": "01J69SX2QZ2E9HHKN1J13XEQKV",
+          "frontImage": "https://content.algstools.com/daTeA2a5tBdkgxEeCYdX.png",
+          "personalityImage": "https://content.algstools.com/2Jv61GdHxMytk2X2uRx9.png",
+          "name": "knoqd ",
+          "teamVersionId": "01KHPREYPSR6HC925MPWRENMZC",
+          "role": "player"
+        }
+      ],
+      "group": "C"
+    },
+    {
+      "teamVersionId": "01KM3W5Y26AFN8EZMN2XYYE0DT",
+      "teamId": "01KHPREX4AXTSY2BEERS3NN8GQ",
+      "name": "Donut Shop",
+      "shortName": "DNUT",
+      "logoDark": "https://content.algstools.com/01KJR6D6AVS93AHBEEDWBG8JCZ.jpeg",
+      "logoLight": "https://content.algstools.com/01KJR6D68ZXZ0NW6TVFS8NNWBF.jpeg",
+      "region": "americas",
+      "disbanded": false,
+      "players": [
+        {
+          "id": "01J7TX283EGBABSBPMMAVHP8ZC",
+          "frontImage": "https://content.algstools.com/MDR4Cmz7Hbhgya6LEZx0.png",
+          "personalityImage": "https://content.algstools.com/YTOC77UgtdYSG8m9UJB6.png",
+          "name": "daviswave",
+          "teamVersionId": "01KM3W5Y26AFN8EZMN2XYYE0DT",
+          "role": "player"
+        },
+        {
+          "id": "01J7TX1ZW035XFZGFDC14EJATE",
+          "frontImage": "https://content.algstools.com/l3vb7jLqfu5mwomCP3Ge.png",
+          "personalityImage": "https://content.algstools.com/vHQefP67ugfGWtp18wVa.png",
+          "name": "Hun7sman",
+          "teamVersionId": "01KM3W5Y26AFN8EZMN2XYYE0DT",
+          "role": "player"
+        },
+        {
+          "id": "01J7TX27NPAV8AT6HRCR9W5BVG",
+          "frontImage": null,
+          "personalityImage": null,
+          "name": "TempestND",
+          "teamVersionId": "01KM3W5Y26AFN8EZMN2XYYE0DT",
+          "role": "player"
+        },
+        {
+          "id": "01J7TXAGS5CWBG4KDGS9KSSVDW",
+          "frontImage": "https://content.algstools.com/ZhQ1Z3FhoKcKKaMjx5IP.png",
+          "personalityImage": "https://content.algstools.com/xjuwmAcciJM1elOOirSA.png",
+          "name": "wraiLs",
+          "teamVersionId": "01KM3W5Y26AFN8EZMN2XYYE0DT",
+          "role": "player"
+        }
+      ],
+      "group": "B"
+    },
+    {
+      "teamVersionId": "01KKW8ZEM6WT56H7BNSG9MFQMH",
+      "teamId": "01KHPREX931TTBJDXH1AN6D121",
+      "name": "Exterminators",
+      "shortName": "EX",
+      "logoDark": null,
+      "logoLight": null,
+      "region": "americas",
+      "disbanded": false,
+      "players": [
+        {
+          "id": "01J7TX28WRSS3T1XN0E8235WBB",
+          "frontImage": "https://content.algstools.com/UdVEpx1EkQDWiiKvGc2p.png",
+          "personalityImage": "https://content.algstools.com/85hSDzIW23aaf0YN4uP1.png",
+          "name": "Floating",
+          "teamVersionId": "01KKW8ZEM6WT56H7BNSG9MFQMH",
+          "role": "player"
+        },
+        {
+          "id": "01J65B63DYXTXMT7SMHFQXQH5P",
+          "frontImage": "https://content.algstools.com/xo8ggLiyQEI15dCMyZ8o.png",
+          "personalityImage": "https://content.algstools.com/ymvpTTxUmWU1oAjLCKMe.png",
+          "name": "Shooby",
+          "teamVersionId": "01KKW8ZEM6WT56H7BNSG9MFQMH",
+          "role": "player"
+        },
+        {
+          "id": "01J65B6YKW53NAH6TH714DGPCK",
+          "frontImage": "https://content.algstools.com/ZJ7mVr1LrZybNQ63DbPh.png",
+          "personalityImage": "https://content.algstools.com/uY4xq1Rwkp3Tc4CtQvyk.png",
+          "name": "StayNaughty",
+          "teamVersionId": "01KKW8ZEM6WT56H7BNSG9MFQMH",
+          "role": "player"
+        }
+      ],
+      "group": "C"
+    },
+    {
+      "teamVersionId": "01KJSEK7XSK96QKNNTPV3Z8D49",
+      "teamId": "01KJSEK7XNMD7VYXNHJKRPBFV3",
+      "name": "FLAT",
+      "shortName": "FLAT",
+      "logoDark": "https://content.algstools.com/01KKK4R460D5BSS22X7HJE7M2M.jpeg",
+      "logoLight": "https://content.algstools.com/01KKK4R3YF8GSB818597QMHBX6.jpeg",
+      "region": "americas",
+      "disbanded": false,
+      "players": [
+        {
+          "id": "01J7TX21JWTJS3A6BJDRGJV7QN",
+          "frontImage": "https://content.algstools.com/Oibuv5OCfUpR2iTl0DBr.png",
+          "personalityImage": "https://content.algstools.com/TpWvlNqeNr1jxJ7RwTYO.png",
+          "name": "bigluie",
+          "teamVersionId": "01KJSEK7XSK96QKNNTPV3Z8D49",
+          "role": "player"
+        },
+        {
+          "id": "01J7TX1Y0SBFB8EN94JPAWYRFC",
+          "frontImage": "https://content.algstools.com/3BLQedMaJd49DKg0tRDU.png",
+          "personalityImage": "https://content.algstools.com/EWldYCqnq4pXrUyamovb.png",
+          "name": "Nano",
+          "teamVersionId": "01KJSEK7XSK96QKNNTPV3Z8D49",
+          "role": "player"
+        },
+        {
+          "id": "01J80KXTR14Z6SCR1HQA3D8KAS",
+          "frontImage": "https://content.algstools.com/fOjIFdlbF8KZigMfqFh3.png",
+          "personalityImage": "https://content.algstools.com/JIg8XE7pkrl6tG3bUSRf.png",
+          "name": "Qzier",
+          "teamVersionId": "01KJSEK7XSK96QKNNTPV3Z8D49",
+          "role": "player"
+        }
+      ],
+      "group": "B"
+    },
+    {
+      "teamVersionId": "01KKCH1ZQTJAV826AJZTP35WNH",
+      "teamId": "01KKCH1ZQ2PBZQ3NRKKV8QTVV5",
+      "name": "Free Thinkers",
+      "shortName": "FREE",
+      "logoDark": "https://content.algstools.com/01KKTMN52DJG08GAEMA4N7CYM1.png",
+      "logoLight": "https://content.algstools.com/01KKTMN4ZG380E49SWNAB551A0.png",
+      "region": "americas",
+      "disbanded": false,
+      "players": [
+        {
+          "id": "01KJ87T014PK4KNCPXHKZ4TKRA",
+          "frontImage": null,
+          "personalityImage": null,
+          "name": "Atypicalship",
+          "teamVersionId": "01KKCH1ZQTJAV826AJZTP35WNH",
+          "role": "player"
+        },
+        {
+          "id": "01JVNJ4M4M1WRN2W5EQPDD5EJ7",
+          "frontImage": null,
+          "personalityImage": null,
+          "name": "garyy6",
+          "teamVersionId": "01KKCH1ZQTJAV826AJZTP35WNH",
+          "role": "player"
+        },
+        {
+          "id": "01JK5951V51ZGN9MCF3VWNDDKX",
+          "frontImage": null,
+          "personalityImage": null,
+          "name": "negative",
+          "teamVersionId": "01KKCH1ZQTJAV826AJZTP35WNH",
+          "role": "player"
+        },
+        {
+          "id": "01JK433YKC401GG8H9XX2WS60C",
+          "frontImage": null,
+          "personalityImage": null,
+          "name": "orange12111",
+          "teamVersionId": "01KKCH1ZQTJAV826AJZTP35WNH",
+          "role": "player"
+        }
+      ],
+      "group": "A"
+    },
+    {
+      "teamVersionId": "01KMF09WGDGAQ6B946955ETSS0",
+      "teamId": "01KMF09WG9A551ZCYGZWWKPCXZ",
+      "name": "Full XI",
+      "shortName": "FXI",
+      "logoDark": null,
+      "logoLight": null,
+      "region": "americas",
+      "disbanded": false,
+      "players": [
+        {
+          "id": "01JK2Y2H8B46YGPMFNT3R03XBR",
+          "frontImage": "https://content.algstools.com/4Li10L0sCgvMEbUp5jls.png",
+          "personalityImage": "https://content.algstools.com/tGDdnqriju2FtLj8syEC.png",
+          "name": "Legatronn",
+          "teamVersionId": "01KMF09WGDGAQ6B946955ETSS0",
+          "role": "player"
+        },
+        {
+          "id": "01JF0PJMXSZ8ECQE9BWNA1S08C",
+          "frontImage": null,
+          "personalityImage": null,
+          "name": "NotDaniel",
+          "teamVersionId": "01KMF09WGDGAQ6B946955ETSS0",
+          "role": "player"
+        },
+        {
+          "id": "01JMDR7Y302QXDYNZRK9FBVTWR",
+          "frontImage": "https://content.algstools.com/cBOSqrJ3zcRJjAXPbh1i.png",
+          "personalityImage": null,
+          "name": "Soviet",
+          "teamVersionId": "01KMF09WGDGAQ6B946955ETSS0",
+          "role": "player"
+        },
+        {
+          "id": "01J7TXAF51FZBXBEB1XRY4W513",
+          "frontImage": "https://content.algstools.com/Q6DqXmGxrhyVmDfKFECZ.png",
+          "personalityImage": "https://content.algstools.com/4TJt0oMSsZqQwoQJW4d0.png",
+          "name": "WydFuture",
+          "teamVersionId": "01KMF09WGDGAQ6B946955ETSS0",
+          "role": "player"
+        }
+      ],
+      "group": "A"
+    },
+    {
+      "teamVersionId": "01KMF09W5MHP1G276BZ8KRWZGP",
+      "teamId": "01KMF09W3Z969XWBAX9PV7GJK0",
+      "name": "GAMBLERS",
+      "shortName": "GMBL",
+      "logoDark": null,
+      "logoLight": null,
+      "region": "americas",
+      "disbanded": false,
+      "players": [
+        {
+          "id": "01J7TX25CASGYW0N0GVY115XAE",
+          "frontImage": "https://content.algstools.com/BTRptsAdZaQ31IW98Hh3.png",
+          "personalityImage": null,
+          "name": "Adiuvant",
+          "teamVersionId": "01KMF09W5MHP1G276BZ8KRWZGP",
+          "role": "player"
+        },
+        {
+          "id": "01J7KGAYNVGEH0A58RTNSAZB49",
+          "frontImage": null,
+          "personalityImage": null,
+          "name": "DadIsBored",
+          "teamVersionId": "01KMF09W5MHP1G276BZ8KRWZGP",
+          "role": "coach"
+        },
+        {
+          "id": "01JMDV7TS42W95TPWRTY082ZZT",
+          "frontImage": "https://content.algstools.com/qyf5RVQMFbbx5v8Sw4F0.png",
+          "personalityImage": null,
+          "name": "hxted",
+          "teamVersionId": "01KMF09W5MHP1G276BZ8KRWZGP",
+          "role": "player"
+        },
+        {
+          "id": "01JK2XBZWH4HWPQFJZKQTEERFY",
+          "frontImage": "https://content.algstools.com/Dmt2Xk19pBOaTymGwndo.png",
+          "personalityImage": null,
+          "name": "Osivien",
+          "teamVersionId": "01KMF09W5MHP1G276BZ8KRWZGP",
+          "role": "player"
+        },
+        {
+          "id": "01JK5EGAKNBAHRYYKFDN71KFHF",
+          "frontImage": null,
+          "personalityImage": null,
+          "name": "zephurrx",
+          "teamVersionId": "01KMF09W5MHP1G276BZ8KRWZGP",
+          "role": "player"
+        }
+      ],
+      "group": "C"
+    },
+    {
+      "teamVersionId": "01KMF09WBC5NV6B3KHKE0TAAKG",
+      "teamId": "01KMF09WB7A8H85VSBJFYXBDT5",
+      "name": "HbM",
+      "shortName": "HBM",
+      "logoDark": null,
+      "logoLight": null,
+      "region": "americas",
+      "disbanded": false,
+      "players": [
+        {
+          "id": "01JKJ9TP5MVDSS42CXFXJH4CTX",
+          "frontImage": "https://content.algstools.com/vDmwN0bOfxB7yeROec87.png",
+          "personalityImage": "https://content.algstools.com/5Hq0lJLv8roPuxFYAiJn.png",
+          "name": "Perfections",
+          "teamVersionId": "01KMF09WBC5NV6B3KHKE0TAAKG",
+          "role": "player"
+        },
+        {
+          "id": "01J7TX1TJHHP1T2NS96X9DCMHX",
+          "frontImage": "https://content.algstools.com/AkX7IkixVCdETLovZzrF.png",
+          "personalityImage": null,
+          "name": "Trevstacks",
+          "teamVersionId": "01KMF09WBC5NV6B3KHKE0TAAKG",
+          "role": "player"
+        },
+        {
+          "id": "01JNF1M8RJSF8N75WYXYZ0FAP8",
+          "frontImage": null,
+          "personalityImage": null,
+          "name": "voxymeme",
+          "teamVersionId": "01KMF09WBC5NV6B3KHKE0TAAKG",
+          "role": "player"
+        },
+        {
+          "id": "01JK2X7T9BSZVB08WE0VWJ850M",
+          "frontImage": null,
+          "personalityImage": null,
+          "name": "Why Envy",
+          "teamVersionId": "01KMF09WBC5NV6B3KHKE0TAAKG",
+          "role": "player"
+        }
+      ],
+      "group": "B"
+    },
+    {
+      "teamVersionId": "01KM5XEQE885BAM5GEXP8QJKX2",
+      "teamId": "01KHPREXF10RF8GQKJJ6N16YHS",
+      "name": "HUSS",
+      "shortName": "HUSS",
+      "logoDark": null,
+      "logoLight": null,
+      "region": "americas",
+      "disbanded": false,
+      "players": [
+        {
+          "id": "01J65B72PP75BQHRJN5R0MHT56",
+          "frontImage": "https://content.algstools.com/e8XHzJaWY9bL8w6HeVtg.png",
+          "personalityImage": "https://content.algstools.com/dvTaZLMvveZKw70fwS4b.png",
+          "name": "aidanthedestroye",
+          "teamVersionId": "01KM5XEQE885BAM5GEXP8QJKX2",
+          "role": "player"
+        },
+        {
+          "id": "01JKVTZ3PG0QN6B6KT0W2ZVZB8",
+          "frontImage": "https://content.algstools.com/9BOPKBwbQVxC8mrJegAW.png",
+          "personalityImage": "https://content.algstools.com/Ndv7mY8SBXH888LJhZ95.png",
+          "name": "dooplex",
+          "teamVersionId": "01KM5XEQE885BAM5GEXP8QJKX2",
+          "role": "player"
+        },
+        {
+          "id": "01J65B8P65N22R486TKWJGQ9Q5",
+          "frontImage": "https://content.algstools.com/rxXg0yCnNe0Rh7ZaZo18.png",
+          "personalityImage": "https://content.algstools.com/dqDSDPqZZ4rJoYGBf9CT.png",
+          "name": "KIMCHI",
+          "teamVersionId": "01KM5XEQE885BAM5GEXP8QJKX2",
+          "role": "player"
+        },
+        {
+          "id": "01J7TXAG1XMQNY0C7E8JGBJAF7",
+          "frontImage": "https://content.algstools.com/pc3QU86RQdZQlVxeSyef.png",
+          "personalityImage": "https://content.algstools.com/lqQHY9O55hZS7cXVH2AP.png",
+          "name": "yJely",
+          "teamVersionId": "01KM5XEQE885BAM5GEXP8QJKX2",
+          "role": "player"
+        }
+      ],
+      "group": "B"
+    },
+    {
+      "teamVersionId": "01KKZP7BJH6D6113TP6B9QP2MH",
+      "teamId": "01KHPREX79D112W371YQ819V49",
+      "name": "LEGACY",
+      "shortName": "LGCY",
+      "logoDark": null,
+      "logoLight": null,
+      "region": "americas",
+      "disbanded": false,
+      "players": [
+        {
+          "id": "01JHBK44DNC4AWR17W7836YMRS",
+          "frontImage": "https://content.algstools.com/itUaTqU6ccUO0gzjYpKj.png",
+          "personalityImage": null,
+          "name": "Gyozey",
+          "teamVersionId": "01KKZP7BJH6D6113TP6B9QP2MH",
+          "role": "player"
+        },
+        {
+          "id": "01J65B6NQBD3PH8E9NSFRFA4S4",
+          "frontImage": "https://content.algstools.com/hBLjzJXltgwz8mlsLPq9.png",
+          "personalityImage": "https://content.algstools.com/WeXDk5TyowoavRnMaaKW.png",
+          "name": "jaguares1",
+          "teamVersionId": "01KKZP7BJH6D6113TP6B9QP2MH",
+          "role": "player"
+        },
+        {
+          "id": "01JK5Y4TAPFJ3HH7EEWB8M65N9",
+          "frontImage": "https://content.algstools.com/XV74K6Tl2DNanDGccOvM.png",
+          "personalityImage": "https://content.algstools.com/fOYUqimreRkEek2tQA3t.png",
+          "name": "NMEgo",
+          "teamVersionId": "01KKZP7BJH6D6113TP6B9QP2MH",
+          "role": "coach"
+        },
+        {
+          "id": "01KH9Z17M3XR4Y9Q1M7RHFY0KC",
+          "frontImage": null,
+          "personalityImage": null,
+          "name": "StryderEz",
+          "teamVersionId": "01KKZP7BJH6D6113TP6B9QP2MH",
+          "role": "player"
+        },
+        {
+          "id": "01J65B6MWY4T8KBS3HHMSAV391",
+          "frontImage": "https://content.algstools.com/gDh3cqc9c8vFZrGdYCx3.png",
+          "personalityImage": "https://content.algstools.com/PIj02oSVlaazfMlFlGKN.png",
+          "name": "YanYa",
+          "teamVersionId": "01KKZP7BJH6D6113TP6B9QP2MH",
+          "role": "player"
+        }
+      ],
+      "group": "B"
+    },
+    {
+      "teamVersionId": "01KJ8CKZM255YMET9V3PAXXXRF",
+      "teamId": "01KHPREXADNBT3YBAPQC8K39C8",
+      "name": "medium rare",
+      "shortName": "MR",
+      "logoDark": null,
+      "logoLight": null,
+      "region": "americas",
+      "disbanded": false,
+      "players": [
+        {
+          "id": "01J65B6JFEH898KTRFF9TCZNK3",
+          "frontImage": "https://content.algstools.com/HwNCHVSsNZyGILVRgric.png",
+          "personalityImage": "https://content.algstools.com/EFxrZfMAV6OxWFWRMbwz.png",
+          "name": "Emtee ",
+          "teamVersionId": "01KJ8CKZM255YMET9V3PAXXXRF",
+          "role": "player"
+        },
+        {
+          "id": "01J69SVYKATTY7AZNDPFE81VJH",
+          "frontImage": "https://content.algstools.com/Rlgd04wOsF4Os2fHsuTJ.png",
+          "personalityImage": "https://content.algstools.com/JV942805LHNkm4kRU3lI.png",
+          "name": "Kapreme",
+          "teamVersionId": "01KJ8CKZM255YMET9V3PAXXXRF",
+          "role": "player"
+        },
+        {
+          "id": "01J65B7AC47B2MFX5T9Y2A32ZB",
+          "frontImage": "https://content.algstools.com/8JkTvIe0NRV5gWxfMG4l.png",
+          "personalityImage": "https://content.algstools.com/glucS6KfG08ZzSKXk381.png",
+          "name": "slayr",
+          "teamVersionId": "01KJ8CKZM255YMET9V3PAXXXRF",
+          "role": "player"
+        }
+      ],
+      "group": "C"
+    },
+    {
+      "teamVersionId": "01KM3W5Y4ZB4JT9TWGBTS7G38T",
+      "teamId": "01KHPREXBTGD37GD3ZJ25R7ABW",
+      "name": "Men Of Culture",
+      "shortName": "MOC",
+      "logoDark": "https://content.algstools.com/01KJVWA49PP3VHZJ6XHZNDYSY4.png",
+      "logoLight": "https://content.algstools.com/01KJVWA451E4EJJFZ6JA65RY9S.png",
+      "region": "americas",
+      "disbanded": false,
+      "players": [
+        {
+          "id": "01JMNY8KP0S0ZR5DC5CSA36ZES",
+          "frontImage": null,
+          "personalityImage": null,
+          "name": "Aveckii",
+          "teamVersionId": "01KM3W5Y4ZB4JT9TWGBTS7G38T",
+          "role": "player"
+        },
+        {
+          "id": "01JK2XDGD71RZCTSM29QNQ7YB9",
+          "frontImage": null,
+          "personalityImage": null,
+          "name": "Hoplodamus",
+          "teamVersionId": "01KM3W5Y4ZB4JT9TWGBTS7G38T",
+          "role": "coach"
+        },
+        {
+          "id": "01JN1SZK8XV9WGRXD20D6P2ART",
+          "frontImage": null,
+          "personalityImage": null,
+          "name": "NunzioAD",
+          "teamVersionId": "01KM3W5Y4ZB4JT9TWGBTS7G38T",
+          "role": "player"
+        },
+        {
+          "id": "01JM108ANKYHKNGEAHE4DXG9Y9",
+          "frontImage": "https://content.algstools.com/NsOHG9wLG7skhTEpoxJO.png",
+          "personalityImage": "https://content.algstools.com/AMHo13ve1eOMwZ9I0BpI.png",
+          "name": "tomanycheeters",
+          "teamVersionId": "01KM3W5Y4ZB4JT9TWGBTS7G38T",
+          "role": "player"
+        },
+        {
+          "id": "01J7TXAHMPGM1SP8WH1JWSG2NG",
+          "frontImage": null,
+          "personalityImage": null,
+          "name": "Vodery",
+          "teamVersionId": "01KM3W5Y4ZB4JT9TWGBTS7G38T",
+          "role": "player"
+        }
+      ],
+      "group": "B"
+    },
+    {
+      "teamVersionId": "01KM5XXSNBTKGMCP40M4T4PD7P",
+      "teamId": "01KHPREYRD48P80Q2ME3FWEX57",
+      "name": "Nice Guys",
+      "shortName": "NICE",
+      "logoDark": "https://content.algstools.com/01KM1F2T1MH3C29FP6BHY78T68.jpeg",
+      "logoLight": "https://content.algstools.com/01KM1F2SZ4CZF8BX74WGKTYW7H.jpeg",
+      "region": "americas",
+      "disbanded": false,
+      "players": [
+        {
+          "id": "01J7TX271AEWM9XEEE3WQD0QAS",
+          "frontImage": "https://content.algstools.com/RCoGsIpokc7kWAtdr9HX.png",
+          "personalityImage": null,
+          "name": "Codddy",
+          "teamVersionId": "01KM5XXSNBTKGMCP40M4T4PD7P",
+          "role": "player"
+        },
+        {
+          "id": "01JTC2J0VP4WC0EHW7B8Z7BKER",
+          "frontImage": null,
+          "personalityImage": null,
+          "name": "Fayelarkspur",
+          "teamVersionId": "01KM5XXSNBTKGMCP40M4T4PD7P",
+          "role": "player"
+        },
+        {
+          "id": "01J7TX1ZDGF3YYNN8HVJFFVYE6",
+          "frontImage": null,
+          "personalityImage": null,
+          "name": "HambinOwO",
+          "teamVersionId": "01KM5XXSNBTKGMCP40M4T4PD7P",
+          "role": "player"
+        },
+        {
+          "id": "01J7TX276TJ8B02NCG29CBTPNH",
+          "frontImage": "https://content.algstools.com/bXQd7AzEo9GvyCN6iXZj.png",
+          "personalityImage": "https://content.algstools.com/q2j6VYR6cTCizkubzBTv.png",
+          "name": "RamBeau",
+          "teamVersionId": "01KM5XXSNBTKGMCP40M4T4PD7P",
+          "role": "coach"
+        },
+        {
+          "id": "01JM2F463KYFDS649K0PR9E8Q7",
+          "frontImage": "https://content.algstools.com/YydWvJ9ezjsPWxIiXfKc.png",
+          "personalityImage": null,
+          "name": "Sang",
+          "teamVersionId": "01KM5XXSNBTKGMCP40M4T4PD7P",
+          "role": "player"
+        }
+      ],
+      "group": "B"
+    },
+    {
+      "teamVersionId": "01KHPRETWBCWNEGG8VWG5HRNWN",
+      "teamId": "01KHPRETW5SA96GN6HXY5N6V2F",
+      "name": "NinjasinPyjamas",
+      "shortName": "NIP",
+      "logoDark": "https://content.algstools.com/01KJR60EZVDF6SJSM7MP8GG4PV.png",
+      "logoLight": "https://content.algstools.com/01KJR607EEBD5QC6K16XMXZ96V.jpeg",
+      "region": "americas",
+      "disbanded": false,
+      "players": [
+        {
+          "id": "01JK57CFP22QV3BSK1EH5V5PD0",
+          "frontImage": "https://content.algstools.com/anC0LNcSfd6jVYT6Qgt7.png",
+          "personalityImage": "https://content.algstools.com/RSFZFDOJRLCVEfSlejlt.png",
+          "name": "cole",
+          "teamVersionId": "01KHPRETWBCWNEGG8VWG5HRNWN",
+          "role": "player"
+        },
+        {
+          "id": "01J69SWXKBEHB0M4PZMQRE3P7E",
+          "frontImage": "https://content.algstools.com/4VFlMsfLegurDHzq2uFu.png",
+          "personalityImage": "https://content.algstools.com/0y9HtuLIXcag8Jj7LFik.png",
+          "name": "Kurev",
+          "teamVersionId": "01KHPRETWBCWNEGG8VWG5HRNWN",
+          "role": "player"
+        },
+        {
+          "id": "01J6H7G5T2NE9TCFVYS7VW8SSD",
+          "frontImage": "https://content.algstools.com/WDJI6dhKQKepDAdsbEXy.png",
+          "personalityImage": "https://content.algstools.com/QzVvFxGryQ5N8gxixd8G.png",
+          "name": "Raven",
+          "teamVersionId": "01KHPRETWBCWNEGG8VWG5HRNWN",
+          "role": "coach"
+        },
+        {
+          "id": "01J65B733H606FKY6AEMAPAJ7P",
+          "frontImage": "https://content.algstools.com/83kqRDBtEjWVrXcum83z.png",
+          "personalityImage": "https://content.algstools.com/M4QWws9F9vKGJXAxbzMR.png",
+          "name": "Vein",
+          "teamVersionId": "01KHPRETWBCWNEGG8VWG5HRNWN",
+          "role": "player"
+        }
+      ],
+      "group": "A"
+    },
+    {
+      "teamVersionId": "01KHPREXDKN276T64MP40CYVR8",
+      "teamId": "01KHPREXDFYWX2GJ7Z1VNARJDV",
+      "name": "Oblivion",
+      "shortName": "OBVN",
+      "logoDark": null,
+      "logoLight": null,
+      "region": "americas",
+      "disbanded": false,
+      "players": [
+        {
+          "id": "01J7TX1Y5KYV5S902MRQWKP2TD",
+          "frontImage": "https://content.algstools.com/XYrmhruZq3sul0yOXs4O.png",
+          "personalityImage": "https://content.algstools.com/L8wLnej26mkwcuF3vS9t.png",
+          "name": "Blinkzr",
+          "teamVersionId": "01KHPREXDKN276T64MP40CYVR8",
+          "role": "player"
+        },
+        {
+          "id": "01J69SWSKXCTRK5QXEA4022Y4W",
+          "frontImage": "https://content.algstools.com/O4gkNEMqrIqzJWCrUZ1R.png",
+          "personalityImage": "https://content.algstools.com/raTtZ1DyEgroDQQfBJ3X.png",
+          "name": "FunFPS",
+          "teamVersionId": "01KHPREXDKN276T64MP40CYVR8",
+          "role": "player"
+        },
+        {
+          "id": "01J65B8MZT6MHE31NYWQ7K6YDB",
+          "frontImage": "https://content.algstools.com/FBG3fFh6LwnCbq6vXW5T.png",
+          "personalityImage": "https://content.algstools.com/MUcEhSPffHpwjKznEmAk.png",
+          "name": "Monsoon",
+          "teamVersionId": "01KHPREXDKN276T64MP40CYVR8",
+          "role": "player"
+        }
+      ],
+      "group": "A"
+    },
+    {
+      "teamVersionId": "01KK8VGG41KH7XA0GVWAQ321ZE",
+      "teamId": "01KHPREZCQZ8Z8DHDM6AR3ZT5N",
+      "name": "Purple Slushee",
+      "shortName": "PURP",
+      "logoDark": "https://content.algstools.com/01KJR5XGGKCGSW0SHWN1QYCBSG.png",
+      "logoLight": "https://content.algstools.com/01KJR5XGCYVFVVCKNVXFS578YS.png",
+      "region": "americas",
+      "disbanded": false,
+      "players": [
+        {
+          "id": "01J7TX1WDAMTYENTNEPKNCB1K6",
+          "frontImage": "https://content.algstools.com/VxtxGanLsZqA9wzA54z7.png",
+          "personalityImage": "https://content.algstools.com/CvnoWr3eMpA3cjtBfybm.png",
+          "name": "Crook",
+          "teamVersionId": "01KK8VGG41KH7XA0GVWAQ321ZE",
+          "role": "player"
+        },
+        {
+          "id": "01J69SXCESW6K6D3X60XB6900C",
+          "frontImage": "https://content.algstools.com/khQGYcsVd1hSIw18WXQS.png",
+          "personalityImage": "https://content.algstools.com/B6KUk0rHnJ5VWthFaMF2.png",
+          "name": "Deeds",
+          "teamVersionId": "01KK8VGG41KH7XA0GVWAQ321ZE",
+          "role": "player"
+        },
+        {
+          "id": "01JF0PJT4PX7BE3QNBQ12QAMDD",
+          "frontImage": "https://content.algstools.com/aT0RPWUaZCs3qmmW3uuC.png",
+          "personalityImage": "https://content.algstools.com/PCoF6IQOu7JvOymeYVVT.png",
+          "name": "Duvy",
+          "teamVersionId": "01KK8VGG41KH7XA0GVWAQ321ZE",
+          "role": "coach"
+        },
+        {
+          "id": "01J65B7K77R1EYJEWB10E77W8D",
+          "frontImage": "https://content.algstools.com/UMqXop3R5HURO2GMs9ne.png",
+          "personalityImage": "https://content.algstools.com/FnKB0REaQ1DzcHJWsMPz.png",
+          "name": "Enemy",
+          "teamVersionId": "01KK8VGG41KH7XA0GVWAQ321ZE",
+          "role": "player"
+        },
+        {
+          "id": "01J7TXAFA5DBPVWM8K7BXYQE3J",
+          "frontImage": "https://content.algstools.com/HmmHjx0TaVQNSCUHtse1.png",
+          "personalityImage": "https://content.algstools.com/BU45v6lUsuMGljmDxPHN.png",
+          "name": "PlutoReality",
+          "teamVersionId": "01KK8VGG41KH7XA0GVWAQ321ZE",
+          "role": "player"
+        }
+      ],
+      "group": "B"
+    },
+    {
+      "teamVersionId": "01KMF09WJDYTFSK08KAP8F2H7A",
+      "teamId": "01KMF09WJ9SD8N953QP9QBJECX",
+      "name": "REVIVAL",
+      "shortName": "REV",
+      "logoDark": null,
+      "logoLight": null,
+      "region": "americas",
+      "disbanded": false,
+      "players": [
+        {
+          "id": "01J65B6CBH8RQ8N8BQF2F91MJW",
+          "frontImage": "https://content.algstools.com/jQCKS0M8Tp1tddVYbf2t.png",
+          "personalityImage": "https://content.algstools.com/OYCJmTLkv86f2wyO8YSO.png",
+          "name": "ImMadness",
+          "teamVersionId": "01KMF09WJDYTFSK08KAP8F2H7A",
+          "role": "player"
+        },
+        {
+          "id": "01J7TX24M7XTJ29VCG523EFCQ3",
+          "frontImage": "https://content.algstools.com/MEBXHVKamgU1f71oEgZm.png",
+          "personalityImage": "https://content.algstools.com/Ovb3W0f9AXd1FxCkxQ0Q.png",
+          "name": "january",
+          "teamVersionId": "01KMF09WJDYTFSK08KAP8F2H7A",
+          "role": "player"
+        },
+        {
+          "id": "01J7TX240FPMS3E1HG63R5G1Y8",
+          "frontImage": "https://content.algstools.com/ofPZayumk8EUzm9l9BjW.png",
+          "personalityImage": "https://content.algstools.com/QGaGi0xp7QM0Fk2WVwQc.png",
+          "name": "Lazur",
+          "teamVersionId": "01KMF09WJDYTFSK08KAP8F2H7A",
+          "role": "player"
+        },
+        {
+          "id": "01K5WTX1TCXPY7ND0N2VY12N4X",
+          "frontImage": null,
+          "personalityImage": null,
+          "name": "Melloh",
+          "teamVersionId": "01KMF09WJDYTFSK08KAP8F2H7A",
+          "role": "player"
+        }
+      ],
+      "group": "C"
+    },
+    {
+      "teamVersionId": "01KKZP7BC1VPQ8GQQTKNTCVD6P",
+      "teamId": "01KHPREWJ40HYNJSHV1D5GWDGY",
+      "name": "ROC Esports",
+      "shortName": "ROC",
+      "logoDark": null,
+      "logoLight": null,
+      "region": "americas",
+      "disbanded": false,
+      "players": [
+        {
+          "id": "01J65B6XT7H66CYSQYD66JC1W9",
+          "frontImage": "https://content.algstools.com/6VC4HLFqmBrCtd6pa0gu.png",
+          "personalityImage": "https://content.algstools.com/I0LJO0JIJKPVYEZT04u9.png",
+          "name": "sauceror",
+          "teamVersionId": "01KKZP7BC1VPQ8GQQTKNTCVD6P",
+          "role": "player"
+        },
+        {
+          "id": "01J7TX1YMQ7ZA2BNTS6JX48WP0",
+          "frontImage": "https://content.algstools.com/H5PobN6qwKpAUZlhI6px.png",
+          "personalityImage": "https://content.algstools.com/I4OjV2I87uzFbkbxfwWA.png",
+          "name": "ssirsay",
+          "teamVersionId": "01KKZP7BC1VPQ8GQQTKNTCVD6P",
+          "role": "player"
+        },
+        {
+          "id": "01J65B6CREZS38J19M1WCEE9VJ",
+          "frontImage": "https://content.algstools.com/PBTXXeJvgN0O1HsReIU7.png",
+          "personalityImage": "https://content.algstools.com/xMvHKLqL3fXBvfN42to8.png",
+          "name": "Vaxlon",
+          "teamVersionId": "01KKZP7BC1VPQ8GQQTKNTCVD6P",
+          "role": "player"
+        },
+        {
+          "id": "01J65B844FGBE83AGZ5BYPJNYH",
+          "frontImage": "https://content.algstools.com/6B7iHyKWkGA4tpZju4Rb.png",
+          "personalityImage": "https://content.algstools.com/d6gFO7MfktOrXULrpcdt.png",
+          "name": "Winnie",
+          "teamVersionId": "01KKZP7BC1VPQ8GQQTKNTCVD6P",
+          "role": "player"
+        }
+      ],
+      "group": "C"
+    },
+    {
+      "teamVersionId": "01KM697AXG902W37NNQE562Z1D",
+      "teamId": "01KHPREWRGXCYNBGJVNSGD6ZBY",
+      "name": "S2",
+      "shortName": "S2",
+      "logoDark": null,
+      "logoLight": null,
+      "region": "americas",
+      "disbanded": false,
+      "players": [
+        {
+          "id": "01J7TX1X9R1X1S965AVGR3R6QW",
+          "frontImage": "https://content.algstools.com/jBk1zNtDNk81C47GLlJE.png",
+          "personalityImage": "https://content.algstools.com/QB1X2g73yyOdoOOjYmlL.png",
+          "name": "carter",
+          "teamVersionId": "01KM697AXG902W37NNQE562Z1D",
+          "role": "player"
+        },
+        {
+          "id": "01JN4NRMQPMABGMCDM4B2995HA",
+          "frontImage": "https://content.algstools.com/NoALAaKTwdaLGDTDCXsq.png",
+          "personalityImage": "https://content.algstools.com/KWFSlOpCiu2XJKWztETC.png",
+          "name": "Eros",
+          "teamVersionId": "01KM697AXG902W37NNQE562Z1D",
+          "role": "coach"
+        },
+        {
+          "id": "01J7TX1XEWYSR58MCN7GKEN8AJ",
+          "frontImage": "https://content.algstools.com/pS1XbnNdP6fQJUwilkSG.png",
+          "personalityImage": "https://content.algstools.com/RkDKewayBLbeZY8vFIXT.png",
+          "name": "LOTR31",
+          "teamVersionId": "01KM697AXG902W37NNQE562Z1D",
+          "role": "player"
+        },
+        {
+          "id": "01J65B62M4ZPN38J7ABET6H9RH",
+          "frontImage": "https://content.algstools.com/ou71Ib9bUx23gqDkKNAP.png",
+          "personalityImage": "https://content.algstools.com/6THSIi0pFS5zDHTPxIoG.png",
+          "name": "Zachmazer",
+          "teamVersionId": "01KM697AXG902W37NNQE562Z1D",
+          "role": "player"
+        }
+      ],
+      "group": "A"
+    },
+    {
+      "teamVersionId": "01KJYM3C2W6M6DBKESMKTE6VQ9",
+      "teamId": "01KHPREWVFQ8KJBCB3AY6Q42T2",
+      "name": "ShopifyRebellion",
+      "shortName": "SR",
+      "logoDark": "https://content.algstools.com/01KJR69K83KDR7EESR4JEGS0DP.png",
+      "logoLight": "https://content.algstools.com/01KJR65RZF3726KMTFBW5C443E.png",
+      "region": "americas",
+      "disbanded": false,
+      "players": [
+        {
+          "id": "01J6HCTPAB15S5ANZ6EW4W0MX0",
+          "frontImage": "https://content.algstools.com/fUqIUR52rXI9EMkjJOp7.png",
+          "personalityImage": "https://content.algstools.com/BfGul7iwsKrTvm1Uytrm.png",
+          "name": "Don",
+          "teamVersionId": "01KJYM3C2W6M6DBKESMKTE6VQ9",
+          "role": "player"
+        },
+        {
+          "id": "01J65B8EZPEPJWTTP92BYZYBCX",
+          "frontImage": "https://content.algstools.com/7as1HjbHZfDwEq4YfL8g.png",
+          "personalityImage": "https://content.algstools.com/tB1Qr4fGFVtcKXTgcoYF.png",
+          "name": "Koyful",
+          "teamVersionId": "01KJYM3C2W6M6DBKESMKTE6VQ9",
+          "role": "player"
+        },
+        {
+          "id": "01J6HCRZWVXEV36GXFXF0YVQ7J",
+          "frontImage": "https://content.algstools.com/69gGEYoq0rsvcKwgmiFX.png",
+          "personalityImage": "https://content.algstools.com/qc06TKYF5LHNPl7EVsSZ.png",
+          "name": "liuq",
+          "teamVersionId": "01KJYM3C2W6M6DBKESMKTE6VQ9",
+          "role": "coach"
+        },
+        {
+          "id": "01J65B65VG17SKBAFP2A6HA0W9",
+          "frontImage": "https://content.algstools.com/19sNEcq0JHePO5DH9d1E.png",
+          "personalityImage": "https://content.algstools.com/fEwU2IbjDUl90BPXcNhW.png",
+          "name": "Xynew",
+          "teamVersionId": "01KJYM3C2W6M6DBKESMKTE6VQ9",
+          "role": "player"
+        },
+        {
+          "id": "01J65B63TYVWBB4ZVR2S5QKBT3",
+          "frontImage": "https://content.algstools.com/tHe7rV6QDOH6L19lSweX.png",
+          "personalityImage": "https://content.algstools.com/tbwzByd8kRYaj17jmCI5.png",
+          "name": "zap",
+          "teamVersionId": "01KJYM3C2W6M6DBKESMKTE6VQ9",
+          "role": "player"
+        }
+      ],
+      "group": "C"
+    },
+    {
+      "teamVersionId": "01KKZP7BN36RHBHWDYWBN40QMP",
+      "teamId": "01KHPRETPJ9HJ2RJYZKCJJDMGS",
+      "name": "Source Gaming",
+      "shortName": "SRC",
+      "logoDark": null,
+      "logoLight": null,
+      "region": "americas",
+      "disbanded": false,
+      "players": [
+        {
+          "id": "01J7TX28JW2R7DE0HRTMHBSJRK",
+          "frontImage": "https://content.algstools.com/WSpw1t1MZYzvmakaqQmS.png",
+          "personalityImage": "https://content.algstools.com/vkIbcuNDkCJ07Wtdx0ce.png",
+          "name": "Cates",
+          "teamVersionId": "01KKZP7BN36RHBHWDYWBN40QMP",
+          "role": "player"
+        },
+        {
+          "id": "01JMXW6MEGJK5H2NPVPZZZBQ08",
+          "frontImage": null,
+          "personalityImage": null,
+          "name": "EvL999",
+          "teamVersionId": "01KKZP7BN36RHBHWDYWBN40QMP",
+          "role": "coach"
+        },
+        {
+          "id": "01J7TX28R1FSCMTX9MTQYRNTZK",
+          "frontImage": "https://content.algstools.com/8e8KjRWFigibhVhyBeWt.png",
+          "personalityImage": "https://content.algstools.com/2EqH53Hk34q9yGwBJFmK.png",
+          "name": "IMLUNIX",
+          "teamVersionId": "01KKZP7BN36RHBHWDYWBN40QMP",
+          "role": "player"
+        },
+        {
+          "id": "01JM3DTJSTJ26HWRKP9XDJVACB",
+          "frontImage": null,
+          "personalityImage": null,
+          "name": "Jodland",
+          "teamVersionId": "01KKZP7BN36RHBHWDYWBN40QMP",
+          "role": "player"
+        },
+        {
+          "id": "01JN1P022K4BZTTNQKF0WYBZZV",
+          "frontImage": null,
+          "personalityImage": null,
+          "name": "Kjthepro",
+          "teamVersionId": "01KKZP7BN36RHBHWDYWBN40QMP",
+          "role": "player"
+        }
+      ],
+      "group": "A"
+    },
+    {
+      "teamVersionId": "01KM4G8FE3J23P0PCX17H8J97H",
+      "teamId": "01KHPRETY9SBG2WNXQYHXJHNVS",
+      "name": "Stallions",
+      "shortName": "STAL",
+      "logoDark": "https://content.algstools.com/01KKWMM9DVB95S364SZF9ZC463.png",
+      "logoLight": "https://content.algstools.com/01KKWMM994WG8YXC7XP5Q0A8AR.png",
+      "region": "americas",
+      "disbanded": false,
+      "players": [
+        {
+          "id": "01J7TX1VZHG1HXJC6X3A4CNYB0",
+          "frontImage": "https://content.algstools.com/SpVL0pmnJiEKes0NW9oH.png",
+          "personalityImage": "https://content.algstools.com/8lWq0IOvoetzv7DxVlMl.png",
+          "name": "Albralelie",
+          "teamVersionId": "01KM4G8FE3J23P0PCX17H8J97H",
+          "role": "player"
+        },
+        {
+          "id": "01J69SWTE7J8KZ5RTYGE1ZRR19",
+          "frontImage": "https://content.algstools.com/w3IDpJZ20UzyN1t49hBf.png",
+          "personalityImage": "https://content.algstools.com/6fOyoCqkEY7MVXuObyBr.png",
+          "name": "oh Nocturnal",
+          "teamVersionId": "01KM4G8FE3J23P0PCX17H8J97H",
+          "role": "coach"
+        },
+        {
+          "id": "01JMF5HB9TNN1Q3SKBNQMVB8X8",
+          "frontImage": "https://content.algstools.com/T0v9HKqoex8uGuCR4J7G.png",
+          "personalityImage": null,
+          "name": "sacred",
+          "teamVersionId": "01KM4G8FE3J23P0PCX17H8J97H",
+          "role": "player"
+        },
+        {
+          "id": "01J69SX3V2JWGFRRAEE97MCJV7",
+          "frontImage": "https://content.algstools.com/rzXizbR5IHExf2h8RNDA.png",
+          "personalityImage": "https://content.algstools.com/aXan8hQbkbt3rv0YtqE4.png",
+          "name": "SkittleCakes",
+          "teamVersionId": "01KM4G8FE3J23P0PCX17H8J97H",
+          "role": "player"
+        }
+      ],
+      "group": "A"
+    },
+    {
+      "teamVersionId": "01KHPREXGK5ZME8ZE0ERV864JJ",
+      "teamId": "01KHPREXGF2G62Y6H5QG87ZYEE",
+      "name": "Team Falcons",
+      "shortName": "FLCN",
+      "logoDark": null,
+      "logoLight": null,
+      "region": "americas",
+      "disbanded": false,
+      "players": [
+        {
+          "id": "01J65B6JWA62Z0Q8C68DMYA28V",
+          "frontImage": "https://content.algstools.com/eUumt7GbIe5YaHanivgz.png",
+          "personalityImage": "https://content.algstools.com/gHJ8OpRDBTlidZdWrPXF.png",
+          "name": "Draugr",
+          "teamVersionId": "01KHPREXGK5ZME8ZE0ERV864JJ",
+          "role": "player"
+        },
+        {
+          "id": "01J65B6K9EJ7BN6NQRKRQ3FZKG",
+          "frontImage": "https://content.algstools.com/sB2XOljAeB55rM8P7VOv.png",
+          "personalityImage": "https://content.algstools.com/QgS2lgKBCVNVDspqfZjI.png",
+          "name": "FLCN Gild",
+          "teamVersionId": "01KHPREXGK5ZME8ZE0ERV864JJ",
+          "role": "player"
+        },
+        {
+          "id": "01J65B7NMKHGG0EFAX7JGG2HZY",
+          "frontImage": "https://content.algstools.com/UreaBY91MiOupo9hBdE7.png",
+          "personalityImage": "https://content.algstools.com/I7aLHq641VspTBc7TT33.png",
+          "name": "FLCN ImperialHal",
+          "teamVersionId": "01KHPREXGK5ZME8ZE0ERV864JJ",
+          "role": "player"
+        },
+        {
+          "id": "01J65B6KP9DJ9VQH6E4EDBVXWR",
+          "frontImage": "https://content.algstools.com/4863bragKamsmGAFWJHp.png",
+          "personalityImage": "https://content.algstools.com/xe2M59IGFbx0FdLKmpLd.png",
+          "name": "Wxltzy",
+          "teamVersionId": "01KHPREXGK5ZME8ZE0ERV864JJ",
+          "role": "player"
+        }
+      ],
+      "group": "B"
+    },
+    {
+      "teamVersionId": "01KM4RBE5NYG2BCF0BV292XY19",
+      "teamId": "01KHPREWNWEZSQCQDGZVAF5CCW",
+      "name": "Team Liquid",
+      "shortName": "TL",
+      "logoDark": "https://content.algstools.com/01KJR7EVDH4H4E77K19E88CDJ2.png",
+      "logoLight": "https://content.algstools.com/01KJR7EVA5JM45GW0SZ02N3KMC.png",
+      "region": "americas",
+      "disbanded": false,
+      "players": [
+        {
+          "id": "01J69SVYKATTY7AZNDPFE81VJH",
+          "frontImage": "https://content.algstools.com/Rlgd04wOsF4Os2fHsuTJ.png",
+          "personalityImage": "https://content.algstools.com/JV942805LHNkm4kRU3lI.png",
+          "name": "Kapreme",
+          "teamVersionId": "01KM4RBE5NYG2BCF0BV292XY19",
+          "role": "player"
+        },
+        {
+          "id": "01J7TX2242N0MYENGTV5WAN6XT",
+          "frontImage": "https://content.algstools.com/JegnM12uEwP1rXRYxLg5.png",
+          "personalityImage": "https://content.algstools.com/pSgGqUgItrCxUwEh89q7.png",
+          "name": "PanicApex",
+          "teamVersionId": "01KM4RBE5NYG2BCF0BV292XY19",
+          "role": "player"
+        },
+        {
+          "id": "01J65B7ZA31T3A5Z36XKRMFVY1",
+          "frontImage": "https://content.algstools.com/ExL3FfL0CIcy2nLOIx00.png",
+          "personalityImage": "https://content.algstools.com/OVch6jVhLAZkhY6jIWOj.png",
+          "name": "Sikezz",
+          "teamVersionId": "01KM4RBE5NYG2BCF0BV292XY19",
+          "role": "player"
+        },
+        {
+          "id": "01J65B7YX133EJCY2WKCWG472F",
+          "frontImage": "https://content.algstools.com/tGNYMOzMloxZFmQko4FH.png",
+          "personalityImage": "https://content.algstools.com/FD5rYJP7hphAjzWUtz7B.png",
+          "name": "Zer0",
+          "teamVersionId": "01KM4RBE5NYG2BCF0BV292XY19",
+          "role": "player"
+        }
+      ],
+      "group": "A"
+    },
+    {
+      "teamVersionId": "01KHPREYSYFTBH3CK82R8GYDED",
+      "teamId": "01KHPREYST26ZBGYJRQ03Z93B6",
+      "name": "THUGGETS",
+      "shortName": "THUG",
+      "logoDark": "https://content.algstools.com/01KKB8N2X43SSVT47TCQEKXRP3.png",
+      "logoLight": "https://content.algstools.com/01KKB8N2R9BA7FJFTGCRVHWATY.png",
+      "region": "americas",
+      "disbanded": false,
+      "players": [
+        {
+          "id": "01J7TX27Z2487W38K927JENBTQ",
+          "frontImage": null,
+          "personalityImage": null,
+          "name": "7Dyn",
+          "teamVersionId": "01KHPREYSYFTBH3CK82R8GYDED",
+          "role": "player"
+        },
+        {
+          "id": "01J7TX1TWBB9N9HD6JJNKXJEE1",
+          "frontImage": "https://content.algstools.com/TKOSXbZV6CArZ86zMqtJ.png",
+          "personalityImage": "https://content.algstools.com/C7nn9SkOjNeL5kesnF7k.png",
+          "name": "DANMANNTIC",
+          "teamVersionId": "01KHPREYSYFTBH3CK82R8GYDED",
+          "role": "player"
+        },
+        {
+          "id": "01JHB8MHEZGZ4J87JXVJFA8BJZ",
+          "frontImage": "https://content.algstools.com/CBMYQgiQu9rVBysD1Ddt.png",
+          "personalityImage": "https://content.algstools.com/vn8xIwtiSJhdea8lNrRW.png",
+          "name": "Vlorzy",
+          "teamVersionId": "01KHPREYSYFTBH3CK82R8GYDED",
+          "role": "player"
+        }
+      ],
+      "group": "A"
+    },
+    {
+      "teamVersionId": "01KMF09WDTGFTJHRWC9HR851FZ",
+      "teamId": "01KMF09WDP3WQCVX6CPN8C22FK",
+      "name": "Zest Fest",
+      "shortName": "ZF",
+      "logoDark": null,
+      "logoLight": null,
+      "region": "americas",
+      "disbanded": false,
+      "players": [
+        {
+          "id": "01JK2XXAS5PYWWTSRB21QJ6H54",
+          "frontImage": "https://content.algstools.com/nhhJeHF6uSwEC4xfQT12.png",
+          "personalityImage": "https://content.algstools.com/CmQb1i2FKqskmUDfW5Nx.png",
+          "name": "eslopes",
+          "teamVersionId": "01KMF09WDTGFTJHRWC9HR851FZ",
+          "role": "player"
+        },
+        {
+          "id": "01JM258Z92WW9FFH66PTMKJ8V3",
+          "frontImage": null,
+          "personalityImage": null,
+          "name": "khenzo",
+          "teamVersionId": "01KMF09WDTGFTJHRWC9HR851FZ",
+          "role": "player"
+        },
+        {
+          "id": "01K2DP7WM6BPV2Q40ANVAPFAR1",
+          "frontImage": null,
+          "personalityImage": null,
+          "name": "Twitch Fredstxr",
+          "teamVersionId": "01KMF09WDTGFTJHRWC9HR851FZ",
+          "role": "player"
+        },
+        {
+          "id": "01JK2WHVJD92SSHG52A9P4Z1KB",
+          "frontImage": null,
+          "personalityImage": null,
+          "name": "WabiSabi",
+          "teamVersionId": "01KMF09WDTGFTJHRWC9HR851FZ",
+          "role": "player"
+        }
+      ],
+      "group": "B"
+    }
+  ]
+}
