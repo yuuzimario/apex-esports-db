@@ -41,7 +41,9 @@
     "rosterHistory": "Roster Changes",
     "results": "Tournament Results",
     "region": "Region",
-    "founded": "Founded"
+    "founded": "Founded",
+    "proLeague": "ALGS Pro League",
+    "otherTeams": "Other Teams"
   },
   "tournaments": {
     "title": "Tournaments",

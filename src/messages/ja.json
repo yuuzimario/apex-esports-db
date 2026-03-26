@@ -41,7 +41,9 @@
     "rosterHistory": "ロスター変更履歴",
     "results": "大会成績",
     "region": "リージョン",
-    "founded": "設立"
+    "founded": "設立",
+    "proLeague": "ALGS Pro League",
+    "otherTeams": "その他のチーム"
   },
   "tournaments": {
     "title": "大会一覧",

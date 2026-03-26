@@ -3,7 +3,7 @@
 import { useSearchParams, useRouter, usePathname } from "next/navigation";
 import { useTranslations } from "next-intl";
 import { Link } from "@/i18n/navigation";
-import { useCallback } from "react";
+import { useCallback, useMemo } from "react";
 
 type Team = {
   id: string;
@@ -19,11 +19,12 @@ type Region = "APAC_N" | "APAC_S" | "NA" | "EMEA";
 
 const VALID_REGIONS: Region[] = ["APAC_N", "APAC_S", "NA", "EMEA"];
 
-export function TeamList({ teams }: { teams: Team[] }) {
+export function TeamList({ teams, proTeamIds = [] }: { teams: Team[]; proTeamIds?: string[] }) {
   const searchParams = useSearchParams();
   const router = useRouter();
   const pathname = usePathname();
   const t = useTranslations("players");
+  const tt = useTranslations("teams");
   const tr = useTranslations("regions");
 
   const regionParam = searchParams.get("region");
@@ -50,6 +51,10 @@ export function TeamList({ teams }: { teams: Team[] }) {
 
   const filtered = selected ? teams.filter((t) => t.region === selected) : teams;
 
+  const proSet = useMemo(() => new Set(proTeamIds), [proTeamIds]);
+  const proTeams = filtered.filter((t) => proSet.has(t.id));
+  const otherTeams = filtered.filter((t) => !proSet.has(t.id));
+
   return (
     <>
       <div className="flex gap-2 mb-6 flex-wrap">
@@ -74,40 +79,70 @@ export function TeamList({ teams }: { teams: Team[] }) {
         </button>
       </div>
 
-      <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
-        {filtered.map((team) => (
-          <Link
-            key={team.id}
-            href={`/teams/${team.slug}`}
-            className="bg-gray-900 rounded-xl p-5 hover:bg-gray-800 transition-colors border border-gray-800 hover:border-gray-700"
-          >
-            <div className="flex items-center gap-4">
-              {team.logo_url ? (
-                <img
-                  src={team.logo_url}
-                  alt={team.name}
-                  className="w-14 h-14 rounded-lg bg-gray-700 object-contain p-1 shrink-0"
-                />
-              ) : (
-                <div className="w-14 h-14 rounded-lg bg-gray-700 flex items-center justify-center text-xl font-bold text-gray-400 shrink-0">
-                  {team.short_name || team.name.substring(0, 2).toUpperCase()}
-                </div>
-              )}
-              <div className="min-w-0">
-                <p className="font-bold text-white truncate">{team.name}</p>
-                {team.name_ja && (
-                  <p className="text-sm text-gray-400 truncate">{team.name_ja}</p>
-                )}
-                {team.region && (
-                  <span className="text-xs bg-gray-700 px-2 py-0.5 rounded mt-1 inline-block">
-                    {team.region}
-                  </span>
-                )}
-              </div>
-            </div>
-          </Link>
-        ))}
-      </div>
+      {/* プロリーグチーム */}
+      {proTeams.length > 0 && (
+        <section className="mb-8">
+          <h2 className="text-lg font-bold mb-4 text-white flex items-center gap-2">
+            <span className="w-2 h-2 bg-red-500 rounded-full" />
+            {tt("proLeague")}
+            <span className="text-sm font-normal text-gray-400">({proTeams.length})</span>
+          </h2>
+          <TeamGrid teams={proTeams} />
+        </section>
+      )}
+
+      {/* その他のチーム */}
+      {otherTeams.length > 0 && (
+        <section>
+          {proTeams.length > 0 && (
+            <h2 className="text-lg font-bold mb-4 text-white flex items-center gap-2">
+              <span className="w-2 h-2 bg-gray-500 rounded-full" />
+              {tt("otherTeams")}
+              <span className="text-sm font-normal text-gray-400">({otherTeams.length})</span>
+            </h2>
+          )}
+          <TeamGrid teams={otherTeams} />
+        </section>
+      )}
     </>
+  );
+}
+
+function TeamGrid({ teams }: { teams: Team[] }) {
+  return (
+    <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
+      {teams.map((team) => (
+        <Link
+          key={team.id}
+          href={`/teams/${team.slug}`}
+          className="bg-gray-900 rounded-xl p-5 hover:bg-gray-800 transition-colors border border-gray-800 hover:border-gray-700"
+        >
+          <div className="flex items-center gap-4">
+            {team.logo_url ? (
+              <img
+                src={team.logo_url}
+                alt={team.name}
+                className="w-14 h-14 rounded-lg bg-gray-700 object-contain p-1 shrink-0"
+              />
+            ) : (
+              <div className="w-14 h-14 rounded-lg bg-gray-700 flex items-center justify-center text-xl font-bold text-gray-400 shrink-0">
+                {team.short_name || team.name.substring(0, 2).toUpperCase()}
+              </div>
+            )}
+            <div className="min-w-0">
+              <p className="font-bold text-white truncate">{team.name}</p>
+              {team.name_ja && (
+                <p className="text-sm text-gray-400 truncate">{team.name_ja}</p>
+              )}
+              {team.region && (
+                <span className="text-xs bg-gray-700 text-white px-2 py-0.5 rounded mt-1 inline-block">
+                  {team.region}
+                </span>
+              )}
+            </div>
+          </div>
+        </Link>
+      ))}
+    </div>
   );
 }
