@@ -22,7 +22,7 @@ export default async function PlayersPage() {
       {players && players.length > 0 ? (
         <PlayerList players={players} />
       ) : (
-        <div className="bg-gray-900 rounded-xl p-12 text-center text-gray-500">
+        <div className="bg-gray-900 rounded-xl p-12 text-center text-gray-400">
           <p className="text-lg mb-2">Coming soon...</p>
           <p className="text-sm">データ投入準備中です</p>
         </div>

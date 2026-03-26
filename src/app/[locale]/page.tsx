@@ -50,7 +50,7 @@ export default function HomePage() {
             {t("viewAll")} →
           </Link>
         </div>
-        <div className="bg-gray-900 rounded-xl p-8 text-center text-gray-500">
+        <div className="bg-gray-900 rounded-xl p-8 text-center text-gray-400">
           Coming soon...
         </div>
       </section>
@@ -60,7 +60,7 @@ export default function HomePage() {
         <h2 className="text-2xl font-bold mb-6">
           {t("upcomingTournaments")}
         </h2>
-        <div className="bg-gray-900 rounded-xl p-8 text-center text-gray-500">
+        <div className="bg-gray-900 rounded-xl p-8 text-center text-gray-400">
           Coming soon...
         </div>
       </section>

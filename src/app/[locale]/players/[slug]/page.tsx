@@ -71,15 +71,15 @@ export default async function PlayerDetailPage({
 
         <div className="flex flex-wrap gap-3 text-sm">
           {player.region && (
-            <span className="bg-gray-800 px-3 py-1 rounded">
+            <span className="bg-gray-800 px-3 py-1 rounded text-white">
               {tr(player.region as "APAC_N" | "APAC_S" | "NA" | "EMEA" | "GLOBAL")}
             </span>
           )}
           {player.role && (
-            <span className="bg-gray-800 px-3 py-1 rounded">{player.role}</span>
+            <span className="bg-gray-800 px-3 py-1 rounded text-white">{player.role}</span>
           )}
           {player.nationality && (
-            <span className="bg-gray-800 px-3 py-1 rounded">
+            <span className="bg-gray-800 px-3 py-1 rounded text-white">
               {player.nationality}
             </span>
           )}

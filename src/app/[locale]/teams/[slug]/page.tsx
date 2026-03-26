@@ -97,12 +97,12 @@ export default async function TeamDetailPage({
 
         <div className="flex flex-wrap gap-3 text-sm">
           {team.region && (
-            <span className="bg-gray-800 px-3 py-1 rounded">
+            <span className="bg-gray-800 px-3 py-1 rounded text-white">
               {t("region")}: {tr(team.region as "APAC_N" | "APAC_S" | "NA" | "EMEA" | "GLOBAL")}
             </span>
           )}
           {team.founded_date && (
-            <span className="bg-gray-800 px-3 py-1 rounded">
+            <span className="bg-gray-800 px-3 py-1 rounded text-white">
               {t("founded")}: {team.founded_date}
             </span>
           )}
@@ -167,7 +167,9 @@ export default async function TeamDetailPage({
                     </div>
                   </div>
                   <div className="text-xs text-white">
-                    {member.role && <span>{member.role}</span>}
+                    {member.role && member.role !== "player" && (
+                      <span className="bg-gray-700 px-2 py-0.5 rounded capitalize">{member.role}</span>
+                    )}
                   </div>
                 </Link>
               );
