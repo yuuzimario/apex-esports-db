@@ -82,11 +82,11 @@ export function TeamList({ teams, proTeamIds = [] }: { teams: Team[]; proTeamIds
       {/* プロリーグチーム */}
       {proTeams.length > 0 && (
         <section className="mb-8">
-          <h2 className="text-lg font-bold mb-4 text-white flex items-center gap-2">
-            <span className="w-2 h-2 bg-red-500 rounded-full" />
-            {tt("proLeague")}
+          <div className="flex items-center gap-2 mb-4 bg-gray-900 rounded-lg px-4 py-2 border border-gray-800">
+            <span className="w-2 h-2 bg-red-500 rounded-full shrink-0" />
+            <h2 className="text-lg font-bold text-white">{tt("proLeague")}</h2>
             <span className="text-sm font-normal text-gray-400">({proTeams.length})</span>
-          </h2>
+          </div>
           <TeamGrid teams={proTeams} />
         </section>
       )}
@@ -95,11 +95,11 @@ export function TeamList({ teams, proTeamIds = [] }: { teams: Team[]; proTeamIds
       {otherTeams.length > 0 && (
         <section>
           {proTeams.length > 0 && (
-            <h2 className="text-lg font-bold mb-4 text-white flex items-center gap-2">
-              <span className="w-2 h-2 bg-gray-500 rounded-full" />
-              {tt("otherTeams")}
+            <div className="flex items-center gap-2 mb-4 bg-gray-900 rounded-lg px-4 py-2 border border-gray-800">
+              <span className="w-2 h-2 bg-gray-500 rounded-full shrink-0" />
+              <h2 className="text-lg font-bold text-white">{tt("otherTeams")}</h2>
               <span className="text-sm font-normal text-gray-400">({otherTeams.length})</span>
-            </h2>
+            </div>
           )}
           <TeamGrid teams={otherTeams} />
         </section>
