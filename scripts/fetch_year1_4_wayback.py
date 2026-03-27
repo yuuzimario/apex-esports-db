@@ -16,6 +16,7 @@ import re
 import time
 import argparse
 from datetime import datetime
+from bs4 import BeautifulSoup
 
 CACHE_DIR = "C:/Users/PCUser/Documents/MyApps/Apex-DB/web/scripts/cache"
 os.makedirs(CACHE_DIR, exist_ok=True)
@@ -29,7 +30,7 @@ DB_HEADERS = {
     "Content-Type": "application/json",
 }
 
-client = httpx.Client(timeout=60, follow_redirects=True)
+client = httpx.Client(timeout=120, follow_redirects=True)
 db_client = httpx.Client(timeout=30)
 
 WB_CDX = "https://web.archive.org/cdx/search/cdx"
@@ -358,210 +359,262 @@ def get_wayback_snapshot(lp_path, after_date):
 
     lp_url = f"liquipedia.net/apexlegends/{lp_path}"
 
-    # スナップショット検索
-    params = {
-        "url": lp_url,
-        "output": "json",
-        "limit": "5",
-        "fl": "timestamp,statuscode",
-        "from": after_date,
-    }
-    resp = client.get(WB_CDX, params=params)
-    if resp.status_code != 200:
-        print(f"    CDX エラー: {resp.status_code}")
-        return None
-
-    data = resp.json()
-    if len(data) < 2:
-        # after_dateより前も試す
-        params2 = {
+    try:
+        # スナップショット検索
+        params = {
             "url": lp_url,
             "output": "json",
-            "limit": "3",
+            "limit": "5",
             "fl": "timestamp,statuscode",
+            "from": after_date,
         }
-        resp2 = client.get(WB_CDX, params=params2)
-        if resp2.status_code == 200:
-            data = resp2.json()
-        if len(data) < 2:
-            print(f"    スナップショットなし")
+        resp = client.get(WB_CDX, params=params)
+        if resp.status_code != 200:
+            print(f"    CDX エラー: {resp.status_code}")
             return None
 
-    # 200のスナップショットを探す（ヘッダー行をスキップ）
-    snapshots = [row for row in data[1:] if row[1] == "200"]
-    if not snapshots:
-        print(f"    有効なスナップショットなし")
+        data = resp.json()
+        if len(data) < 2:
+            # after_dateより前も試す
+            params2 = {
+                "url": lp_url,
+                "output": "json",
+                "limit": "3",
+                "fl": "timestamp,statuscode",
+            }
+            resp2 = client.get(WB_CDX, params=params2)
+            if resp2.status_code == 200:
+                data = resp2.json()
+            if len(data) < 2:
+                print(f"    スナップショットなし")
+                return None
+
+        # 200のスナップショットを探す（ヘッダー行をスキップ）
+        snapshots = [row for row in data[1:] if row[1] == "200"]
+        if not snapshots:
+            print(f"    有効なスナップショットなし")
+            return None
+
+        # 最新のスナップショットを使用
+        ts = snapshots[-1][0]
+        wb_url = f"https://web.archive.org/web/{ts}id_/https://liquipedia.net/apexlegends/{lp_path}"
+        print(f"    Wayback: {ts}")
+
+        time.sleep(3)  # レート制限対策
+
+        resp3 = client.get(wb_url)
+        if resp3.status_code != 200:
+            print(f"    HTML取得エラー: {resp3.status_code}")
+            return None
+
+        html = resp3.text
+        with open(cache_file, "w", encoding="utf-8") as f:
+            f.write(html)
+
+        return html
+    except (httpx.ReadTimeout, httpx.ConnectTimeout, httpx.TimeoutException) as e:
+        print(f"    タイムアウト: {e}")
         return None
 
-    # 最新のスナップショットを使用
-    ts = snapshots[-1][0]
-    wb_url = f"https://web.archive.org/web/{ts}id_/https://liquipedia.net/apexlegends/{lp_path}"
-    print(f"    Wayback: {ts}")
 
-    time.sleep(2)  # レート制限対策
+def parse_standings_from_html(html, event_type="championship"):
+    """HTMLから大会最終結果（順位・チーム名・ポイント）を抽出（全面BeautifulSoup）"""
+    soup = BeautifulSoup(html, "html.parser")
 
-    resp3 = client.get(wb_url)
-    if resp3.status_code != 200:
-        print(f"    HTML取得エラー: {resp3.status_code}")
-        return None
+    # 戦略1: "Finals" セクション内の table-battleroyale-results（LAN大会用）
+    finals_heading = soup.find("span", id="Finals")
+    if finals_heading:
+        # Finalsセクション内のテーブルを探す
+        section_tables = _get_section_tables(finals_heading)
+        # battleroyale-results テーブルを優先
+        for table in section_tables:
+            cls = " ".join(table.get("class", []))
+            if "table-battleroyale-results" in cls:
+                results = parse_table_bs(table)
+                if results and 10 <= len(results) <= 40:
+                    return results
+        # 通常テーブルでも試す
+        best = _find_best_table(section_tables, max_teams=40)
+        if best and 10 <= len(best) <= 40:
+            return best
 
-    html = resp3.text
-    with open(cache_file, "w", encoding="utf-8") as f:
-        f.write(html)
+    # 戦略2: "Overall_Standings" / "Overall_standings" セクション
+    for section_id in ["Overall_Standings", "Overall_standings"]:
+        heading = soup.find("span", id=section_id)
+        if heading:
+            section_tables = _get_section_tables(heading)
+            best = _find_best_table(section_tables, max_teams=40)
+            if best and len(best) >= 10:
+                return best
 
-    return html
-
-
-def parse_standings_from_html(html):
-    """HTMLから大会最終結果（順位・チーム名・ポイント）を抽出"""
-    results = []
-
-    # 戦略1: "Finals" セクション内のStandingsテーブルを探す（LAN大会用）
-    finals_section = extract_section(html, "Finals")
-    if finals_section:
-        table_results = find_best_standings_table(finals_section)
-        if table_results and 10 <= len(table_results) <= 40:
-            return table_results
-
-    # 戦略2: "Overall Standings" セクション
-    overall_section = extract_section(html, "Overall_Standings")
-    if overall_section:
-        table_results = find_best_standings_table(overall_section)
-        if table_results:
-            return table_results
-
-    # 戦略3: ページ全体から「Standings」を含む最適なテーブルを探す
-    # Pro League等はセクション分けが異なる場合がある
-    # 20〜40チームのStandingsテーブルを優先
-    tables = re.findall(r'<table[^>]*>(.*?)</table>', html, re.DOTALL)
-
-    candidates = []
-    for table in tables:
-        team_refs = re.findall(r'data-highlightingclass="([^"]+)"', table)
-        unique_teams = len(set(team_refs))
-        rows = re.findall(r'<tr[^>]*>(.*?)</tr>', table, re.DOTALL)
-
-        if unique_teams < 5:
+    # 戦略3: "League Standings" を含むテーブル
+    for table in soup.find_all("table"):
+        text = table.get_text()
+        if "League Standings" not in text:
             continue
+        teams = _count_teams(table)
+        if 10 <= teams <= 40:
+            results = parse_table_bs(table)
+            # 複数日の結果が含まれる場合、チーム名で重複排除（最高ポイント保持）
+            results = _deduplicate_results(results)
+            if results and 10 <= len(results) <= 40:
+                return results
 
-        has_standings = "Standings" in table
-        has_total = "Total" in table
+    # 戦略4: "Results" セクション
+    results_heading = soup.find("span", id="Results")
+    if results_heading:
+        section_tables = _get_section_tables(results_heading)
+        best = _find_best_table(section_tables, max_teams=40)
+        if best and len(best) >= 10:
+            return best
 
-        # スコアリング: Pro League最終順位は通常20〜40チーム
-        score = 0
-        if has_standings:
-            score += 30
-        if has_total:
+    # 戦略5: ページ全体で最適なテーブル（10-40チーム、グループ除外）
+    best_result = None
+    best_count = 0
+    for table in soup.find_all("table"):
+        teams = _count_teams(table)
+        if not (10 <= teams <= 40) or teams <= best_count:
+            continue
+        # 親テーブルをスキップ（子テーブルのチーム数を拾わない）
+        if table.find("table", attrs={"data-highlightingclass": True}):
+            continue
+        results = _deduplicate_results(parse_table_bs(table))
+        if results and 10 <= len(results) <= 40 and len(results) > best_count:
+            best_result = results
+            best_count = len(results)
+
+    if best_result:
+        return best_result
+
+    return []
+
+
+def _get_section_tables(heading_span):
+    """spanタグから次のセクションまでのテーブルを収集"""
+    tables = []
+    # headingの親（h2/h3/h4）を取得
+    parent = heading_span.parent
+    if not parent:
+        return tables
+    # 次の兄弟要素を走査
+    for sibling in parent.next_siblings:
+        if hasattr(sibling, "name") and sibling.name in ("h2", "h3", "h4"):
+            break  # 次のセクション
+        if hasattr(sibling, "find_all"):
+            for table in sibling.find_all("table"):
+                tables.append(table)
+            if sibling.name == "table":
+                tables.append(sibling)
+    return tables
+
+
+def _count_teams(table):
+    """テーブル内のユニークチーム数"""
+    return len(set(
+        el["data-highlightingclass"]
+        for el in table.find_all(attrs={"data-highlightingclass": True})
+    ))
+
+
+def _deduplicate_results(results):
+    """同一チームの重複を排除（最高ポイントを保持、元の順位はそのまま維持）"""
+    if not results:
+        return results
+    seen = {}
+    for r in results:
+        name = r["team_name"]
+        if name not in seen:
+            seen[name] = r
+        else:
+            # 最高ポイントを保持（順位は最初に出現した方を維持）
+            old_pts = seen[name].get("total_points") or 0
+            new_pts = r.get("total_points") or 0
+            if new_pts > old_pts:
+                # ポイントだけ更新、順位は元のまま
+                seen[name]["total_points"] = new_pts
+    # 元の順位順に並べて返す
+    return sorted(seen.values(), key=lambda x: x["placement"])
+
+
+def _find_best_table(tables, max_teams=40):
+    """テーブルリストから最適な結果を返す"""
+    best = None
+    best_score = 0
+    for table in tables:
+        teams = _count_teams(table)
+        if not (5 <= teams <= max_teams):
+            continue
+        text = table.get_text()
+        score = teams
+        if "Standings" in text or "Total" in text:
             score += 20
-        # 20チーム前後が最終順位表の可能性が高い
-        if 15 <= unique_teams <= 40:
-            score += 25
-        elif 10 <= unique_teams <= 50:
-            score += 10
-        # チーム数が多すぎる場合はペナルティ（グループ分けの可能性）
-        if unique_teams > 50:
-            score -= 20
+        if score > best_score:
+            results = parse_table_bs(table)
+            if results and len(results) <= max_teams:
+                best = results
+                best_score = score
+    return best
 
-        candidates.append((score, unique_teams, table))
 
-    candidates.sort(key=lambda x: (-x[0], -x[1]))
-
-    for score, unique_teams, table in candidates[:3]:
-        table_results = parse_table_rows(table)
-        if table_results and len(table_results) >= 10:
-            return table_results
-
+def parse_table_bs(table):
+    """BeautifulSoupテーブルから順位・チーム名・ポイントを抽出"""
+    results = []
+    for row in table.find_all("tr", recursive=False):
+        _parse_row_bs(row, results)
+    # recursive=Falseで取れない場合（tbodyがある場合）
+    if not results:
+        for tbody in table.find_all("tbody"):
+            for row in tbody.find_all("tr", recursive=False):
+                _parse_row_bs(row, results)
+    # それでも取れない場合は全行
+    if not results:
+        for row in table.find_all("tr"):
+            _parse_row_bs(row, results)
     return results
 
 
-def extract_section(html, section_id):
-    """HTMLからセクションを抽出（h2/h3のspan id で区切る）"""
-    pattern = rf'<span[^>]*id="{section_id}"'
-    start_match = re.search(pattern, html)
-    if not start_match:
-        return None
+def _parse_row_bs(row, results):
+    """1行をパースして結果リストに追加"""
+    cells = row.find_all(["td", "th"])
+    if len(cells) < 2:
+        return
 
-    # 次のh2/h3セクションまで
-    rest = html[start_match.start():]
-    next_section = re.search(r'<h[23][^>]*><span[^>]*id="(?!.*(edit))', rest[100:])
-    if next_section:
-        return rest[:100 + next_section.start()]
-    return rest[:50000]  # セクション見つからなければ50KB分
+    # 順位
+    first_text = cells[0].get_text(strip=True).rstrip(".")
+    if not first_text or not first_text.replace("-", "").isdigit():
+        return
+    placement = int(first_text.split("-")[0])
+
+    # チーム名（data-highlightingclass優先）
+    team_name = None
+    for cell in cells[1:3]:
+        hl = cell.find(attrs={"data-highlightingclass": True})
+        if hl:
+            team_name = hl["data-highlightingclass"]
+            break
+        link = cell.find("a", title=True)
+        if link and not link["title"].startswith("File:"):
+            team_name = link["title"]
+            break
+
+    if not team_name:
+        return
+
+    # ポイント（3列目以降で数値）
+    total_points = None
+    for cell in cells[2:4]:
+        cell_text = cell.get_text(strip=True)
+        if cell_text.isdigit() and int(cell_text) > 0:
+            total_points = int(cell_text)
+            break
+
+    results.append({
+        "placement": placement,
+        "team_name": team_name,
+        "total_points": total_points,
+    })
 
 
-def find_best_standings_table(section_html):
-    """セクション内から最適なStandingsテーブルを探す"""
-    tables = re.findall(r'<table[^>]*>(.*?)</table>', section_html, re.DOTALL)
-
-    best_results = []
-    best_score = 0
-
-    for table in tables:
-        team_refs = re.findall(r'data-highlightingclass="([^"]+)"', table)
-        unique_teams = len(set(team_refs))
-
-        if unique_teams < 5:
-            continue
-
-        has_standings = "Standings" in table
-        score = unique_teams + (20 if has_standings else 0)
-
-        if score > best_score:
-            parsed = parse_table_rows(table)
-            if parsed:
-                best_results = parsed
-                best_score = score
-
-    return best_results
-
-
-def parse_table_rows(table_html):
-    """テーブルの行から順位・チーム名・ポイントを抽出"""
-    results = []
-    rows = re.findall(r'<tr[^>]*>(.*?)</tr>', table_html, re.DOTALL)
-
-    for row in rows:
-        cells = re.findall(r'<t[dh][^>]*>(.*?)</t[dh]>', row, re.DOTALL)
-        if len(cells) < 2:
-            continue
-
-        # 順位を探す
-        first_cell = re.sub(r'<[^>]+>', '', cells[0]).strip().rstrip('.')
-        if not first_cell or not first_cell.replace('-', '').isdigit():
-            continue
-
-        placement = int(first_cell.split('-')[0])
-
-        # チーム名
-        team_name = None
-        for cell in cells[1:3]:
-            hl_match = re.search(r'data-highlightingclass="([^"]+)"', cell)
-            if hl_match:
-                team_name = hl_match.group(1)
-                break
-            link_match = re.search(r'<a[^>]*title="([^"]+)"[^>]*>', cell)
-            if link_match:
-                candidate = link_match.group(1)
-                if candidate and not candidate.startswith('File:'):
-                    team_name = candidate
-                    break
-
-        if not team_name:
-            continue
-
-        # ポイント（"Total"列 = 通常3列目）
-        total_points = None
-        for cell in cells[2:4]:
-            cell_text = re.sub(r'<[^>]+>', '', cell).strip()
-            if cell_text.isdigit() and int(cell_text) > 0:
-                total_points = int(cell_text)
-                break
-
-        results.append({
-            "placement": placement,
-            "team_name": team_name,
-            "total_points": total_points,
-        })
 
     return results
 
@@ -650,6 +703,26 @@ def match_team(team_name, teams_by_norm):
     return None
 
 
+def auto_create_team(team_name, region="GLOBAL"):
+    """未マッチチームをDBに自動追加"""
+    slug = make_slug(team_name)
+    # スラグ重複チェック（末尾に数字を追加）
+    existing = supabase_get("teams", {"select": "id", "slug": f"eq.{slug}"})
+    if existing:
+        slug = f"{slug}-{len(existing) + 1}"
+
+    team_data = {
+        "name": team_name,
+        "slug": slug,
+        "region": region if region != "GLOBAL" else None,
+        "is_active": False,  # 歴史的チーム
+    }
+    created = supabase_insert("teams", [team_data])
+    if created:
+        return created[0]
+    return None
+
+
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("--dry-run", action="store_true")
@@ -682,7 +755,7 @@ def main():
     print(f"  チーム: {len(existing_teams)} / 大会: {len(existing_tournaments)}")
 
     # 大会ごとに処理
-    stats = {"created": 0, "skipped": 0, "results": 0, "matched": 0, "unmatched": 0}
+    stats = {"created": 0, "skipped": 0, "results": 0, "matched": 0, "unmatched": 0, "teams_created": 0}
     unmatched_teams = {}
 
     for tdef in TOURNAMENTS:
@@ -758,22 +831,32 @@ def main():
         tournament_slugs.add(slug)
         stats["created"] += 1
 
-        # 結果DB登録
+        # 結果DB登録（未マッチチームは自動追加）
         to_insert = []
         for r in results:
             team = match_team(r["team_name"], teams_by_norm)
-            if team:
-                stats["matched"] += 1
-                to_insert.append({
-                    "tournament_id": tournament_id,
-                    "team_id": team["id"],
-                    "placement": r["placement"],
-                    "prize_usd": r.get("prize_usd"),
-                    "total_points": r.get("total_points"),
-                })
-            else:
-                stats["unmatched"] += 1
-                unmatched_teams[r["team_name"]] = unmatched_teams.get(r["team_name"], 0) + 1
+            if not team:
+                # 未マッチ→DBに新規チーム追加
+                new_team = auto_create_team(r["team_name"], tdef.get("region", "GLOBAL"))
+                if new_team:
+                    team = new_team
+                    # マッチング辞書に追加（以降の大会でもマッチするように）
+                    teams_by_norm[normalize_name(new_team["name"])] = new_team
+                    stats["teams_created"] += 1
+                    print(f"    新規チーム追加: {new_team['name']}")
+                else:
+                    stats["unmatched"] += 1
+                    unmatched_teams[r["team_name"]] = unmatched_teams.get(r["team_name"], 0) + 1
+                    continue
+
+            stats["matched"] += 1
+            to_insert.append({
+                "tournament_id": tournament_id,
+                "team_id": team["id"],
+                "placement": r["placement"],
+                "prize_usd": r.get("prize_usd"),
+                "total_points": r.get("total_points"),
+            })
 
         if to_insert:
             inserted = supabase_insert("tournament_results", to_insert)
@@ -789,6 +872,7 @@ def main():
     print(f"  大会スキップ: {stats['skipped']}")
     print(f"  結果登録: {stats['results']}件")
     print(f"  チームマッチ: {stats['matched']}")
+    print(f"  チーム新規追加: {stats['teams_created']}")
     print(f"  チーム未マッチ: {stats['unmatched']}")
 
     if unmatched_teams:
