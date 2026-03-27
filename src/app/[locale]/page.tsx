@@ -3,17 +3,32 @@ import { Link } from "@/i18n/navigation";
 import { supabase } from "@/lib/supabase";
 
 async function getHomeData() {
-  // 最新の大会結果（上位3大会）
-  const { data: recentTournaments } = await supabase
+  // 最新の大会結果（結果データがある大会のみ、上位3大会）
+  // まず結果がある大会IDを取得
+  const { data: resultTournamentIds } = await supabase
+    .from("tournament_results")
+    .select("tournament_id")
+    .limit(2000);
+  const hasResultsSet = new Set(
+    resultTournamentIds?.map((r) => r.tournament_id) || []
+  );
+
+  const { data: allCompleted } = await supabase
     .from("tournaments")
     .select("id, slug, name, series, event_type, region, start_date, end_date, prize_pool_usd, is_lan, location, status")
     .eq("status", "completed")
+    .neq("series", "DEPRECATED")
     .order("end_date", { ascending: false })
-    .limit(3);
+    .limit(20);
+
+  // 結果がある大会だけフィルタして上位3件
+  const recentTournaments = (allCompleted || [])
+    .filter((t) => hasResultsSet.has(t.id))
+    .slice(0, 3);
 
   // 各大会のTOP3チーム
   const tournamentsWithResults = [];
-  for (const t of recentTournaments || []) {
+  for (const t of recentTournaments) {
     const { data: results } = await supabase
       .from("tournament_results")
       .select("placement, total_points, teams(name, slug, logo_url)")
