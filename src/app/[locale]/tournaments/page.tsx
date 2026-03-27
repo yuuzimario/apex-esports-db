@@ -14,6 +14,7 @@ export default async function TournamentsPage() {
   const { data: tournaments } = await supabase
     .from("tournaments")
     .select("id, slug, name, name_ja, series, event_type, region, start_date, end_date, prize_pool_usd, is_lan, location, status")
+    .neq("series", "DEPRECATED")
     .order("start_date", { ascending: false });
 
   // 各大会の結果件数を取得（結果があるかどうかの判定用）
