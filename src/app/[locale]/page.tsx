@@ -148,8 +148,8 @@ function HomeContent({
       <section className="max-w-4xl mx-auto px-4 -mt-8 relative z-10">
         <div className="grid grid-cols-3 gap-4">
           {[
-            { label: tc("teams"), value: stats.teams, href: "/teams" },
             { label: tc("players"), value: stats.players, href: "/players" },
+            { label: tc("teams"), value: stats.teams, href: "/teams" },
             { label: tc("tournaments"), value: stats.tournaments, href: "/tournaments" },
           ].map((s) => (
             <Link
