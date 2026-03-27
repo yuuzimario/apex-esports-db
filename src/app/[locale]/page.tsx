@@ -21,9 +21,24 @@ async function getHomeData() {
     .order("end_date", { ascending: false })
     .limit(20);
 
-  // 結果がある大会だけフィルタして上位3件
+  // 結果がある大会だけフィルタし、GLOBAL→APAC_N優先でソート
+  const regionPriority: Record<string, number> = {
+    GLOBAL: 0,
+    APAC_N: 1,
+    APAC_S: 2,
+    NA: 3,
+    EMEA: 4,
+  };
   const recentTournaments = (allCompleted || [])
     .filter((t) => hasResultsSet.has(t.id))
+    .sort((a, b) => {
+      // まず日付降順（同じ期間の大会をグループ化）
+      const dateA = a.end_date || "";
+      const dateB = b.end_date || "";
+      if (dateA !== dateB) return dateB.localeCompare(dateA);
+      // 同日ならリージョン優先度
+      return (regionPriority[a.region] ?? 5) - (regionPriority[b.region] ?? 5);
+    })
     .slice(0, 3);
 
   // 各大会のTOP3チーム
