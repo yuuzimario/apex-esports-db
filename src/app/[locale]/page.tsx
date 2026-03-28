@@ -3,15 +3,21 @@ import { Link } from "@/i18n/navigation";
 import { supabase } from "@/lib/supabase";
 
 async function getHomeData() {
-  // 最新の大会結果（結果データがある大会のみ、上位3大会）
-  // まず結果がある大会IDを取得
-  const { data: resultTournamentIds } = await supabase
-    .from("tournament_results")
-    .select("tournament_id")
-    .limit(2000);
-  const hasResultsSet = new Set(
-    resultTournamentIds?.map((r) => r.tournament_id) || []
-  );
+  // 最新の大会結果（結果データがある大会のみ）
+  // 結果がある大会IDをページネーションで全件取得（Supabase上限1000件対策）
+  const allResultIds: string[] = [];
+  let offset = 0;
+  while (true) {
+    const { data: batch } = await supabase
+      .from("tournament_results")
+      .select("tournament_id")
+      .range(offset, offset + 999);
+    if (!batch || batch.length === 0) break;
+    allResultIds.push(...batch.map((r) => r.tournament_id));
+    if (batch.length < 1000) break;
+    offset += 1000;
+  }
+  const hasResultsSet = new Set(allResultIds);
 
   const { data: allCompleted } = await supabase
     .from("tournaments")

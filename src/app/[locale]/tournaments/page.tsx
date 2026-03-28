@@ -17,15 +17,21 @@ export default async function TournamentsPage() {
     .neq("series", "DEPRECATED")
     .order("start_date", { ascending: false });
 
-  // 各大会の結果件数を取得（結果があるかどうかの判定用）
-  const { data: resultCounts } = await supabase
-    .from("tournament_results")
-    .select("tournament_id")
-    .limit(1000);
+  // 各大会の結果件数を取得（Supabase上限1000件対策でページネーション）
+  const allResultIds: string[] = [];
+  let offset = 0;
+  while (true) {
+    const { data: batch } = await supabase
+      .from("tournament_results")
+      .select("tournament_id")
+      .range(offset, offset + 999);
+    if (!batch || batch.length === 0) break;
+    allResultIds.push(...batch.map((r) => r.tournament_id));
+    if (batch.length < 1000) break;
+    offset += 1000;
+  }
 
-  const tournamentsWithResults = new Set(
-    resultCounts?.map((r) => r.tournament_id) || []
-  );
+  const tournamentsWithResults = new Set(allResultIds);
 
   // series一覧（Year順ソート）
   const allSeries = [
