@@ -56,12 +56,21 @@ EVENT_TYPE_MAP = {
     "ALGS Open": "open_qualifier",
     "Split 1 - Pro League": "pro_league",
     "Split 2 - Pro League": "pro_league",
+    "Pro League Regular Season - Split 1": "pro_league",
+    "Pro League Regular Season - Split 2": "pro_league",
     "Split 1 - Challenger Circuit": "challenger_circuit",
     "Split 2 - Challenger Circuit": "challenger_circuit",
+    "Challenger Circuit - Split 1": "challenger_circuit",
+    "Challenger Circuit - Split 2": "challenger_circuit",
     "Split 2 - PL Qualifiers": "open_qualifier",
+    "Pro League Split 2 Qualifiers": "open_qualifier",
+    "Pro League Playoffs - Split 1": "playoffs",
+    "Pro League Playoffs - Split 2": "playoffs",
     "Midseason Playoffs": "playoffs",
     "Last Chance Qualifier": "open_qualifier",
     "Year 5 Championship": "championship",
+    "Championship Group Stage": "championship",
+    "BLGS Circuit": "community",
 }
 
 
@@ -251,7 +260,7 @@ def process_leaderboard_event(season_slug, event_type_name, event_name, lb_id, y
 def main():
     parser = argparse.ArgumentParser(description="Battlefy大会結果取得")
     parser.add_argument("--dry-run", action="store_true")
-    parser.add_argument("--season", type=int, choices=[5, 6], help="特定のシーズンのみ")
+    parser.add_argument("--season", type=int, choices=[4, 5, 6], help="特定のシーズンのみ")
     args = parser.parse_args()
 
     print("=" * 60)
@@ -284,7 +293,7 @@ def main():
     if args.season:
         seasons_to_process = [args.season]
     else:
-        seasons_to_process = [5, 6]
+        seasons_to_process = [4, 5, 6]
 
     total_stats = {"created": 0, "results": 0, "matched": 0, "unmatched": 0}
 

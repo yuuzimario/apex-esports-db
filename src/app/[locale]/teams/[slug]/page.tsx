@@ -64,12 +64,19 @@ export default async function TeamDetailPage({
     .not("left_at", "is", null)
     .order("left_at", { ascending: false });
 
-  // 大会成績
-  const { data: results } = await supabase
+  // 大会成績（時系列降順 → 順位順でフォールバック）
+  const { data: rawResults } = await supabase
     .from("tournament_results")
     .select("*, tournaments(name, slug, start_date)")
-    .eq("team_id", team.id)
-    .order("placement");
+    .eq("team_id", team.id);
+
+  // start_date降順でソート（新しい大会が上）
+  const results = rawResults?.sort((a, b) => {
+    const dateA = (a.tournaments as { start_date?: string })?.start_date || "";
+    const dateB = (b.tournaments as { start_date?: string })?.start_date || "";
+    if (dateB !== dateA) return dateB.localeCompare(dateA);
+    return (a.placement || 999) - (b.placement || 999);
+  }) || null;
 
   return (
     <div className="max-w-4xl mx-auto px-4 py-8">
