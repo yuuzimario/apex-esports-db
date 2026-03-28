@@ -16,6 +16,7 @@ export function Header() {
     { href: "/players" as const, label: t("players") },
     { href: "/teams" as const, label: t("teams") },
     { href: "/tournaments" as const, label: t("tournaments") },
+    { href: "/schedule" as const, label: t("schedule") },
   ];
 
   function switchLocale() {

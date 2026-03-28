@@ -6,6 +6,7 @@
     "players": "Players",
     "teams": "Teams",
     "tournaments": "Tournaments",
+    "schedule": "Schedule",
     "news": "News",
     "about": "About",
     "search": "Search",
@@ -44,6 +45,10 @@
     "founded": "Founded",
     "proLeague": "ALGS Pro League",
     "otherTeams": "Other Teams"
+  },
+  "schedule": {
+    "title": "Schedule",
+    "noUpcoming": "No upcoming tournaments registered yet"
   },
   "tournaments": {
     "title": "Tournaments",

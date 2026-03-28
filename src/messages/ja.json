@@ -6,6 +6,7 @@
     "players": "選手",
     "teams": "チーム",
     "tournaments": "大会",
+    "schedule": "スケジュール",
     "news": "ニュース",
     "about": "このサイトについて",
     "search": "検索",
@@ -44,6 +45,10 @@
     "founded": "設立",
     "proLeague": "ALGS Pro League",
     "otherTeams": "その他のチーム"
+  },
+  "schedule": {
+    "title": "スケジュール",
+    "noUpcoming": "今後の大会はまだ登録されていません"
   },
   "tournaments": {
     "title": "大会一覧",

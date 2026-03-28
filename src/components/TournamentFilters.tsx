@@ -84,39 +84,7 @@ export default function TournamentFilters({
         ))}
       </div>
 
-      {/* Upcoming & Ongoing セクション（全シリーズ共通で上部に表示） */}
-      {(() => {
-        const allTournaments = Object.values(grouped).flat().filter(Boolean) as Tournament[];
-        const upcomingAll = allTournaments
-          .filter((t) => t.status === "upcoming" || t.status === "ongoing")
-          .sort((a, b) => (a.start_date || "").localeCompare(b.start_date || ""));
-        if (upcomingAll.length === 0) return null;
-        return (
-          <section className="mb-10">
-            <h2 className="text-xl font-bold mb-4 flex items-center gap-3">
-              <span className="text-blue-400">{t("upcoming")}</span>
-              <span className="text-xs text-gray-500 font-normal">
-                {upcomingAll.length} events
-              </span>
-            </h2>
-            <div className="space-y-3">
-              {upcomingAll.map((tour) => (
-                <TournamentRow
-                  key={tour.id}
-                  tournament={tour}
-                  statusColors={statusColors}
-                  eventTypeLabels={eventTypeLabels}
-                  hasResults={resultsSet.has(tour.id)}
-                  t={t}
-                  tr={tr}
-                />
-              ))}
-            </div>
-          </section>
-        );
-      })()}
-
-      {/* グループ別表示（completedのみ） */}
+      {/* グループ別表示（completedのみ。upcoming/ongoingはスケジュールページに分離） */}
       <div className="space-y-10">
         {visibleGroups.map(([series, tournaments]) => {
           if (!tournaments || tournaments.length === 0) return null;
