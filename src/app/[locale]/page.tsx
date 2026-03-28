@@ -21,7 +21,7 @@ async function getHomeData() {
     .order("end_date", { ascending: false })
     .limit(20);
 
-  // 結果がある大会だけフィルタし、GLOBAL→APAC_N優先でソート
+  // 結果がある大会だけフィルタし、イベントタイプごとに最新1つ（APAC_N/GLOBAL優先）
   const regionPriority: Record<string, number> = {
     GLOBAL: 0,
     APAC_N: 1,
@@ -29,17 +29,25 @@ async function getHomeData() {
     NA: 3,
     EMEA: 4,
   };
-  const recentTournaments = (allCompleted || [])
+  const withResults = (allCompleted || [])
     .filter((t) => hasResultsSet.has(t.id))
     .sort((a, b) => {
-      // まず日付降順（同じ期間の大会をグループ化）
       const dateA = a.end_date || "";
       const dateB = b.end_date || "";
       if (dateA !== dateB) return dateB.localeCompare(dateA);
-      // 同日ならリージョン優先度
       return (regionPriority[a.region] ?? 5) - (regionPriority[b.region] ?? 5);
-    })
-    .slice(0, 3);
+    });
+
+  // イベントタイプ（series + event_type）ごとに最新1大会を選出
+  const seenTypes = new Set<string>();
+  const recentTournaments: typeof withResults = [];
+  for (const t of withResults) {
+    const key = `${t.series}__${t.event_type}`;
+    if (seenTypes.has(key)) continue;
+    seenTypes.add(key);
+    recentTournaments.push(t);
+    if (recentTournaments.length >= 3) break;
+  }
 
   // 各大会のTOP3チーム
   const tournamentsWithResults = [];
