@@ -56,7 +56,7 @@ export default async function TournamentsPage() {
     <div className="max-w-6xl mx-auto px-4 py-8">
       <h1 className="text-3xl font-bold mb-2">{t("title")}</h1>
       <p className="text-gray-400 text-sm mb-6">
-        {tournaments?.length || 0} tournaments across ALGS Year 2-6
+        {tournaments?.length || 0} tournaments across ALGS Year 1-6
       </p>
 
       <TournamentFilters
