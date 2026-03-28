@@ -98,10 +98,52 @@ export default async function TournamentDetailPage({
         </div>
       </div>
 
-      {/* 順位表 */}
+      {/* 週ごとの優勝チーム（ステージがある場合） */}
+      {stages && stages.length > 0 && (() => {
+        const stageResults = results?.filter((r) => r.stage_id) || [];
+        const stageMap = new Map(stages.map((s: { id: string; name: string; stage_order: number }) => [s.id, s]));
+        const grouped = new Map<string, typeof stageResults>();
+        for (const r of stageResults) {
+          const stage = stageMap.get(r.stage_id);
+          if (!stage) continue;
+          const key = stage.id;
+          if (!grouped.has(key)) grouped.set(key, []);
+          grouped.get(key)!.push(r);
+        }
+        if (grouped.size === 0) return null;
+        return (
+          <section className="mb-6">
+            <h2 className="text-xl font-bold mb-4">Weekly Winners</h2>
+            <div className="grid grid-cols-1 sm:grid-cols-2 gap-3">
+              {stages.map((stage: { id: string; name: string; stage_order: number }) => {
+                const stageRes = grouped.get(stage.id) || [];
+                const winner = stageRes.find((r) => r.placement === 1);
+                const team = winner?.teams as { name: string; slug: string } | null;
+                return (
+                  <div key={stage.id} className="bg-gray-900 rounded-lg border border-gray-800 p-4">
+                    <p className="text-xs text-gray-400 mb-1">{stage.name}</p>
+                    {team ? (
+                      <Link href={`/teams/${team.slug}`} className="text-white hover:text-red-400 font-bold flex items-center gap-2">
+                        <span className="text-yellow-400">🏆</span>
+                        {team.name}
+                      </Link>
+                    ) : (
+                      <p className="text-gray-500 text-sm">TBD</p>
+                    )}
+                  </div>
+                );
+              })}
+            </div>
+          </section>
+        );
+      })()}
+
+      {/* 順位表（累計） */}
       <section className="mb-6">
         <h2 className="text-xl font-bold mb-4">{t("standings")}</h2>
-        {results && results.length > 0 ? (
+        {(() => {
+          const overallResults = results?.filter((r) => !r.stage_id) || [];
+          return overallResults.length > 0 ? (
           <div className="bg-gray-900 rounded-xl border border-gray-800 overflow-hidden">
             <table className="w-full text-sm">
               <thead>
@@ -115,7 +157,7 @@ export default async function TournamentDetailPage({
                 </tr>
               </thead>
               <tbody>
-                {results.map((result) => {
+                {overallResults.map((result) => {
                   const team = result.teams as { name: string; slug: string; short_name?: string } | null;
                   return (
                     <tr
@@ -165,11 +207,12 @@ export default async function TournamentDetailPage({
               </tbody>
             </table>
           </div>
-        ) : (
+          ) : (
           <div className="bg-gray-900 rounded-lg p-6 text-center text-gray-400 text-sm">
             データなし
           </div>
-        )}
+          );
+        })()}
       </section>
     </div>
   );
