@@ -14,7 +14,7 @@ export default async function SchedulePage() {
 
   const { data: tournaments } = await supabase
     .from("tournaments")
-    .select("id, slug, name, series, event_type, region, start_date, end_date, prize_pool_usd, is_lan, location, status")
+    .select("id, slug, name, name_ja, series, event_type, region, start_date, end_date, prize_pool_usd, is_lan, location, status")
     .in("status", ["upcoming", "ongoing"])
     .neq("series", "DEPRECATED")
     .order("start_date", { ascending: true });
@@ -66,14 +66,20 @@ export default async function SchedulePage() {
                       )}
                     </div>
 
-                    {/* 日付 */}
-                    <div className="shrink-0 w-20 text-center">
+                    {/* 日付+時刻 */}
+                    <div className="shrink-0 w-24 text-center">
                       <div className="text-white font-bold text-sm">
                         {tour.start_date?.slice(5) || "TBD"}
                       </div>
-                      <div className="text-[10px] text-gray-500">
-                        {tour.status === "ongoing" ? tt("ongoing") : tt("upcoming")}
-                      </div>
+                      {tour.name_ja ? (
+                        <div className="text-[11px] text-blue-400 font-medium">
+                          {tour.name_ja}
+                        </div>
+                      ) : (
+                        <div className="text-[10px] text-gray-500">
+                          {tour.status === "ongoing" ? tt("ongoing") : tt("upcoming")}
+                        </div>
+                      )}
                     </div>
 
                     {/* 大会情報 */}
