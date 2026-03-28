@@ -24,7 +24,6 @@ async function getHomeData() {
     .select("id, slug, name, series, event_type, region, start_date, end_date, prize_pool_usd, is_lan, location, status")
     .eq("status", "completed")
     .neq("series", "DEPRECATED")
-    .neq("series", "Scrims")
     .order("end_date", { ascending: false })
     .limit(20);
 
