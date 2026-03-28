@@ -36,15 +36,20 @@ export function Header() {
 
         {/* デスクトップナビ */}
         <nav className="hidden md:flex items-center gap-6">
-          {navItems.map((item) => (
-            <Link
-              key={item.href}
-              href={item.href}
-              className="text-gray-300 hover:text-white transition-colors text-sm font-medium"
-            >
-              {item.label}
-            </Link>
-          ))}
+          {navItems.map((item) => {
+            const isActive = pathname === item.href || pathname.startsWith(item.href + "/");
+            return (
+              <Link
+                key={item.href}
+                href={item.href}
+                className={`transition-colors text-sm font-medium ${
+                  isActive ? "text-red-400" : "text-gray-300 hover:text-white"
+                }`}
+              >
+                {item.label}
+              </Link>
+            );
+          })}
           <button
             onClick={switchLocale}
             className="text-gray-400 hover:text-white text-sm border border-gray-700 rounded px-2 py-1 transition-colors"
@@ -86,16 +91,21 @@ export function Header() {
       {/* モバイルメニュー */}
       {menuOpen && (
         <nav className="md:hidden bg-gray-900 border-t border-gray-800 px-4 py-3 space-y-3">
-          {navItems.map((item) => (
-            <Link
-              key={item.href}
-              href={item.href}
-              className="block text-gray-300 hover:text-white text-sm font-medium"
-              onClick={() => setMenuOpen(false)}
-            >
-              {item.label}
-            </Link>
-          ))}
+          {navItems.map((item) => {
+            const isActive = pathname === item.href || pathname.startsWith(item.href + "/");
+            return (
+              <Link
+                key={item.href}
+                href={item.href}
+                className={`block text-sm font-medium ${
+                  isActive ? "text-red-400" : "text-gray-300 hover:text-white"
+                }`}
+                onClick={() => setMenuOpen(false)}
+              >
+                {item.label}
+              </Link>
+            );
+          })}
           <button
             onClick={() => {
               switchLocale();
