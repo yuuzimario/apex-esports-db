@@ -12,7 +12,7 @@ export default async function PlayersPage() {
 
   const { data: players } = await supabase
     .from("players")
-    .select("id, slug, ign, real_name_ja, region, role")
+    .select("id, slug, ign, real_name_ja, region, role, profile_image_url")
     .eq("is_active", true)
     .order("ign");
 

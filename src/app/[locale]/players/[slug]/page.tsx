@@ -55,9 +55,17 @@ export default async function PlayerDetailPage({
       {/* プロフィールヘッダー */}
       <div className="bg-gray-900 rounded-xl p-6 mb-6 border border-gray-800">
         <div className="flex items-center gap-4 mb-4">
-          <div className="w-20 h-20 rounded-full bg-gray-700 flex items-center justify-center text-3xl font-bold text-gray-400">
-            {player.ign.charAt(0).toUpperCase()}
-          </div>
+          {player.profile_image_url ? (
+            <img
+              src={player.profile_image_url}
+              alt={player.ign}
+              className="w-20 h-20 rounded-full bg-gray-700 object-cover"
+            />
+          ) : (
+            <div className="w-20 h-20 rounded-full bg-gray-700 flex items-center justify-center text-3xl font-bold text-gray-400">
+              {player.ign.charAt(0).toUpperCase()}
+            </div>
+          )}
           <div>
             <h1 className="text-3xl font-bold">{player.ign}</h1>
             {player.real_name_ja && (

@@ -12,6 +12,7 @@ type Player = {
   real_name_ja?: string | null;
   region?: string | null;
   role?: string | null;
+  profile_image_url?: string | null;
 };
 
 type Region = "APAC_N" | "APAC_S" | "NA" | "EMEA";
@@ -81,9 +82,17 @@ export function PlayerList({ players }: { players: Player[] }) {
             className="bg-gray-900 rounded-xl p-4 hover:bg-gray-800 transition-colors border border-gray-800 hover:border-gray-700"
           >
             <div className="flex items-center gap-3">
-              <div className="w-12 h-12 rounded-full bg-gray-700 flex items-center justify-center text-lg font-bold text-gray-400 shrink-0">
-                {player.ign.charAt(0).toUpperCase()}
-              </div>
+              {player.profile_image_url ? (
+                <img
+                  src={player.profile_image_url}
+                  alt={player.ign}
+                  className="w-12 h-12 rounded-full bg-gray-700 object-cover shrink-0"
+                />
+              ) : (
+                <div className="w-12 h-12 rounded-full bg-gray-700 flex items-center justify-center text-lg font-bold text-gray-400 shrink-0">
+                  {player.ign.charAt(0).toUpperCase()}
+                </div>
+              )}
               <div className="min-w-0">
                 <p className="font-bold text-white truncate">{player.ign}</p>
                 {player.real_name_ja && (
