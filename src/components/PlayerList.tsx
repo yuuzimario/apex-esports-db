@@ -4,6 +4,7 @@ import { useSearchParams, useRouter, usePathname } from "next/navigation";
 import { useTranslations } from "next-intl";
 import { Link } from "@/i18n/navigation";
 import { useCallback } from "react";
+import Image from "next/image";
 
 type Player = {
   id: string;
@@ -83,9 +84,11 @@ export function PlayerList({ players }: { players: Player[] }) {
           >
             <div className="flex items-center gap-3">
               {player.profile_image_url ? (
-                <img
+                <Image
                   src={player.profile_image_url}
                   alt={player.ign}
+                  width={48}
+                  height={48}
                   className="w-12 h-12 rounded-full bg-gray-700 object-cover shrink-0"
                 />
               ) : (

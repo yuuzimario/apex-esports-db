@@ -2,6 +2,7 @@ import { supabase } from "@/lib/supabase";
 import { getTranslations } from "next-intl/server";
 import { notFound } from "next/navigation";
 import { Link } from "@/i18n/navigation";
+import Image from "next/image";
 
 export async function generateMetadata({
   params,
@@ -56,9 +57,11 @@ export default async function PlayerDetailPage({
       <div className="bg-gray-900 rounded-xl p-6 mb-6 border border-gray-800">
         <div className="flex items-center gap-4 mb-4">
           {player.profile_image_url ? (
-            <img
+            <Image
               src={player.profile_image_url}
               alt={player.ign}
+              width={80}
+              height={80}
               className="w-20 h-20 rounded-full bg-gray-700 object-cover"
             />
           ) : (
