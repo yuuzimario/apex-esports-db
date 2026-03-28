@@ -73,6 +73,18 @@ EVENT_TYPE_MAP = {
     "BLGS Circuit": "community",
 }
 
+# LAN大会など全リージョン合同イベント → リージョン別に作らずスキップ
+# （既にALGS API / Liquipediaからグローバルデータとして登録済み）
+SKIP_EVENT_TYPES = {
+    "Year 5 Championship",
+    "Championship Group Stage",
+    "Midseason Playoffs",
+    "Last Chance Qualifier",
+    "ALGS Open",
+    "Pro League Playoffs - Split 1",
+    "Pro League Playoffs - Split 2",
+}
+
 
 def normalize_name(name):
     return "".join(c.lower() for c in name if c.isalnum())
@@ -315,6 +327,10 @@ def main():
 
             if not lb_id:
                 print(f"\n--- {et_name}: リーダーボードIDなし、スキップ ---")
+                continue
+
+            if et_name in SKIP_EVENT_TYPES:
+                print(f"\n--- {et_name}: グローバル大会、スキップ（別ソースで登録済み） ---")
                 continue
 
             events = et.get("events", [])
